@@ -695,7 +695,6 @@
         {
          "id": "e0023",
          "section": "main",
-         "type": "play",
          "segments": [
           {
            "text": "Vol.1",
@@ -1943,7 +1942,6 @@
         {
          "id": "e0054",
          "section": "main",
-         "type": "play",
          "segments": [
           {
            "text": "World",
@@ -3019,7 +3017,6 @@
           {
            "id": "e0088",
            "section": "main",
-           "type": "play",
            "segments": [
             {
              "text": "New Super Mario Bros. "
@@ -3040,7 +3037,6 @@
           {
            "id": "e0089",
            "section": "main",
-           "type": "play",
            "segments": [
             {
              "text": "Wii",
@@ -3120,7 +3116,6 @@
           {
            "id": "e0094",
            "section": "main",
-           "type": "play",
            "segments": [
             {
              "text": "Super Mario Galaxy "
@@ -3382,7 +3377,6 @@
         {
          "id": "e0116",
          "section": "main",
-         "type": "play",
          "segments": [
           {
            "text": "Gen 2  "
@@ -3411,7 +3405,6 @@
         {
          "id": "e0118",
          "section": "main",
-         "type": "play",
          "segments": [
           {
            "text": "Gen 4  "
@@ -3839,7 +3832,6 @@
         {
          "id": "e0134",
          "section": "main",
-         "type": "play",
          "segments": [
           {
            "text": "Sonic the Hedgehog  ("
@@ -5328,7 +5320,6 @@
           {
            "id": "e0170",
            "section": "main",
-           "type": "play",
            "segments": [
             {
              "text": "Tomb Raider 2013",
@@ -5549,7 +5540,6 @@
       {
        "id": "e0178",
        "section": "main",
-       "type": "play",
        "segments": [
         {
          "text": "War Thunder",

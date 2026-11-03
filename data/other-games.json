@@ -1333,18 +1333,6 @@
    "title": "2000-2010",
    "entries": [
     {
-     "id": "e0298",
-     "section": "main",
-     "type": "play",
-     "segments": [
-      {
-       "text": "Cave Story",
-       "url": "https://www.youtube.com/watch?v=IJNR2EpS0jw",
-       "mark": "played"
-      }
-     ]
-    },
-    {
      "id": "e0299",
      "section": "main",
      "type": "video",
@@ -1656,6 +1644,25 @@
       }
      ],
      "origin": "ppt:51"
+    },
+    {
+     "id": "n1a1a16f3551682",
+     "kind": "work",
+     "title": "Cave Story",
+     "status": "played",
+     "entries": [
+      {
+       "id": "e0298",
+       "section": "main",
+       "type": "other",
+       "segments": [
+        {
+         "text": "影片",
+         "url": "https://www.youtube.com/watch?v=IJNR2EpS0jw"
+        }
+       ]
+      }
+     ]
     }
    ],
    "origin": "ppt:51"
@@ -2077,17 +2084,6 @@
    "title": "2016-2020",
    "entries": [
     {
-     "id": "e0317",
-     "section": "main",
-     "type": "play",
-     "segments": [
-      {
-       "text": "The Long Dark",
-       "mark": "playing"
-      }
-     ]
-    },
-    {
      "id": "e0318",
      "section": "main",
      "type": "video",
@@ -2111,17 +2107,6 @@
       },
       {
        "text": ")"
-      }
-     ]
-    },
-    {
-     "id": "e0319",
-     "section": "main",
-     "type": "play",
-     "segments": [
-      {
-       "text": "斬妖行",
-       "mark": "played"
       }
      ]
     }
@@ -2357,6 +2342,18 @@
       }
      ],
      "origin": "ppt:53"
+    },
+    {
+     "id": "n1a1a16f3551vbw",
+     "kind": "work",
+     "title": "The Long Dark",
+     "status": "playing"
+    },
+    {
+     "id": "n1a1a16f3551fo7",
+     "kind": "work",
+     "title": "斬妖行",
+     "status": "played"
     }
    ],
    "origin": "ppt:53"
@@ -2366,63 +2363,6 @@
    "kind": "category",
    "title": "2021-2025",
    "entries": [
-    {
-     "id": "e0320",
-     "section": "main",
-     "type": "play",
-     "segments": [
-      {
-       "text": "Escape From Duckov",
-       "mark": "playing"
-      }
-     ]
-    },
-    {
-     "id": "e0321",
-     "section": "main",
-     "type": "play",
-     "segments": [
-      {
-       "text": "Sifu",
-       "mark": "dropped"
-      }
-     ]
-    },
-    {
-     "id": "e0322",
-     "section": "main",
-     "type": "play",
-     "segments": [
-      {
-       "text": "Age of War ("
-      },
-      {
-       "text": "補充",
-       "url": "https://www.bilibili.com/video/BV13M4y1j7kb/?spm_id_from=333.337.search-card.all.click"
-      },
-      {
-       "text": ") "
-      },
-      {
-       "text": "I ",
-       "mark": "played"
-      },
-      {
-       "text": ","
-      },
-      {
-       "text": " II ",
-       "mark": "played"
-      },
-      {
-       "text": ","
-      },
-      {
-       "text": " Army of Ages",
-       "mark": "played"
-      }
-     ]
-    },
     {
      "id": "e0323",
      "section": "main",
@@ -2446,28 +2386,6 @@
      ]
     },
     {
-     "id": "e0325",
-     "section": "main",
-     "type": "play",
-     "segments": [
-      {
-       "text": "Decision Legacy",
-       "mark": "playing"
-      }
-     ]
-    },
-    {
-     "id": "e0326",
-     "section": "main",
-     "type": "play",
-     "segments": [
-      {
-       "text": "Dad 'n Me",
-       "mark": "played"
-      }
-     ]
-    },
-    {
      "id": "e0327",
      "section": "main",
      "type": "other",
@@ -2484,17 +2402,6 @@
      "segments": [
       {
        "text": "Earth Taken"
-      }
-     ]
-    },
-    {
-     "id": "e0329",
-     "section": "main",
-     "type": "play",
-     "segments": [
-      {
-       "text": "Frozen Islands",
-       "mark": "played"
       }
      ]
     },
@@ -2525,50 +2432,6 @@
      "segments": [
       {
        "text": "Legend of the Void"
-      }
-     ]
-    },
-    {
-     "id": "e0333",
-     "section": "main",
-     "type": "play",
-     "segments": [
-      {
-       "text": "Mighty Knight",
-       "mark": "played"
-      }
-     ]
-    },
-    {
-     "id": "e0334",
-     "section": "main",
-     "type": "play",
-     "segments": [
-      {
-       "text": "Moto x3m",
-       "mark": "played"
-      }
-     ]
-    },
-    {
-     "id": "e0335",
-     "section": "main",
-     "type": "play",
-     "segments": [
-      {
-       "text": "Myth Wars",
-       "mark": "played"
-      }
-     ]
-    },
-    {
-     "id": "e0336",
-     "section": "main",
-     "type": "play",
-     "segments": [
-      {
-       "text": "Paladogs",
-       "mark": "played"
       }
      ]
     },
@@ -2613,17 +2476,6 @@
      ]
     },
     {
-     "id": "e0341",
-     "section": "main",
-     "type": "play",
-     "segments": [
-      {
-       "text": "The Last Stand - Union City",
-       "mark": "played"
-      }
-     ]
-    },
-    {
      "id": "e0342",
      "section": "main",
      "type": "other",
@@ -2632,20 +2484,119 @@
        "text": "Warfare 1944"
       }
      ]
-    },
-    {
-     "id": "e0343",
-     "section": "main",
-     "type": "play",
-     "segments": [
-      {
-       "text": "Wingmen",
-       "mark": "played"
-      }
-     ]
     }
    ],
-   "origin": "ppt:54"
+   "origin": "ppt:54",
+   "children": [
+    {
+     "id": "n1a1a16f3551vdg",
+     "kind": "work",
+     "title": "Escape From Duckov",
+     "status": "playing"
+    },
+    {
+     "id": "n1a1a16f35519tc",
+     "kind": "work",
+     "title": "Sifu",
+     "status": "dropped"
+    },
+    {
+     "id": "n1a1a16f3551je9",
+     "kind": "work",
+     "title": "Age of War",
+     "status": "played",
+     "entries": [
+      {
+       "id": "e0322",
+       "section": "main",
+       "segments": [
+        {
+         "text": "I",
+         "mark": "played"
+        },
+        {
+         "text": ", "
+        },
+        {
+         "text": "II",
+         "mark": "played"
+        },
+        {
+         "text": ", "
+        },
+        {
+         "text": "Army of Ages",
+         "mark": "played"
+        },
+        {
+         "text": "（"
+        },
+        {
+         "text": "補充",
+         "url": "https://www.bilibili.com/video/BV13M4y1j7kb/?spm_id_from=333.337.search-card.all.click"
+        },
+        {
+         "text": "）"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "n1a1a16f3551ght",
+     "kind": "work",
+     "title": "Decision Legacy",
+     "status": "playing"
+    },
+    {
+     "id": "n1a1a16f35513t8",
+     "kind": "work",
+     "title": "Dad 'n Me",
+     "status": "played"
+    },
+    {
+     "id": "n1a1a16f3551krd",
+     "kind": "work",
+     "title": "Frozen Islands",
+     "status": "played"
+    },
+    {
+     "id": "n1a1a16f3551fka",
+     "kind": "work",
+     "title": "Mighty Knight",
+     "status": "played"
+    },
+    {
+     "id": "n1a1a16f3551vdc",
+     "kind": "work",
+     "title": "Moto x3m",
+     "status": "played"
+    },
+    {
+     "id": "n1a1a16f35517zz",
+     "kind": "work",
+     "title": "Myth Wars",
+     "status": "played"
+    },
+    {
+     "id": "n1a1a16f3551m05",
+     "kind": "work",
+     "title": "Paladogs",
+     "status": "played"
+    },
+    {
+     "id": "n1a1a16f3551r5i",
+     "kind": "work",
+     "title": "The Last Stand - Union City",
+     "status": "played"
+    },
+    {
+     "id": "n1a1a16f355119r",
+     "kind": "work",
+     "title": "Wingmen",
+     "status": "played"
+    }
+   ]
   }
  ]
 }

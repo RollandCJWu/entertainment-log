@@ -13,7 +13,7 @@ const SECTIONS = [
 const FILES = { channels: 'data/channels.json', review: 'data/review.json' };
 
 export const TYPE_LABEL = {
-  play: '親自遊玩', video: '影片', lore: '劇情解說', music: '音樂', anime: '動畫', reading: '小說/漫畫',
+  video: '影片', lore: '劇情解說', music: '音樂', anime: '動畫', reading: '小說/漫畫',
   evolution: '系列演進', compare: '版本比較', trivia: '雜談', reference: '資料', other: '其他',
 };
 export const KIND_LABEL = {
@@ -21,6 +21,14 @@ export const KIND_LABEL = {
 };
 export const STATUS_LABEL = { played: '已玩過', playing: '遊玩中', dropped: '退坑' };
 export const SOURCE_LABEL = { 'light-novel': '輕小說原作', manga: '漫畫原作', game: '遊戲原作', original: '原創' };
+// 沒有 type 的紀錄是遊玩紀錄：類型欄顯示文字上的遊玩標記
+const PLAY_MARKS = ['playing', 'played', 'dropped'];
+export function entryLabel(e) {
+  if (e.type) return TYPE_LABEL[e.type] || e.type;
+  const marks = new Set(e.segments.map((s) => s.mark));
+  const m = PLAY_MARKS.find((k) => marks.has(k));
+  return m ? STATUS_LABEL[m] : '';
+}
 const MARK_COLOR = {
   video: 'var(--m-video)', music: 'var(--m-music)', anime: 'var(--m-anime)',
   played: 'var(--m-played)', playing: 'var(--m-playing)', dropped: 'var(--m-dropped)',
@@ -240,8 +248,14 @@ function renderTree(filter = '') {
 
 // ------------------------------------------------------------------ views
 function viewHome() {
+  // 遊玩中：項目本身的狀態，加上紀錄文字裡標記為遊玩中的（例如系列裡的某一代）
   const playing = [];
-  for (const { node } of state.idx.values()) if (node.status === 'playing') playing.push(node);
+  for (const { node } of state.idx.values()) {
+    if (node.status === 'playing') playing.push({ id: node.id, title: node.title });
+    for (const e of node.entries || []) for (const s of e.segments) {
+      if (s.mark === 'playing') playing.push({ id: node.id, title: s.text.trim(), ctx: node.title });
+    }
+  }
   const tot = { nodes: state.idx.size, links: 0 };
   for (const s of SECTIONS) for (const n of state.sections[s.id].nodes) tot.links += markCounts(n).links;
   return `
@@ -254,7 +268,7 @@ function viewHome() {
       sec.nodes.forEach((x) => { n += markCounts(x).nodes; });
       return `<a class="card section-card" href="#/s/${s.id}"><h3>${esc(sec.title)}</h3><p>${esc(s.desc)}・${n} 項</p></a>`;
     }).join('')}</div>
-    ${playing.length ? `<div class="block"><h2>遊玩中</h2><div class="filters">${playing.map((n) => `<a class="tag st-playing" href="#/n/${n.id}">${esc(n.title)}</a>`).join('')}</div></div>` : ''}
+    ${playing.length ? `<div class="block"><h2>遊玩中</h2><div class="filters">${playing.map((p) => `<a class="tag st-playing" href="#/n/${p.id}">${esc(p.title)}${p.ctx && p.ctx !== p.title ? `<small>（${esc(p.ctx)}）</small>` : ''}</a>`).join('')}</div></div>` : ''}
     <div class="legend">${Object.entries(MARK_LABEL).map(([k, v]) => `<span><span class="dot" style="background:${MARK_COLOR[k]}"></span>${k === 'video' ? '看過影片' : k === 'music' ? '聽過音樂' : k === 'anime' ? '看過動畫' : v}</span>`).join('')}
       <span><span class="badge pl">合集</span>播放清單</span><span><span class="badge ch">舞</span>舞秋風</span></div>`;
 }
@@ -279,7 +293,7 @@ function kidsHtml(nodes) {
 
 function entriesHtml(list) {
   return `<ul class="entries">${list.map((e) => `<li class="entry">
-      <span class="etype">${esc(TYPE_LABEL[e.type] || e.type || '')}</span>
+      <span class="etype">${esc(entryLabel(e))}</span>
       <div class="etext">${segsHtml(e.segments)}${(e.notes || []).map((t) => `<span class="enote">${esc(t)}</span>`).join('')}</div>
     </li>`).join('')}</ul>`;
 }
@@ -371,7 +385,7 @@ function viewSearch() {
       <div class="result-head"><a href="#/n/${r.node.id}">${highlight(esc(r.node.title), f.q)}</a>
         <span class="path">・${esc(state.sections[r.section].title)}${r.path.length > 1 ? ' › ' + r.path.slice(0, -1).map((x) => esc(x.title)).join(' › ') : ''}</span>
         ${r.node.status ? ` <span class="tag st-${r.node.status}">${STATUS_LABEL[r.node.status]}</span>` : ''}</div>
-      ${r.es.length ? `<ul class="entries">${r.es.map((e) => `<li class="entry"><span class="etype">${esc(TYPE_LABEL[e.type] || '')}</span><div class="etext">${segsHtml(e.segments, f.q)}</div></li>`).join('')}</ul>` : '<div style="height:10px"></div>'}
+      ${r.es.length ? `<ul class="entries">${r.es.map((e) => `<li class="entry"><span class="etype">${esc(entryLabel(e))}</span><div class="etext">${segsHtml(e.segments, f.q)}</div></li>`).join('')}</ul>` : '<div style="height:10px"></div>'}
     </div>`).join('') : '<p class="empty">沒有符合的結果。</p>';
   return `<h1 class="title">${f.q ? `搜尋「${esc(f.q)}」` : '篩選'}</h1>
     <div class="meta-row">${results.length} 個項目・${count} 筆</div>
@@ -396,7 +410,7 @@ function viewStats() {
       if (y) { const d = `${Math.floor(y / 10) * 10}s`; byDecade[d] = (byDecade[d] || 0) + 1; }
     }
     const segs = [...(node.links || []), ...(node.entries || []).flatMap((e) => e.segments)];
-    for (const e of node.entries || []) { c.entries += 1; byType[e.type] = (byType[e.type] || 0) + 1; }
+    for (const e of node.entries || []) { c.entries += 1; const t = e.type || 'play'; byType[t] = (byType[t] || 0) + 1; }
     for (const s of segs) {
       if (s.url) { c.links += 1; const st = siteOf(s.url); bySite[st] = (bySite[st] || 0) + 1; }
       if (s.mark) c[s.mark] += 1;
@@ -408,7 +422,7 @@ function viewStats() {
   const bars = (obj, labels = {}, hrefFn = null, limit = 12) => {
     const rows = Object.entries(obj).sort((a, b) => b[1] - a[1]).slice(0, limit);
     const max = Math.max(1, ...rows.map((r) => r[1]));
-    return `<div class="card bars">${rows.map(([k, v]) => `<div class="row"><span>${hrefFn ? `<a href="${hrefFn(k)}">${esc(labels[k] || k)}</a>` : esc(labels[k] || k)}</span><div class="track"><div class="fill" style="width:${(v / max) * 100}%"></div></div><span class="num">${v}</span></div>`).join('') || '<p class="empty">尚無資料</p>'}</div>`;
+    return `<div class="card bars">${rows.map(([k, v]) => `<div class="row"><span>${hrefFn && hrefFn(k) ? `<a href="${hrefFn(k)}">${esc(labels[k] || k)}</a>` : esc(labels[k] || k)}</span><div class="track"><div class="fill" style="width:${(v / max) * 100}%"></div></div><span class="num">${v}</span></div>`).join('') || '<p class="empty">尚無資料</p>'}</div>`;
   };
   const secLabels = Object.fromEntries(SECTIONS.map((s) => [s.id, state.sections[s.id].title]));
   return `<h1 class="title">統計</h1>
@@ -419,7 +433,7 @@ function viewStats() {
       ${tile(c.mai, '舞秋風影片', queryHash({ m: 'mai' }))}${tile(c.unmarked, '未標記的影片連結', queryHash({ m: 'unmarked' }))}
     </div>
     <div class="stat-grid">
-      <div class="block"><h2>紀錄類型</h2>${bars(byType, TYPE_LABEL, (k) => queryHash({ t: k }))}</div>
+      <div class="block"><h2>紀錄類型</h2>${bars(byType, { ...TYPE_LABEL, play: '遊玩' }, (k) => (k === 'play' ? null : queryHash({ t: k })))}</div>
       <div class="block"><h2>連結來源網站</h2>${bars(bySite)}</div>
       <div class="block"><h2>各區項目數</h2>${bars(bySection, secLabels, (k) => `#/s/${k}`)}</div>
       <div class="block"><h2>動漫原作媒介</h2>${bars(bySource, SOURCE_LABEL)}</div>

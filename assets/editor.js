@@ -129,7 +129,7 @@ const SECTION_LABEL = { main: '紀錄', music: '音樂' };
 function entryRow(e = { id: newId('e'), section: 'main', type: 'video', segments: [] }) {
   return `<div class="e-edit" data-eid="${esc(e.id)}">
     ${select('section', SECTION_LABEL, e.section || 'main')}
-    ${select('type', TYPE_LABEL, e.type || 'other')}
+    ${select('type', TYPE_LABEL, e.type || '', '遊玩（依標記）')}
     <div class="e-text">
       <textarea name="markup" rows="2" aria-label="內容">${esc(segsToMarkup(e.segments))}</textarea>
       <textarea name="notes" rows="1" aria-label="備註" placeholder="備註（每行一則，可留空）">${esc((e.notes || []).join('\n'))}</textarea>
@@ -267,7 +267,9 @@ export function bindNodeEditor(id) {
       if (!md) return;
       const old = (n.entries || []).find((x) => x.id === row.dataset.eid) || {};
       const notes = row.querySelector('[name=notes]').value.split('\n').map((x) => x.trim()).filter(Boolean);
-      const ent = { ...old, id: row.dataset.eid, section: row.querySelector('[name=section]').value, type: row.querySelector('[name=type]').value, segments: segs };
+      const type = row.querySelector('[name=type]').value;
+      const ent = { ...old, id: row.dataset.eid, section: row.querySelector('[name=section]').value, type, segments: segs };
+      if (!type) delete ent.type;
       if (notes.length) ent.notes = notes; else delete ent.notes;
       entries.push(ent);
     });

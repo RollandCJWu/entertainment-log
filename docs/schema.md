@@ -60,7 +60,7 @@
 | 欄位 | 說明 |
 |---|---|
 | `section` | `main` 一般紀錄、`music` 音樂／OST（對應 PPT 中分隔線下方的區塊） |
-| `type` | `play` 親自遊玩、`video` 影片（實況、全流程）、`lore` 劇情解說、`music` 音樂、`anime` 動畫、`reading` 小說／漫畫、`evolution` 系列演進（Evo.）、`compare` 版本比較（Ver. Compare）、`trivia` 雜談、`reference` 資料（Wiki、資料庫）、`other` 其他 |
+| `type` | 選填。省略表示遊玩紀錄（類型欄顯示文字上的 `played`／`playing`／`dropped` 標記）。其餘：`video` 影片（實況、全流程）、`lore` 劇情解說、`music` 音樂、`anime` 動畫、`reading` 小說／漫畫、`evolution` 系列演進（Evo.）、`compare` 版本比較（Ver. Compare）、`trivia` 雜談、`reference` 資料（Wiki、資料庫）、`other` 其他 |
 | `segments` | 這筆紀錄的內容，由多段文字和連結組成 |
 | `notes` | 選填，備註（例如「巴哈含第 24.5 集總集篇」） |
 
