@@ -1,0 +1,166 @@
+{
+ "version": 1,
+ "items": [
+  {
+   "slide": 6,
+   "node": "n0041",
+   "issue": "子公司「DICE LA」已放在「EA」底下，請確認歸屬",
+   "id": "r0001"
+  },
+  {
+   "slide": 6,
+   "node": "n0042",
+   "issue": "子公司「Maxis」已放在「EA」底下，請確認歸屬",
+   "id": "r0002"
+  },
+  {
+   "slide": 6,
+   "node": "n0043",
+   "issue": "子公司「WestWood」已放在「EA」底下，請確認歸屬",
+   "id": "r0003"
+  },
+  {
+   "slide": 12,
+   "node": "n0061",
+   "issue": "第 12 頁（或其中一欄）沒有標題，判斷為「女神轉生系列 世界觀解析」的延續，請確認",
+   "id": "r0004"
+  },
+  {
+   "slide": 15,
+   "node": "n0078",
+   "issue": "標題列含多個連結，可能其實是內容而非分類",
+   "text": "*Okami (舞)、*Okamiden",
+   "id": "r0005"
+  },
+  {
+   "slide": 17,
+   "node": "n0082",
+   "issue": "第 17 頁由多家公司共用，「Shadow of the Colossus」已歸到「Japan Studio」，請確認",
+   "id": "r0006"
+  },
+  {
+   "slide": 23,
+   "node": "n0102",
+   "issue": "大括號 { } 未成對，拆分可能有誤",
+   "text": "{ Mario Bros (1985) }、{ Mario The Lost Levels,",
+   "id": "r0007"
+  },
+  {
+   "slide": 25,
+   "node": "n0100",
+   "issue": "第 25 頁（或其中一欄）沒有標題，判斷為「Mario」的延續，請確認",
+   "id": "r0008"
+  },
+  {
+   "slide": 31,
+   "node": "n0123",
+   "issue": "子公司「Relic Entertainment」已放在「Sega」底下，請確認歸屬",
+   "id": "r0009"
+  },
+  {
+   "slide": 35,
+   "node": "n0139",
+   "issue": "第 35 頁（或其中一欄）沒有標題，判斷為「Final Fantasy VI」的延續，請確認",
+   "id": "r0010"
+  },
+  {
+   "slide": 41,
+   "node": "n0161",
+   "issue": "第 41 頁（或其中一欄）沒有標題，判斷為「My Gameplay」的延續，請確認",
+   "id": "r0011"
+  },
+  {
+   "slide": 43,
+   "node": "n0033",
+   "issue": "第 43 頁由多家公司共用，「明日方舟」已歸到「鷹角網路」，請確認",
+   "id": "r0012"
+  },
+  {
+   "slide": 44,
+   "node": "n0167",
+   "issue": "第 44 頁（或其中一欄）沒有標題，判斷為「明日方舟」的延續，請確認",
+   "id": "r0013"
+  },
+  {
+   "slide": 51,
+   "node": "n0210",
+   "issue": "大括號 { } 未成對，拆分可能有誤",
+   "text": "Angry Birds Classic { *Tutorial、*Poached Eggs、*Mighty Hoax、*Danger Above、*The Big Setup、*Ham'Em High、*Mine and Dine、*Birdday Party、*Birdday 5、*Birdday Party 7、*Surf and Turf、*Bad Piggies、*Red's Mighty Feathers、*Short Fuse、*Flock Flavorites、*Bird Island、*Piggy Farm、*Jurassic Park、*Golden Eggs、",
+   "id": "r0014"
+  },
+  {
+   "slide": 53,
+   "node": "n0227",
+   "issue": "標題列含多個連結，可能其實是內容而非分類",
+   "text": "--Wiki (OST, 100% File Select, Her Spaceship.)--",
+   "id": "r0015"
+  },
+  {
+   "slide": 53,
+   "node": "n0230",
+   "issue": "標題列含多個連結，可能其實是內容而非分類",
+   "text": "--Wiki OST, B-Sides, Farewell.--",
+   "id": "r0016"
+  },
+  {
+   "slide": 59,
+   "node": "n0237",
+   "issue": "第 59 頁開頭沒有作品標題的內容，已接到「刀劍神域」，請確認",
+   "id": "r0017"
+  },
+  {
+   "slide": 60,
+   "node": "n0239",
+   "issue": "第 60 頁開頭沒有作品標題的內容，已接到「為美好的世界獻上祝福！」，請確認",
+   "id": "r0018"
+  },
+  {
+   "slide": 61,
+   "node": "n0240",
+   "issue": "第 61 頁開頭沒有作品標題的內容，已接到「約會大作戰」，請確認",
+   "id": "r0019"
+  },
+  {
+   "slide": 16,
+   "node": "n0081",
+   "issue": "空節點（沒有內容），可能是預留的分類或轉換遺漏",
+   "text": "Ys",
+   "id": "r0020"
+  },
+  {
+   "slide": 22,
+   "node": "n0098",
+   "issue": "空節點（沒有內容），可能是預留的分類或轉換遺漏",
+   "text": "Fire Emblem",
+   "id": "r0021"
+  },
+  {
+   "slide": 37,
+   "node": "n0148",
+   "issue": "空節點（沒有內容），可能是預留的分類或轉換遺漏",
+   "text": "2nd Series",
+   "id": "r0022"
+  },
+  {
+   "slide": 40,
+   "node": "n0159",
+   "issue": "空節點（沒有內容），可能是預留的分類或轉換遺漏",
+   "text": "Visit or Video Playthrough",
+   "id": "r0023"
+  },
+  {
+   "slide": 68,
+   "node": "n0256",
+   "issue": "空節點（沒有內容），可能是預留的分類或轉換遺漏",
+   "text": "哆啦A夢",
+   "id": "r0024"
+  },
+  {
+   "slide": 69,
+   "node": "n0257",
+   "issue": "空節點（沒有內容），可能是預留的分類或轉換遺漏",
+   "text": "名偵探柯南",
+   "id": "r0025"
+  }
+ ]
+}

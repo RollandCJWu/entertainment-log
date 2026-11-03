@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>娛樂紀錄</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23243447'/%3E%3Cpath d='M9 11h14M9 16h10M9 21h12' stroke='%2367AABF' stroke-width='3' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<div id="lock" class="lock" hidden>
+  <form id="lock-form" class="lock-card" autocomplete="off">
+    <div class="lock-mark" aria-hidden="true"></div>
+    <h1>娛樂紀錄</h1>
+    <p>請輸入密碼</p>
+    <input id="lock-input" type="password" inputmode="text" aria-label="密碼" autofocus>
+    <button type="submit">進入</button>
+    <p id="lock-err" class="lock-err" hidden>密碼不正確</p>
+  </form>
+</div>
+
+<div id="app" class="app" hidden>
+  <header class="topbar">
+    <button id="nav-toggle" class="icon-btn only-mobile" aria-label="開啟目錄">☰</button>
+    <a href="#/" class="brand">娛樂紀錄</a>
+    <form id="search-form" class="search" role="search">
+      <input id="search-input" type="search" placeholder="搜尋作品、連結、備註…" aria-label="搜尋">
+    </form>
+    <nav class="toplinks">
+      <a href="#/stats">統計</a>
+      <a href="#/channels">頻道</a>
+      <a href="#/review">待確認<span id="review-count" class="count"></span></a>
+    </nav>
+    <button id="edit-toggle" class="pill-btn" aria-pressed="false">編輯</button>
+  </header>
+  <div id="pending-bar" class="pending-bar" hidden>
+    <span id="pending-text"></span>
+    <button id="pending-commit" class="pill-btn primary">提交到 GitHub</button>
+    <button id="pending-download" class="pill-btn">下載 JSON</button>
+    <button id="pending-discard" class="pill-btn danger">放棄變更</button>
+  </div>
+  <div class="layout">
+    <aside id="sidebar" class="sidebar">
+      <input id="tree-filter" class="tree-filter" type="search" placeholder="篩選目錄" aria-label="篩選目錄">
+      <nav id="tree" class="tree"></nav>
+    </aside>
+    <div id="scrim" class="scrim" hidden></div>
+    <main id="main" class="main" tabindex="-1"></main>
+  </div>
+</div>
+
+<dialog id="dialog" class="dialog"></dialog>
+<script type="module" src="assets/app.js"></script>
+</body>
+</html>

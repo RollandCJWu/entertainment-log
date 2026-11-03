@@ -1,0 +1,246 @@
+{
+ "version": 1,
+ "channels": [
+  {
+   "id": "c-mai",
+   "name": "舞秋風",
+   "url": "",
+   "category": "實況主",
+   "platform": "youtube",
+   "subscribed": true,
+   "note": "第一位關注的實況主；紀錄中以 channel=\"舞秋風\" 標註他的影片"
+  },
+  {
+   "id": "c0001",
+   "name": "亚食人",
+   "url": "https://space.bilibili.com/80304",
+   "category": "遊戲雜談與評測",
+   "platform": "bilibili",
+   "subscribed": false
+  },
+  {
+   "id": "c0002",
+   "name": "番茄酱要洒辣椒粉",
+   "url": "https://space.bilibili.com/4955151?spm_id_from=333.337.search-card.all.click",
+   "category": "遊戲雜談與評測",
+   "platform": "bilibili",
+   "subscribed": false
+  },
+  {
+   "id": "c0003",
+   "name": "悠闲的蚊子",
+   "url": "https://space.bilibili.com/48394160?spm_id_from=333.337.search-card.all.click",
+   "category": "遊戲雜談與評測",
+   "platform": "bilibili",
+   "subscribed": false
+  },
+  {
+   "id": "c0004",
+   "name": "当年沧海",
+   "url": "https://space.bilibili.com/11110699?spm_id_from=333.337.0.0",
+   "category": "遊戲雜談與評測",
+   "platform": "bilibili",
+   "subscribed": false
+  },
+  {
+   "id": "c0005",
+   "name": "骚橙",
+   "url": "https://space.bilibili.com/1876542",
+   "category": "米哈遊相關",
+   "platform": "bilibili",
+   "subscribed": false
+  },
+  {
+   "id": "c0006",
+   "name": "写书的王紫",
+   "url": "https://space.bilibili.com/1781581154",
+   "category": "米哈遊相關",
+   "platform": "bilibili",
+   "subscribed": false
+  },
+  {
+   "id": "c0007",
+   "name": "归塘鲤",
+   "url": "https://space.bilibili.com/3546715097401521?spm_id_from=333.337.search-card.all.click",
+   "category": "米哈遊相關",
+   "platform": "bilibili",
+   "subscribed": false
+  },
+  {
+   "id": "c0008",
+   "name": "唐羽商聊音乐",
+   "url": "https://space.bilibili.com/6796452?spm_id_from=333.337.0.0",
+   "category": "米哈遊相關",
+   "platform": "bilibili",
+   "subscribed": false
+  },
+  {
+   "id": "c0009",
+   "name": "星币谷地",
+   "url": "https://space.bilibili.com/1486962974?spm_id_from=333.337.0.0",
+   "category": "米哈遊相關",
+   "platform": "bilibili",
+   "subscribed": false
+  },
+  {
+   "id": "c0010",
+   "name": "音樂家的無聊人生",
+   "url": "https://www.youtube.com/@musicianseacow",
+   "category": "科普",
+   "platform": "youtube",
+   "subscribed": false
+  },
+  {
+   "id": "c0011",
+   "name": "青蛙刀圣",
+   "url": "https://space.bilibili.com/17588331?spm_id_from=333.337.search-card.all.click",
+   "category": "科普",
+   "platform": "bilibili",
+   "subscribed": false
+  },
+  {
+   "id": "c0012",
+   "name": "南瓜面条Na",
+   "url": "https://space.bilibili.com/27442706?spm_id_from=333.337.0.0",
+   "category": "遊戲娛樂",
+   "platform": "bilibili",
+   "subscribed": false
+  },
+  {
+   "id": "c0013",
+   "name": "京桥刹那",
+   "url": "https://space.bilibili.com/287291651",
+   "category": "遊戲娛樂",
+   "platform": "bilibili",
+   "subscribed": false
+  },
+  {
+   "id": "c0014",
+   "name": "蠢蠢",
+   "url": "https://www.youtube.com/channel/UCJMjp_3XLlQJg6pPfuD4L1Q",
+   "category": "遊戲娛樂",
+   "platform": "youtube",
+   "subscribed": false
+  },
+  {
+   "id": "c0015",
+   "name": "苏神",
+   "url": "https://www.youtube.com/channel/UC5Olx7AMymHjNvjxmbkq93A",
+   "category": "遊戲娛樂",
+   "platform": "youtube",
+   "subscribed": false
+  },
+  {
+   "id": "c0016",
+   "name": "紅月",
+   "url": "https://www.youtube.com/@MoonRed",
+   "category": "遊戲娛樂",
+   "platform": "youtube",
+   "subscribed": false
+  },
+  {
+   "id": "c0017",
+   "name": "電影邏輯",
+   "url": "https://www.youtube.com/@MovieLuoji",
+   "category": "其他",
+   "platform": "youtube",
+   "subscribed": false
+  },
+  {
+   "id": "c0018",
+   "name": "中楠先生胡言乱语",
+   "url": "https://space.bilibili.com/35095918?spm_id_from=333.337.search-card.all.click",
+   "category": "其他",
+   "platform": "bilibili",
+   "subscribed": false
+  },
+  {
+   "id": "c0019",
+   "name": "细细的蓝线",
+   "url": "https://space.bilibili.com/387087511?spm_id_from=333.337.search-card.all.click",
+   "category": "其他",
+   "platform": "bilibili",
+   "subscribed": false
+  },
+  {
+   "id": "c0020",
+   "name": "錫蘭",
+   "url": "https://www.youtube.com/user/CeylanLC",
+   "category": "其他",
+   "platform": "youtube",
+   "subscribed": false
+  },
+  {
+   "id": "c0021",
+   "name": "胡子",
+   "url": "https://www.youtube.com/@huzi1989",
+   "category": "其他",
+   "platform": "youtube",
+   "subscribed": false
+  },
+  {
+   "id": "c0022",
+   "name": "叉雞",
+   "url": "https://www.youtube.com/@bbqporkchicken",
+   "category": "其他",
+   "platform": "youtube",
+   "subscribed": false
+  },
+  {
+   "id": "c0023",
+   "name": "萌哒里安",
+   "url": "https://space.bilibili.com/3546567485164031?spm_id_from=333.337.search-card.all.click",
+   "category": "其他",
+   "platform": "bilibili",
+   "subscribed": false
+  },
+  {
+   "id": "c0024",
+   "name": "三更研究所",
+   "url": "https://space.bilibili.com/78504036?spm_id_from=333.337.0.0",
+   "category": "其他",
+   "platform": "bilibili",
+   "subscribed": false
+  },
+  {
+   "id": "c0025",
+   "name": "Epic Music World",
+   "url": "https://www.youtube.com/channel/UC9ImTi0cbFHs7PQ4l2jGO1g",
+   "category": "音樂",
+   "platform": "youtube",
+   "subscribed": false
+  },
+  {
+   "id": "c0026",
+   "name": "The soul of wind",
+   "url": "https://www.youtube.com/channel/UCUZNK80DemBN3kyxusDLwrA",
+   "category": "音樂",
+   "platform": "youtube",
+   "subscribed": false
+  },
+  {
+   "id": "c0027",
+   "name": "MrEpicOSTs",
+   "url": "https://www.youtube.com/c/MrAnimeOSTs",
+   "category": "音樂",
+   "platform": "youtube",
+   "subscribed": false
+  },
+  {
+   "id": "c0028",
+   "name": "My Soul Your Beats",
+   "url": "https://www.youtube.com/channel/UC3uiVGgkoJM3X3-gb_qEaDQ",
+   "category": "音樂",
+   "platform": "youtube",
+   "subscribed": false
+  },
+  {
+   "id": "c0029",
+   "name": "BGM maker",
+   "url": "https://www.youtube.com/channel/UCtAFn7bhMVpavKo5IZ9FM6g",
+   "category": "音樂",
+   "platform": "youtube",
+   "subscribed": false
+  }
+ ]
+}

@@ -1,0 +1,6710 @@
+{
+ "version": 1,
+ "section": "games",
+ "title": "遊戲（依公司）",
+ "nodes": [
+  {
+   "id": "n0001",
+   "kind": "region",
+   "title": "USA",
+   "children": [
+    {
+     "id": "n0002",
+     "kind": "company",
+     "title": "Bungie",
+     "children": [
+      {
+       "id": "n0037",
+       "kind": "group",
+       "title": "Halo",
+       "entries": [
+        {
+         "id": "e0001",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "Halo Infinite",
+           "url": "https://www.halopedia.org/Music_of_Halo_Infinite"
+          },
+          {
+           "text": ": OST ("
+          },
+          {
+           "text": "Wiki",
+           "url": "https://www.halopedia.org/Halo_Infinite_Original_Soundtrack"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "vid.",
+           "url": "https://www.youtube.com/watch?v=fo9sOeRWVu4",
+           "mark": "music"
+          },
+          {
+           "text": ")"
+          }
+         ]
+        }
+       ],
+       "children": [
+        {
+         "id": "n0038",
+         "kind": "group",
+         "title": "Halo: Combat Evolved",
+         "links": [
+          {
+           "text": "Halo: Combat Evolved",
+           "url": "https://www.youtube.com/watch?v=lie_ysmcQV8",
+           "mark": "video"
+          }
+         ],
+         "origin": "ppt:3"
+        }
+       ],
+       "origin": "ppt:3"
+      }
+     ],
+     "origin": "ppt:1"
+    },
+    {
+     "id": "n0003",
+     "kind": "company",
+     "title": "Blizzard Entertainment",
+     "children": [
+      {
+       "id": "n0039",
+       "kind": "group",
+       "title": "Warcraft",
+       "entries": [
+        {
+         "id": "e0002",
+         "section": "main",
+         "type": "lore",
+         "segments": [
+          {
+           "text": "Orcs and Humans ("
+          },
+          {
+           "text": "Full Game",
+           "url": "https://www.youtube.com/playlist?list=PLyhQRRkqAkC44N7hinwbpno_DhLXnhANR",
+           "playlist": true
+          },
+          {
+           "text": ","
+          },
+          {
+           "text": "解說",
+           "url": "https://www.bilibili.com/video/BV1Xk4y1W7Sk/?spm_id_from=333.337.search-card.all.click"
+          },
+          {
+           "text": ")"
+          }
+         ]
+        },
+        {
+         "id": "e0003",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "OST "
+          },
+          {
+           "text": "1",
+           "url": "https://www.youtube.com/watch?v=OTZ8yh2dez0",
+           "mark": "music"
+          }
+         ]
+        }
+       ],
+       "origin": "ppt:4"
+      }
+     ],
+     "origin": "ppt:1"
+    },
+    {
+     "id": "n0004",
+     "kind": "company",
+     "title": "Bethesda Softworks",
+     "children": [
+      {
+       "id": "n0040",
+       "kind": "group",
+       "title": "The Elder Scrolls",
+       "entries": [
+        {
+         "id": "e0004",
+         "section": "main",
+         "type": "music",
+         "segments": [
+          {
+           "text": "Arena (解說"
+          },
+          {
+           "text": "上",
+           "url": "https://www.bilibili.com/video/BV1Bg411X7CK/?spm_id_from=333.337.search-card.all.click"
+          },
+          {
+           "text": ","
+          },
+          {
+           "text": "中",
+           "url": "https://www.bilibili.com/video/BV1aa411X7WC/?spm_id_from=333.788"
+          },
+          {
+           "text": ","
+          },
+          {
+           "text": "下",
+           "url": "https://www.bilibili.com/video/BV1vW4y1m7Ky/?spm_id_from=333.788"
+          },
+          {
+           "text": ") "
+          },
+          {
+           "text": "OST",
+           "url": "https://www.youtube.com/watch?v=We2Dwr4CZ4Q&list=RDWe2Dwr4CZ4Q&start_radio=1",
+           "mark": "music"
+          }
+         ]
+        }
+       ],
+       "origin": "ppt:5"
+      }
+     ],
+     "origin": "ppt:1"
+    },
+    {
+     "id": "n0005",
+     "kind": "company",
+     "title": "EA",
+     "children": [
+      {
+       "id": "n0041",
+       "kind": "company",
+       "title": "DICE LA",
+       "children": [
+        {
+         "id": "n0044",
+         "kind": "group",
+         "title": "Medal of Honor",
+         "entries": [
+          {
+           "id": "e0005",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "MoH",
+             "url": "https://www.youtube.com/watch?v=AEeAwjqTg1o"
+            }
+           ]
+          },
+          {
+           "id": "e0006",
+           "section": "music",
+           "type": "music",
+           "segments": [
+            {
+             "text": "MoH",
+             "url": "https://www.youtube.com/playlist?list=OLAK5uy_lof7DW0CSXDZZpxU__9jTFaqtljohi__M",
+             "mark": "music",
+             "playlist": true
+            }
+           ]
+          }
+         ],
+         "origin": "ppt:6"
+        }
+       ],
+       "subsidiary": true,
+       "origin": "ppt:6"
+      },
+      {
+       "id": "n0042",
+       "kind": "company",
+       "title": "Maxis",
+       "children": [
+        {
+         "id": "n0045",
+         "kind": "group",
+         "title": "Simcity (Evo. 1989-2014)",
+         "links": [
+          {
+           "text": "Simcity (Evo. 1989-2014)",
+           "url": "https://www.youtube.com/watch?v=Ho0obNDoAEY"
+          }
+         ],
+         "entries": [
+          {
+           "id": "e0007",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "Simcity 2013 "
+            },
+            {
+             "text": "舞秋風",
+             "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEju_tGSTAgIH4aLVq-fs6ny_",
+             "channel": "舞秋風"
+            }
+           ]
+          },
+          {
+           "id": "e0008",
+           "section": "music",
+           "type": "music",
+           "segments": [
+            {
+             "text": "Simcity 2013",
+             "url": "https://www.youtube.com/watch?v=5GCoc893Vt8&list=RD5GCoc893Vt8&start_radio=1",
+             "mark": "music"
+            }
+           ]
+          }
+         ],
+         "origin": "ppt:6"
+        }
+       ],
+       "subsidiary": true,
+       "origin": "ppt:6"
+      },
+      {
+       "id": "n0043",
+       "kind": "company",
+       "title": "WestWood",
+       "entries": [
+        {
+         "id": "e0009",
+         "section": "main",
+         "type": "lore",
+         "segments": [
+          {
+           "text": "Dune II",
+           "url": "https://www.youtube.com/watch?v=gOscXf0Fpmk"
+          },
+          {
+           "text": " ("
+          },
+          {
+           "text": "早期沙丘遊戲史",
+           "url": "https://www.bilibili.com/video/BV1BF411q7Nk/?spm_id_from=333.337.search-card.all.click"
+          },
+          {
+           "text": ")"
+          }
+         ]
+        }
+       ],
+       "children": [
+        {
+         "id": "n0046",
+         "kind": "group",
+         "title": "Others",
+         "entries": [
+          {
+           "id": "e0010",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "Warp",
+             "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjuQW4RL9LmVTRJ3x105SgRK",
+             "playlist": true,
+             "channel": "舞秋風"
+            }
+           ]
+          }
+         ],
+         "origin": "ppt:6"
+        }
+       ],
+       "subsidiary": true,
+       "origin": "ppt:6"
+      }
+     ],
+     "origin": "ppt:1"
+    },
+    {
+     "id": "n0006",
+     "kind": "company",
+     "title": "id Software",
+     "children": [
+      {
+       "id": "n0047",
+       "kind": "group",
+       "title": "Doom",
+       "entries": [
+        {
+         "id": "e0011",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "Doom 1993 (Remastered Gameplay "
+          },
+          {
+           "text": "Full",
+           "url": "https://www.youtube.com/watch?v=Q4GiCg_m8wA"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "Final Boss & Ending",
+           "url": "https://www.youtube.com/watch?v=rmqGOfuGKK0"
+          },
+          {
+           "text": "), "
+          },
+          {
+           "text": "Doom 2",
+           "url": "https://www.youtube.com/watch?v=HOTeZHhrCDg&pp=ygUXZG9vbSAyIGZ1bGwgd2Fsa3Rocm91Z2g%3D"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "Final Doom",
+           "url": "https://www.youtube.com/watch?v=ceuR5YFF_O0",
+           "mark": "video"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "Doom 64",
+           "url": "https://www.youtube.com/watch?v=jswXuV30e1k",
+           "mark": "video"
+          }
+         ]
+        },
+        {
+         "id": "e0012",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "Doom(2016)",
+           "url": "https://doomwiki.org/wiki/Doom_(Original_Game_Soundtrack)"
+          },
+          {
+           "text": ": "
+          },
+          {
+           "text": "vid.",
+           "url": "https://www.youtube.com/watch?v=Jm932Sqwf5E",
+           "mark": "music"
+          }
+         ]
+        },
+        {
+         "id": "e0013",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "Doom Eternal",
+           "url": "https://doomwiki.org/wiki/Doom_Eternal_soundtrack"
+          },
+          {
+           "text": ": "
+          },
+          {
+           "text": "vid.",
+           "url": "https://www.youtube.com/watch?v=TBWcG0gADS4",
+           "mark": "music"
+          }
+         ]
+        }
+       ],
+       "origin": "ppt:7"
+      },
+      {
+       "id": "n0048",
+       "kind": "group",
+       "title": "Wolfenstein",
+       "entries": [
+        {
+         "id": "e0014",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "Castle Wolfenstein",
+           "url": "https://www.youtube.com/watch?v=8fgok9eHqO8"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "Beyond Castle Wolfenstein",
+           "url": "https://www.youtube.com/watch?v=Bf7z8kjza2c&t=4s"
+          }
+         ]
+        },
+        {
+         "id": "e0015",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "Wolfenstein 3D",
+           "url": "https://www.youtube.com/watch?v=x8o0a5ntxfc&t=11s"
+          },
+          {
+           "text": " ("
+          },
+          {
+           "text": "Spear of Destiny",
+           "url": "https://www.youtube.com/watch?v=UXuftq-EiQM&pp=ygUQc3BlYXIgb2YgZGVzdGlueQ%3D%3D"
+          },
+          {
+           "text": ")"
+          }
+         ]
+        }
+       ],
+       "origin": "ppt:7"
+      }
+     ],
+     "origin": "ppt:1"
+    },
+    {
+     "id": "n0007",
+     "kind": "company",
+     "title": "Monolith Productions",
+     "children": [
+      {
+       "id": "n0049",
+       "kind": "group",
+       "title": "Blood (解說)",
+       "links": [
+        {
+         "text": "Blood ("
+        },
+        {
+         "text": "解說",
+         "url": "https://www.bilibili.com/video/BV137411975k/?spm_id_from=333.337.search-card.all.click"
+        },
+        {
+         "text": ")"
+        }
+       ],
+       "origin": "ppt:7"
+      },
+      {
+       "id": "n0050",
+       "kind": "group",
+       "title": "Middle Earth",
+       "entries": [
+        {
+         "id": "e0016",
+         "section": "main",
+         "type": "music",
+         "segments": [
+          {
+           "text": "Shadow of Mordor ",
+           "mark": "played"
+          },
+          {
+           "text": " "
+          },
+          {
+           "text": "OST",
+           "url": "https://www.youtube.com/watch?v=fitw4w59ovI",
+           "mark": "music"
+          }
+         ]
+        },
+        {
+         "id": "e0017",
+         "section": "main",
+         "type": "other",
+         "segments": [
+          {
+           "text": "Shadow of War"
+          }
+         ]
+        }
+       ],
+       "origin": "ppt:7"
+      }
+     ],
+     "origin": "ppt:1"
+    },
+    {
+     "id": "n0008",
+     "kind": "company",
+     "title": "Naughty Dog",
+     "children": [
+      {
+       "id": "n0051",
+       "kind": "group",
+       "title": "The Last of Us",
+       "entries": [
+        {
+         "id": "e0018",
+         "section": "main",
+         "type": "music",
+         "segments": [
+          {
+           "text": "The Last of Us 1",
+           "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjvP0emKj8Q4KqlBd9WBlOn2",
+           "playlist": true,
+           "channel": "舞秋風"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "OST",
+           "url": "https://www.youtube.com/watch?v=vXrXCvRpiDY&list=RDvXrXCvRpiDY&start_radio=1",
+           "mark": "music"
+          }
+         ]
+        }
+       ],
+       "origin": "ppt:8"
+      },
+      {
+       "id": "n0052",
+       "kind": "group",
+       "title": "Uncharted",
+       "entries": [
+        {
+         "id": "e0019",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "1. Drake’s Fortune  ("
+          },
+          {
+           "text": "舞秋風",
+           "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjvP6S1CcLKH9Iu78Qh1RJlf",
+           "playlist": true,
+           "channel": "舞秋風"
+          },
+          {
+           "text": ")、"
+          },
+          {
+           "text": "Walkthrough",
+           "url": "https://www.youtube.com/watch?v=Hv48CUSjC40"
+          },
+          {
+           "text": "、"
+          },
+          {
+           "text": "All Treasures",
+           "url": "https://www.youtube.com/watch?v=6Q2vQoCJucM"
+          },
+          {
+           "text": "、"
+          },
+          {
+           "text": "All Deaths",
+           "url": "https://www.youtube.com/watch?v=38nIzzj4yEA"
+          },
+          {
+           "text": "、"
+          },
+          {
+           "text": "All Melee",
+           "url": "https://www.youtube.com/watch?v=Uof-Dmb6jiM"
+          }
+         ]
+        },
+        {
+         "id": "e0020",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "UC1 ("
+          },
+          {
+           "text": "Vgmdb",
+           "url": "https://vgmdb.net/album/5655"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "vid.",
+           "url": "https://www.youtube.com/watch?v=oe-Aac14Ias",
+           "mark": "music"
+          },
+          {
+           "text": ")"
+          }
+         ]
+        }
+       ],
+       "origin": "ppt:8"
+      }
+     ],
+     "origin": "ppt:1"
+    },
+    {
+     "id": "n0009",
+     "kind": "company",
+     "title": "PopCap Games",
+     "children": [
+      {
+       "id": "n0053",
+       "kind": "group",
+       "title": "Insaniquarium",
+       "status": "played",
+       "origin": "ppt:9"
+      },
+      {
+       "id": "n0054",
+       "kind": "group",
+       "title": "Bookworm",
+       "entries": [
+        {
+         "id": "e0021",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "Bookworm",
+           "url": "https://www.youtube.com/watch?v=1wURJFp6rj8",
+           "mark": "video"
+          },
+          {
+           "text": " (Showcase)"
+          }
+         ]
+        },
+        {
+         "id": "e0022",
+         "section": "main",
+         "type": "other",
+         "segments": [
+          {
+           "text": "Bookworm Adventure"
+          }
+         ]
+        },
+        {
+         "id": "e0023",
+         "section": "main",
+         "type": "play",
+         "segments": [
+          {
+           "text": "Vol.1",
+           "url": "https://www.youtube.com/watch?v=2c3EHhoNWgM",
+           "mark": "video"
+          },
+          {
+           "text": "、"
+          },
+          {
+           "text": "Vol. 2",
+           "mark": "played"
+          }
+         ]
+        }
+       ],
+       "origin": "ppt:9"
+      },
+      {
+       "id": "n0055",
+       "kind": "group",
+       "title": "Feeding Frenzy 2, Heavy Weapon",
+       "status": "played",
+       "origin": "ppt:9"
+      },
+      {
+       "id": "n0056",
+       "kind": "group",
+       "title": "Plants VS. Zombies",
+       "children": [
+        {
+         "id": "n0057",
+         "kind": "group",
+         "title": "Plants VS. Zombie 1 (同人衍生作: 恐怖版)",
+         "status": "played",
+         "links": [
+          {
+           "text": "Plants VS. Zombie 1 ",
+           "mark": "played"
+          },
+          {
+           "text": "(同人衍生作: "
+          },
+          {
+           "text": "恐怖版",
+           "url": "https://www.bilibili.com/video/BV1Y4bi6aEQS/?spm_id_from=333.337.search-card.all.click",
+           "playlist": true
+          },
+          {
+           "text": ")"
+          }
+         ],
+         "origin": "ppt:9"
+        }
+       ],
+       "origin": "ppt:9"
+      },
+      {
+       "id": "n0058",
+       "kind": "group",
+       "title": "Rocket Mania Deluxe",
+       "status": "played",
+       "origin": "ppt:9"
+      },
+      {
+       "id": "n0059",
+       "kind": "group",
+       "title": "Zuma",
+       "entries": [
+        {
+         "id": "e0024",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "Heavy Weapon Deluxe",
+           "url": "https://www.bilibili.com/video/BV1DG4y1N7PY?spm_id_from=333.788.videopod.sections",
+           "mark": "music",
+           "playlist": true
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "Insaniquarium",
+           "url": "https://www.youtube.com/watch?v=4iGYOAZDVKw&list=RD4iGYOAZDVKw&start_radio=1",
+           "mark": "music"
+          },
+          {
+           "text": " (",
+           "mark": "music"
+          },
+          {
+           "text": "track.12",
+           "url": "https://downloads.khinsider.com/game-soundtracks/album/insaniquarium/12.%2520Insaniquarium%2520Arrangement.mp3",
+           "mark": "music"
+          },
+          {
+           "text": ")",
+           "mark": "music"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "PVZ1",
+           "url": "https://www.youtube.com/playlist?list=PLvLtQbVH1Nu59oBk-3K6uBw8WWMaxGQuB",
+           "mark": "music",
+           "playlist": true
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "Rocket Mania",
+           "url": "https://www.bilibili.com/video/BV1VL4y1j7rf/?spm_id_from=333.337.search-card.all.click",
+           "mark": "music",
+           "playlist": true
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "Zuma’s Revenge",
+           "url": "https://www.youtube.com/watch?v=WnzGcY_g7Uk",
+           "mark": "music"
+          }
+         ]
+        }
+       ],
+       "children": [
+        {
+         "id": "n0060",
+         "kind": "group",
+         "title": "Zuma’s Revenge",
+         "status": "played",
+         "origin": "ppt:9"
+        }
+       ],
+       "origin": "ppt:9"
+      }
+     ],
+     "origin": "ppt:1"
+    },
+    {
+     "id": "n0010",
+     "kind": "company",
+     "title": "Supergiant Games",
+     "entries": [
+      {
+       "id": "e0025",
+       "section": "main",
+       "type": "video",
+       "segments": [
+        {
+         "text": "Bastion",
+         "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjvpMMibdM0cCq1m62guui0U",
+         "playlist": true,
+         "channel": "舞秋風"
+        }
+       ]
+      }
+     ],
+     "origin": "ppt:1"
+    },
+    {
+     "id": "n0011",
+     "kind": "company",
+     "title": "Valve",
+     "entries": [
+      {
+       "id": "e0026",
+       "section": "main",
+       "type": "video",
+       "segments": [
+        {
+         "text": "Left 4 Dead "
+        },
+        {
+         "text": "1,2全流程",
+         "url": "https://www.bilibili.com/video/BV1dF411J7Hx/?spm_id_from=333.337.search-card.all.click",
+         "playlist": true
+        },
+        {
+         "text": " "
+        },
+        {
+         "text": "2",
+         "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjtP3FsHfNtRolBgt5xlJ3vT",
+         "playlist": true,
+         "channel": "舞秋風"
+        }
+       ]
+      }
+     ],
+     "origin": "ppt:1"
+    }
+   ],
+   "origin": "ppt:1"
+  },
+  {
+   "id": "n0012",
+   "kind": "region",
+   "title": "Japan",
+   "children": [
+    {
+     "id": "n0013",
+     "kind": "company",
+     "title": "Atlus",
+     "children": [
+      {
+       "id": "n0061",
+       "kind": "series",
+       "title": "女神轉生系列 世界觀解析",
+       "links": [
+        {
+         "text": "女神轉生系列 "
+        },
+        {
+         "text": "世界觀解析",
+         "url": "https://www.bilibili.com/video/BV1MD4y1c7fV?spm_id_from=333.788.videopod.sections"
+        }
+       ],
+       "entries": [
+        {
+         "id": "e0033",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "SMT "
+          },
+          {
+           "text": "I",
+           "url": "https://www.youtube.com/playlist?list=OLAK5uy_kxJDN_NWe5mCEWhaqL3dZ1n08mD5XZrs4"
+          },
+          {
+           "text": " "
+          },
+          {
+           "text": "II",
+           "url": "https://www.youtube.com/playlist?list=OLAK5uy_kp084HBDYgnfsq83kLByM-UF6kP0qLvvM"
+          },
+          {
+           "text": " "
+          },
+          {
+           "text": "if...",
+           "url": "https://www.youtube.com/playlist?list=OLAK5uy_kFu2t7MMRjs9EqgThct5WMD2NF_2BMTzU"
+          },
+          {
+           "text": " "
+          },
+          {
+           "text": "NINE",
+           "url": "https://www.youtube.com/playlist?list=OLAK5uy_mMEVuSIwUpe0D6_ZYgs5--rxHzJR3jhmY"
+          },
+          {
+           "text": " "
+          },
+          {
+           "text": "III Nocturne",
+           "url": "https://www.youtube.com/playlist?list=OLAK5uy_mfkGD6oZ0fhkzM3amx2Y7s49Lw6f12PqM"
+          },
+          {
+           "text": " "
+          },
+          {
+           "text": "IV",
+           "url": "https://www.youtube.com/playlist?list=OLAK5uy_lfKQUOnuXF83ukE0jQxjafpL3oYg35yJc"
+          }
+         ]
+        },
+        {
+         "id": "e0034",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "IV Apocolypse",
+           "url": "https://www.youtube.com/playlist?list=OLAK5uy_lfuF9Oyba2ESbVeayphK90nhttgSxQ41A"
+          },
+          {
+           "text": " "
+          },
+          {
+           "text": "V",
+           "url": "https://www.youtube.com/playlist?list=OLAK5uy_l8W0p5KqFSHnYlueZRq091XwdgzSDmVPI"
+          }
+         ]
+        }
+       ],
+       "children": [
+        {
+         "id": "n0062",
+         "kind": "group",
+         "title": "系列解說：舊約系列",
+         "entries": [
+          {
+           "id": "e0027",
+           "section": "main",
+           "type": "reading",
+           "segments": [
+            {
+             "text": "數位惡魔物語 女神轉生小說("
+            },
+            {
+             "text": "1",
+             "url": "https://www.bilibili.com/video/BV1Dq4y1c7nW?spm_id_from=333.788.videopod.sections"
+            },
+            {
+             "text": ","
+            },
+            {
+             "text": "2",
+             "url": "https://www.bilibili.com/video/BV1jR4y1T7KR?spm_id_from=333.788.videopod.sections"
+            },
+            {
+             "text": ","
+            },
+            {
+             "text": "3",
+             "url": "https://www.bilibili.com/video/BV1hT4y1D7GY?spm_id_from=333.788.videopod.sections"
+            },
+            {
+             "text": "),"
+            },
+            {
+             "text": "遊戲解說",
+             "url": "https://www.youtube.com/watch?v=49wr9OwvRhI"
+            },
+            {
+             "text": ","
+            },
+            {
+             "text": "舊約(合輯版)",
+             "url": "https://www.bilibili.com/video/BV1C541117rV/?spm_id_from=333.788.videopod.sections"
+            }
+           ]
+          }
+         ],
+         "origin": "ppt:11"
+        },
+        {
+         "id": "n0063",
+         "kind": "group",
+         "title": "系列解說：真女神轉生",
+         "entries": [
+          {
+           "id": "e0028",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "I",
+             "url": "https://www.bilibili.com/video/BV18T4y1B7Up?spm_id_from=333.788.videopod.sections"
+            },
+            {
+             "text": ", "
+            },
+            {
+             "text": "II",
+             "url": "https://www.bilibili.com/video/BV1BS4y1e7Zf?spm_id_from=333.788.videopod.sections"
+            },
+            {
+             "text": ", "
+            },
+            {
+             "text": "IF",
+             "url": "https://www.bilibili.com/video/BV1ce4y1d7U3?spm_id_from=333.788.videopod.sections"
+            },
+            {
+             "text": ", "
+            },
+            {
+             "text": "NINE",
+             "url": "https://www.youtube.com/watch?v=xagrqmJAfUM"
+            },
+            {
+             "text": ","
+            },
+            {
+             "text": "奇幻旅程",
+             "url": "https://www.bilibili.com/video/BV1AG411P7oc?spm_id_from=333.788.videopod.sections"
+            },
+            {
+             "text": ", "
+            },
+            {
+             "text": "IV",
+             "url": "https://www.youtube.com/watch?v=ZltxlPch-Ss"
+            },
+            {
+             "text": ", IV FINAL("
+            },
+            {
+             "text": "上",
+             "url": "https://www.bilibili.com/video/BV1424y1k71Y?spm_id_from=333.788.videopod.sections"
+            },
+            {
+             "text": ","
+            },
+            {
+             "text": "下",
+             "url": "https://www.bilibili.com/video/BV1FA411D7qD?spm_id_from=333.788.player.switch"
+            },
+            {
+             "text": "), "
+            },
+            {
+             "text": "III、V",
+             "url": "https://www.bilibili.com/video/BV1us4y1b7MF?spm_id_from=333.788.videopod.sections"
+            },
+            {
+             "text": ", "
+            },
+            {
+             "text": "V復仇",
+             "url": "https://www.bilibili.com/video/BV1oU411U72p?spm_id_from=333.788.videopod.sections"
+            }
+           ]
+          }
+         ],
+         "origin": "ppt:11"
+        },
+        {
+         "id": "n0064",
+         "kind": "group",
+         "title": "系列解說：惡魔召喚師",
+         "entries": [
+          {
+           "id": "e0029",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "惡魔召喚師",
+             "url": "https://www.bilibili.com/video/BV1MY4y1A7mS?spm_id_from=333.788.videopod.sections"
+            },
+            {
+             "text": ","
+            },
+            {
+             "text": "靈魂駭客1",
+             "url": "https://www.bilibili.com/video/BV11t4y1J7YC/?spm_id_from=333.788.videopod.sections"
+            },
+            {
+             "text": "、"
+            },
+            {
+             "text": "2",
+             "url": "https://www.bilibili.com/video/BV1cg411D7YQ?spm_id_from=333.788.player.switch"
+            }
+           ]
+          }
+         ],
+         "origin": "ppt:11"
+        },
+        {
+         "id": "n0065",
+         "kind": "group",
+         "title": "系列解說：最後的聖經",
+         "entries": [
+          {
+           "id": "e0030",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "最後的聖經系列",
+             "url": "https://www.bilibili.com/video/BV1Bs4y1E7Gr?spm_id_from=333.788.player.switch"
+            },
+            {
+             "text": ","
+            },
+            {
+             "text": "新約系列",
+             "url": "https://www.bilibili.com/video/BV18g4y1T7e2?spm_id_from=333.788.videopod.sections"
+            }
+           ]
+          }
+         ],
+         "origin": "ppt:11"
+        },
+        {
+         "id": "n0066",
+         "kind": "group",
+         "title": "系列解說：數位惡魔傳說",
+         "links": [
+          {
+           "text": "系列解說："
+          },
+          {
+           "text": "數位惡魔傳說",
+           "url": "https://www.bilibili.com/video/BV1Cg4y157Sw?spm_id_from=333.788.videopod.sections"
+          }
+         ],
+         "origin": "ppt:11"
+        },
+        {
+         "id": "n0067",
+         "kind": "group",
+         "title": "系列解說：惡魔倖存者(1,2)",
+         "links": [
+          {
+           "text": "系列解說：惡魔倖存者("
+          },
+          {
+           "text": "1",
+           "url": "https://www.bilibili.com/video/BV1mu41157FC?spm_id_from=333.788.videopod.sections"
+          },
+          {
+           "text": ","
+          },
+          {
+           "text": "2",
+           "url": "https://www.bilibili.com/video/BV1nu4y1p7tq?spm_id_from=333.788.videopod.sections"
+          },
+          {
+           "text": ")"
+          }
+         ],
+         "origin": "ppt:11"
+        },
+        {
+         "id": "n0068",
+         "kind": "group",
+         "title": "系列解說：女神異聞錄",
+         "links": [
+          {
+           "text": "系列解說",
+           "url": "https://www.bilibili.com/video/BV1yK411x7Vs/?spm_id_from=333.788.videopod.sections"
+          },
+          {
+           "text": "：女神異聞錄"
+          }
+         ],
+         "entries": [
+          {
+           "id": "e0031",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "I、II",
+             "url": "https://www.bilibili.com/video/BV1Dc411s79H?spm_id_from=333.788.player.switch"
+            },
+            {
+             "text": ",II"
+            },
+            {
+             "text": "罪",
+             "url": "https://www.bilibili.com/video/BV1n6421F7NR?spm_id_from=333.788.videopod.sections"
+            },
+            {
+             "text": "、"
+            },
+            {
+             "text": "罰",
+             "url": "https://www.bilibili.com/video/BV1Mr421x7jg?spm_id_from=333.788.videopod.sections"
+            },
+            {
+             "text": ",IV("
+            },
+            {
+             "text": "上",
+             "url": "https://www.bilibili.com/video/BV1wr421J7cH?spm_id_from=333.788.videopod.sections"
+            },
+            {
+             "text": ","
+            },
+            {
+             "text": "下",
+             "url": "https://www.bilibili.com/video/BV1eS421R7mn?spm_id_from=333.788.videopod.sections"
+            },
+            {
+             "text": ","
+            },
+            {
+             "text": "黃金",
+             "url": "https://www.bilibili.com/video/BV1Ez421i7y8?spm_id_from=333.788.videopod.sections"
+            },
+            {
+             "text": ")"
+            }
+           ]
+          },
+          {
+           "id": "e0032",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "其他："
+            },
+            {
+             "text": "偽典女神轉生",
+             "url": "https://www.bilibili.com/video/BV1CY4y197gN?spm_id_from=333.788.videopod.sections"
+            },
+            {
+             "text": ","
+            },
+            {
+             "text": "暗喻幻想",
+             "url": "https://www.bilibili.com/video/BV1hTyUYBEtP?spm_id_from=333.788.videopod.sections"
+            }
+           ]
+          }
+         ],
+         "origin": "ppt:11"
+        },
+        {
+         "id": "n0069",
+         "kind": "group",
+         "title": "Persona 3",
+         "entries": [
+          {
+           "id": "e0035",
+           "section": "main",
+           "type": "music",
+           "segments": [
+            {
+             "text": "OST Disc 1, Disc 2. ("
+            },
+            {
+             "text": "Wiki",
+             "url": "https://megamitensei.fandom.com/wiki/Persona_3_Original_Soundtrack"
+            },
+            {
+             "text": ", "
+            },
+            {
+             "text": "Spotify",
+             "url": "https://open.spotify.com/album/4yyExVOiwrE7TDZfxAGgki",
+             "mark": "music"
+            },
+            {
+             "text": ")"
+            }
+           ]
+          },
+          {
+           "id": "e0036",
+           "section": "main",
+           "type": "music",
+           "segments": [
+            {
+             "text": "FES OST ("
+            },
+            {
+             "text": "Wiki",
+             "url": "https://megamitensei.fandom.com/wiki/Persona_3_FES_Original_Soundtrack"
+            },
+            {
+             "text": ", "
+            },
+            {
+             "text": "vid.",
+             "url": "https://www.youtube.com/playlist?list=PL56A5E1518D100821",
+             "mark": "music"
+            },
+            {
+             "text": ")、Portable OST ("
+            },
+            {
+             "text": "Wiki",
+             "url": "https://megamitensei.fandom.com/wiki/Persona_3_Portable_Original_Soundtrack"
+            },
+            {
+             "text": ", "
+            },
+            {
+             "text": "vid.",
+             "url": "https://www.youtube.com/playlist?list=PL86609943E9325EBF",
+             "mark": "music"
+            },
+            {
+             "text": ")"
+            }
+           ]
+          }
+         ],
+         "origin": "ppt:12"
+        },
+        {
+         "id": "n0070",
+         "kind": "group",
+         "title": "Persona 4",
+         "entries": [
+          {
+           "id": "e0037",
+           "section": "main",
+           "type": "music",
+           "segments": [
+            {
+             "text": "OST Disc 1, Disc 2. ("
+            },
+            {
+             "text": "Wiki",
+             "url": "https://megamitensei.fandom.com/wiki/Persona_4_Original_Soundtrack"
+            },
+            {
+             "text": ", "
+            },
+            {
+             "text": "vid.",
+             "url": "https://www.youtube.com/playlist?list=PLBAF8C0CDA4778263",
+             "mark": "music"
+            },
+            {
+             "text": ")"
+            }
+           ]
+          },
+          {
+           "id": "e0038",
+           "section": "main",
+           "type": "music",
+           "segments": [
+            {
+             "text": "Golden OST ("
+            },
+            {
+             "text": "Wiki",
+             "url": "https://megamitensei.fandom.com/wiki/Persona_4_Golden_Original_Soundtrack"
+            },
+            {
+             "text": ", "
+            },
+            {
+             "text": "Spotify",
+             "url": "https://open.spotify.com/album/7qEqyrW2t0r5dE2KFaYiiV",
+             "mark": "music"
+            },
+            {
+             "text": ")"
+            }
+           ]
+          },
+          {
+           "id": "e0039",
+           "section": "main",
+           "type": "other",
+           "segments": [
+            {
+             "text": "Persona 5"
+            }
+           ]
+          },
+          {
+           "id": "e0040",
+           "section": "main",
+           "type": "music",
+           "segments": [
+            {
+             "text": "OST Disc 1, Disc 2, Disc 3. ("
+            },
+            {
+             "text": "Wiki",
+             "url": "https://megamitensei.fandom.com/wiki/Persona_5_Original_Soundtrack"
+            },
+            {
+             "text": ", "
+            },
+            {
+             "text": "Spotify",
+             "url": "https://open.spotify.com/album/4pJT0WKggr4xk149X8A6KC",
+             "mark": "music"
+            },
+            {
+             "text": ")"
+            }
+           ]
+          },
+          {
+           "id": "e0041",
+           "section": "main",
+           "type": "other",
+           "segments": [
+            {
+             "text": "SCRAMBLE The Phantom Striker"
+            }
+           ]
+          },
+          {
+           "id": "e0042",
+           "section": "main",
+           "type": "music",
+           "segments": [
+            {
+             "text": "OST Disc 1, Disc 2. ("
+            },
+            {
+             "text": "Wiki",
+             "url": "https://megamitensei.fandom.com/wiki/PERSONA5_SCRAMBLE_The_Phantom_Strikers_ORIGINAL_SOUNDTRACK"
+            },
+            {
+             "text": ", "
+            },
+            {
+             "text": "vid.",
+             "url": "https://www.youtube.com/playlist?list=PLHz3nWJx3MDyCtUJuCh0bCIAT8Mygkx_E",
+             "mark": "music"
+            },
+            {
+             "text": "), "
+            },
+            {
+             "text": "Towards a Dream",
+             "url": "https://www.youtube.com/watch?v=Hr01HZp7uKw",
+             "mark": "music"
+            }
+           ]
+          }
+         ],
+         "origin": "ppt:12"
+        }
+       ],
+       "origin": "ppt:11"
+      }
+     ],
+     "origin": "ppt:1"
+    },
+    {
+     "id": "n0014",
+     "kind": "company",
+     "title": "Capcom",
+     "children": [
+      {
+       "id": "n0071",
+       "kind": "group",
+       "title": "194X Series",
+       "entries": [
+        {
+         "id": "e0043",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "1942",
+           "url": "https://www.youtube.com/watch?v=kdICR49vbvg",
+           "mark": "video"
+          }
+         ]
+        }
+       ],
+       "origin": "ppt:13"
+      },
+      {
+       "id": "n0072",
+       "kind": "group",
+       "title": "Ghosts 'n Goblins",
+       "entries": [
+        {
+         "id": "e0044",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "Ghosts 'n Goblins",
+           "url": "https://www.youtube.com/watch?v=P7CdqiHHPpQ"
+          }
+         ]
+        }
+       ],
+       "origin": "ppt:13"
+      },
+      {
+       "id": "n0073",
+       "kind": "group",
+       "title": "Ace Attorney",
+       "entries": [
+        {
+         "id": "e0045",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "Phoenix Wright: Ace Attorney OST ("
+          },
+          {
+           "text": "Wiki",
+           "url": "https://aceattorney.fandom.com/wiki/Phoenix_Wright:_Ace_Attorney_Original_Soundtrack"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "vid.",
+           "url": "https://www.youtube.com/playlist?list=PL4B22D54E54AC7CB9",
+           "mark": "music"
+          },
+          {
+           "text": ")"
+          }
+         ]
+        },
+        {
+         "id": "e0046",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "Phoenix Wright: Ace Attorney – Justice for All OST ("
+          },
+          {
+           "text": "Wiki",
+           "url": "https://aceattorney.fandom.com/wiki/Phoenix_Wright:_Ace_Attorney_-_Justice_for_All_Original_Soundtrack"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "vid.",
+           "url": "https://www.youtube.com/playlist?list=PLKYELKjnSOFjssMmyk062kZfC0D2_i5VV",
+           "mark": "music"
+          },
+          {
+           "text": ")"
+          }
+         ]
+        },
+        {
+         "id": "e0047",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "Phoenix Wright: Ace Attorney – Trials and Tribulations OST ("
+          },
+          {
+           "text": "Wiki",
+           "url": "https://aceattorney.fandom.com/wiki/Phoenix_Wright:_Ace_Attorney_-_Trials_and_Tribulations_Original_Soundtrack"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "vid.",
+           "url": "https://www.youtube.com/playlist?list=PLKYELKjnSOFjVol2XOenOjHcnn2LTo-sK",
+           "mark": "music"
+          },
+          {
+           "text": ")"
+          }
+         ]
+        },
+        {
+         "id": "e0048",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "Apollo Justice: Ace Attorney OST ("
+          },
+          {
+           "text": "Wiki",
+           "url": "https://aceattorney.fandom.com/wiki/Gyakuten_Saiban_4_Original_Soundtrack"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "vid.",
+           "url": "https://www.youtube.com/playlist?list=PLqrlkIVyDLs91RaaEauS7juKfNaOasacS",
+           "mark": "music"
+          },
+          {
+           "text": ")"
+          }
+         ]
+        },
+        {
+         "id": "e0049",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "Gyakuten Kenji OST ("
+          },
+          {
+           "text": "Wiki",
+           "url": "https://aceattorney.fandom.com/wiki/Gyakuten_Kenji_Original_Soundtrack"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "vid.",
+           "url": "https://www.youtube.com/playlist?list=PLqrlkIVyDLs-6sJY8Ib8Z-6w-3M_EgcDQ",
+           "mark": "music"
+          },
+          {
+           "text": ")"
+          }
+         ]
+        },
+        {
+         "id": "e0050",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "Gyakuten Kenji 2 OST ("
+          },
+          {
+           "text": "Wiki",
+           "url": "https://aceattorney.fandom.com/wiki/Gyakuten_Kenji_2_Original_Soundtrack"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "vid.",
+           "url": "https://www.youtube.com/playlist?list=PL3EDBB8487C9EB794",
+           "mark": "music"
+          },
+          {
+           "text": ")"
+          }
+         ]
+        },
+        {
+         "id": "e0051",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "Gyakuten Saiban 5 OST ("
+          },
+          {
+           "text": "Wiki",
+           "url": "https://aceattorney.fandom.com/wiki/Gyakuten_Saiban_5_Original_Soundtrack"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "vid.",
+           "url": "https://www.youtube.com/playlist?list=PLz03h4sXl2_erx72N_Tp2thPhe6rYk5-l",
+           "mark": "music"
+          },
+          {
+           "text": ")"
+          }
+         ]
+        }
+       ],
+       "children": [
+        {
+         "id": "n0074",
+         "kind": "group",
+         "title": "Ace Attorney",
+         "links": [
+          {
+           "text": "Ace Attorney",
+           "url": "https://www.youtube.com/playlist?list=PLwFY2FRIQ7pfiWtKDjpLHC9m5pYyjFA5e",
+           "mark": "video"
+          }
+         ],
+         "origin": "ppt:13"
+        }
+       ],
+       "origin": "ppt:13"
+      },
+      {
+       "id": "n0075",
+       "kind": "group",
+       "title": "Mega Man",
+       "entries": [
+        {
+         "id": "e0052",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "Mega Man",
+           "url": "https://www.youtube.com/watch?v=hkD3lEANa_4"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "2",
+           "url": "https://www.youtube.com/watch?v=CWZZUyD-nRs"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "3",
+           "url": "https://www.youtube.com/watch?v=POAz4qmw_So&pp=ygUKbWVnYSBtYW4gMw%3D%3D"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "4",
+           "url": "https://www.youtube.com/watch?v=vDtfGryOlrg&pp=ygUKbWVnYSBtYW4gNA%3D%3D"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "5",
+           "url": "https://www.youtube.com/watch?v=F0pYojR9Xf8&pp=ygUKbWVnYSBtYW4gNQ%3D%3D"
+          }
+         ]
+        }
+       ],
+       "origin": "ppt:14"
+      },
+      {
+       "id": "n0076",
+       "kind": "group",
+       "title": "Monster Hunter",
+       "entries": [
+        {
+         "id": "e0053",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "MH1(G)",
+           "url": "https://www.bilibili.com/video/BV1SA411E7cc/?spm_id_from=333.337.search-card.all.click",
+           "playlist": true
+          }
+         ]
+        },
+        {
+         "id": "e0054",
+         "section": "main",
+         "type": "play",
+         "segments": [
+          {
+           "text": "World",
+           "mark": "playing"
+          }
+         ]
+        }
+       ],
+       "origin": "ppt:14"
+      },
+      {
+       "id": "n0077",
+       "kind": "group",
+       "title": "Okami",
+       "entries": [
+        {
+         "id": "e0055",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "Okami OST ("
+          },
+          {
+           "text": "Vgmdb",
+           "url": "https://vgmdb.net/album/2411"
+          },
+          {
+           "text": ", Spotify "
+          },
+          {
+           "text": "1",
+           "url": "https://open.spotify.com/album/1FGTSoijuFBW28zkNEh1aS",
+           "mark": "music"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "2",
+           "url": "https://open.spotify.com/album/1SWJjXODuO7i8FUPjWPUZe",
+           "mark": "music"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "3",
+           "url": "https://open.spotify.com/album/32S4dKGXLEUThbculWtHcm",
+           "mark": "music"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "4",
+           "url": "https://open.spotify.com/album/0vLmuVMBOqBfGjc0j5E8R8",
+           "mark": "music"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "5",
+           "url": "https://open.spotify.com/album/3eifry5brwGEyYzZfEPzDy",
+           "mark": "music"
+          },
+          {
+           "text": ")"
+          }
+         ]
+        },
+        {
+         "id": "e0056",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "Okamiden OST ("
+          },
+          {
+           "text": "Vgmdb",
+           "url": "https://vgmdb.net/album/20915"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "vid.",
+           "url": "https://www.youtube.com/watch?v=Pvc4boWkUWA",
+           "mark": "music"
+          },
+          {
+           "text": ")"
+          }
+         ]
+        },
+        {
+         "id": "e0057",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "Street Fighter (Evo. 1987-2023)",
+           "url": "https://www.youtube.com/watch?v=cTkr3Gc4StA"
+          }
+         ]
+        }
+       ],
+       "children": [
+        {
+         "id": "n0078",
+         "kind": "group",
+         "title": "Okami 、Okamiden",
+         "links": [
+          {
+           "text": "Okami、合集",
+           "url": "https://www.youtube.com/playlist?list=PLpfAxniIs1Lbu26mFa_Yvhu3y6rEhUc4-",
+           "playlist": true,
+           "channel": "舞秋風"
+          },
+          {
+           "text": "Okamiden",
+           "url": "https://www.bilibili.com/video/BV1j4411Z7f8/?spm_id_from=333.337.search-card.all.click"
+          }
+         ],
+         "origin": "ppt:15"
+        }
+       ],
+       "origin": "ppt:15"
+      },
+      {
+       "id": "n0079",
+       "kind": "group",
+       "title": "Resident Evil",
+       "entries": [
+        {
+         "id": "e0058",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "1 HD Remaster",
+           "url": "https://www.bilibili.com/video/BV1K4411z7XT?spm_id_from=333.788.videopod.episodes"
+          }
+         ]
+        }
+       ],
+       "origin": "ppt:15"
+      }
+     ],
+     "origin": "ppt:1"
+    },
+    {
+     "id": "n0015",
+     "kind": "company",
+     "title": "Falcom",
+     "children": [
+      {
+       "id": "n0080",
+       "kind": "series",
+       "title": "Dragon Slayer",
+       "entries": [
+        {
+         "id": "e0059",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "Dragon Slayer",
+           "url": "https://www.youtube.com/watch?v=5r60hGcc8sw"
+          }
+         ]
+        },
+        {
+         "id": "e0060",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "Xanadu: Dragon Slayer II",
+           "url": "https://www.youtube.com/watch?v=EfnA9NSwq_M&pp=ygUXeGFuYWR1IGRyYWdvbiBzbGF5ZXIgaWk%3D",
+           "mark": "video"
+          }
+         ]
+        },
+        {
+         "id": "e0061",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "(Spin-offs: "
+          },
+          {
+           "text": "Faxanadu",
+           "url": "https://www.youtube.com/watch?v=HutD8ZXZucY",
+           "mark": "video"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "Xanadu Next",
+           "url": "https://www.youtube.com/playlist?list=PLenb9qRetQ0adIoAy2gpsKnc8ucvWb4MQ",
+           "mark": "video",
+           "playlist": true
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "Tokyo Xanadu",
+           "url": "https://www.bilibili.com/video/BV1ox411D76C/?spm_id_from=333.337.search-card.all.click",
+           "mark": "video",
+           "playlist": true
+          },
+          {
+           "text": ")"
+          }
+         ]
+        },
+        {
+         "id": "e0062",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "Romanica: Dragon Slayer Jr.",
+           "url": "https://www.bilibili.com/video/BV1X64y1e7SC/?spm_id_from=333.337.search-card.all.click",
+           "mark": "video"
+          }
+         ]
+        },
+        {
+         "id": "e0063",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "Legacy of the Wizard",
+           "url": "https://www.youtube.com/watch?v=Y_yWLyQb19Q",
+           "mark": "video"
+          }
+         ]
+        },
+        {
+         "id": "e0064",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "Sorcerian",
+           "url": "https://www.youtube.com/watch?v=uDn-Izhs3Xo"
+          }
+         ]
+        },
+        {
+         "id": "e0065",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "Lord Monarch",
+           "url": "https://www.youtube.com/playlist?list=PLE1SGNFiFUlCvhfgF7tWP12fztTQkCP4C",
+           "mark": "video",
+           "playlist": true
+          }
+         ]
+        },
+        {
+         "id": "e0066",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "The Legend of Xanadu ("
+          },
+          {
+           "text": "I",
+           "url": "https://www.youtube.com/@fedaeltw/search?query=%E9%A2%A8%E4%B9%8B%E5%82%B3%E8%AA%AA%5BPCE%5D",
+           "mark": "video",
+           "playlist": true
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "II",
+           "url": "https://www.bilibili.com/video/BV14t411F7Z7/?spm_id_from=333.337.search-card.all.click",
+           "mark": "video",
+           "playlist": true
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "OST",
+           "url": "https://www.youtube.com/watch?v=vLaGqXuQn2Y"
+          },
+          {
+           "text": " )"
+          }
+         ]
+        }
+       ],
+       "origin": "ppt:16"
+      },
+      {
+       "id": "n0081",
+       "kind": "series",
+       "title": "Ys",
+       "origin": "ppt:16"
+      }
+     ],
+     "origin": "ppt:1"
+    },
+    {
+     "id": "n0016",
+     "kind": "company",
+     "title": "FromSoftware",
+     "children": [
+      {
+       "id": "n0083",
+       "kind": "group",
+       "title": "Dark Soul",
+       "entries": [
+        {
+         "id": "e0067",
+         "section": "main",
+         "type": "lore",
+         "segments": [
+          {
+           "text": "1",
+           "mark": "playing"
+          },
+          {
+           "text": "("
+          },
+          {
+           "text": "劇情",
+           "url": "https://www.bilibili.com/video/BV1qdPje5EWu/?spm_id_from=333.337.search-card.all.click"
+          },
+          {
+           "text": ")"
+          }
+         ]
+        }
+       ],
+       "origin": "ppt:17"
+      }
+     ],
+     "origin": "ppt:1"
+    },
+    {
+     "id": "n0017",
+     "kind": "company",
+     "title": "Japan Studio",
+     "children": [
+      {
+       "id": "n0082",
+       "kind": "series",
+       "title": "Shadow of the Colossus OST",
+       "links": [
+        {
+         "text": "Shadow of the Colossus",
+         "url": "https://www.youtube.com/watch?v=XFMw0p_Co6Y"
+        },
+        {
+         "text": " "
+        },
+        {
+         "text": "OST",
+         "url": "https://www.youtube.com/watch?v=cU5oekU-764"
+        }
+       ],
+       "origin": "ppt:17"
+      }
+     ],
+     "origin": "ppt:1"
+    },
+    {
+     "id": "n0018",
+     "kind": "company",
+     "title": "Koei Tecmo",
+     "children": [
+      {
+       "id": "n0084",
+       "kind": "group",
+       "title": "Fatal Frame",
+       "entries": [
+        {
+         "id": "e0068",
+         "section": "main",
+         "type": "lore",
+         "segments": [
+          {
+           "text": "1  "
+          },
+          {
+           "text": "Walkthrough",
+           "url": "https://www.youtube.com/watch?v=MFvtcdo3co0"
+          },
+          {
+           "text": "、"
+          },
+          {
+           "text": "All Endings",
+           "url": "https://www.youtube.com/watch?v=eD8AZgzLNH4"
+          },
+          {
+           "text": "、"
+          },
+          {
+           "text": "劇情解說",
+           "url": "https://www.bilibili.com/video/BV1AE411s7PA/?spm_id_from=333.337.search-card.all.click"
+          }
+         ]
+        }
+       ],
+       "origin": "ppt:18"
+      },
+      {
+       "id": "n0085",
+       "kind": "group",
+       "title": "Ninja Gaiden",
+       "entries": [
+        {
+         "id": "e0069",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "Ninja Gaiden ("
+          },
+          {
+           "text": "Arcade",
+           "url": "https://www.youtube.com/watch?v=XqaS5WA3IsA",
+           "mark": "video"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "NES",
+           "url": "https://www.youtube.com/watch?v=ueeKMQSS4bw",
+           "mark": "video"
+          },
+          {
+           "text": ")"
+          }
+         ]
+        }
+       ],
+       "origin": "ppt:18"
+      },
+      {
+       "id": "n0086",
+       "kind": "group",
+       "title": "仁王",
+       "entries": [
+        {
+         "id": "e0070",
+         "section": "main",
+         "type": "music",
+         "segments": [
+          {
+           "text": "仁王1",
+           "mark": "played"
+          },
+          {
+           "text": " "
+          },
+          {
+           "text": "Nioh OST",
+           "url": "https://www.youtube.com/watch?v=TDUvs2PRuUU",
+           "mark": "music"
+          }
+         ]
+        },
+        {
+         "id": "e0071",
+         "section": "main",
+         "type": "music",
+         "segments": [
+          {
+           "text": "臥龍 蒼天殞落",
+           "url": "https://www.youtube.com/watch?v=9PphqSFRDPI"
+          },
+          {
+           "text": " "
+          },
+          {
+           "text": "Wo Long OST",
+           "url": "https://www.youtube.com/watch?v=jWzeiwlhH9w",
+           "mark": "music"
+          },
+          {
+           "text": " ("
+          },
+          {
+           "text": "Steam Achievements",
+           "url": "https://steamcommunity.com/stats/1448440/achievements"
+          },
+          {
+           "text": ")"
+          }
+         ]
+        }
+       ],
+       "origin": "ppt:19"
+      }
+     ],
+     "origin": "ppt:1"
+    },
+    {
+     "id": "n0019",
+     "kind": "company",
+     "title": "Konami",
+     "children": [
+      {
+       "id": "n0087",
+       "kind": "group",
+       "title": "Castlevania",
+       "entries": [
+        {
+         "id": "e0072",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "Castlevania (1986)",
+           "url": "https://www.youtube.com/watch?v=mOTUVXrAOE8",
+           "mark": "video"
+          }
+         ]
+        }
+       ],
+       "origin": "ppt:20"
+      },
+      {
+       "id": "n0088",
+       "kind": "group",
+       "title": "Gradius",
+       "entries": [
+        {
+         "id": "e0073",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "Gradius "
+          },
+          {
+           "text": "I",
+           "url": "https://www.youtube.com/watch?v=Wmpi64_RpnE",
+           "mark": "video"
+          }
+         ]
+        }
+       ],
+       "origin": "ppt:20"
+      },
+      {
+       "id": "n0089",
+       "kind": "group",
+       "title": "Jackal, Kung-Fu Master",
+       "status": "played",
+       "links": [
+        {
+         "text": "Jackal",
+         "mark": "played"
+        },
+        {
+         "text": ","
+        },
+        {
+         "text": " "
+        },
+        {
+         "text": "Kung-Fu Master",
+         "url": "https://www.youtube.com/watch?v=EgO4HtWIJjQ&pp=ygUYa3VuZyBmdSBtYXN0ZXIgZ2FtZSAxOTg0"
+        }
+       ],
+       "origin": "ppt:20"
+      },
+      {
+       "id": "n0090",
+       "kind": "group",
+       "title": "Metal Gear",
+       "entries": [
+        {
+         "id": "e0074",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "Metal Gear",
+           "url": "https://www.youtube.com/watch?v=ehlAMTh42Ko&pp=ygUPbWV0YWwgZ2VhciAxOTg3"
+          }
+         ]
+        },
+        {
+         "id": "e0075",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "Silent Hill: The Arcade",
+           "url": "https://www.youtube.com/watch?v=93Oc5CljxHE"
+          }
+         ]
+        }
+       ],
+       "origin": "ppt:20"
+      }
+     ],
+     "origin": "ppt:1"
+    },
+    {
+     "id": "n0020",
+     "kind": "company",
+     "title": "Namco",
+     "children": [
+      {
+       "id": "n0091",
+       "kind": "group",
+       "title": "Arcade",
+       "children": [
+        {
+         "id": "n0092",
+         "kind": "group",
+         "title": "Galaxian",
+         "entries": [
+          {
+           "id": "e0076",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "Galaxian",
+             "url": "https://www.youtube.com/watch?v=Q046OW4xdvc"
+            },
+            {
+             "text": ", "
+            },
+            {
+             "text": "Galaga",
+             "url": "https://www.youtube.com/watch?v=29VVkfuXkVI"
+            }
+           ]
+          }
+         ],
+         "origin": "ppt:21"
+        },
+        {
+         "id": "n0093",
+         "kind": "group",
+         "title": "Pac-Man",
+         "links": [
+          {
+           "text": "Pac-Man",
+           "url": "https://g.co/kgs/Gaq2Y2h"
+          }
+         ],
+         "origin": "ppt:21"
+        }
+       ],
+       "origin": "ppt:21"
+      },
+      {
+       "id": "n0094",
+       "kind": "group",
+       "title": "Console",
+       "children": [
+        {
+         "id": "n0095",
+         "kind": "group",
+         "title": "Tekken",
+         "entries": [
+          {
+           "id": "e0077",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "1",
+             "url": "https://www.youtube.com/watch?v=xgebvIXcqbs"
+            }
+           ]
+          }
+         ],
+         "origin": "ppt:21"
+        }
+       ],
+       "origin": "ppt:21"
+      }
+     ],
+     "origin": "ppt:1"
+    },
+    {
+     "id": "n0021",
+     "kind": "company",
+     "title": "Nintendo",
+     "children": [
+      {
+       "id": "n0096",
+       "kind": "group",
+       "title": "Adventure Island (Evo. 1986-2009)",
+       "links": [
+        {
+         "text": "Adventure Island (Evo. 1986-2009)",
+         "url": "https://www.youtube.com/watch?v=9UiWLEsODdQ"
+        }
+       ],
+       "entries": [
+        {
+         "id": "e0078",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "Adventure Island",
+           "url": "https://www.bilibili.com/video/BV1Bpr5YUEnt/?spm_id_from=333.1387.upload.video_card.click"
+          }
+         ]
+        }
+       ],
+       "origin": "ppt:22"
+      },
+      {
+       "id": "n0097",
+       "kind": "group",
+       "title": "Duck Hunt",
+       "links": [
+        {
+         "text": "Duck Hunt",
+         "url": "https://www.youtube.com/watch?v=Z6PESYjuNHs"
+        }
+       ],
+       "origin": "ppt:22"
+      },
+      {
+       "id": "n0098",
+       "kind": "group",
+       "title": "Fire Emblem",
+       "origin": "ppt:22"
+      },
+      {
+       "id": "n0099",
+       "kind": "group",
+       "title": "Kirby",
+       "entries": [
+        {
+         "id": "e0079",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "Dream Land",
+           "url": "https://www.youtube.com/watch?v=hGt_c2w7C_E"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "Adventure",
+           "url": "https://www.youtube.com/watch?v=AN_DjirV2Gc"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "Dream Land 2",
+           "url": "https://www.youtube.com/watch?v=xWlOr2Lqlec"
+          }
+         ]
+        }
+       ],
+       "origin": "ppt:22"
+      },
+      {
+       "id": "n0100",
+       "kind": "series",
+       "title": "Mario",
+       "entries": [
+        {
+         "id": "e0100",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "Super Mario Bros.: "
+          },
+          {
+           "text": "rec.",
+           "url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-bros",
+           "mark": "music"
+          },
+          {
+           "text": "・2: "
+          },
+          {
+           "text": "rec.",
+           "url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-bros-2",
+           "mark": "music"
+          },
+          {
+           "text": "・3: "
+          },
+          {
+           "text": "rec.",
+           "url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-bros.-3-1988-nes",
+           "mark": "music"
+          }
+         ]
+        },
+        {
+         "id": "e0101",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "Super Mario Land: "
+          },
+          {
+           "text": "vid.",
+           "url": "https://www.youtube.com/watch?v=Tj2_JwVGOuQ",
+           "mark": "music"
+          },
+          {
+           "text": "・2: "
+          },
+          {
+           "text": "vid.",
+           "url": "https://www.youtube.com/playlist?list=PL4C2B927EC9AE13C7",
+           "mark": "music"
+          },
+          {
+           "text": "・3: "
+          },
+          {
+           "text": "vid.",
+           "url": "https://www.youtube.com/watch?v=UPs1ei4oDSE",
+           "mark": "music"
+          }
+         ]
+        },
+        {
+         "id": "e0102",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "Super Mario World: "
+          },
+          {
+           "text": "rec.",
+           "url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-world-snes-gamerip",
+           "mark": "music"
+          }
+         ]
+        },
+        {
+         "id": "e0103",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "Yoshi’s Safari: "
+          },
+          {
+           "text": "vid.",
+           "url": "https://www.youtube.com/watch?v=IQN2Qtz2n_M",
+           "mark": "music"
+          }
+         ]
+        },
+        {
+         "id": "e0104",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "Super Mario Yoshi Island ("
+          },
+          {
+           "text": "VGMdb",
+           "url": "https://vgmdb.net/album/281"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "vid.",
+           "url": "https://www.youtube.com/watch?v=oRxgYC5zrV4",
+           "mark": "music"
+          },
+          {
+           "text": ")"
+          }
+         ]
+        },
+        {
+         "id": "e0105",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "Super Mario RPG ("
+          },
+          {
+           "text": "VGMdb",
+           "url": "https://vgmdb.net/album/536"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "vid.",
+           "url": "https://www.youtube.com/playlist?list=PLNvQcJ1tQe2RIkds3WWsOQ7LyKzMlewba",
+           "mark": "music"
+          },
+          {
+           "text": ")"
+          }
+         ]
+        },
+        {
+         "id": "e0106",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "Super Mario 64 OST ("
+          },
+          {
+           "text": "VGMdb",
+           "url": "https://vgmdb.net/album/137"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "vid.",
+           "url": "https://www.youtube.com/playlist?list=PLB4DC2508C4D0076D",
+           "mark": "music"
+          },
+          {
+           "text": ")"
+          }
+         ]
+        },
+        {
+         "id": "e0107",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "Luigi's Mansion: "
+          },
+          {
+           "text": "1",
+           "url": "https://www.youtube.com/watch?v=6ddQgFk6670",
+           "mark": "music"
+          },
+          {
+           "text": ", 2, 3"
+          }
+         ]
+        },
+        {
+         "id": "e0108",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "Super Mario Sunshine ("
+          },
+          {
+           "text": "Wiki",
+           "url": "https://www.mariowiki.com/Super_Mario_Sunshine_Original_Soundtrack"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "vid.",
+           "url": "https://www.youtube.com/watch?v=TP-rYLrfzZU",
+           "mark": "music"
+          },
+          {
+           "text": ")"
+          }
+         ]
+        },
+        {
+         "id": "e0109",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "New Super Mario Bros.: "
+          },
+          {
+           "text": "vid.",
+           "url": "https://www.youtube.com/watch?v=cdT4deqFExk",
+           "mark": "music"
+          }
+         ]
+        },
+        {
+         "id": "e0110",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "New Super Mario Bros. Wii: "
+          },
+          {
+           "text": "vid.",
+           "url": "https://www.youtube.com/watch?v=4lqV66o4Hkk",
+           "mark": "music"
+          }
+         ]
+        },
+        {
+         "id": "e0111",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "Super Mario Galaxy: 1, "
+          },
+          {
+           "text": "2",
+           "url": "https://www.youtube.com/playlist?list=PLMjtnWNmNlGtkxveuSNcdY74esMhz4jOD",
+           "mark": "music",
+           "playlist": true
+          }
+         ]
+        }
+       ],
+       "children": [
+        {
+         "id": "n0101",
+         "kind": "group",
+         "title": "Others",
+         "entries": [
+          {
+           "id": "e0080",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "Mario Bros (1983)",
+             "url": "https://www.youtube.com/watch?v=JHlUEJXaxfY",
+             "mark": "video"
+            }
+           ]
+          }
+         ],
+         "origin": "ppt:23"
+        },
+        {
+         "id": "n0102",
+         "kind": "group",
+         "title": "Old 2D Platform",
+         "entries": [
+          {
+           "id": "e0081",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "Mario Bros (1985)",
+             "url": "https://www.youtube.com/watch?v=rLl9XBg7wSs",
+             "mark": "video"
+            }
+           ]
+          },
+          {
+           "id": "e0082",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "Mario The Lost Levels",
+             "url": "https://www.youtube.com/watch?v=5apu4ML9Wto",
+             "mark": "video"
+            },
+            {
+             "text": " "
+            },
+            {
+             "text": "補充",
+             "url": "https://www.youtube.com/watch?v=mFJTys1HgXo"
+            },
+            {
+             "text": " "
+            },
+            {
+             "text": "Super Mario Bros. 2",
+             "url": "https://www.youtube.com/watch?v=tFPoNZoFBXM",
+             "mark": "video"
+            },
+            {
+             "text": ", "
+            },
+            {
+             "text": "3",
+             "url": "https://www.youtube.com/watch?v=7i9omPUt9iQ"
+            },
+            {
+             "text": " "
+            },
+            {
+             "text": "Super Mario World",
+             "url": "https://www.youtube.com/watch?v=86tFFfsUwvU"
+            },
+            {
+             "text": " "
+            },
+            {
+             "text": "Yoshi's Island",
+             "url": "https://www.youtube.com/playlist?list=PL085D3CCB446936BC",
+             "playlist": true,
+             "channel": "舞秋風"
+            },
+            {
+             "text": ", "
+            },
+            {
+             "text": "Speedrun (2013)",
+             "url": "https://www.youtube.com/watch?v=M-LrpZlQ9Gs"
+            }
+           ]
+          }
+         ],
+         "origin": "ppt:23"
+        },
+        {
+         "id": "n0103",
+         "kind": "group",
+         "title": "Land",
+         "entries": [
+          {
+           "id": "e0087",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "Super Mario Land",
+             "url": "https://www.youtube.com/watch?v=2lBl2I2wPOA"
+            },
+            {
+             "text": ", "
+            },
+            {
+             "text": "2: 6 Golden Coins",
+             "url": "https://www.youtube.com/watch?v=iegaW5v1XDg"
+            }
+           ]
+          }
+         ],
+         "origin": "ppt:23"
+        },
+        {
+         "id": "n0104",
+         "kind": "group",
+         "title": "New 2D Platform",
+         "entries": [
+          {
+           "id": "e0088",
+           "section": "main",
+           "type": "play",
+           "segments": [
+            {
+             "text": "New Super Mario Bros. "
+            },
+            {
+             "text": "DS",
+             "mark": "played"
+            },
+            {
+             "text": ", "
+            },
+            {
+             "text": "Speedrun",
+             "url": "https://www.youtube.com/watch?v=BoCTpIwQMic"
+            }
+           ]
+          },
+          {
+           "id": "e0089",
+           "section": "main",
+           "type": "play",
+           "segments": [
+            {
+             "text": "Wii",
+             "mark": "played"
+            },
+            {
+             "text": ", "
+            },
+            {
+             "text": "4 Players",
+             "url": "https://www.youtube.com/watch?v=QaMIHSLUZac"
+            }
+           ]
+          },
+          {
+           "id": "e0090",
+           "section": "main",
+           "type": "lore",
+           "segments": [
+            {
+             "text": "2D 馬莉歐雜談",
+             "url": "https://www.bilibili.com/video/BV13y8EzcEeY/?spm_id_from=333.1387.upload.video_card.click"
+            }
+           ]
+          }
+         ],
+         "origin": "ppt:23"
+        },
+        {
+         "id": "n0105",
+         "kind": "group",
+         "title": "RPG",
+         "entries": [
+          {
+           "id": "e0091",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "Super Mario RPG",
+             "url": "https://www.youtube.com/watch?v=cRDC3hgtGuI"
+            }
+           ]
+          }
+         ],
+         "origin": "ppt:23"
+        },
+        {
+         "id": "n0106",
+         "kind": "group",
+         "title": "3D",
+         "entries": [
+          {
+           "id": "e0092",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "Super Mario 64",
+             "url": "https://www.youtube.com/watch?v=vT3AaQ77ges"
+            }
+           ]
+          },
+          {
+           "id": "e0093",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "Super Mario Sunshine",
+             "url": "https://www.bilibili.com/video/BV18P4y1A7D2/?spm_id_from=333.788.comment.all.click",
+             "mark": "video",
+             "playlist": true
+            }
+           ]
+          },
+          {
+           "id": "e0094",
+           "section": "main",
+           "type": "play",
+           "segments": [
+            {
+             "text": "Super Mario Galaxy "
+            },
+            {
+             "text": "1",
+             "mark": "played"
+            },
+            {
+             "text": ", "
+            },
+            {
+             "text": "2",
+             "mark": "played"
+            }
+           ]
+          }
+         ],
+         "origin": "ppt:23"
+        },
+        {
+         "id": "n0107",
+         "kind": "group",
+         "title": "Luigi’s Mansion",
+         "entries": [
+          {
+           "id": "e0095",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "Luigi’s Mansion",
+             "url": "https://www.youtube.com/watch?v=9bWePif7psc",
+             "mark": "video"
+            },
+            {
+             "text": " ("
+            },
+            {
+             "text": "Collectibles",
+             "url": "https://www.youtube.com/watch?v=YvZ2ZtUVDE4"
+            },
+            {
+             "text": ")"
+            }
+           ]
+          }
+         ],
+         "origin": "ppt:23"
+        },
+        {
+         "id": "n0108",
+         "kind": "subseries",
+         "title": "Donkey Kong (Evo.)",
+         "links": [
+          {
+           "text": "(Sub) Donkey Kong ("
+          },
+          {
+           "text": "Evo.",
+           "url": "https://www.youtube.com/watch?v=VJdlFxSOhZc"
+          },
+          {
+           "text": ")"
+          }
+         ],
+         "children": [
+          {
+           "id": "n0112",
+           "kind": "group",
+           "title": "Arcade",
+           "entries": [
+            {
+             "id": "e0096",
+             "section": "main",
+             "type": "video",
+             "segments": [
+              {
+               "text": "Donkey Kong Arcade (1981)",
+               "url": "https://www.youtube.com/watch?v=Pp2aMs38ERY",
+               "mark": "video"
+              },
+              {
+               "text": ", "
+              },
+              {
+               "text": "Jr.",
+               "url": "https://www.youtube.com/watch?v=GmOJN-zq6yg"
+              }
+             ]
+            }
+           ],
+           "origin": "ppt:24"
+          }
+         ],
+         "origin": "ppt:24"
+        },
+        {
+         "id": "n0109",
+         "kind": "subseries",
+         "title": "Mario Kart",
+         "entries": [
+          {
+           "id": "e0097",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "Super Mario Kart",
+             "url": "https://www.youtube.com/watch?v=6KzhEGPUNIk"
+            }
+           ]
+          }
+         ],
+         "origin": "ppt:24"
+        },
+        {
+         "id": "n0110",
+         "kind": "subseries",
+         "title": "Wario",
+         "entries": [
+          {
+           "id": "e0098",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "Super Mario Land 3",
+             "url": "https://www.youtube.com/watch?v=ZJuxdR0KH-s"
+            }
+           ]
+          }
+         ],
+         "origin": "ppt:24"
+        },
+        {
+         "id": "n0111",
+         "kind": "subseries",
+         "title": "Yoshi",
+         "entries": [
+          {
+           "id": "e0099",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "Yoshi Safari",
+             "url": "https://www.youtube.com/watch?v=dh_5zflwKsQ"
+            }
+           ]
+          }
+         ],
+         "origin": "ppt:24"
+        }
+       ],
+       "origin": "ppt:23"
+      },
+      {
+       "id": "n0113",
+       "kind": "series",
+       "title": "Metroid",
+       "children": [
+        {
+         "id": "n0114",
+         "kind": "group",
+         "title": "Main Series 2D",
+         "entries": [
+          {
+           "id": "e0112",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "Zero Mission",
+             "url": "https://www.youtube.com/watch?v=9hgtfzhel0Y&pp=ygUYemVybyBtaXNzaW9uIHdhbGt0aHJvdWdo",
+             "mark": "video"
+            },
+            {
+             "text": " (Remake of Metroid)"
+            }
+           ]
+          },
+          {
+           "id": "e0113",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "Metroid: Samus Returns",
+             "url": "https://www.youtube.com/watch?v=3fw1pDgbQ8I",
+             "mark": "video"
+            },
+            {
+             "text": " (Remake of Metroid II), "
+            },
+            {
+             "text": "Super Metroid",
+             "url": "https://www.youtube.com/watch?v=Y9tufNHthJE&t=1759s"
+            },
+            {
+             "text": ", "
+            },
+            {
+             "text": "Metroid Fusion",
+             "url": "https://www.youtube.com/watch?v=7pWRoQ2SQsc",
+             "mark": "video"
+            }
+           ]
+          },
+          {
+           "id": "e0114",
+           "section": "music",
+           "type": "music",
+           "segments": [
+            {
+             "text": "1",
+             "url": "https://downloads.khinsider.com/game-soundtracks/album/metroid-zero-mission"
+            },
+            {
+             "text": ", "
+            },
+            {
+             "text": "2",
+             "url": "https://www.youtube.com/playlist?list=PLESFnlO3kNnq-NkZsVdi-6WFeYSiNPiUr"
+            }
+           ]
+          }
+         ],
+         "origin": "ppt:26"
+        }
+       ],
+       "origin": "ppt:26"
+      },
+      {
+       "id": "n0115",
+       "kind": "series",
+       "title": "Pokemon",
+       "links": [
+        {
+         "text": "Pokemon",
+         "url": "https://pokemon.fandom.com/wiki/Pok%C3%A9mon_Wiki"
+        }
+       ],
+       "entries": [
+        {
+         "id": "e0115",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "Gen 1  "
+          },
+          {
+           "text": "FireRed",
+           "url": "https://www.youtube.com/watch?v=_6uv4msYJiM"
+          }
+         ]
+        },
+        {
+         "id": "e0116",
+         "section": "main",
+         "type": "play",
+         "segments": [
+          {
+           "text": "Gen 2  "
+          },
+          {
+           "text": "SoulSilver",
+           "mark": "played"
+          }
+         ]
+        },
+        {
+         "id": "e0117",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "Gen 3  "
+          },
+          {
+           "text": "Emerald",
+           "url": "https://www.bilibili.com/video/BV19Q4y1c7b7/?spm_id_from=333.337.search-card.all.click",
+           "mark": "video"
+          }
+         ]
+        },
+        {
+         "id": "e0118",
+         "section": "main",
+         "type": "play",
+         "segments": [
+          {
+           "text": "Gen 4  "
+          },
+          {
+           "text": "Platinum",
+           "mark": "playing"
+          }
+         ]
+        },
+        {
+         "id": "e0119",
+         "section": "main",
+         "type": "other",
+         "segments": [
+          {
+           "text": "Gen 5  White"
+          }
+         ]
+        },
+        {
+         "id": "e0120",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "Wiki",
+           "url": "https://pokemon.fandom.com/wiki/List_of_Pok%C3%A9mon_the_Series_series_and_seasons"
+          }
+         ]
+        },
+        {
+         "id": "e0121",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "無印篇(第一季)："
+          },
+          {
+           "text": "1~10",
+           "url": "https://www.bilibili.com/video/BV1Zt411x7bc/?spm_id_from=333.999.0.0"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "11~20",
+           "url": "https://www.bilibili.com/video/BV1Lt41147Zj/?spm_id_from=333.999.0.0"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "21~70",
+           "url": "https://www.bilibili.com/video/BV1Ct411W71Z/?spm_id_from=333.999.0.0"
+          },
+          {
+           "text": " (40), "
+          },
+          {
+           "text": "71~118",
+           "url": "https://www.bilibili.com/video/BV1gt411s7BD/"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "119~200",
+           "url": "https://www.bilibili.com/video/BV1Mt411s7iV/?spm_id_from=333.999.0.0"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "201~276",
+           "url": "https://www.bilibili.com/video/BV1Mt411s7ND/?spm_id_from=333.999.0.0"
+          },
+          {
+           "text": ", (缺失補齊) "
+          },
+          {
+           "text": "271",
+           "url": "https://www.bilibili.com/video/BV13Z421t7fQ/?spm_id_from=333.337.search-card.all.click'"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "275(粵語)",
+           "url": "https://www.bilibili.com/video/BV1Bt411W7XG?p=75"
+          }
+         ]
+        },
+        {
+         "id": "e0122",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "Firered & Leafgreen: ("
+          },
+          {
+           "text": "vgmdb",
+           "url": "https://vgmdb.net/album/4336"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "vid.",
+           "url": "https://www.youtube.com/watch?v=xaznXXCHnoo",
+           "mark": "music"
+          },
+          {
+           "text": ")"
+          }
+         ]
+        },
+        {
+         "id": "e0123",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "HeartGold & SoulSilver: ("
+          },
+          {
+           "text": "vgmdb",
+           "url": "https://vgmdb.net/album/15237"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "vid.",
+           "url": "https://www.youtube.com/watch?v=wTrA9L8St8Q",
+           "mark": "music"
+          },
+          {
+           "text": ")"
+          }
+         ]
+        },
+        {
+         "id": "e0124",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "Emerald/Ruby/Sapphire:"
+          }
+         ]
+        },
+        {
+         "id": "e0125",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "Diamond & Pearl Music Collection: ("
+          },
+          {
+           "text": "vid.",
+           "url": "https://www.youtube.com/watch?v=XDg0T0hsJkc",
+           "mark": "music"
+          },
+          {
+           "text": ")"
+          }
+         ]
+        },
+        {
+         "id": "e0126",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "Black & White: ("
+          },
+          {
+           "text": "vgmdb",
+           "url": "https://vgmdb.net/album/20831"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "vid.",
+           "url": "https://www.youtube.com/watch?v=gWUhWtAamyk",
+           "mark": "music"
+          },
+          {
+           "text": ")"
+          }
+         ]
+        }
+       ],
+       "origin": "ppt:27"
+      },
+      {
+       "id": "n0116",
+       "kind": "group",
+       "title": "Xenoblade Chronicles",
+       "entries": [
+        {
+         "id": "e0127",
+         "section": "main",
+         "type": "lore",
+         "segments": [
+          {
+           "text": "XC1  決定版"
+          },
+          {
+           "text": "全流程",
+           "url": "https://www.bilibili.com/video/BV1dz411v7Uo/?spm_id_from=333.1387.search.video_card.click",
+           "playlist": true
+          },
+          {
+           "text": ","
+          },
+          {
+           "text": "解析",
+           "url": "https://www.bilibili.com/video/BV1eh4y1d7sR/?spm_id_from=333.1387.search.video_card.click"
+          },
+          {
+           "text": " "
+          },
+          {
+           "text": "vgmdb",
+           "url": "https://vgmdb.net/album/127907"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "bilibili",
+           "url": "https://www.bilibili.com/video/BV16u411n714/?spm_id_from=333.337.search-card.all.click",
+           "playlist": true
+          }
+         ]
+        }
+       ],
+       "origin": "ppt:28"
+      },
+      {
+       "id": "n0117",
+       "kind": "series",
+       "title": "Zelda (世界觀)",
+       "links": [
+        {
+         "text": "Zelda ("
+        },
+        {
+         "text": "世界觀",
+         "url": "https://www.bilibili.com/video/BV18m4y1t7cf/?spm_id_from=333.337.search-card.all.click"
+        },
+        {
+         "text": ")"
+        }
+       ],
+       "children": [
+        {
+         "id": "n0118",
+         "kind": "group",
+         "title": "Main Series",
+         "entries": [
+          {
+           "id": "e0128",
+           "section": "main",
+           "type": "music",
+           "segments": [
+            {
+             "text": "The Legend of Zelda",
+             "url": "https://www.youtube.com/watch?v=6g2vk8Gudqs"
+            },
+            {
+             "text": " ("
+            },
+            {
+             "text": "vgm",
+             "url": "https://downloads.khinsider.com/game-soundtracks/album/the-legend-of-zelda-nes"
+            },
+            {
+             "text": ", "
+            },
+            {
+             "text": "vid.",
+             "url": "https://www.youtube.com/watch?v=scicO4v8d3M",
+             "mark": "music"
+            },
+            {
+             "text": ")"
+            }
+           ]
+          },
+          {
+           "id": "e0129",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "Zelda II: The Adventure of Link",
+             "url": "https://www.youtube.com/watch?v=pvse1JSiz9A",
+             "mark": "video"
+            },
+            {
+             "text": " ("
+            },
+            {
+             "text": "vgm",
+             "url": "https://downloads.khinsider.com/game-soundtracks/album/zelda-2"
+            },
+            {
+             "text": ", "
+            },
+            {
+             "text": "vid.",
+             "url": "https://www.youtube.com/watch?v=vX20MvXOHGs",
+             "mark": "music"
+            },
+            {
+             "text": ")"
+            }
+           ]
+          },
+          {
+           "id": "e0130",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "TLoZ: A Link to the Past & Four Swords",
+             "url": "https://www.youtube.com/playlist?list=PL8NxvmyK0mT4ojRhCP-OnC6zBO9jFx6lq",
+             "playlist": true
+            }
+           ]
+          },
+          {
+           "id": "e0131",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "TLoZ: Link's Awakening (2019重製版)",
+             "url": "https://www.youtube.com/watch?v=9iTQCA7FxEQ"
+            }
+           ]
+          },
+          {
+           "id": "e0132",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "TLoZ: Ocarina of Time (3D Remake)",
+             "url": "https://www.bilibili.com/video/BV1fJ411x7iQ/?spm_id_from=333.337.search-card.all.click",
+             "playlist": true
+            }
+           ]
+          }
+         ],
+         "origin": "ppt:29"
+        }
+       ],
+       "origin": "ppt:29"
+      }
+     ],
+     "origin": "ppt:1"
+    },
+    {
+     "id": "n0022",
+     "kind": "company",
+     "title": "Sega",
+     "children": [
+      {
+       "id": "n0119",
+       "kind": "group",
+       "title": "After Burner (Ver. Compare)",
+       "links": [
+        {
+         "text": "After Burner (Ver. Compare)",
+         "url": "https://www.youtube.com/watch?v=bKeQaNmzLak"
+        }
+       ],
+       "origin": "ppt:30"
+      },
+      {
+       "id": "n0120",
+       "kind": "group",
+       "title": "Out Run (Ver. Compare)",
+       "links": [
+        {
+         "text": "Out Run (Ver. Compare)",
+         "url": "https://www.youtube.com/watch?v=YZxrDC9cSnQ"
+        }
+       ],
+       "origin": "ppt:30"
+      },
+      {
+       "id": "n0121",
+       "kind": "group",
+       "title": "Phantasy Stars",
+       "entries": [
+        {
+         "id": "e0133",
+         "section": "main",
+         "type": "lore",
+         "segments": [
+          {
+           "text": "最初 (1-4代解說)",
+           "url": "https://www.bilibili.com/video/BV1Vt4y147rS?spm_id_from=333.788.videopod.sections",
+           "playlist": true
+          }
+         ]
+        }
+       ],
+       "origin": "ppt:30"
+      },
+      {
+       "id": "n0122",
+       "kind": "group",
+       "title": "Sonic Series",
+       "entries": [
+        {
+         "id": "e0134",
+         "section": "main",
+         "type": "play",
+         "segments": [
+          {
+           "text": "Sonic the Hedgehog  ("
+          },
+          {
+           "text": "1",
+           "mark": "played"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "2",
+           "url": "https://www.youtube.com/watch?v=oR2HjN_GEZ8"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "CD",
+           "url": "https://www.youtube.com/watch?v=qBTjXNOOeDY"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "Chaos",
+           "url": "https://www.youtube.com/watch?v=-59vNc4EWm0"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "3",
+           "url": "https://www.youtube.com/watch?v=lrdjLR1HR9s"
+          },
+          {
+           "text": ") OST "
+          },
+          {
+           "text": "1",
+           "url": "https://www.youtube.com/playlist?list=PLvNp0Boas720BYHiEHd-zM942KP_bCSZ4",
+           "playlist": true
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "2",
+           "url": "https://www.youtube.com/playlist?list=PLvNp0Boas721Im_ZBhvDEuCqzLsRvlKb3",
+           "playlist": true
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "CD",
+           "url": "https://www.youtube.com/playlist?list=PLvNp0Boas7205K42TtDtdUCCrtkD-X0id",
+           "playlist": true
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "Chaos",
+           "url": "https://www.youtube.com/playlist?list=PLvNp0Boas720uxEBskKdzdCmMVB4ESZKF",
+           "playlist": true
+          }
+         ]
+        }
+       ],
+       "origin": "ppt:30"
+      },
+      {
+       "id": "n0123",
+       "kind": "company",
+       "title": "Relic Entertainment",
+       "children": [
+        {
+         "id": "n0124",
+         "kind": "group",
+         "title": "Homeworld Remastered Collection",
+         "status": "dropped",
+         "entries": [
+          {
+           "id": "e0135",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "(含1,2,多人模式) "
+            },
+            {
+             "text": "Full Campaign",
+             "url": "https://www.bilibili.com/video/BV13W41157hz/?spm_id_from=333.337.search-card.all.click",
+             "playlist": true
+            }
+           ]
+          }
+         ],
+         "origin": "ppt:31"
+        }
+       ],
+       "subsidiary": true,
+       "origin": "ppt:31"
+      }
+     ],
+     "origin": "ppt:1"
+    },
+    {
+     "id": "n0023",
+     "kind": "company",
+     "title": "Square Enix",
+     "children": [
+      {
+       "id": "n0125",
+       "kind": "group",
+       "title": "Chrono",
+       "entries": [
+        {
+         "id": "e0136",
+         "section": "main",
+         "type": "lore",
+         "segments": [
+          {
+           "text": "解說："
+          },
+          {
+           "text": "Chrono Trigger",
+           "url": "https://www.bilibili.com/video/BV154KgeoEVy/?spm_id_from=333.337.search-card.all.click"
+          },
+          {
+           "text": " Chrono Cross ("
+          },
+          {
+           "text": "上",
+           "url": "https://www.bilibili.com/video/BV1KcCoYQENd/?spm_id_from=333.337.search-card.all.click"
+          },
+          {
+           "text": "、"
+          },
+          {
+           "text": "下",
+           "url": "https://www.bilibili.com/video/BV1FyDTY9Ew6/?spm_id_from=333.788"
+          },
+          {
+           "text": ")"
+          }
+         ]
+        }
+       ],
+       "origin": "ppt:32"
+      },
+      {
+       "id": "n0126",
+       "kind": "group",
+       "title": "Dragon Quest",
+       "entries": [
+        {
+         "id": "e0139",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "I: "
+          },
+          {
+           "text": "OST",
+           "url": "https://www.youtube.com/watch?v=9qypR0BXqPw&list=RD9qypR0BXqPw&start_radio=1",
+           "mark": "music"
+          },
+          {
+           "text": " "
+          },
+          {
+           "text": "("
+          },
+          {
+           "text": "Wiki",
+           "url": "https://dragonquest.fandom.com/wiki/Dragon_Quest_Suite"
+          },
+          {
+           "text": ")，II: "
+          },
+          {
+           "text": "OST",
+           "url": "https://www.youtube.com/watch?v=Cx5-K6McKU0",
+           "mark": "music"
+          },
+          {
+           "text": " "
+          },
+          {
+           "text": "("
+          },
+          {
+           "text": "Wiki",
+           "url": "https://dragonquest.fandom.com/wiki/Suite_Dragon_Quest_II"
+          },
+          {
+           "text": ")，III: "
+          },
+          {
+           "text": "OST",
+           "url": "https://www.youtube.com/watch?v=cumqB0UJfvI&list=RDcumqB0UJfvI",
+           "mark": "music"
+          },
+          {
+           "text": " "
+          },
+          {
+           "text": "("
+          },
+          {
+           "text": "Wiki",
+           "url": "https://dragonquest.fandom.com/wiki/Symphonic_Suite_Dragon_Quest_III"
+          },
+          {
+           "text": ")"
+          }
+         ]
+        },
+        {
+         "id": "e0140",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "IV: "
+          },
+          {
+           "text": "OST",
+           "url": "https://www.youtube.com/watch?v=vdr2ODxp4Hg&list=RDvdr2ODxp4Hg",
+           "mark": "music"
+          },
+          {
+           "text": " "
+          },
+          {
+           "text": "("
+          },
+          {
+           "text": "Wiki",
+           "url": "https://dragonquest.fandom.com/wiki/Symphonic_Suite_Dragon_Quest_IV"
+          },
+          {
+           "text": ")，V: "
+          },
+          {
+           "text": "OST",
+           "url": "https://www.youtube.com/watch?v=tiJ7wnJrXKA&list=RDtiJ7wnJrXKA",
+           "mark": "music"
+          },
+          {
+           "text": " "
+          },
+          {
+           "text": "("
+          },
+          {
+           "text": "Wiki",
+           "url": "https://dragonquest.fandom.com/wiki/Symphonic_Suite_Dragon_Quest_V"
+          },
+          {
+           "text": ")"
+          }
+         ]
+        }
+       ],
+       "children": [
+        {
+         "id": "n0127",
+         "kind": "group",
+         "title": "勇者鬥惡龍劇情解說",
+         "links": [
+          {
+           "text": "勇者鬥惡龍劇情解說",
+           "url": "https://www.bilibili.com/video/BV1dp4y1G7DN/?spm_id_from=333.1387.collection.video_card.click"
+          }
+         ],
+         "entries": [
+          {
+           "id": "e0138",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "Dragon Quest (3DS版)",
+             "url": "https://www.bilibili.com/video/BV1KT4y1p7NP/?spm_id_from=333.337.search-card.all.click",
+             "mark": "video",
+             "playlist": true
+            },
+            {
+             "text": "、"
+            },
+            {
+             "text": "II (3DS版)",
+             "url": "https://www.bilibili.com/video/BV1WN4y1q7sb/?spm_id_from=333.337.search-card.all.click",
+             "mark": "video",
+             "playlist": true
+            },
+            {
+             "text": "、"
+            },
+            {
+             "text": "III (3DS版)",
+             "url": "https://www.bilibili.com/video/BV1VV411R7Wr/?spm_id_from=333.788.video.desc.click",
+             "mark": "video",
+             "playlist": true
+            }
+           ]
+          }
+         ],
+         "notes": [
+          "※IV、V僅看劇情解說，無遊玩影片"
+         ],
+         "origin": "ppt:32"
+        }
+       ],
+       "origin": "ppt:32"
+      },
+      {
+       "id": "n0128",
+       "kind": "group",
+       "title": "Drakengard",
+       "entries": [
+        {
+         "id": "e0142",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "Drakengard OST "
+          },
+          {
+           "text": "Wiki",
+           "url": "https://en.wikipedia.org/wiki/Music_of_the_Drakengard_series"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "1",
+           "url": "https://www.youtube.com/playlist?list=PLHTLRlHyRyWsZMVPfCsCAykMObLTcQFl2",
+           "mark": "music"
+          }
+         ]
+        },
+        {
+         "id": "e0143",
+         "section": "music",
+         "type": "music",
+         "segments": [
+          {
+           "text": "NieR:Automata OST Disc 1, 2, 3. ("
+          },
+          {
+           "text": "Wiki",
+           "url": "https://nier.fandom.com/wiki/NieR:Automata_Original_Soundtrack"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "vid.",
+           "url": "https://www.youtube.com/playlist?list=OLAK5uy_l--G5hZu15rmQoiNnHHGCARJ5xJePbWOM",
+           "mark": "music"
+          },
+          {
+           "text": ")"
+          }
+         ]
+        }
+       ],
+       "children": [
+        {
+         "id": "n0129",
+         "kind": "group",
+         "title": "Drakengard (系列世界觀解讀)",
+         "links": [
+          {
+           "text": "Drakengard ("
+          },
+          {
+           "text": "系列世界觀解讀",
+           "url": "https://www.bilibili.com/video/BV1XZ4y1H7fB?spm_id_from=333.788.recommend_more_video.0"
+          },
+          {
+           "text": ")"
+          }
+         ],
+         "children": [
+          {
+           "id": "n0130",
+           "kind": "group",
+           "title": "Drakengard 1, 劇情解讀",
+           "links": [
+            {
+             "text": "{ "
+            },
+            {
+             "text": "Drakengard 1",
+             "url": "https://www.bilibili.com/video/BV17J411h7hG?spm_id_from=333.788.videopod.episodes",
+             "mark": "video",
+             "playlist": true
+            },
+            {
+             "text": ", "
+            },
+            {
+             "text": "劇情解讀",
+             "url": "https://www.bilibili.com/video/BV1LT4y1G7t3/?spm_id_from=333.788.video.desc.click"
+            },
+            {
+             "text": "}"
+            }
+           ],
+           "origin": "ppt:33"
+          }
+         ],
+         "origin": "ppt:33"
+        },
+        {
+         "id": "n0131",
+         "kind": "group",
+         "title": "Nier (尼爾編年史)",
+         "links": [
+          {
+           "text": "Nier ("
+          },
+          {
+           "text": "尼爾編年史",
+           "url": "https://www.bilibili.com/video/BV1984y127Qb/?spm_id_from=333.788.recommend_more_video.0&trackid=web_related_0.router-related-2206146-j2qzm.1765614643664.143"
+          },
+          {
+           "text": ")"
+          }
+         ],
+         "children": [
+          {
+           "id": "n0132",
+           "kind": "group",
+           "title": "Nier Replicant ver.1.22474487139…",
+           "links": [
+            {
+             "text": "Nier { "
+            },
+            {
+             "text": "Replicant ver.1.22474487139…",
+             "url": "https://www.youtube.com/playlist?list=PLwFY2FRIQ7pf3awtlKTWKQ7D0v8rwfBUA",
+             "mark": "video",
+             "playlist": true
+            }
+           ],
+           "entries": [
+            {
+             "id": "e0141",
+             "section": "main",
+             "type": "other",
+             "segments": [
+              {
+               "text": "(remastered of Nier)"
+              }
+             ]
+            }
+           ],
+           "origin": "ppt:33"
+          }
+         ],
+         "origin": "ppt:33"
+        }
+       ],
+       "origin": "ppt:33"
+      },
+      {
+       "id": "n0133",
+       "kind": "series",
+       "title": "Final Fantasy",
+       "children": [
+        {
+         "id": "n0134",
+         "kind": "group",
+         "title": "單機劇情解說",
+         "links": [
+          {
+           "text": "("
+          },
+          {
+           "text": "單機劇情解說",
+           "url": "https://www.bilibili.com/video/BV1254y1a7NL?spm_id_from=333.788.videopod.sections"
+          },
+          {
+           "text": ")"
+          }
+         ],
+         "entries": [
+          {
+           "id": "e0144",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "Final Fantasy I 20th Anniversary ver.",
+             "url": "https://www.youtube.com/playlist?list=PLo6dUe-n7Er_1OhKNvceh0JLSOLZWH5H-",
+             "playlist": true
+            }
+           ]
+          },
+          {
+           "id": "e0145",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "Final Fantasy II PSP ver.",
+             "url": "https://www.youtube.com/playlist?list=PLcKOBt093M8pT8F3RofkVq03hmsZ_oJKC",
+             "playlist": true
+            },
+            {
+             "text": "、"
+            },
+            {
+             "text": "Soul of Rebirth",
+             "url": "https://www.youtube.com/playlist?list=PLcKOBt093M8pLnrxEs_Giw6MRqm7uL3Pn"
+            }
+           ]
+          },
+          {
+           "id": "e0146",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "Final Fantasy III PC ver.",
+             "url": "https://www.youtube.com/playlist?list=PLo6dUe-n7Er_rY7GNVltCSV4NDD0Ma48f",
+             "playlist": true
+            }
+           ]
+          },
+          {
+           "id": "e0147",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "Main Game",
+             "url": "https://www.bilibili.com/video/BV1p3411H7Li/?spm_id_from=333.337.search-card.all.click",
+             "playlist": true
+            },
+            {
+             "text": "、"
+            },
+            {
+             "text": "Interlude",
+             "url": "https://www.youtube.com/watch?v=JlA4qAF_kPE"
+            },
+            {
+             "text": "、"
+            },
+            {
+             "text": "The After Years",
+             "url": "https://www.youtube.com/playlist?list=PL1-nRQse3Hf2IjnFx_TNkIfX8hw-OxiTu",
+             "playlist": true
+            }
+           ]
+          },
+          {
+           "id": "e0148",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "Final Fantasy V 2D Pixel Remaster ver.",
+             "url": "https://www.youtube.com/playlist?list=PL0w8Te9HdCC6-Gw0i12hYT8ttAk297x2z",
+             "playlist": true
+            }
+           ]
+          },
+          {
+           "id": "e0149",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "Final Fantasy XIII",
+             "url": "https://www.youtube.com/playlist?list=PLhPXFNuPMDAHYGsJEy9-OEFKizFMbBWMM",
+             "playlist": true
+            }
+           ]
+          }
+         ],
+         "notes": [
+          "※VI僅看劇情解說，無遊玩影片"
+         ],
+         "origin": "ppt:34"
+        },
+        {
+         "id": "n0135",
+         "kind": "group",
+         "title": "Final Fantasy I & II",
+         "links": [
+          {
+           "text": "˙"
+          },
+          {
+           "text": "Final Fantasy I & II",
+           "url": "https://finalfantasy.fandom.com/wiki/Music_of_Final_Fantasy#Final_Fantasy_.26_Final_Fantasy_II"
+          },
+          {
+           "text": ":"
+          }
+         ],
+         "entries": [
+          {
+           "id": "e0150",
+           "section": "main",
+           "type": "music",
+           "segments": [
+            {
+             "text": "All Sounds of Final Fantasy I & II",
+             "url": "https://finalfantasy.fandom.com/wiki/Original_soundtracks_of_Final_Fantasy_I_%26_II#All_Sounds_of_Final_Fantasy_I_.26_II"
+            },
+            {
+             "text": " ("
+            },
+            {
+             "text": "vid.",
+             "url": "https://www.youtube.com/playlist?list=PL359304BAC483833C",
+             "mark": "music"
+            },
+            {
+             "text": ")"
+            }
+           ]
+          },
+          {
+           "id": "e0151",
+           "section": "main",
+           "type": "music",
+           "segments": [
+            {
+             "text": "Symphonic Suite Final Fantasy",
+             "url": "https://finalfantasy.fandom.com/wiki/Symphonic_Suite_Final_Fantasy"
+            },
+            {
+             "text": " ("
+            },
+            {
+             "text": "vid.",
+             "url": "https://www.youtube.com/playlist?list=PLHautG-TadiuvdRQ3Oh14GL0ABBRpBq-T",
+             "mark": "music"
+            },
+            {
+             "text": ")"
+            }
+           ]
+          }
+         ],
+         "origin": "ppt:34"
+        },
+        {
+         "id": "n0136",
+         "kind": "group",
+         "title": "Final Fantasy III",
+         "links": [
+          {
+           "text": "˙"
+          },
+          {
+           "text": "Final Fantasy III",
+           "url": "https://finalfantasy.fandom.com/wiki/Music_of_Final_Fantasy#Final_Fantasy_III"
+          },
+          {
+           "text": ":"
+          }
+         ],
+         "entries": [
+          {
+           "id": "e0152",
+           "section": "main",
+           "type": "music",
+           "segments": [
+            {
+             "text": "Original Sound Version",
+             "url": "https://finalfantasy.fandom.com/wiki/Final_Fantasy_III_Original_Sound_Version"
+            },
+            {
+             "text": " ("
+            },
+            {
+             "text": "vid.",
+             "url": "https://www.youtube.com/playlist?list=PLD0247E79F663F017",
+             "mark": "music"
+            },
+            {
+             "text": ")"
+            }
+           ]
+          },
+          {
+           "id": "e0153",
+           "section": "main",
+           "type": "music",
+           "segments": [
+            {
+             "text": "Eternal Legend of the Wind",
+             "url": "https://finalfantasy.fandom.com/wiki/Final_Fantasy_III:_Eternal_Legend_of_the_Wind"
+            },
+            {
+             "text": " ("
+            },
+            {
+             "text": "vid.",
+             "url": "https://www.youtube.com/playlist?list=PLF0D8E226A47C1379",
+             "mark": "music"
+            },
+            {
+             "text": ")"
+            }
+           ]
+          }
+         ],
+         "origin": "ppt:34"
+        },
+        {
+         "id": "n0137",
+         "kind": "group",
+         "title": "Final Fantasy IV",
+         "links": [
+          {
+           "text": "˙"
+          },
+          {
+           "text": "Final Fantasy IV",
+           "url": "https://finalfantasy.fandom.com/wiki/Music_of_Final_Fantasy#Final_Fantasy_IV"
+          },
+          {
+           "text": ":"
+          }
+         ],
+         "entries": [
+          {
+           "id": "e0154",
+           "section": "main",
+           "type": "music",
+           "segments": [
+            {
+             "text": "Original Sound Version",
+             "url": "https://finalfantasy.fandom.com/wiki/Original_soundtracks_of_Final_Fantasy_IV#Final_Fantasy_IV:_Original_Sound_Version"
+            },
+            {
+             "text": " ("
+            },
+            {
+             "text": "vid.",
+             "url": "https://www.youtube.com/playlist?list=PLk1VXb-Gm3YwDZPhei4PX3lD9-xNCtpJV",
+             "mark": "music"
+            },
+            {
+             "text": ") "
+            },
+            {
+             "text": "Piano Collections",
+             "url": "https://finalfantasy.fandom.com/wiki/Piano_Collections:_Final_Fantasy_IV"
+            },
+            {
+             "text": " ("
+            },
+            {
+             "text": "vid.",
+             "url": "https://www.youtube.com/playlist?list=OLAK5uy_mUjQbALzHU5vE2IPz670TxiaX8irD1bjc",
+             "mark": "music"
+            },
+            {
+             "text": ") "
+            },
+            {
+             "text": "Celtic Moon",
+             "url": "https://finalfantasy.fandom.com/wiki/Final_Fantasy_IV:_Celtic_Moon"
+            },
+            {
+             "text": " ("
+            },
+            {
+             "text": "vid.",
+             "url": "https://www.youtube.com/playlist?list=PLE4BD65621A60F241",
+             "mark": "music"
+            },
+            {
+             "text": ") "
+            },
+            {
+             "text": "Minimum Album",
+             "url": "https://finalfantasy.fandom.com/wiki/Final_Fantasy_IV:_Minimum_Album"
+            },
+            {
+             "text": " ("
+            },
+            {
+             "text": "vid.",
+             "url": "https://www.youtube.com/playlist?list=PLDA73F959A3493927",
+             "mark": "music"
+            },
+            {
+             "text": ")"
+            }
+           ]
+          }
+         ],
+         "origin": "ppt:34"
+        },
+        {
+         "id": "n0138",
+         "kind": "group",
+         "title": "Final Fantasy V",
+         "links": [
+          {
+           "text": "˙"
+          },
+          {
+           "text": "Final Fantasy V",
+           "url": "https://finalfantasy.fandom.com/wiki/Music_of_Final_Fantasy#Final_Fantasy_V"
+          },
+          {
+           "text": ":"
+          }
+         ],
+         "entries": [
+          {
+           "id": "e0155",
+           "section": "main",
+           "type": "music",
+           "segments": [
+            {
+             "text": "Original Sound Version",
+             "url": "https://finalfantasy.fandom.com/wiki/Final_Fantasy_V:_Original_Sound_Version"
+            },
+            {
+             "text": " ("
+            },
+            {
+             "text": "vid.",
+             "url": "https://www.youtube.com/playlist?list=PLAD82760016307C69",
+             "mark": "music"
+            },
+            {
+             "text": ") "
+            },
+            {
+             "text": "Piano Collections",
+             "url": "https://finalfantasy.fandom.com/wiki/Piano_Collections:_Final_Fantasy_V"
+            },
+            {
+             "text": " ("
+            },
+            {
+             "text": "vid.",
+             "url": "https://www.youtube.com/playlist?list=OLAK5uy_m2VkIMU5bEBcfiNcL1mf-eQbsxQ2E6bZE",
+             "mark": "music"
+            },
+            {
+             "text": ") "
+            },
+            {
+             "text": "Dear Friends",
+             "url": "https://finalfantasy.fandom.com/wiki/Final_Fantasy_V:_Dear_Friends"
+            },
+            {
+             "text": " ("
+            },
+            {
+             "text": "vid.",
+             "url": "https://www.youtube.com/watch?v=C8v44YuoJKU",
+             "mark": "music"
+            },
+            {
+             "text": ")"
+            }
+           ]
+          }
+         ],
+         "origin": "ppt:34"
+        },
+        {
+         "id": "n0139",
+         "kind": "group",
+         "title": "Final Fantasy VI",
+         "links": [
+          {
+           "text": "˙"
+          },
+          {
+           "text": "Final Fantasy VI",
+           "url": "https://finalfantasy.fandom.com/wiki/Music_of_Final_Fantasy#Final_Fantasy_VI"
+          },
+          {
+           "text": ":"
+          }
+         ],
+         "entries": [
+          {
+           "id": "e0156",
+           "section": "main",
+           "type": "music",
+           "segments": [
+            {
+             "text": "Original Sound Version",
+             "url": "https://finalfantasy.fandom.com/wiki/Original_soundtrack_of_Final_Fantasy_VI#Final_Fantasy_VI:_Original_Sound_Version"
+            },
+            {
+             "text": " ("
+            },
+            {
+             "text": "vid.",
+             "url": "https://www.youtube.com/playlist?list=OLAK5uy_mKyg_pdrg6J7_wJzmBWwPk7WPFI03hED0",
+             "mark": "music"
+            },
+            {
+             "text": ") "
+            },
+            {
+             "text": "Piano Collections",
+             "url": "https://finalfantasy.fandom.com/wiki/Piano_Collections:_Final_Fantasy_VI"
+            },
+            {
+             "text": " ("
+            },
+            {
+             "text": "vid.",
+             "url": "https://www.youtube.com/playlist?list=OLAK5uy_mniZ-5uNgooOHukXll1pRuL3XSuGSI3Qg",
+             "mark": "music"
+            },
+            {
+             "text": ") "
+            },
+            {
+             "text": "Grand Finale",
+             "url": "https://finalfantasy.fandom.com/wiki/Final_Fantasy_VI:_Grand_Finale"
+            },
+            {
+             "text": " ("
+            },
+            {
+             "text": "vid.",
+             "url": "https://www.youtube.com/playlist?list=PLxFujYG0o0wd-UEFCZ9o3PFaVaHtcFHrv",
+             "mark": "music"
+            },
+            {
+             "text": ")"
+            }
+           ]
+          }
+         ],
+         "children": [
+          {
+           "id": "n0140",
+           "kind": "group",
+           "title": "Final Fantasy VII",
+           "links": [
+            {
+             "text": "˙"
+            },
+            {
+             "text": "Final Fantasy VII",
+             "url": "https://finalfantasy.fandom.com/wiki/Music_of_Final_Fantasy#Final_Fantasy_VII"
+            },
+            {
+             "text": ":"
+            }
+           ],
+           "entries": [
+            {
+             "id": "e0157",
+             "section": "main",
+             "type": "music",
+             "segments": [
+              {
+               "text": "OST",
+               "url": "https://finalfantasy.fandom.com/wiki/Final_Fantasy_VII:_Original_Soundtrack"
+              },
+              {
+               "text": " ("
+              },
+              {
+               "text": "vid.",
+               "url": "https://www.youtube.com/playlist?list=PLE1C3899D5F37CA3B",
+               "mark": "music"
+              },
+              {
+               "text": ") "
+              },
+              {
+               "text": "Piano Collections",
+               "url": "https://finalfantasy.fandom.com/wiki/Piano_Collections:_Final_Fantasy_VII"
+              },
+              {
+               "text": " ("
+              },
+              {
+               "text": "vid.",
+               "url": "https://www.youtube.com/playlist?list=OLAK5uy_mhateyYieg0ert6KO_CVSSOggfANvDWE0",
+               "mark": "music"
+              },
+              {
+               "text": ")"
+              }
+             ]
+            }
+           ],
+           "origin": "ppt:35"
+          },
+          {
+           "id": "n0141",
+           "kind": "group",
+           "title": "Final Fantasy VIII",
+           "links": [
+            {
+             "text": "˙"
+            },
+            {
+             "text": "Final Fantasy VIII",
+             "url": "https://finalfantasy.fandom.com/wiki/Music_of_Final_Fantasy#Final_Fantasy_VIII"
+            },
+            {
+             "text": ":"
+            }
+           ],
+           "entries": [
+            {
+             "id": "e0158",
+             "section": "main",
+             "type": "music",
+             "segments": [
+              {
+               "text": "OST",
+               "url": "https://finalfantasy.fandom.com/wiki/Final_Fantasy_VIII:_Original_Soundtrack"
+              },
+              {
+               "text": " ("
+              },
+              {
+               "text": "Spotify",
+               "url": "https://open.spotify.com/album/4WWm1rNVQvvZoXwt495cQn",
+               "mark": "music"
+              },
+              {
+               "text": ", "
+              },
+              {
+               "text": "Disc3 #20",
+               "url": "https://www.youtube.com/watch?v=KDGMU6sdVBE",
+               "mark": "music"
+              },
+              {
+               "text": ") "
+              },
+              {
+               "text": "Piano Collections",
+               "url": "https://finalfantasy.fandom.com/wiki/Piano_Collections:_Final_Fantasy_VIII"
+              },
+              {
+               "text": " ("
+              },
+              {
+               "text": "vid.",
+               "url": "https://www.youtube.com/playlist?list=OLAK5uy_k8anbHv845HYvK_yygXsljQcd-D1kO1GY",
+               "mark": "music"
+              },
+              {
+               "text": ")"
+              }
+             ]
+            },
+            {
+             "id": "e0159",
+             "section": "main",
+             "type": "music",
+             "segments": [
+              {
+               "text": "FITHOS LUSEC WECOS VINOSEC",
+               "url": "https://finalfantasy.fandom.com/wiki/FITHOS_LUSEC_WECOS_VINOSEC:_Final_Fantasy_VIII"
+              },
+              {
+               "text": " ("
+              },
+              {
+               "text": "vid.",
+               "url": "https://www.youtube.com/playlist?list=PL3dlpEkBp0q6qR3Llush38UqIH_LxRDaT",
+               "mark": "music"
+              },
+              {
+               "text": ")"
+              }
+             ]
+            }
+           ],
+           "origin": "ppt:35"
+          },
+          {
+           "id": "n0142",
+           "kind": "group",
+           "title": "Final Fantasy IX",
+           "links": [
+            {
+             "text": "˙"
+            },
+            {
+             "text": "Final Fantasy IX",
+             "url": "https://finalfantasy.fandom.com/wiki/Music_of_Final_Fantasy#Final_Fantasy_IX"
+            },
+            {
+             "text": ":"
+            }
+           ],
+           "entries": [
+            {
+             "id": "e0160",
+             "section": "main",
+             "type": "music",
+             "segments": [
+              {
+               "text": "OST",
+               "url": "https://finalfantasy.fandom.com/wiki/Final_Fantasy_IX:_Original_Soundtrack"
+              },
+              {
+               "text": " ("
+              },
+              {
+               "text": "Spotify",
+               "url": "https://open.spotify.com/album/61z0CTrR8zhxdyOoieyMJi",
+               "mark": "music"
+              },
+              {
+               "text": ") "
+              },
+              {
+               "text": "Piano Collections",
+               "url": "https://finalfantasy.fandom.com/wiki/Piano_Collections:_Final_Fantasy_IX"
+              },
+              {
+               "text": " ("
+              },
+              {
+               "text": "vid.",
+               "url": "https://www.youtube.com/playlist?list=PL63DC9D052F15446F",
+               "mark": "music"
+              },
+              {
+               "text": ")"
+              }
+             ]
+            }
+           ],
+           "origin": "ppt:35"
+          },
+          {
+           "id": "n0143",
+           "kind": "group",
+           "title": "Final Fantasy X",
+           "links": [
+            {
+             "text": "˙"
+            },
+            {
+             "text": "Final Fantasy X",
+             "url": "https://finalfantasy.fandom.com/wiki/Music_of_Final_Fantasy#Final_Fantasy_X"
+            },
+            {
+             "text": ":"
+            }
+           ],
+           "entries": [
+            {
+             "id": "e0161",
+             "section": "main",
+             "type": "music",
+             "segments": [
+              {
+               "text": "OST",
+               "url": "https://finalfantasy.fandom.com/wiki/Final_Fantasy_X:_Original_Soundtrack"
+              },
+              {
+               "text": " ("
+              },
+              {
+               "text": "Spotify",
+               "url": "https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u",
+               "mark": "music"
+              },
+              {
+               "text": ", "
+              },
+              {
+               "text": "Disc1 #1",
+               "url": "https://www.bilibili.com/video/BV15x421174R/?spm_id_from=333.337.search-card.all.click",
+               "mark": "music"
+              },
+              {
+               "text": ", "
+              },
+              {
+               "text": "Disc4 #20",
+               "url": "https://www.bilibili.com/video/BV15x421174R?p=90",
+               "mark": "music"
+              },
+              {
+               "text": ")"
+              }
+             ]
+            },
+            {
+             "id": "e0162",
+             "section": "main",
+             "type": "music",
+             "segments": [
+              {
+               "text": "X-2 OST",
+               "url": "https://finalfantasy.fandom.com/wiki/Final_Fantasy_X-2:_Original_Soundtrack"
+              },
+              {
+               "text": " ("
+              },
+              {
+               "text": "Disc1",
+               "url": "https://www.youtube.com/playlist?list=PL3ABFCD5E86FD91EF",
+               "mark": "music"
+              },
+              {
+               "text": ", "
+              },
+              {
+               "text": "Disc2",
+               "url": "https://www.youtube.com/playlist?list=PL573ACCA6FC102F20",
+               "mark": "music"
+              },
+              {
+               "text": ") "
+              },
+              {
+               "text": "Piano Collections",
+               "url": "https://finalfantasy.fandom.com/wiki/Piano_Collections:_Final_Fantasy_X"
+              },
+              {
+               "text": " ("
+              },
+              {
+               "text": "vid.",
+               "url": "https://www.youtube.com/playlist?list=OLAK5uy_n6moxAxuL56JRwq6jyy5eOmMFaXEwkges",
+               "mark": "music"
+              },
+              {
+               "text": ") "
+              },
+              {
+               "text": "Piano Collections X-2",
+               "url": "https://finalfantasy.fandom.com/wiki/Final_Fantasy_X-2_Piano_Collection"
+              },
+              {
+               "text": " ("
+              },
+              {
+               "text": "vid.",
+               "url": "https://www.youtube.com/playlist?list=PLuZCn7R90yRbxE2zKzkK8gIp0Dv0McEhO",
+               "mark": "music"
+              },
+              {
+               "text": ")"
+              }
+             ]
+            }
+           ],
+           "origin": "ppt:35"
+          }
+         ],
+         "origin": "ppt:34"
+        },
+        {
+         "id": "n0144",
+         "kind": "subseries",
+         "title": "Saga",
+         "entries": [
+          {
+           "id": "e0163",
+           "section": "main",
+           "type": "lore",
+           "segments": [
+            {
+             "text": "Final Fantasy Legend I ~ III "
+            },
+            {
+             "text": "解說",
+             "url": "https://www.bilibili.com/video/BV1cm42157bo/?spm_id_from=333.337.search-card.all.click"
+            }
+           ]
+          },
+          {
+           "id": "e0164",
+           "section": "main",
+           "type": "music",
+           "segments": [
+            {
+             "text": "OST "
+            },
+            {
+             "text": "1",
+             "url": "https://open.spotify.com/album/7LDjAD01e982z9DianPcTK",
+             "mark": "music"
+            },
+            {
+             "text": " "
+            },
+            {
+             "text": "2",
+             "url": "https://open.spotify.com/album/659s6l4oaCxe3XvrsWtOQV",
+             "mark": "music"
+            },
+            {
+             "text": " "
+            },
+            {
+             "text": "3",
+             "url": "https://www.youtube.com/playlist?list=OLAK5uy_nGlX9s6x9kgdqg3CwLEF2-6x6gS2wY8x4",
+             "mark": "music"
+            },
+            {
+             "text": "–"
+            }
+           ]
+          },
+          {
+           "id": "e0165",
+           "section": "main",
+           "type": "lore",
+           "segments": [
+            {
+             "text": "Romancing Saga 解說 "
+            },
+            {
+             "text": "I",
+             "url": "https://www.bilibili.com/video/BV1EptDeMEdN/?spm_id_from=333.1387.search.video_card.click"
+            },
+            {
+             "text": ", "
+            },
+            {
+             "text": "II",
+             "url": "https://www.bilibili.com/video/BV13J25YJEDp/?spm_id_from=333.1387.search.video_card.click"
+            },
+            {
+             "text": ", "
+            },
+            {
+             "text": "III",
+             "url": "https://www.bilibili.com/video/BV1mQ2BYyEMH/?spm_id_from=333.1387.search.video_card.click"
+            }
+           ]
+          }
+         ],
+         "origin": "ppt:36"
+        },
+        {
+         "id": "n0145",
+         "kind": "subseries",
+         "title": "Mana",
+         "entries": [
+          {
+           "id": "e0166",
+           "section": "main",
+           "type": "lore",
+           "segments": [
+            {
+             "text": "Sword of Mana "
+            },
+            {
+             "text": "解說",
+             "url": "https://www.bilibili.com/video/BV1fP4y117i5/?spm_id_from=333.337.search-card.all.click"
+            }
+           ]
+          },
+          {
+           "id": "e0167",
+           "section": "main",
+           "type": "other",
+           "segments": [
+            {
+             "text": "(remake of Final Fantasy Adventure)"
+            }
+           ]
+          },
+          {
+           "id": "e0168",
+           "section": "main",
+           "type": "lore",
+           "segments": [
+            {
+             "text": "Secret of Mana "
+            },
+            {
+             "text": "解說",
+             "url": "https://www.bilibili.com/video/BV1EM411Y7JU?spm_id_from=333.788.videopod.sections"
+            }
+           ]
+          }
+         ],
+         "origin": "ppt:36"
+        }
+       ],
+       "origin": "ppt:34"
+      },
+      {
+       "id": "n0146",
+       "kind": "series",
+       "title": "Tomb Raider",
+       "children": [
+        {
+         "id": "n0147",
+         "kind": "group",
+         "title": "1st Series",
+         "entries": [
+          {
+           "id": "e0169",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "Tomb Raider (1996)",
+             "url": "https://www.youtube.com/watch?v=a9HQa74cefg",
+             "mark": "video"
+            },
+            {
+             "text": "、"
+            },
+            {
+             "text": "2",
+             "url": "https://www.youtube.com/watch?v=HGt7pg4jxus",
+             "mark": "video"
+            },
+            {
+             "text": "、"
+            },
+            {
+             "text": "3",
+             "url": "https://www.youtube.com/watch?v=6zf9oZQnZcw",
+             "mark": "video"
+            },
+            {
+             "text": "、"
+            },
+            {
+             "text": "4",
+             "url": "https://www.youtube.com/watch?v=Ri61A_PNzcc",
+             "mark": "video"
+            },
+            {
+             "text": "、"
+            },
+            {
+             "text": "5",
+             "url": "https://www.youtube.com/watch?v=63VVa26xZfc",
+             "mark": "video"
+            },
+            {
+             "text": "、"
+            },
+            {
+             "text": "6",
+             "url": "https://www.youtube.com/watch?v=eabZPvoCAwo",
+             "mark": "video"
+            }
+           ]
+          }
+         ],
+         "origin": "ppt:37"
+        },
+        {
+         "id": "n0148",
+         "kind": "group",
+         "title": "2nd Series",
+         "origin": "ppt:37"
+        },
+        {
+         "id": "n0149",
+         "kind": "group",
+         "title": "3rd Series",
+         "entries": [
+          {
+           "id": "e0170",
+           "section": "main",
+           "type": "play",
+           "segments": [
+            {
+             "text": "Tomb Raider 2013",
+             "mark": "played"
+            }
+           ]
+          },
+          {
+           "id": "e0171",
+           "section": "main",
+           "type": "other",
+           "segments": [
+            {
+             "text": "Rise of the Tomb Raider"
+            }
+           ]
+          },
+          {
+           "id": "e0172",
+           "section": "main",
+           "type": "other",
+           "segments": [
+            {
+             "text": "Shadow of the Tomb Raider"
+            }
+           ]
+          }
+         ],
+         "origin": "ppt:37"
+        }
+       ],
+       "origin": "ppt:37"
+      }
+     ],
+     "origin": "ppt:1"
+    },
+    {
+     "id": "n0024",
+     "kind": "company",
+     "title": "SNK",
+     "entries": [
+      {
+       "id": "e0173",
+       "section": "main",
+       "type": "evolution",
+       "segments": [
+        {
+         "text": "Double Dragon(Evo. 1987-2023)",
+         "url": "https://www.youtube.com/watch?v=koJzICDYL0A",
+         "mark": "video"
+        }
+       ]
+      },
+      {
+       "id": "e0174",
+       "section": "main",
+       "type": "evolution",
+       "segments": [
+        {
+         "text": "Fatal Fury(Evo. 1991-2025)",
+         "url": "https://www.youtube.com/watch?v=qAFgM9YpCe4",
+         "mark": "video"
+        }
+       ]
+      },
+      {
+       "id": "e0175",
+       "section": "main",
+       "type": "video",
+       "segments": [
+        {
+         "text": "Ikari Warriors",
+         "url": "https://www.youtube.com/watch?v=yQYoiZcqURg"
+        }
+       ]
+      },
+      {
+       "id": "e0176",
+       "section": "main",
+       "type": "evolution",
+       "segments": [
+        {
+         "text": "The King of Fighters (Evo. 1994-2022)",
+         "url": "https://www.youtube.com/watch?v=esh34gj9AS4"
+        }
+       ]
+      }
+     ],
+     "origin": "ppt:1"
+    },
+    {
+     "id": "n0025",
+     "kind": "company",
+     "title": "Taito",
+     "children": [
+      {
+       "id": "n0150",
+       "kind": "group",
+       "title": "Arkanoid",
+       "children": [
+        {
+         "id": "n0151",
+         "kind": "group",
+         "title": "Arkanoid 1986 Revenge of Doh",
+         "links": [
+          {
+           "text": "Arkanoid 1986",
+           "url": "https://www.youtube.com/watch?v=Th-Z6QQ5AOQ"
+          },
+          {
+           "text": " "
+          },
+          {
+           "text": "Revenge of Doh",
+           "url": "https://www.youtube.com/watch?v=sXA1AliWuKM"
+          }
+         ],
+         "origin": "ppt:39"
+        },
+        {
+         "id": "n0152",
+         "kind": "group",
+         "title": "Doh it again all bosses",
+         "links": [
+          {
+           "text": "Doh it again all bosses",
+           "url": "https://www.youtube.com/watch?v=whYdFeWOCas"
+          }
+         ],
+         "origin": "ppt:39"
+        }
+       ],
+       "origin": "ppt:39"
+      },
+      {
+       "id": "n0153",
+       "kind": "group",
+       "title": "Bubble Bobble (Ver. Compare)",
+       "links": [
+        {
+         "text": "Bubble Bobble (Ver. Compare)",
+         "url": "https://www.youtube.com/watch?v=7XdFbQKO0cs",
+         "mark": "video"
+        }
+       ],
+       "origin": "ppt:39"
+      },
+      {
+       "id": "n0154",
+       "kind": "group",
+       "title": "Operation Wolf(Ver. Compare)",
+       "links": [
+        {
+         "text": "Operation Wolf",
+         "url": "https://www.youtube.com/watch?v=pLOVsLwfvsQ"
+        },
+        {
+         "text": "(Ver. Compare)",
+         "url": "https://www.youtube.com/watch?v=7XdFbQKO0cs"
+        }
+       ],
+       "origin": "ppt:39"
+      },
+      {
+       "id": "n0155",
+       "kind": "group",
+       "title": "River City Series (Ver. Compare)",
+       "links": [
+        {
+         "text": "River City Series (Ver. Compare)",
+         "url": "https://www.youtube.com/watch?v=Wyp7_DwjxTY"
+        }
+       ],
+       "origin": "ppt:39"
+      },
+      {
+       "id": "n0156",
+       "kind": "group",
+       "title": "Space Invaders",
+       "entries": [
+        {
+         "id": "e0177",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "Space Invaders 1978",
+           "url": "https://www.youtube.com/watch?v=MU4psw3ccUI"
+          },
+          {
+           "text": " "
+          },
+          {
+           "text": "Space Invaders Extreme (1 & 2)",
+           "url": "https://www.youtube.com/watch?v=Qhoi2t3-jMw"
+          }
+         ]
+        }
+       ],
+       "origin": "ppt:39"
+      }
+     ],
+     "origin": "ppt:1"
+    }
+   ],
+   "origin": "ppt:1"
+  },
+  {
+   "id": "n0026",
+   "kind": "region",
+   "title": "Europe",
+   "children": [
+    {
+     "id": "n0027",
+     "kind": "company",
+     "title": "Gaijin Entertainment",
+     "entries": [
+      {
+       "id": "e0178",
+       "section": "main",
+       "type": "play",
+       "segments": [
+        {
+         "text": "War Thunder",
+         "mark": "playing"
+        },
+        {
+         "text": "、"
+        },
+        {
+         "text": "Enlisted",
+         "mark": "playing"
+        }
+       ]
+      }
+     ],
+     "origin": "ppt:1"
+    },
+    {
+     "id": "n0028",
+     "kind": "company",
+     "title": "IO Interactive",
+     "entries": [
+      {
+       "id": "e0179",
+       "section": "main",
+       "type": "video",
+       "segments": [
+        {
+         "text": "Mini Ninjas",
+         "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjuBL-Ab6ub4p5WUpalqkxx2",
+         "playlist": true,
+         "channel": "舞秋風"
+        }
+       ]
+      }
+     ],
+     "origin": "ppt:1"
+    },
+    {
+     "id": "n0029",
+     "kind": "company",
+     "title": "Mojang",
+     "children": [
+      {
+       "id": "n0157",
+       "kind": "series",
+       "title": "Minecraft",
+       "children": [
+        {
+         "id": "n0158",
+         "kind": "group",
+         "title": "Trailers",
+         "entries": [
+          {
+           "id": "e0180",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "the sunken island",
+             "url": "https://www.youtube.com/watch?v=4V4KW2F0C3I"
+            },
+            {
+             "text": ", "
+            },
+            {
+             "text": "eldaria v3",
+             "url": "https://www.youtube.com/watch?v=STsKFiDWd_0"
+            },
+            {
+             "text": ", "
+            },
+            {
+             "text": "boat racing",
+             "url": "https://www.youtube.com/watch?v=Ndl2sdlyZHs"
+            }
+           ]
+          },
+          {
+           "id": "e0181",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "pvp map survival",
+             "url": "https://www.youtube.com/watch?v=OC7a2uk_4qY"
+            },
+            {
+             "text": ", "
+            },
+            {
+             "text": "survival map atlantis",
+             "url": "https://www.youtube.com/watch?v=6qGskase7z0"
+            },
+            {
+             "text": ", "
+            },
+            {
+             "text": "minecraft t3c",
+             "url": "https://www.youtube.com/playlist?list=PLIK6JDdqw7u33Hhzqfdy9IFWpTDSryWPu",
+             "playlist": true
+            },
+            {
+             "text": ", "
+            },
+            {
+             "text": "zombie map walking dead trailer",
+             "url": "https://www.youtube.com/watch?v=BPL9GAJwv0k"
+            }
+           ]
+          }
+         ],
+         "origin": "ppt:40"
+        },
+        {
+         "id": "n0159",
+         "kind": "group",
+         "title": "Visit or Video Playthrough",
+         "origin": "ppt:40"
+        },
+        {
+         "id": "n0160",
+         "kind": "group",
+         "title": "我的Minecraft啟蒙：舞秋風",
+         "entries": [
+          {
+           "id": "e0182",
+           "section": "main",
+           "type": "other",
+           "segments": [
+            {
+             "text": "舞秋風 Eldaria Islands 記錄檔 (1.2.5)"
+            }
+           ]
+          },
+          {
+           "id": "e0183",
+           "section": "main",
+           "type": "other",
+           "segments": [
+            {
+             "text": "舞秋風北極深淵記錄檔 (1.3.2)"
+            }
+           ]
+          },
+          {
+           "id": "e0184",
+           "section": "main",
+           "type": "other",
+           "segments": [
+            {
+             "text": "舞秋風亞特蘭提斯紀錄檔 (1.5.2)"
+            }
+           ]
+          },
+          {
+           "id": "e0185",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "Ragecraft I - The Corrupted Path (1.6.2) (無存檔) ("
+            },
+            {
+             "text": "Walkthrough",
+             "url": "https://www.youtube.com/playlist?list=PL0vqlrKezjBuKSfxGrjus2YlwSkoBR_rS",
+             "mark": "video",
+             "playlist": true,
+             "channel": "舞秋風"
+            },
+            {
+             "text": ")"
+            }
+           ]
+          },
+          {
+           "id": "e0186",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "Ragecraft II - The Insomnia (1.7.2) ("
+            },
+            {
+             "text": "Walkthrough",
+             "url": "https://www.youtube.com/playlist?list=PL0vqlrKezjBvCE1lRwaJ_kAharY_iINHB",
+             "mark": "video",
+             "playlist": true,
+             "channel": "舞秋風"
+            },
+            {
+             "text": ")"
+            }
+           ]
+          }
+         ],
+         "origin": "ppt:40"
+        },
+        {
+         "id": "n0161",
+         "kind": "group",
+         "title": "My Gameplay",
+         "entries": [
+          {
+           "id": "e0187",
+           "section": "main",
+           "type": "other",
+           "segments": [
+            {
+             "text": "The Sunken Island Adventure (1.2.5) [Adventure Map] (Main 已完成)"
+            }
+           ],
+           "notes": [
+            "Rule:",
+            "Follow the author's rule.",
+            "Play in normal difficulty.",
+            "Goal: Main: Complete the full story. Side: Complete all achievements."
+           ]
+          },
+          {
+           "id": "e0188",
+           "section": "main",
+           "type": "other",
+           "segments": [
+            {
+             "text": "Eldaria Islands (1.6.2) [Survival Map] (Main 已完成)"
+            }
+           ],
+           "notes": [
+            "Rule:",
+            "Follow the author's rule.",
+            "Play in normal difficulty.",
+            "Don't use cheats unless there are bugs existing.",
+            "Goal: Main: Defeat the Ender Dragon. Side: Visit every island in this map."
+           ]
+          },
+          {
+           "id": "e0189",
+           "section": "main",
+           "type": "other",
+           "segments": [
+            {
+             "text": "索尼亞斯 (1.6.2) [Survival Map]"
+            }
+           ],
+           "notes": [
+            "Rule:",
+            "遵守作者的規則。",
+            "以普通難度遊玩。",
+            "3.\t     「點亮大陸成就」換成「環島一圈、最高點、關鍵區域點亮、獲得所有特殊物品」",
+            "附加.特定物品兌換：種子、甘蔗、紅石、所有建材類與食品類可以兌換特定資源。",
+            "可兌換物品列表 => 2換1: 螢光粉、地獄疙瘩；16換1: 煤炭、經驗瓶；32換1: 鐵礦；48換1: 青",
+            "金石、金礦；64換1: 鑽石、綠寶石。※需要先在遊戲中自然獲得才可兌換",
+            "Goal: Main: 完成所有成就。"
+           ]
+          },
+          {
+           "id": "e0190",
+           "section": "main",
+           "type": "other",
+           "segments": [
+            {
+             "text": "我的王國 (1.7.2) [Operation Map] (已完成)"
+            }
+           ],
+           "notes": [
+            "Rule:",
+            "遵守作者的規則。",
+            "以普通難度遊玩。",
+            "Goal: 建成所有建築並達到數量最大值。"
+           ]
+          },
+          {
+           "id": "e0191",
+           "section": "main",
+           "type": "other",
+           "segments": [
+            {
+             "text": "TPC Parkour (1.7.2) [Parkour Map] (已完成)"
+            }
+           ]
+          },
+          {
+           "id": "e0192",
+           "section": "main",
+           "type": "other",
+           "segments": [
+            {
+             "text": "大地復甦 (1.8.1) [CTM Map] (Main 已完成)"
+            }
+           ],
+           "notes": [
+            "Rule:",
+            "遵守作者的規則。",
+            "以普通難度遊玩，魔王戰時除第一隻以困難難度遊玩，其他隨意。",
+            "開啟防止噴裝。",
+            "只允許拿取兩個羊毛，並以手邊方塊取代其位置。",
+            "Goal: Major: 蒐集十六色羊毛、一鐵磚、一金磚和一鑽石磚並將上述物品放置於紀念碑上。Minor: 尋找遊戲內所有箱子和彩蛋。"
+           ]
+          },
+          {
+           "id": "e0193",
+           "section": "main",
+           "type": "other",
+           "segments": [
+            {
+             "text": "狂亂之境3 (1.8.8) [CTM Map] (半自由遊玩)"
+            }
+           ]
+          },
+          {
+           "id": "e0194",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "Nemesis - Winds of Time (1.14.4) [CTM Map] (已完成，無存檔) ("
+            },
+            {
+             "text": "Walkthrough",
+             "url": "https://www.youtube.com/playlist?list=PLzIbYWXSOgIEJDY82O3ZqolKP0heUO4WB",
+             "mark": "video",
+             "playlist": true
+            },
+            {
+             "text": ")"
+            }
+           ],
+           "notes": [
+            "Rule:",
+            "遵守作者的規則。",
+            "以普通難度遊玩。",
+            "Goal: 蒐集十六色羊毛並將其放置於紀念碑上，收集所有有名稱的武器、防具、藥水、道具、劇情書。"
+           ]
+          },
+          {
+           "id": "e0195",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "Ice and Fire Lite",
+             "url": "https://www.curseforge.com/minecraft/modpacks/ice-and-fire-better-modpack"
+            },
+            {
+             "text": " (1.16.5) [Modpack] Goal: Collect all achievements in game."
+            }
+           ]
+          }
+         ],
+         "origin": "ppt:40"
+        }
+       ],
+       "origin": "ppt:40"
+      }
+     ],
+     "origin": "ppt:1"
+    },
+    {
+     "id": "n0030",
+     "kind": "company",
+     "title": "Ubisoft",
+     "children": [
+      {
+       "id": "n0162",
+       "kind": "group",
+       "title": "Assassin’s Creed",
+       "entries": [
+        {
+         "id": "e0196",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "I",
+           "url": "https://www.bilibili.com/video/BV14s411U7oK/"
+          }
+         ]
+        }
+       ],
+       "origin": "ppt:42"
+      },
+      {
+       "id": "n0163",
+       "kind": "group",
+       "title": "Rayman",
+       "entries": [
+        {
+         "id": "e0197",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "Rayman 1",
+           "url": "https://www.youtube.com/watch?v=rAd6MlU5yiY"
+          },
+          {
+           "text": "、"
+          },
+          {
+           "text": "Rayman Jungle Run",
+           "url": "https://www.youtube.com/watch?v=nS9SmNoyzoQ&list=PLBtVUsNOhEjuu1h20FuxTpTpZlmznwkKh&index=87&pp=iAQB",
+           "channel": "舞秋風"
+          }
+         ]
+        },
+        {
+         "id": "e0198",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "Full Game",
+           "url": "https://www.youtube.com/watch?v=akqlNVK-VdE"
+          },
+          {
+           "text": "、"
+          },
+          {
+           "text": "Rayman Legends",
+           "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjtWVM2vzXKTuF2qXC3JY3F2",
+           "playlist": true,
+           "channel": "舞秋風"
+          }
+         ]
+        }
+       ],
+       "origin": "ppt:42"
+      }
+     ],
+     "origin": "ppt:1"
+    }
+   ],
+   "origin": "ppt:1"
+  },
+  {
+   "id": "n0031",
+   "kind": "region",
+   "title": "China",
+   "children": [
+    {
+     "id": "n0032",
+     "kind": "company",
+     "title": "米哈游",
+     "children": [
+      {
+       "id": "n0164",
+       "kind": "group",
+       "title": "原神",
+       "status": "playing",
+       "entries": [
+        {
+         "id": "e0199",
+         "section": "main",
+         "type": "other",
+         "segments": [
+          {
+           "text": "P.S.活動補完 2020/11、1.3主活動"
+          }
+         ]
+        },
+        {
+         "id": "e0200",
+         "section": "main",
+         "type": "other",
+         "segments": [
+          {
+           "text": "派蒙的工作笔记、派蒙的素材笔记本、原神賽事"
+          }
+         ]
+        }
+       ],
+       "origin": "ppt:43"
+      },
+      {
+       "id": "n0165",
+       "kind": "group",
+       "title": "崩壞星穹鐵道",
+       "status": "playing",
+       "entries": [
+        {
+         "id": "e0201",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "帕姆的收藏夹",
+           "url": "https://space.bilibili.com/508103429/"
+          },
+          {
+           "text": "(2024跟上)"
+          }
+         ]
+        },
+        {
+         "id": "e0202",
+         "section": "main",
+         "type": "lore",
+         "segments": [
+          {
+           "text": "崩壞IP時間線整理",
+           "url": "https://www.bilibili.com/read/cv33011199/?opus_fallback=1"
+          },
+          {
+           "text": " "
+          },
+          {
+           "text": "崩壞IP探討",
+           "url": "https://forum.gamer.com.tw/C.php?bsn=72822&snA=402"
+          }
+         ]
+        }
+       ],
+       "origin": "ppt:43"
+      },
+      {
+       "id": "n0166",
+       "kind": "group",
+       "title": "絕區零",
+       "status": "playing",
+       "entries": [
+        {
+         "id": "e0203",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "邦布帮",
+           "url": "https://space.bilibili.com/3546578054810019?spm_id_from=333.337.0.0"
+          },
+          {
+           "text": "(2024跟上)、"
+          },
+          {
+           "text": "绝区零第一可爱兔宝",
+           "url": "https://space.bilibili.com/3546687932991974?spm_id_from=333.337.0.0"
+          },
+          {
+           "text": "(2024跟上)、"
+          },
+          {
+           "text": "嘉音官方",
+           "url": "https://space.bilibili.com/3546814468852001"
+          },
+          {
+           "text": "(跟上)"
+          }
+         ]
+        }
+       ],
+       "origin": "ppt:43"
+      }
+     ],
+     "origin": "ppt:1"
+    },
+    {
+     "id": "n0033",
+     "kind": "company",
+     "title": "鷹角網路",
+     "children": [
+      {
+       "id": "n0167",
+       "kind": "group",
+       "title": "明日方舟",
+       "entries": [
+        {
+         "id": "e0204",
+         "section": "main",
+         "type": "lore",
+         "segments": [
+          {
+           "text": "主線",
+           "url": "https://prts.wiki/w/%E5%85%B3%E5%8D%A1%E4%B8%80%E8%A7%88/%E4%B8%BB%E9%A2%98%E6%9B%B2"
+          },
+          {
+           "text": "("
+          },
+          {
+           "text": "劇情解說",
+           "url": "https://www.bilibili.com/video/BV1xW4y1H7Xe/?spm_id_from=333.337.search-card.all.click",
+           "playlist": true
+          },
+          {
+           "text": ","
+          },
+          {
+           "text": "第0~9章",
+           "url": "https://www.bilibili.com/video/BV1a7V5z5Eci/?spm_id_from=333.337.search-card.all.click",
+           "mark": "video",
+           "playlist": true
+          },
+          {
+           "text": ","
+          },
+          {
+           "text": "第五章絕境(後四部)",
+           "url": "https://www.bilibili.com/video/BV1RB4y1Q78t?spm_id_from=333.788.videopod.episodes&p=12",
+           "playlist": true
+          },
+          {
+           "text": ")"
+          }
+         ]
+        },
+        {
+         "id": "e0205",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "物資籌備("
+          },
+          {
+           "text": "戰術演習",
+           "url": "https://www.bilibili.com/video/BV1z4411v7CB/?spm_id_from=333.788.recommend_more_video.0&trackid=web_related_0.router-related-2479604-tdxs9.1776503390013.144",
+           "playlist": true
+          },
+          {
+           "text": ","
+          },
+          {
+           "text": "貨物運送",
+           "url": "https://www.bilibili.com/video/BV1b4411a7mE/?spm_id_from=333.788.recommend_more_video.1&trackid=web_related_0.router-related-2479604-gjmc5.1776503393828.527",
+           "playlist": true
+          },
+          {
+           "text": ","
+          },
+          {
+           "text": "粉碎防禦",
+           "url": "https://www.bilibili.com/video/BV1NhZtYzEdg?spm_id_from=333.788.videopod.sections",
+           "playlist": true
+          },
+          {
+           "text": ","
+          },
+          {
+           "text": "資源保障",
+           "url": "https://www.bilibili.com/video/BV1CvdLY8Ets?spm_id_from=333.788.videopod.sections",
+           "playlist": true
+          },
+          {
+           "text": ","
+          },
+          {
+           "text": "空中威脅",
+           "url": "https://www.bilibili.com/video/BV1NhZtYzE9X/?spm_id_from=333.337.search-card.all.click",
+           "playlist": true
+          },
+          {
+           "text": ")、"
+          },
+          {
+           "text": "晶片搜索",
+           "url": "https://www.bilibili.com/video/BV1t4411Y7hp/?spm_id_from=333.788.recommend_more_video.2&trackid=web_related_0.router-related-2479604-6dnm7.1776504420864.753",
+           "playlist": true
+          },
+          {
+           "text": "，"
+          },
+          {
+           "text": "剿滅作戰",
+           "url": "https://www.bilibili.com/video/BV1YdydBtEeM/?spm_id_from=333.337.search-card.all.click"
+          },
+          {
+           "text": ")"
+          }
+         ]
+        },
+        {
+         "id": "e0206",
+         "section": "main",
+         "type": "lore",
+         "segments": [
+          {
+           "text": "活動",
+           "url": "https://prts.wiki/w/%E5%85%B3%E5%8D%A1%E4%B8%80%E8%A7%88/%E6%B4%BB%E5%8A%A8%E5%85%B3%E5%8D%A1"
+          },
+          {
+           "text": "("
+          },
+          {
+           "text": "Side Story劇情解說",
+           "url": "https://www.bilibili.com/video/BV1Z9Q7YnEBp/?spm_id_from=333.337.search-card.all.click",
+           "playlist": true
+          },
+          {
+           "text": ","
+          },
+          {
+           "text": "騎兵與獵人",
+           "url": "https://www.bilibili.com/video/BV174411H79W/?spm_id_from=333.337.search-card.all.click",
+           "playlist": true
+          },
+          {
+           "text": ","
+          },
+          {
+           "text": "火藍之心",
+           "url": "https://www.bilibili.com/video/BV1e4411B7AK/?spm_id_from=333.788.recommend_more_video.0&trackid=web_related_0.router-related-2479604-t4rlm.1776607528590.887",
+           "playlist": true
+          },
+          {
+           "text": ","
+          },
+          {
+           "text": "喧鬧法則",
+           "url": "https://www.bilibili.com/video/BV1qy4y167UX/?spm_id_from=333.337.search-card.all.click",
+           "playlist": true
+          },
+          {
+           "text": "("
+          },
+          {
+           "text": "EX關卡",
+           "url": "https://www.bilibili.com/video/BV1HJ411X7dS/?spm_id_from=333.337.search-card.all.click",
+           "playlist": true
+          },
+          {
+           "text": "),"
+          },
+          {
+           "text": "生於黑夜",
+           "url": "https://www.youtube.com/playlist?list=PLNgrku2z_iBkqFyc5mUKouXRiwkphQjZI",
+           "playlist": true
+          },
+          {
+           "text": ")"
+          }
+         ]
+        },
+        {
+         "id": "e0207",
+         "section": "main",
+         "type": "lore",
+         "segments": [
+          {
+           "text": "故事集(戰地祕聞(劇情"
+          },
+          {
+           "text": "上",
+           "url": "https://www.bilibili.com/video/BV1rE411r7xQ/?spm_id_from=333.337.search-card.all.click"
+          },
+          {
+           "text": ","
+          },
+          {
+           "text": "中",
+           "url": "https://www.bilibili.com/video/BV12E411k7wo?spm_id_from=333.788.videopod.sections"
+          },
+          {
+           "text": ","
+          },
+          {
+           "text": "下",
+           "url": "https://www.bilibili.com/video/BV1uE411a78D?spm_id_from=333.788.videopod.sections"
+          },
+          {
+           "text": ","
+          },
+          {
+           "text": "關卡",
+           "url": "https://www.bilibili.com/video/BV19E411k78a/?spm_id_from=333.337.search-card.all.click",
+           "playlist": true
+          },
+          {
+           "text": ")"
+          }
+         ]
+        },
+        {
+         "id": "e0208",
+         "section": "main",
+         "type": "lore",
+         "segments": [
+          {
+           "text": "洪爐示歲("
+          },
+          {
+           "text": "劇情",
+           "url": "https://www.bilibili.com/video/BV1AJ411E7mQ?spm_id_from=333.788.videopod.sections"
+          },
+          {
+           "text": "(細節分析"
+          },
+          {
+           "text": "上",
+           "url": "https://www.bilibili.com/video/BV1P7411q7v1/?spm_id_from=333.788.videopod.sections"
+          },
+          {
+           "text": ","
+          },
+          {
+           "text": "下",
+           "url": "https://www.bilibili.com/video/BV1U7411s79T/?spm_id_from=333.788.videopod.sections"
+          },
+          {
+           "text": "),"
+          },
+          {
+           "text": "關卡",
+           "url": "https://www.bilibili.com/video/BV1YJ411G7kt/?spm_id_from=333.337.search-card.all.click",
+           "playlist": true
+          },
+          {
+           "text": ")、午間逸話("
+          },
+          {
+           "text": "劇情",
+           "url": "https://www.bilibili.com/video/BV1e7411P7Su?spm_id_from=333.788.videopod.sections"
+          },
+          {
+           "text": ","
+          },
+          {
+           "text": "關卡",
+           "url": "https://www.bilibili.com/video/BV1L7411M7Sz/?spm_id_from=333.337.search-card.all.click",
+           "playlist": true
+          },
+          {
+           "text": "))"
+          }
+         ]
+        },
+        {
+         "id": "e0209",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "官方頻道影片",
+           "url": "https://space.bilibili.com/161775300/upload/video",
+           "playlist": true
+          },
+          {
+           "text": "、"
+          },
+          {
+           "text": "Wiki",
+           "url": "https://prts.wiki/w/%E5%AE%A2%E6%88%B7%E7%AB%AF%E7%89%88%E6%9C%AC"
+          },
+          {
+           "text": "、"
+          },
+          {
+           "text": "衍生作品",
+           "url": "https://prts.wiki/w/%E8%A1%8D%E7%94%9F%E4%BD%9C%E5%93%81"
+          },
+          {
+           "text": "、視頻徵集企劃("
+          },
+          {
+           "text": "1~9",
+           "url": "https://forum.gamer.com.tw/C.php?bsn=33651&snA=3553"
+          },
+          {
+           "text": ","
+          },
+          {
+           "text": "10",
+           "url": "https://www.bilibili.com/blackboard/activity-mrfzslrg.html"
+          },
+          {
+           "text": ","
+          },
+          {
+           "text": "11",
+           "url": "https://www.bilibili.com/blackboard/activity-mrfzayzj.html"
+          },
+          {
+           "text": ","
+          },
+          {
+           "text": "12",
+           "url": "https://www.bilibili.com/blackboard/activity-mrfzyzhj.html?spm_id_from=333.1369.0.0"
+          },
+          {
+           "text": ","
+          },
+          {
+           "text": "13",
+           "url": "https://mrfz.biligame.com/eznzj/"
+          },
+          {
+           "text": ","
+          },
+          {
+           "text": "14",
+           "url": "https://mrfz.biligame.com/zjym/"
+          },
+          {
+           "text": ","
+          },
+          {
+           "text": "15",
+           "url": "http://mrfz.biligame.com/fblw/"
+          },
+          {
+           "text": ","
+          },
+          {
+           "text": "16",
+           "url": "https://www.bilibili.com/blackboard/activity-rhYkzOXhqI.html"
+          }
+         ]
+        },
+        {
+         "id": "e0210",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "17",
+           "url": "https://www.bilibili.com/blackboard/activity-9mljSJDXgg.html"
+          },
+          {
+           "text": ")"
+          }
+         ]
+        },
+        {
+         "id": "e0211",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "危機合約",
+           "url": "https://www.bilibili.com/video/BV1QE411C7mr/?spm_id_from=333.337.search-card.all.click"
+          },
+          {
+           "text": "(2019("
+          },
+          {
+           "text": "59区废墟25級",
+           "url": "https://www.bilibili.com/video/BV1ZJ411X7vC/?spm_id_from=333.337.search-card.all.click"
+          },
+          {
+           "text": ","
+          },
+          {
+           "text": "合集",
+           "url": "https://www.bilibili.com/video/BV1CJ41117de?spm_id_from=333.788.videopod.episodes&p=9",
+           "playlist": true
+          },
+          {
+           "text": "),"
+          },
+          {
+           "text": "荒蕪行動",
+           "url": "https://www.bilibili.com/video/BV1V7411o78J/?spm_id_from=333.337.search-card.all.click",
+           "playlist": true
+          },
+          {
+           "text": ")"
+          }
+         ]
+        }
+       ],
+       "children": [
+        {
+         "id": "n0168",
+         "kind": "group",
+         "title": "賽壬唱片",
+         "links": [
+          {
+           "text": "賽壬唱片",
+           "url": "https://monster-siren.hypergryph.com/"
+          },
+          {
+           "text": ","
+          },
+          {
+           "text": "Wiki",
+           "url": "https://prts.wiki/w/%E8%A1%8D%E7%94%9F%E4%BD%9C%E5%93%81/%E9%9F%B3%E4%B9%90"
+          }
+         ],
+         "origin": "ppt:44"
+        },
+        {
+         "id": "n0169",
+         "kind": "group",
+         "title": "終末地 鐵痕電台",
+         "status": "playing",
+         "links": [
+          {
+           "text": "終末地",
+           "mark": "playing"
+          },
+          {
+           "text": " "
+          },
+          {
+           "text": "鐵痕電台",
+           "url": "https://music.youtube.com/channel/UC_wSsatRjjuF1xPlN9mtAPw"
+          }
+         ],
+         "origin": "ppt:44"
+        }
+       ],
+       "origin": "ppt:43"
+      }
+     ],
+     "origin": "ppt:1"
+    },
+    {
+     "id": "n0034",
+     "kind": "company",
+     "title": "網易",
+     "children": [
+      {
+       "id": "n0170",
+       "kind": "group",
+       "title": "燕雲十六聲",
+       "status": "dropped",
+       "entries": [
+        {
+         "id": "e0212",
+         "section": "main",
+         "type": "lore",
+         "segments": [
+          {
+           "text": "全劇情",
+           "url": "https://www.bilibili.com/video/BV17e6GY6EmC/?spm_id_from=333.337.search-card.all.click",
+           "playlist": true
+          },
+          {
+           "text": "(包含主章與殘章)"
+          }
+         ]
+        },
+        {
+         "id": "e0213",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "武林錄全收集("
+          },
+          {
+           "text": "清河開封河西",
+           "url": "https://space.bilibili.com/353987104/lists/4445528?type=season",
+           "playlist": true
+          },
+          {
+           "text": ",)"
+          }
+         ]
+        },
+        {
+         "id": "e0214",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "更新日誌",
+           "url": "https://www.wherewindsmeetgame.com/hmt/news/index_4.html"
+          },
+          {
+           "text": ","
+          },
+          {
+           "text": "遊戲相關資料",
+           "url": "https://game8.co/games/Where-Winds-Meet"
+          },
+          {
+           "text": "(英文)"
+          }
+         ]
+        }
+       ],
+       "origin": "ppt:44"
+      }
+     ],
+     "origin": "ppt:1"
+    }
+   ],
+   "origin": "ppt:1"
+  },
+  {
+   "id": "n0035",
+   "kind": "region",
+   "title": "Taiwan",
+   "children": [
+    {
+     "id": "n0036",
+     "kind": "company",
+     "title": "大宇資訊",
+     "children": [
+      {
+       "id": "n0171",
+       "kind": "group",
+       "title": "仙劍奇俠傳",
+       "entries": [
+        {
+         "id": "e0215",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "仙一DOS版",
+           "url": "https://www.youtube.com/playlist?list=PLpfAxniIs1LbuSbvM893K8UiSoox13xzI",
+           "channel": "舞秋風"
+          }
+         ]
+        },
+        {
+         "id": "e0216",
+         "section": "main",
+         "type": "music",
+         "segments": [
+          {
+           "text": "仙五前傳",
+           "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjsoP8PFN1JQVJi2YUm64WWz",
+           "channel": "舞秋風"
+          },
+          {
+           "text": "、"
+          },
+          {
+           "text": "全技能展示",
+           "url": "https://www.youtube.com/watch?v=lTZ75RDcykc"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "vgmdb",
+           "url": "https://vgmdb.net/album/106326"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "spotify",
+           "url": "https://open.spotify.com/album/0dvX9m0J8f0AqNk1R8TmzD",
+           "mark": "music"
+          }
+         ]
+        }
+       ],
+       "children": [
+        {
+         "id": "n0172",
+         "kind": "group",
+         "title": "阿貓阿狗",
+         "entries": [
+          {
+           "id": "e0217",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "阿貓阿狗",
+             "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjtmZJTuRcIIp4-NNFtUq6J1",
+             "playlist": true,
+             "channel": "舞秋風"
+            }
+           ]
+          }
+         ],
+         "origin": "ppt:45"
+        }
+       ],
+       "origin": "ppt:45"
+      }
+     ],
+     "origin": "ppt:1"
+    }
+   ],
+   "origin": "ppt:1"
+  }
+ ]
+}
