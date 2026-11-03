@@ -635,14 +635,8 @@
    "title": "Early Games (維基百科)",
    "links": [
     {
-     "text": "Early Games ("
-    },
-    {
      "text": "維基百科",
      "url": "https://zh.wikipedia.org/wiki/%E6%97%A9%E6%9C%9F%E9%9B%BB%E5%AD%90%E9%81%8A%E6%88%B2%E5%8F%B2"
-    },
-    {
-     "text": ")"
     }
    ],
    "entries": [
@@ -837,14 +831,8 @@
      "title": "Battle City (啾啾鞋解說)",
      "links": [
       {
-       "text": "Battle City ("
-      },
-      {
        "text": "啾啾鞋解說",
        "url": "https://www.youtube.com/watch?v=fMpt4T90Wwk"
-      },
-      {
-       "text": ")"
       }
      ],
      "origin": "ppt:49"
@@ -884,21 +872,12 @@
        "title": "game list wiki, video",
        "links": [
         {
-         "text": "(game list "
-        },
-        {
          "text": "wiki",
          "url": "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_video_games"
         },
         {
-         "text": ", "
-        },
-        {
          "text": "video",
          "url": "https://www.youtube.com/watch?v=o0_P7akjNAQ"
-        },
-        {
-         "text": ")"
         }
        ],
        "origin": "ppt:49"
@@ -1132,9 +1111,6 @@
          "url": "https://www.youtube.com/watch?v=UWQK-Q5sLKg"
         },
         {
-         "text": ", "
-        },
-        {
          "text": "Evo. 1979-2021",
          "url": "https://www.youtube.com/watch?v=diEF059e4Mo&pp=ygUSd2l6YXJkcnkgZXZvbHV0aW9u"
         }
@@ -1150,21 +1126,12 @@
      "title": "Zork I, II, III",
      "links": [
       {
-       "text": "Zork "
-      },
-      {
        "text": "I",
        "url": "https://www.youtube.com/watch?v=mWNgQdybISA"
       },
       {
-       "text": ", "
-      },
-      {
        "text": "II",
        "url": "https://www.youtube.com/watch?v=9NSzlFmshj8"
-      },
-      {
-       "text": ", "
       },
       {
        "text": "III",
@@ -1688,15 +1655,9 @@
      "title": "Into The Dead 1 2",
      "links": [
       {
-       "text": "Into The Dead "
-      },
-      {
        "text": "1",
        "url": "https://www.youtube.com/playlist?list=PLGtZwVE-T07soQOxRRzB2dhKmL7FZ7oBj",
        "playlist": true
-      },
-      {
-       "text": " "
       },
       {
        "text": "2",
@@ -1717,19 +1678,9 @@
        "title": "Kingdom Rush",
        "links": [
         {
-         "text": "Kingdom Rush ",
-         "mark": "playing"
-        },
-        {
-         "text": "("
-        },
-        {
          "text": "全流程攻略",
          "url": "https://www.bilibili.com/video/BV1Bg411a7fN?spm_id_from=333.788.videopod.episodes",
          "playlist": true
-        },
-        {
-         "text": ")"
         }
        ],
        "origin": "ppt:52"

@@ -33,7 +33,7 @@
 | `source` | | 動漫的原作媒介：`light-novel`、`manga`、`game`、`original` |
 | `release` | | 發行／上映日期，見下方說明 |
 | `tags` | | 字串陣列，自由標籤 |
-| `links` | | Segment 陣列，標題旁的連結（例如 Wiki） |
+| `links` | | Segment 陣列，標題連結。作品層級的 Wiki 放這裡；文字跟 `title` 相同的那個連結會直接掛在標題上，其餘排在標題下方。只放有 `url` 的 segment，不要放標點或空白。某一季、某張專輯的 Wiki 留在該筆紀錄裡 |
 | `notes` | | 字串陣列，備註 |
 | `extra` | | `{ "欄位名": "字串" }`，自訂欄位，之後想記錄新類型資訊時使用 |
 | `entries` | | Entry 陣列，這個項目的紀錄（為空時省略此欄位） |

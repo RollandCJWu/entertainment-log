@@ -312,10 +312,18 @@ function viewNode(id) {
   ].join('');
   const extra = n.extra && Object.keys(n.extra).length
     ? `<div class="block"><table class="tbl card">${Object.entries(n.extra).map(([k, v]) => `<tr><th>${esc(k)}</th><td>${esc(v)}</td></tr>`).join('')}</table></div>` : '';
+  // 標題連結：跟標題同名的連結（通常是作品 Wiki）直接掛在標題上，其餘排成一列
+  const norm = (t) => t.replace(/\s+/g, ' ').trim().toLowerCase();
+  const links = (n.links || []).filter((x) => x.url);
+  const main = links.find((x) => norm(x.text) === norm(n.title));
+  const others = links.filter((x) => x !== main);
+  const titleHtml = main
+    ? `<a class="title-link" href="${esc(main.url)}" target="_blank" rel="noopener noreferrer" title="${esc(siteOf(main.url))}">${esc(n.title)}</a>`
+    : esc(n.title);
   return `${crumbs(rec.path, rec.section)}
-    <h1 class="title">${esc(n.title)}</h1>
+    <h1 class="title">${titleHtml}</h1>
     <div class="meta-row">${tags}</div>
-    ${n.links && n.links.length ? `<div class="meta-row">${segsHtml(n.links)}</div>` : ''}
+    ${others.length ? `<div class="meta-row title-links">${others.map((x) => segsHtml([{ ...x, text: x.text.trim() }])).join('')}</div>` : ''}
     ${n.notes && n.notes.length ? `<div class="notes">${n.notes.map((t) => `<p>${esc(t)}</p>`).join('')}</div>` : ''}
     ${state.editing ? nodeEditorHtml(n, rec) : ''}
     ${extra}

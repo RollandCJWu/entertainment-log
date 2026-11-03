@@ -469,14 +469,8 @@
        "title": "Blood (解說)",
        "links": [
         {
-         "text": "Blood ("
-        },
-        {
          "text": "解說",
          "url": "https://www.bilibili.com/video/BV137411975k/?spm_id_from=333.337.search-card.all.click"
-        },
-        {
-         "text": ")"
         }
        ],
        "origin": "ppt:7"
@@ -709,19 +703,9 @@
          "status": "played",
          "links": [
           {
-           "text": "Plants VS. Zombie 1 ",
-           "mark": "played"
-          },
-          {
-           "text": "(同人衍生作: "
-          },
-          {
            "text": "恐怖版",
            "url": "https://www.bilibili.com/video/BV1Y4bi6aEQS/?spm_id_from=333.337.search-card.all.click",
            "playlist": true
-          },
-          {
-           "text": ")"
           }
          ],
          "origin": "ppt:9"
@@ -884,9 +868,6 @@
        "kind": "series",
        "title": "女神轉生系列 世界觀解析",
        "links": [
-        {
-         "text": "女神轉生系列 "
-        },
         {
          "text": "世界觀解析",
          "url": "https://www.bilibili.com/video/BV1MD4y1c7fV?spm_id_from=333.788.videopod.sections"
@@ -1153,9 +1134,6 @@
          "title": "系列解說：數位惡魔傳說",
          "links": [
           {
-           "text": "系列解說："
-          },
-          {
            "text": "數位惡魔傳說",
            "url": "https://www.bilibili.com/video/BV1Cg4y157Sw?spm_id_from=333.788.videopod.sections"
           }
@@ -1168,21 +1146,12 @@
          "title": "系列解說：惡魔倖存者(1,2)",
          "links": [
           {
-           "text": "系列解說：惡魔倖存者("
-          },
-          {
            "text": "1",
            "url": "https://www.bilibili.com/video/BV1mu41157FC?spm_id_from=333.788.videopod.sections"
           },
           {
-           "text": ","
-          },
-          {
            "text": "2",
            "url": "https://www.bilibili.com/video/BV1nu4y1p7tq?spm_id_from=333.788.videopod.sections"
-          },
-          {
-           "text": ")"
           }
          ],
          "origin": "ppt:11"
@@ -1195,9 +1164,6 @@
           {
            "text": "系列解說",
            "url": "https://www.bilibili.com/video/BV1yK411x7Vs/?spm_id_from=333.788.videopod.sections"
-          },
-          {
-           "text": "：女神異聞錄"
           }
          ],
          "entries": [
@@ -2142,9 +2108,6 @@
          "url": "https://www.youtube.com/watch?v=XFMw0p_Co6Y"
         },
         {
-         "text": " "
-        },
-        {
          "text": "OST",
          "url": "https://www.youtube.com/watch?v=cU5oekU-764"
         }
@@ -2336,16 +2299,6 @@
        "title": "Jackal, Kung-Fu Master",
        "status": "played",
        "links": [
-        {
-         "text": "Jackal",
-         "mark": "played"
-        },
-        {
-         "text": ","
-        },
-        {
-         "text": " "
-        },
         {
          "text": "Kung-Fu Master",
          "url": "https://www.youtube.com/watch?v=EgO4HtWIJjQ&pp=ygUYa3VuZyBmdSBtYXN0ZXIgZ2FtZSAxOTg0"
@@ -3067,14 +3020,8 @@
          "title": "Donkey Kong (Evo.)",
          "links": [
           {
-           "text": "(Sub) Donkey Kong ("
-          },
-          {
            "text": "Evo.",
            "url": "https://www.youtube.com/watch?v=VJdlFxSOhZc"
-          },
-          {
-           "text": ")"
           }
          ],
          "children": [
@@ -3245,6 +3192,10 @@
         {
          "text": "Pokemon",
          "url": "https://pokemon.fandom.com/wiki/Pok%C3%A9mon_Wiki"
+        },
+        {
+         "text": "動畫 Wiki",
+         "url": "https://pokemon.fandom.com/wiki/List_of_Pok%C3%A9mon_the_Series_series_and_seasons"
         }
        ],
        "entries": [
@@ -3305,16 +3256,6 @@
          "segments": [
           {
            "text": "Gen 5  White"
-          }
-         ]
-        },
-        {
-         "id": "e0120",
-         "type": "music",
-         "segments": [
-          {
-           "text": "Wiki",
-           "url": "https://pokemon.fandom.com/wiki/List_of_Pok%C3%A9mon_the_Series_series_and_seasons"
           }
          ]
         },
@@ -3531,14 +3472,8 @@
        "title": "Zelda (世界觀)",
        "links": [
         {
-         "text": "Zelda ("
-        },
-        {
          "text": "世界觀",
          "url": "https://www.bilibili.com/video/BV18m4y1t7cf/?spm_id_from=333.337.search-card.all.click"
-        },
-        {
-         "text": ")"
         }
        ],
        "children": [
@@ -4074,14 +4009,8 @@
          "title": "Drakengard (系列世界觀解讀)",
          "links": [
           {
-           "text": "Drakengard ("
-          },
-          {
            "text": "系列世界觀解讀",
            "url": "https://www.bilibili.com/video/BV1XZ4y1H7fB?spm_id_from=333.788.recommend_more_video.0"
-          },
-          {
-           "text": ")"
           }
          ],
          "children": [
@@ -4091,23 +4020,14 @@
            "title": "Drakengard 1, 劇情解讀",
            "links": [
             {
-             "text": "{ "
-            },
-            {
              "text": "Drakengard 1",
              "url": "https://www.bilibili.com/video/BV17J411h7hG?spm_id_from=333.788.videopod.episodes",
              "mark": "video",
              "playlist": true
             },
             {
-             "text": ", "
-            },
-            {
              "text": "劇情解讀",
              "url": "https://www.bilibili.com/video/BV1LT4y1G7t3/?spm_id_from=333.788.video.desc.click"
-            },
-            {
-             "text": "}"
             }
            ],
            "origin": "ppt:33"
@@ -4121,14 +4041,8 @@
          "title": "Nier (尼爾編年史)",
          "links": [
           {
-           "text": "Nier ("
-          },
-          {
            "text": "尼爾編年史",
            "url": "https://www.bilibili.com/video/BV1984y127Qb/?spm_id_from=333.788.recommend_more_video.0&trackid=web_related_0.router-related-2206146-j2qzm.1765614643664.143"
-          },
-          {
-           "text": ")"
           }
          ],
          "children": [
@@ -4137,9 +4051,6 @@
            "kind": "group",
            "title": "Nier Replicant ver.1.22474487139…",
            "links": [
-            {
-             "text": "Nier { "
-            },
             {
              "text": "Replicant ver.1.22474487139…",
              "url": "https://www.youtube.com/playlist?list=PLwFY2FRIQ7pf3awtlKTWKQ7D0v8rwfBUA",
@@ -4177,14 +4088,8 @@
          "title": "單機劇情解說",
          "links": [
           {
-           "text": "("
-          },
-          {
            "text": "單機劇情解說",
            "url": "https://www.bilibili.com/video/BV1254y1a7NL?spm_id_from=333.788.videopod.sections"
-          },
-          {
-           "text": ")"
           }
          ],
          "entries": [
@@ -4288,14 +4193,8 @@
          "title": "Final Fantasy I & II",
          "links": [
           {
-           "text": "˙"
-          },
-          {
            "text": "Final Fantasy I & II",
            "url": "https://finalfantasy.fandom.com/wiki/Music_of_Final_Fantasy#Final_Fantasy_.26_Final_Fantasy_II"
-          },
-          {
-           "text": ":"
           }
          ],
          "entries": [
@@ -4350,14 +4249,8 @@
          "title": "Final Fantasy III",
          "links": [
           {
-           "text": "˙"
-          },
-          {
            "text": "Final Fantasy III",
            "url": "https://finalfantasy.fandom.com/wiki/Music_of_Final_Fantasy#Final_Fantasy_III"
-          },
-          {
-           "text": ":"
           }
          ],
          "entries": [
@@ -4412,14 +4305,8 @@
          "title": "Final Fantasy IV",
          "links": [
           {
-           "text": "˙"
-          },
-          {
            "text": "Final Fantasy IV",
            "url": "https://finalfantasy.fandom.com/wiki/Music_of_Final_Fantasy#Final_Fantasy_IV"
-          },
-          {
-           "text": ":"
           }
          ],
          "entries": [
@@ -4498,14 +4385,8 @@
          "title": "Final Fantasy V",
          "links": [
           {
-           "text": "˙"
-          },
-          {
            "text": "Final Fantasy V",
            "url": "https://finalfantasy.fandom.com/wiki/Music_of_Final_Fantasy#Final_Fantasy_V"
-          },
-          {
-           "text": ":"
           }
          ],
          "entries": [
@@ -4569,14 +4450,8 @@
          "title": "Final Fantasy VI",
          "links": [
           {
-           "text": "˙"
-          },
-          {
            "text": "Final Fantasy VI",
            "url": "https://finalfantasy.fandom.com/wiki/Music_of_Final_Fantasy#Final_Fantasy_VI"
-          },
-          {
-           "text": ":"
           }
          ],
          "entries": [
@@ -4639,14 +4514,8 @@
            "title": "Final Fantasy VII",
            "links": [
             {
-             "text": "˙"
-            },
-            {
              "text": "Final Fantasy VII",
              "url": "https://finalfantasy.fandom.com/wiki/Music_of_Final_Fantasy#Final_Fantasy_VII"
-            },
-            {
-             "text": ":"
             }
            ],
            "entries": [
@@ -4695,14 +4564,8 @@
            "title": "Final Fantasy VIII",
            "links": [
             {
-             "text": "˙"
-            },
-            {
              "text": "Final Fantasy VIII",
              "url": "https://finalfantasy.fandom.com/wiki/Music_of_Final_Fantasy#Final_Fantasy_VIII"
-            },
-            {
-             "text": ":"
             }
            ],
            "entries": [
@@ -4780,14 +4643,8 @@
            "title": "Final Fantasy IX",
            "links": [
             {
-             "text": "˙"
-            },
-            {
              "text": "Final Fantasy IX",
              "url": "https://finalfantasy.fandom.com/wiki/Music_of_Final_Fantasy#Final_Fantasy_IX"
-            },
-            {
-             "text": ":"
             }
            ],
            "entries": [
@@ -4836,14 +4693,8 @@
            "title": "Final Fantasy X",
            "links": [
             {
-             "text": "˙"
-            },
-            {
              "text": "Final Fantasy X",
              "url": "https://finalfantasy.fandom.com/wiki/Music_of_Final_Fantasy#Final_Fantasy_X"
-            },
-            {
-             "text": ":"
             }
            ],
            "entries": [
@@ -5255,9 +5106,6 @@
           {
            "text": "Arkanoid 1986",
            "url": "https://www.youtube.com/watch?v=Th-Z6QQ5AOQ"
-          },
-          {
-           "text": " "
           },
           {
            "text": "Revenge of Doh",
@@ -6166,13 +6014,6 @@
            "text": "、"
           },
           {
-           "text": "Wiki",
-           "url": "https://prts.wiki/w/%E5%AE%A2%E6%88%B7%E7%AB%AF%E7%89%88%E6%9C%AC"
-          },
-          {
-           "text": "、"
-          },
-          {
            "text": "衍生作品",
            "url": "https://prts.wiki/w/%E8%A1%8D%E7%94%9F%E4%BD%9C%E5%93%81"
           },
@@ -6295,9 +6136,6 @@
            "url": "https://monster-siren.hypergryph.com/"
           },
           {
-           "text": ","
-          },
-          {
            "text": "Wiki",
            "url": "https://prts.wiki/w/%E8%A1%8D%E7%94%9F%E4%BD%9C%E5%93%81/%E9%9F%B3%E4%B9%90"
           }
@@ -6311,13 +6149,6 @@
          "status": "playing",
          "links": [
           {
-           "text": "終末地",
-           "mark": "playing"
-          },
-          {
-           "text": " "
-          },
-          {
            "text": "鐵痕電台",
            "url": "https://music.youtube.com/channel/UC_wSsatRjjuF1xPlN9mtAPw"
           }
@@ -6325,7 +6156,13 @@
          "origin": "ppt:44"
         }
        ],
-       "origin": "ppt:43"
+       "origin": "ppt:43",
+       "links": [
+        {
+         "text": "Wiki",
+         "url": "https://prts.wiki/w/%E5%AE%A2%E6%88%B7%E7%AB%AF%E7%89%88%E6%9C%AC"
+        }
+       ]
       }
      ],
      "origin": "ppt:1"
