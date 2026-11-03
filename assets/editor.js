@@ -124,11 +124,8 @@ function commitDialog() {
 }
 
 // ------------------------------------------------------------------ node editor
-const SECTION_LABEL = { main: '紀錄', music: '音樂' };
-
-function entryRow(e = { id: newId('e'), section: 'main', type: 'video', segments: [] }) {
+function entryRow(e = { id: newId('e'), type: 'video', segments: [] }) {
   return `<div class="e-edit" data-eid="${esc(e.id)}">
-    ${select('section', SECTION_LABEL, e.section || 'main')}
     ${select('type', TYPE_LABEL, e.type || '', '遊玩（依標記）')}
     <div class="e-text">
       <textarea name="markup" rows="2" aria-label="內容">${esc(segsToMarkup(e.segments))}</textarea>
@@ -216,7 +213,7 @@ export function bindNodeEditor(id) {
     if (!act) return;
     if (act === 'add-entry') {
       const last = n.entries && n.entries.length ? n.entries[n.entries.length - 1] : null;
-      $('#entry-rows').insertAdjacentHTML('beforeend', entryRow({ id: newId('e'), section: last ? last.section : 'main', type: last ? last.type : 'video', segments: [] }));
+      $('#entry-rows').insertAdjacentHTML('beforeend', entryRow({ id: newId('e'), type: last ? last.type : 'video', segments: [] }));
       $('#entry-rows').lastElementChild.querySelector('textarea').focus();
     }
     if (act === 'add-kv') $('#kv-rows').insertAdjacentHTML('beforeend', kvRow());
@@ -268,7 +265,8 @@ export function bindNodeEditor(id) {
       const old = (n.entries || []).find((x) => x.id === row.dataset.eid) || {};
       const notes = row.querySelector('[name=notes]').value.split('\n').map((x) => x.trim()).filter(Boolean);
       const type = row.querySelector('[name=type]').value;
-      const ent = { ...old, id: row.dataset.eid, section: row.querySelector('[name=section]').value, type, segments: segs };
+      const ent = { ...old, id: row.dataset.eid, type, segments: segs };
+      delete ent.section;
       if (!type) delete ent.type;
       if (notes.length) ent.notes = notes; else delete ent.notes;
       entries.push(ent);

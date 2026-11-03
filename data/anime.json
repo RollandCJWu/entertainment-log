@@ -30,7 +30,6 @@
    "entries": [
     {
      "id": "e0344",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -48,7 +47,6 @@
     },
     {
      "id": "e0345",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -66,7 +64,6 @@
     },
     {
      "id": "e0346",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -87,7 +84,6 @@
     },
     {
      "id": "e0347",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -120,7 +116,6 @@
     },
     {
      "id": "e0348",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -138,7 +133,6 @@
     },
     {
      "id": "e0349",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -156,7 +150,6 @@
     },
     {
      "id": "e0350",
-     "section": "main",
      "type": "other",
      "segments": [
       {
@@ -166,7 +159,6 @@
     },
     {
      "id": "e0351",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -187,7 +179,6 @@
     },
     {
      "id": "e0352",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -208,7 +199,6 @@
     },
     {
      "id": "e0353",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -226,7 +216,6 @@
     },
     {
      "id": "e0354",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -236,7 +225,6 @@
     },
     {
      "id": "e0355",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -248,7 +236,6 @@
     },
     {
      "id": "e0356",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -279,7 +266,6 @@
     },
     {
      "id": "e0357",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -290,8 +276,125 @@
      ]
     },
     {
+     "id": "e0365",
+     "type": "other",
+     "segments": [
+      {
+       "text": "SAO the Movie -Ordinal Scale-"
+      }
+     ]
+    },
+    {
+     "id": "e0366",
+     "type": "music",
+     "segments": [
+      {
+       "text": "Theme Song Album",
+       "url": "https://soundcloud.com/user-370340344-147391052/soa-moviest-flac-catch-the-momentmerry-hurry-berryring-a-bellcatch-the-moment-instrumental",
+       "mark": "music"
+      },
+      {
+       "text": ", "
+      },
+      {
+       "text": "Original Soundtrack",
+       "url": "https://www.youtube.com/playlist?list=OLAK5uy_mPkpMD3lMYH5kap0KLVyUEgfjAl3gHYoM",
+       "mark": "music"
+      }
+     ]
+    },
+    {
+     "id": "e0367",
+     "type": "other",
+     "segments": [
+      {
+       "text": "Gun Gale Online"
+      }
+     ]
+    },
+    {
+     "id": "e0368",
+     "type": "music",
+     "segments": [
+      {
+       "text": "ED Album",
+       "url": "https://www.bilibili.com/video/BV1tp411f7vc/?spm_id_from=333.337.search-card.all.click",
+       "mark": "music"
+      },
+      {
+       "text": "、"
+      },
+      {
+       "text": "OP Album",
+       "url": "https://www.youtube.com/playlist?list=OLAK5uy_lKPQG6QYqMhj2NumvlqraoZtTMGzEeD6w",
+       "mark": "music"
+      },
+      {
+       "text": "、"
+      },
+      {
+       "text": "Elza’s Songs",
+       "url": "https://www.youtube.com/playlist?list=OLAK5uy_mCEanKig1u0yGny_th9asmeu20rNtF4Pc",
+       "mark": "music"
+      }
+     ]
+    },
+    {
+     "id": "e0369",
+     "type": "music",
+     "segments": [
+      {
+       "text": "Character Songs & OSTs: "
+      },
+      {
+       "text": "#1",
+       "url": "https://www.bilibili.com/video/BV1bs411H79A/?spm_id_from=333.337.search-card.all.click",
+       "mark": "music"
+      },
+      {
+       "text": "、"
+      },
+      {
+       "text": "#2",
+       "url": "https://www.youtube.com/watch?v=TKETdnkcVvc",
+       "mark": "music"
+      },
+      {
+       "text": "、"
+      },
+      {
+       "text": "#3",
+       "url": "https://www.bilibili.com/video/BV1pt411x7pR/?spm_id_from=333.337.search-card.all.click",
+       "mark": "music"
+      },
+      {
+       "text": "、"
+      },
+      {
+       "text": "#4",
+       "url": "https://www.bilibili.com/video/BV1Ht411x7tC/?spm_id_from=333.999.0.0",
+       "mark": "music"
+      },
+      {
+       "text": "、"
+      },
+      {
+       "text": "#5",
+       "url": "https://soundcloud.com/pink-devil_llenn/special-amore",
+       "mark": "music"
+      },
+      {
+       "text": "、"
+      },
+      {
+       "text": "#6",
+       "url": "https://soundcloud.com/pink-devil_llenn/ame-nochi-hare",
+       "mark": "music"
+      }
+     ]
+    },
+    {
      "id": "e0358",
-     "section": "music",
      "type": "music",
      "segments": [
       {
@@ -334,7 +437,6 @@
     },
     {
      "id": "e0360",
-     "section": "music",
      "type": "music",
      "segments": [
       {
@@ -348,7 +450,6 @@
     },
     {
      "id": "e0361",
-     "section": "music",
      "type": "music",
      "segments": [
       {
@@ -398,7 +499,6 @@
     },
     {
      "id": "e0362",
-     "section": "music",
      "type": "music",
      "segments": [
       {
@@ -413,7 +513,6 @@
     },
     {
      "id": "e0363",
-     "section": "music",
      "type": "music",
      "segments": [
       {
@@ -427,7 +526,6 @@
     },
     {
      "id": "e0364",
-     "section": "music",
      "type": "music",
      "segments": [
       {
@@ -506,129 +604,6 @@
        "text": ")"
       }
      ]
-    },
-    {
-     "id": "e0365",
-     "section": "main",
-     "type": "other",
-     "segments": [
-      {
-       "text": "SAO the Movie -Ordinal Scale-"
-      }
-     ]
-    },
-    {
-     "id": "e0366",
-     "section": "main",
-     "type": "music",
-     "segments": [
-      {
-       "text": "Theme Song Album",
-       "url": "https://soundcloud.com/user-370340344-147391052/soa-moviest-flac-catch-the-momentmerry-hurry-berryring-a-bellcatch-the-moment-instrumental",
-       "mark": "music"
-      },
-      {
-       "text": ", "
-      },
-      {
-       "text": "Original Soundtrack",
-       "url": "https://www.youtube.com/playlist?list=OLAK5uy_mPkpMD3lMYH5kap0KLVyUEgfjAl3gHYoM",
-       "mark": "music"
-      }
-     ]
-    },
-    {
-     "id": "e0367",
-     "section": "main",
-     "type": "other",
-     "segments": [
-      {
-       "text": "Gun Gale Online"
-      }
-     ]
-    },
-    {
-     "id": "e0368",
-     "section": "main",
-     "type": "music",
-     "segments": [
-      {
-       "text": "ED Album",
-       "url": "https://www.bilibili.com/video/BV1tp411f7vc/?spm_id_from=333.337.search-card.all.click",
-       "mark": "music"
-      },
-      {
-       "text": "、"
-      },
-      {
-       "text": "OP Album",
-       "url": "https://www.youtube.com/playlist?list=OLAK5uy_lKPQG6QYqMhj2NumvlqraoZtTMGzEeD6w",
-       "mark": "music"
-      },
-      {
-       "text": "、"
-      },
-      {
-       "text": "Elza’s Songs",
-       "url": "https://www.youtube.com/playlist?list=OLAK5uy_mCEanKig1u0yGny_th9asmeu20rNtF4Pc",
-       "mark": "music"
-      }
-     ]
-    },
-    {
-     "id": "e0369",
-     "section": "main",
-     "type": "music",
-     "segments": [
-      {
-       "text": "Character Songs & OSTs: "
-      },
-      {
-       "text": "#1",
-       "url": "https://www.bilibili.com/video/BV1bs411H79A/?spm_id_from=333.337.search-card.all.click",
-       "mark": "music"
-      },
-      {
-       "text": "、"
-      },
-      {
-       "text": "#2",
-       "url": "https://www.youtube.com/watch?v=TKETdnkcVvc",
-       "mark": "music"
-      },
-      {
-       "text": "、"
-      },
-      {
-       "text": "#3",
-       "url": "https://www.bilibili.com/video/BV1pt411x7pR/?spm_id_from=333.337.search-card.all.click",
-       "mark": "music"
-      },
-      {
-       "text": "、"
-      },
-      {
-       "text": "#4",
-       "url": "https://www.bilibili.com/video/BV1Ht411x7tC/?spm_id_from=333.999.0.0",
-       "mark": "music"
-      },
-      {
-       "text": "、"
-      },
-      {
-       "text": "#5",
-       "url": "https://soundcloud.com/pink-devil_llenn/special-amore",
-       "mark": "music"
-      },
-      {
-       "text": "、"
-      },
-      {
-       "text": "#6",
-       "url": "https://soundcloud.com/pink-devil_llenn/ame-nochi-hare",
-       "mark": "music"
-      }
-     ]
     }
    ],
    "notes": [
@@ -658,7 +633,6 @@
    "entries": [
     {
      "id": "e0370",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -679,7 +653,6 @@
     },
     {
      "id": "e0371",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -702,7 +675,6 @@
     },
     {
      "id": "e0372",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -720,7 +692,6 @@
     },
     {
      "id": "e0373",
-     "section": "music",
      "type": "music",
      "segments": [
       {
@@ -734,7 +705,6 @@
     },
     {
      "id": "e0374",
-     "section": "music",
      "type": "music",
      "segments": [
       {
@@ -756,7 +726,6 @@
     },
     {
      "id": "e0375",
-     "section": "music",
      "type": "music",
      "segments": [
       {
@@ -790,7 +759,6 @@
    "entries": [
     {
      "id": "e0376",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -808,7 +776,6 @@
     },
     {
      "id": "e0377",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -826,7 +793,6 @@
     },
     {
      "id": "e0378",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -844,7 +810,6 @@
     },
     {
      "id": "e0379",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -862,7 +827,6 @@
     },
     {
      "id": "e0380",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -879,8 +843,116 @@
      ]
     },
     {
+     "id": "e0386",
+     "type": "other",
+     "segments": [
+      {
+       "text": "Movie: Legend of Crimson"
+      }
+     ]
+    },
+    {
+     "id": "e0387",
+     "type": "music",
+     "segments": [
+      {
+       "text": "Smoke Signal of Hope for the Clear Blue Sky!: "
+      },
+      {
+       "text": "Wiki",
+       "url": "https://konosuba.fandom.com/wiki/Sumiwataru_Aozora_ni_Kibou_no_Noroshi_wo!"
+      },
+      {
+       "text": ", "
+      },
+      {
+       "text": "vid.",
+       "url": "https://www.bilibili.com/video/BV1DJ411N7t8/?spm_id_from=333.337.search-card.all.click",
+       "mark": "music"
+      }
+     ]
+    },
+    {
+     "id": "e0388",
+     "type": "music",
+     "segments": [
+      {
+       "text": "OP Album: "
+      },
+      {
+       "text": "vid.",
+       "url": "https://www.youtube.com/playlist?list=OLAK5uy_l5pf7hzB-g0TEmeHU6MJj0vUr2tbwaE5g",
+       "mark": "music"
+      },
+      {
+       "text": "；ED Album: "
+      },
+      {
+       "text": "vid.",
+       "url": "https://www.bilibili.com/video/BV1KJ411K7qS/?spm_id_from=333.337.search-card.all.click",
+       "mark": "music"
+      }
+     ]
+    },
+    {
+     "id": "e0389",
+     "type": "reference",
+     "segments": [
+      {
+       "text": "Kono Subarashii Sekai ni Bakuen wo! OST: "
+      },
+      {
+       "text": "Wiki",
+       "url": "https://konosuba.fandom.com/wiki/Kono_Subarashii_Sekai_ni_Bakuen_wo!_Original_Soundtrack"
+      }
+     ]
+    },
+    {
+     "id": "e0390",
+     "type": "music",
+     "segments": [
+      {
+       "text": "vid.",
+       "url": "https://www.bilibili.com/video/BV1Jm4y1V78W/?spm_id_from=333.337.search-card.all.click",
+       "mark": "music"
+      },
+      {
+       "text": " "
+      },
+      {
+       "text": "Disc 2-track 9",
+       "url": "https://www.youtube.com/watch?v=vnAZJFsfQwc&list=PLZF5Y3jDFzoPSgOREAmKYJDyZpfB2GqhD&index=45",
+       "mark": "music"
+      },
+      {
+       "text": " (Missed track)"
+      }
+     ]
+    },
+    {
+     "id": "e0391",
+     "type": "music",
+     "segments": [
+      {
+       "text": "OP Album: "
+      },
+      {
+       "text": "vid.",
+       "url": "https://www.bilibili.com/video/BV1qs4y1c71K/?spm_id_from=333.337.search-card.all.click",
+       "mark": "music"
+      },
+      {
+       "text": "；ED Album: "
+      },
+      {
+       "text": "vid.",
+       "url": "https://www.bilibili.com/video/BV1qP411U7KJ/?spm_id_from=333.999.0.0",
+       "mark": "music"
+      }
+     ]
+    },
+    {
      "id": "e0381",
-     "section": "music",
      "type": "music",
      "segments": [
       {
@@ -902,7 +974,6 @@
     },
     {
      "id": "e0382",
-     "section": "music",
      "type": "music",
      "segments": [
       {
@@ -927,7 +998,6 @@
     },
     {
      "id": "e0383",
-     "section": "music",
      "type": "music",
      "segments": [
       {
@@ -949,7 +1019,6 @@
     },
     {
      "id": "e0384",
-     "section": "music",
      "type": "music",
      "segments": [
       {
@@ -986,7 +1055,6 @@
     },
     {
      "id": "e0385",
-     "section": "music",
      "type": "music",
      "segments": [
       {
@@ -1020,121 +1088,6 @@
        "mark": "music"
       }
      ]
-    },
-    {
-     "id": "e0386",
-     "section": "main",
-     "type": "other",
-     "segments": [
-      {
-       "text": "Movie: Legend of Crimson"
-      }
-     ]
-    },
-    {
-     "id": "e0387",
-     "section": "main",
-     "type": "music",
-     "segments": [
-      {
-       "text": "Smoke Signal of Hope for the Clear Blue Sky!: "
-      },
-      {
-       "text": "Wiki",
-       "url": "https://konosuba.fandom.com/wiki/Sumiwataru_Aozora_ni_Kibou_no_Noroshi_wo!"
-      },
-      {
-       "text": ", "
-      },
-      {
-       "text": "vid.",
-       "url": "https://www.bilibili.com/video/BV1DJ411N7t8/?spm_id_from=333.337.search-card.all.click",
-       "mark": "music"
-      }
-     ]
-    },
-    {
-     "id": "e0388",
-     "section": "main",
-     "type": "music",
-     "segments": [
-      {
-       "text": "OP Album: "
-      },
-      {
-       "text": "vid.",
-       "url": "https://www.youtube.com/playlist?list=OLAK5uy_l5pf7hzB-g0TEmeHU6MJj0vUr2tbwaE5g",
-       "mark": "music"
-      },
-      {
-       "text": "；ED Album: "
-      },
-      {
-       "text": "vid.",
-       "url": "https://www.bilibili.com/video/BV1KJ411K7qS/?spm_id_from=333.337.search-card.all.click",
-       "mark": "music"
-      }
-     ]
-    },
-    {
-     "id": "e0389",
-     "section": "main",
-     "type": "reference",
-     "segments": [
-      {
-       "text": "Kono Subarashii Sekai ni Bakuen wo! OST: "
-      },
-      {
-       "text": "Wiki",
-       "url": "https://konosuba.fandom.com/wiki/Kono_Subarashii_Sekai_ni_Bakuen_wo!_Original_Soundtrack"
-      }
-     ]
-    },
-    {
-     "id": "e0390",
-     "section": "main",
-     "type": "music",
-     "segments": [
-      {
-       "text": "vid.",
-       "url": "https://www.bilibili.com/video/BV1Jm4y1V78W/?spm_id_from=333.337.search-card.all.click",
-       "mark": "music"
-      },
-      {
-       "text": " "
-      },
-      {
-       "text": "Disc 2-track 9",
-       "url": "https://www.youtube.com/watch?v=vnAZJFsfQwc&list=PLZF5Y3jDFzoPSgOREAmKYJDyZpfB2GqhD&index=45",
-       "mark": "music"
-      },
-      {
-       "text": " (Missed track)"
-      }
-     ]
-    },
-    {
-     "id": "e0391",
-     "section": "main",
-     "type": "music",
-     "segments": [
-      {
-       "text": "OP Album: "
-      },
-      {
-       "text": "vid.",
-       "url": "https://www.bilibili.com/video/BV1qs4y1c71K/?spm_id_from=333.337.search-card.all.click",
-       "mark": "music"
-      },
-      {
-       "text": "；ED Album: "
-      },
-      {
-       "text": "vid.",
-       "url": "https://www.bilibili.com/video/BV1qP411U7KJ/?spm_id_from=333.999.0.0",
-       "mark": "music"
-      }
-     ]
     }
    ],
    "notes": [
@@ -1156,7 +1109,6 @@
    "entries": [
     {
      "id": "e0392",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -1181,7 +1133,6 @@
     },
     {
      "id": "e0393",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -1206,7 +1157,6 @@
     },
     {
      "id": "e0394",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -1231,7 +1181,6 @@
     },
     {
      "id": "e0395",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -1256,7 +1205,6 @@
     },
     {
      "id": "e0396",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -1281,7 +1229,6 @@
     },
     {
      "id": "e0397",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -1306,7 +1253,6 @@
     },
     {
      "id": "e0398",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -1330,134 +1276,7 @@
      ]
     },
     {
-     "id": "e0399",
-     "section": "music",
-     "type": "music",
-     "segments": [
-      {
-       "text": "Songs Wiki",
-       "url": "https://zh.wikipedia.org/wiki/%E7%B4%84%E6%9C%83%E5%A4%A7%E4%BD%9C%E6%88%B0_(%E5%8B%95%E7%95%AB)#%E4%B8%BB%E9%A1%8C%E6%9B%B2"
-      }
-     ]
-    },
-    {
-     "id": "e0400",
-     "section": "music",
-     "type": "music",
-     "segments": [
-      {
-       "text": "Season 1 ("
-      },
-      {
-       "text": "OP",
-       "url": "https://www.youtube.com/watch?v=Vz_BqxcdHMM",
-       "mark": "music"
-      },
-      {
-       "text": ","
-      },
-      {
-       "text": " "
-      },
-      {
-       "text": "ED1~3",
-       "url": "https://www.youtube.com/playlist?list=OLAK5uy_lgGoyv_pL4nsZWxwvgxuInjrf-y9IGvYA",
-       "mark": "music"
-      },
-      {
-       "text": ")"
-      }
-     ]
-    },
-    {
-     "id": "e0401",
-     "section": "music",
-     "type": "music",
-     "segments": [
-      {
-       "text": "Season 2 ("
-      },
-      {
-       "text": "OP",
-       "url": "https://www.youtube.com/watch?v=xP7zM-suGq8",
-       "mark": "music"
-      },
-      {
-       "text": ", "
-      },
-      {
-       "text": "ED",
-       "url": "https://www.youtube.com/watch?v=N7g3J9ObU_0",
-       "mark": "music"
-      },
-      {
-       "text": ")"
-      }
-     ]
-    },
-    {
-     "id": "e0402",
-     "section": "music",
-     "type": "music",
-     "segments": [
-      {
-       "text": "Season 3 (OP Album Track "
-      },
-      {
-       "text": "1",
-       "url": "https://www.youtube.com/watch?v=g9biTrDIHNs",
-       "mark": "music"
-      },
-      {
-       "text": "、"
-      },
-      {
-       "text": "2",
-       "url": "https://www.youtube.com/watch?v=MQHrBPM5ZJM",
-       "mark": "music"
-      },
-      {
-       "text": ", "
-      },
-      {
-       "text": "ED Album",
-       "url": "https://open.spotify.com/album/6DYEFHdjhWNhbNiaMDHqml",
-       "mark": "music"
-      },
-      {
-       "text": ")"
-      }
-     ]
-    },
-    {
-     "id": "e0403",
-     "section": "music",
-     "type": "music",
-     "segments": [
-      {
-       "text": "Season 4 ("
-      },
-      {
-       "text": "OP Album",
-       "url": "https://www.youtube.com/playlist?list=OLAK5uy_mZs0Goh2a8nhXu4qaVbP_fgV4pToXmHqs",
-       "mark": "music"
-      },
-      {
-       "text": ", "
-      },
-      {
-       "text": "ED Album",
-       "url": "https://open.spotify.com/album/5EHoQqsyT6u2OjSkuSSOEd",
-       "mark": "music"
-      },
-      {
-       "text": ")"
-      }
-     ]
-    },
-    {
      "id": "e0404",
-     "section": "main",
      "type": "music",
      "segments": [
       {
@@ -1479,7 +1298,6 @@
     },
     {
      "id": "e0405",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -1501,7 +1319,6 @@
     },
     {
      "id": "e0406",
-     "section": "main",
      "type": "music",
      "segments": [
       {
@@ -1522,7 +1339,6 @@
     },
     {
      "id": "e0407",
-     "section": "main",
      "type": "music",
      "segments": [
       {
@@ -1570,7 +1386,6 @@
     },
     {
      "id": "e0410",
-     "section": "main",
      "type": "music",
      "segments": [
       {
@@ -1598,7 +1413,6 @@
     },
     {
      "id": "e0411",
-     "section": "main",
      "type": "music",
      "segments": [
       {
@@ -1616,7 +1430,6 @@
     },
     {
      "id": "e0412",
-     "section": "main",
      "type": "music",
      "segments": [
       {
@@ -1642,13 +1455,133 @@
     },
     {
      "id": "e0414",
-     "section": "main",
      "type": "music",
      "segments": [
       {
        "text": "Date A Live IV Original Soundtrack",
        "url": "https://www.youtube.com/playlist?list=OLAK5uy_l-cUaox5g46dX7oqYHouelXP3r8lJFMw0",
        "mark": "music"
+      }
+     ]
+    },
+    {
+     "id": "e0399",
+     "type": "music",
+     "segments": [
+      {
+       "text": "Songs Wiki",
+       "url": "https://zh.wikipedia.org/wiki/%E7%B4%84%E6%9C%83%E5%A4%A7%E4%BD%9C%E6%88%B0_(%E5%8B%95%E7%95%AB)#%E4%B8%BB%E9%A1%8C%E6%9B%B2"
+      }
+     ]
+    },
+    {
+     "id": "e0400",
+     "type": "music",
+     "segments": [
+      {
+       "text": "Season 1 ("
+      },
+      {
+       "text": "OP",
+       "url": "https://www.youtube.com/watch?v=Vz_BqxcdHMM",
+       "mark": "music"
+      },
+      {
+       "text": ","
+      },
+      {
+       "text": " "
+      },
+      {
+       "text": "ED1~3",
+       "url": "https://www.youtube.com/playlist?list=OLAK5uy_lgGoyv_pL4nsZWxwvgxuInjrf-y9IGvYA",
+       "mark": "music"
+      },
+      {
+       "text": ")"
+      }
+     ]
+    },
+    {
+     "id": "e0401",
+     "type": "music",
+     "segments": [
+      {
+       "text": "Season 2 ("
+      },
+      {
+       "text": "OP",
+       "url": "https://www.youtube.com/watch?v=xP7zM-suGq8",
+       "mark": "music"
+      },
+      {
+       "text": ", "
+      },
+      {
+       "text": "ED",
+       "url": "https://www.youtube.com/watch?v=N7g3J9ObU_0",
+       "mark": "music"
+      },
+      {
+       "text": ")"
+      }
+     ]
+    },
+    {
+     "id": "e0402",
+     "type": "music",
+     "segments": [
+      {
+       "text": "Season 3 (OP Album Track "
+      },
+      {
+       "text": "1",
+       "url": "https://www.youtube.com/watch?v=g9biTrDIHNs",
+       "mark": "music"
+      },
+      {
+       "text": "、"
+      },
+      {
+       "text": "2",
+       "url": "https://www.youtube.com/watch?v=MQHrBPM5ZJM",
+       "mark": "music"
+      },
+      {
+       "text": ", "
+      },
+      {
+       "text": "ED Album",
+       "url": "https://open.spotify.com/album/6DYEFHdjhWNhbNiaMDHqml",
+       "mark": "music"
+      },
+      {
+       "text": ")"
+      }
+     ]
+    },
+    {
+     "id": "e0403",
+     "type": "music",
+     "segments": [
+      {
+       "text": "Season 4 ("
+      },
+      {
+       "text": "OP Album",
+       "url": "https://www.youtube.com/playlist?list=OLAK5uy_mZs0Goh2a8nhXu4qaVbP_fgV4pToXmHqs",
+       "mark": "music"
+      },
+      {
+       "text": ", "
+      },
+      {
+       "text": "ED Album",
+       "url": "https://open.spotify.com/album/5EHoQqsyT6u2OjSkuSSOEd",
+       "mark": "music"
+      },
+      {
+       "text": ")"
       }
      ]
     }
@@ -1672,7 +1605,6 @@
    "entries": [
     {
      "id": "e0415",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -1689,7 +1621,6 @@
     },
     {
      "id": "e0416",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -1706,7 +1637,6 @@
     },
     {
      "id": "e0417",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -1723,7 +1653,6 @@
     },
     {
      "id": "e0418",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -1748,7 +1677,6 @@
     },
     {
      "id": "e0419",
-     "section": "music",
      "type": "music",
      "segments": [
       {
@@ -1789,7 +1717,6 @@
     },
     {
      "id": "e0420",
-     "section": "music",
      "type": "music",
      "segments": [
       {
@@ -1843,7 +1770,6 @@
     },
     {
      "id": "e0421",
-     "section": "music",
      "type": "music",
      "segments": [
       {
@@ -1881,7 +1807,6 @@
     },
     {
      "id": "e0422",
-     "section": "music",
      "type": "music",
      "segments": [
       {
@@ -1903,7 +1828,6 @@
     },
     {
      "id": "e0423",
-     "section": "music",
      "type": "music",
      "segments": [
       {
@@ -1926,7 +1850,6 @@
     },
     {
      "id": "e0424",
-     "section": "music",
      "type": "music",
      "segments": [
       {
@@ -1965,7 +1888,6 @@
     },
     {
      "id": "e0425",
-     "section": "music",
      "type": "music",
      "segments": [
       {
@@ -1988,7 +1910,6 @@
     },
     {
      "id": "e0426",
-     "section": "music",
      "type": "music",
      "segments": [
       {
@@ -2029,7 +1950,6 @@
    "entries": [
     {
      "id": "e0427",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -2059,7 +1979,6 @@
     },
     {
      "id": "e0428",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -2084,7 +2003,6 @@
     },
     {
      "id": "e0429",
-     "section": "music",
      "type": "music",
      "segments": [
       {
@@ -2117,7 +2035,6 @@
     },
     {
      "id": "e0430",
-     "section": "music",
      "type": "music",
      "segments": [
       {
@@ -2139,7 +2056,6 @@
     },
     {
      "id": "e0431",
-     "section": "music",
      "type": "music",
      "segments": [
       {
@@ -2194,7 +2110,6 @@
      "entries": [
       {
        "id": "e0433",
-       "section": "main",
        "type": "anime",
        "segments": [
         {
@@ -2206,7 +2121,6 @@
       },
       {
        "id": "e0434",
-       "section": "main",
        "type": "anime",
        "segments": [
         {
@@ -2218,7 +2132,6 @@
       },
       {
        "id": "e0435",
-       "section": "main",
        "type": "anime",
        "segments": [
         {
@@ -2230,7 +2143,6 @@
       },
       {
        "id": "e0436",
-       "section": "main",
        "type": "anime",
        "segments": [
         {
@@ -2242,7 +2154,6 @@
       },
       {
        "id": "e0437",
-       "section": "main",
        "type": "anime",
        "segments": [
         {
@@ -2254,7 +2165,6 @@
       },
       {
        "id": "e0438",
-       "section": "main",
        "type": "anime",
        "segments": [
         {
@@ -2277,7 +2187,6 @@
      "entries": [
       {
        "id": "e0439",
-       "section": "music",
        "type": "music",
        "segments": [
         {
@@ -2311,7 +2220,6 @@
       },
       {
        "id": "e0440",
-       "section": "music",
        "type": "music",
        "segments": [
         {
@@ -2341,7 +2249,6 @@
      "entries": [
       {
        "id": "e0441",
-       "section": "music",
        "type": "music",
        "segments": [
         {
@@ -2353,7 +2260,6 @@
       },
       {
        "id": "e0442",
-       "section": "music",
        "type": "music",
        "segments": [
         {
@@ -2373,7 +2279,6 @@
       },
       {
        "id": "e0443",
-       "section": "music",
        "type": "music",
        "segments": [
         {
@@ -2410,7 +2315,6 @@
      "entries": [
       {
        "id": "e0444",
-       "section": "main",
        "type": "music",
        "segments": [
         {
@@ -2422,7 +2326,6 @@
       },
       {
        "id": "e0445",
-       "section": "main",
        "type": "music",
        "segments": [
         {
@@ -2453,7 +2356,6 @@
        "entries": [
         {
          "id": "e0446",
-         "section": "main",
          "type": "music",
          "segments": [
           {
@@ -2564,7 +2466,6 @@
    "entries": [
     {
      "id": "e0448",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -2582,7 +2483,6 @@
     },
     {
      "id": "e0449",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -2650,7 +2550,6 @@
     },
     {
      "id": "e0450",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -2662,7 +2561,6 @@
     },
     {
      "id": "e0451",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -2674,7 +2572,6 @@
     },
     {
      "id": "e0452",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -2686,7 +2583,6 @@
     },
     {
      "id": "e0453",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -2698,7 +2594,6 @@
     },
     {
      "id": "e0454",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -2725,7 +2620,6 @@
    "entries": [
     {
      "id": "e0455",
-     "section": "main",
      "type": "reading",
      "segments": [
       {
@@ -2768,7 +2662,6 @@
    "entries": [
     {
      "id": "e0456",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -2796,7 +2689,6 @@
     },
     {
      "id": "e0457",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -2824,7 +2716,6 @@
     },
     {
      "id": "e0458",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -2849,7 +2740,6 @@
     },
     {
      "id": "e0459",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -2890,7 +2780,6 @@
     },
     {
      "id": "e0461",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -2915,7 +2804,6 @@
     },
     {
      "id": "e0462",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -2939,48 +2827,7 @@
      ]
     },
     {
-     "id": "e0463",
-     "section": "music",
-     "type": "music",
-     "segments": [
-      {
-       "text": "OST: "
-      },
-      {
-       "text": "Wiki",
-       "url": "https://attackontitan.fandom.com/wiki/%22Attack_on_Titan%22_Original_Soundtrack"
-      },
-      {
-       "text": ", "
-      },
-      {
-       "text": "vid.",
-       "url": "https://www.youtube.com/playlist?list=OLAK5uy_l2cAkJV4swcqBugi3sOAbIHGeFL3PZZzU",
-       "mark": "music"
-      },
-      {
-       "text": "，II "
-      },
-      {
-       "text": "Wiki",
-       "url": "https://attackontitan.fandom.com/wiki/%22Attack_on_Titan%22_Original_Soundtrack_II"
-      },
-      {
-       "text": ", "
-      },
-      {
-       "text": "vid.",
-       "url": "https://www.youtube.com/playlist?list=PLgBAXaMeVtyrBSgTFYXZsjE0SuNgy5NHx",
-       "mark": "music"
-      },
-      {
-       "text": " (Track 17-27)"
-      }
-     ]
-    },
-    {
      "id": "e0464",
-     "section": "main",
      "type": "music",
      "segments": [
       {
@@ -3002,7 +2849,6 @@
     },
     {
      "id": "e0465",
-     "section": "main",
      "type": "music",
      "segments": [
       {
@@ -3044,7 +2890,6 @@
     },
     {
      "id": "e0466",
-     "section": "main",
      "type": "music",
      "segments": [
       {
@@ -3067,7 +2912,6 @@
     },
     {
      "id": "e0467",
-     "section": "main",
      "type": "music",
      "segments": [
       {
@@ -3089,7 +2933,6 @@
     },
     {
      "id": "e0468",
-     "section": "main",
      "type": "music",
      "segments": [
       {
@@ -3128,7 +2971,6 @@
     },
     {
      "id": "e0469",
-     "section": "main",
      "type": "music",
      "segments": [
       {
@@ -3189,7 +3031,6 @@
     },
     {
      "id": "e0470",
-     "section": "main",
      "type": "music",
      "segments": [
       {
@@ -3257,6 +3098,45 @@
        "mark": "music"
       }
      ]
+    },
+    {
+     "id": "e0463",
+     "type": "music",
+     "segments": [
+      {
+       "text": "OST: "
+      },
+      {
+       "text": "Wiki",
+       "url": "https://attackontitan.fandom.com/wiki/%22Attack_on_Titan%22_Original_Soundtrack"
+      },
+      {
+       "text": ", "
+      },
+      {
+       "text": "vid.",
+       "url": "https://www.youtube.com/playlist?list=OLAK5uy_l2cAkJV4swcqBugi3sOAbIHGeFL3PZZzU",
+       "mark": "music"
+      },
+      {
+       "text": "，II "
+      },
+      {
+       "text": "Wiki",
+       "url": "https://attackontitan.fandom.com/wiki/%22Attack_on_Titan%22_Original_Soundtrack_II"
+      },
+      {
+       "text": ", "
+      },
+      {
+       "text": "vid.",
+       "url": "https://www.youtube.com/playlist?list=PLgBAXaMeVtyrBSgTFYXZsjE0SuNgy5NHx",
+       "mark": "music"
+      },
+      {
+       "text": " (Track 17-27)"
+      }
+     ]
     }
    ],
    "notes": [
@@ -3279,7 +3159,6 @@
    "entries": [
     {
      "id": "e0471",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -3304,7 +3183,6 @@
     },
     {
      "id": "e0472",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -3329,7 +3207,6 @@
     },
     {
      "id": "e0473",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -3354,7 +3231,6 @@
     },
     {
      "id": "e0474",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -3399,7 +3275,6 @@
     },
     {
      "id": "e0475",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -3436,7 +3311,6 @@
    "entries": [
     {
      "id": "e0476",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -3454,7 +3328,6 @@
     },
     {
      "id": "e0477",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -3472,7 +3345,6 @@
     },
     {
      "id": "e0478",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -3492,7 +3364,6 @@
     },
     {
      "id": "e0479",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -3504,7 +3375,6 @@
     },
     {
      "id": "e0480",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -3516,7 +3386,6 @@
     },
     {
      "id": "e0481",
-     "section": "music",
      "type": "music",
      "segments": [
       {
@@ -3538,7 +3407,6 @@
     },
     {
      "id": "e0482",
-     "section": "music",
      "type": "music",
      "segments": [
       {
@@ -3560,7 +3428,6 @@
     },
     {
      "id": "e0483",
-     "section": "music",
      "type": "music",
      "segments": [
       {
@@ -3605,7 +3472,6 @@
     },
     {
      "id": "e0484",
-     "section": "music",
      "type": "music",
      "segments": [
       {
@@ -3712,7 +3578,6 @@
    "entries": [
     {
      "id": "e0485",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -3724,7 +3589,6 @@
     },
     {
      "id": "e0486",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -3736,7 +3600,6 @@
     },
     {
      "id": "e0487",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -3748,7 +3611,6 @@
     },
     {
      "id": "e0488",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -3760,7 +3622,6 @@
     },
     {
      "id": "e0489",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -3772,7 +3633,6 @@
     },
     {
      "id": "e0490",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -3784,7 +3644,6 @@
     },
     {
      "id": "e0491",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -3796,7 +3655,6 @@
     },
     {
      "id": "e0492",
-     "section": "music",
      "type": "music",
      "segments": [
       {
@@ -3814,7 +3672,6 @@
     },
     {
      "id": "e0493",
-     "section": "music",
      "type": "music",
      "segments": [
       {
@@ -3832,7 +3689,6 @@
     },
     {
      "id": "e0494",
-     "section": "music",
      "type": "music",
      "segments": [
       {
@@ -3919,7 +3775,6 @@
    "entries": [
     {
      "id": "e0495",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -3931,7 +3786,6 @@
     },
     {
      "id": "e0496",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -3943,7 +3797,6 @@
     },
     {
      "id": "e0497",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -3955,7 +3808,6 @@
     },
     {
      "id": "e0498",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -3996,7 +3848,6 @@
    "entries": [
     {
      "id": "e0499",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -4021,7 +3872,6 @@
     },
     {
      "id": "e0500",
-     "section": "music",
      "type": "music",
      "segments": [
       {
@@ -4058,7 +3908,6 @@
     },
     {
      "id": "e0501",
-     "section": "music",
      "type": "music",
      "segments": [
       {
@@ -4092,7 +3941,6 @@
    "entries": [
     {
      "id": "e0502",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -4110,7 +3958,6 @@
     },
     {
      "id": "e0503",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -4143,7 +3990,6 @@
    "entries": [
     {
      "id": "e0504",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -4165,7 +4011,6 @@
     },
     {
      "id": "e0505",
-     "section": "music",
      "type": "music",
      "segments": [
       {
@@ -4206,7 +4051,6 @@
     },
     {
      "id": "e0506",
-     "section": "music",
      "type": "music",
      "segments": [
       {
@@ -4249,7 +4093,6 @@
    "entries": [
     {
      "id": "e0507",
-     "section": "main",
      "type": "anime",
      "segments": [
       {
@@ -4278,7 +4121,6 @@
     },
     {
      "id": "e0508",
-     "section": "music",
      "type": "music",
      "segments": [
       {
@@ -4313,7 +4155,6 @@
     },
     {
      "id": "e0509",
-     "section": "music",
      "type": "music",
      "segments": [
       {

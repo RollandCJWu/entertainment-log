@@ -20,7 +20,6 @@
        "entries": [
         {
          "id": "e0001",
-         "section": "music",
          "type": "music",
          "segments": [
           {
@@ -80,7 +79,6 @@
        "entries": [
         {
          "id": "e0002",
-         "section": "main",
          "type": "lore",
          "segments": [
           {
@@ -105,7 +103,6 @@
         },
         {
          "id": "e0003",
-         "section": "music",
          "type": "music",
          "segments": [
           {
@@ -136,7 +133,6 @@
        "entries": [
         {
          "id": "e0004",
-         "section": "main",
          "type": "music",
          "segments": [
           {
@@ -193,7 +189,6 @@
          "entries": [
           {
            "id": "e0005",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -204,7 +199,6 @@
           },
           {
            "id": "e0006",
-           "section": "music",
            "type": "music",
            "segments": [
             {
@@ -240,7 +234,6 @@
          "entries": [
           {
            "id": "e0007",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -255,7 +248,6 @@
           },
           {
            "id": "e0008",
-           "section": "music",
            "type": "music",
            "segments": [
             {
@@ -279,7 +271,6 @@
        "entries": [
         {
          "id": "e0009",
-         "section": "main",
          "type": "lore",
          "segments": [
           {
@@ -307,7 +298,6 @@
          "entries": [
           {
            "id": "e0010",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -340,7 +330,6 @@
        "entries": [
         {
          "id": "e0011",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -384,7 +373,6 @@
         },
         {
          "id": "e0012",
-         "section": "music",
          "type": "music",
          "segments": [
           {
@@ -403,7 +391,6 @@
         },
         {
          "id": "e0013",
-         "section": "music",
          "type": "music",
          "segments": [
           {
@@ -430,7 +417,6 @@
        "entries": [
         {
          "id": "e0014",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -448,7 +434,6 @@
         },
         {
          "id": "e0015",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -503,7 +488,6 @@
        "entries": [
         {
          "id": "e0016",
-         "section": "main",
          "type": "music",
          "segments": [
           {
@@ -522,7 +506,6 @@
         },
         {
          "id": "e0017",
-         "section": "main",
          "type": "other",
          "segments": [
           {
@@ -548,7 +531,6 @@
        "entries": [
         {
          "id": "e0018",
-         "section": "main",
          "type": "music",
          "segments": [
           {
@@ -577,7 +559,6 @@
        "entries": [
         {
          "id": "e0019",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -621,7 +602,6 @@
         },
         {
          "id": "e0020",
-         "section": "music",
          "type": "music",
          "segments": [
           {
@@ -669,7 +649,6 @@
        "entries": [
         {
          "id": "e0021",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -684,7 +663,6 @@
         },
         {
          "id": "e0022",
-         "section": "main",
          "type": "other",
          "segments": [
           {
@@ -694,7 +672,6 @@
         },
         {
          "id": "e0023",
-         "section": "main",
          "segments": [
           {
            "text": "Vol.1",
@@ -766,7 +743,6 @@
        "entries": [
         {
          "id": "e0024",
-         "section": "music",
          "type": "music",
          "segments": [
           {
@@ -846,7 +822,6 @@
      "entries": [
       {
        "id": "e0025",
-       "section": "main",
        "type": "video",
        "segments": [
         {
@@ -867,7 +842,6 @@
      "entries": [
       {
        "id": "e0026",
-       "section": "main",
        "type": "video",
        "segments": [
         {
@@ -921,7 +895,6 @@
        "entries": [
         {
          "id": "e0033",
-         "section": "music",
          "type": "music",
          "segments": [
           {
@@ -970,7 +943,6 @@
         },
         {
          "id": "e0034",
-         "section": "music",
          "type": "music",
          "segments": [
           {
@@ -995,7 +967,6 @@
          "entries": [
           {
            "id": "e0027",
-           "section": "main",
            "type": "reading",
            "segments": [
             {
@@ -1045,7 +1016,6 @@
          "entries": [
           {
            "id": "e0028",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -1127,7 +1097,6 @@
          "entries": [
           {
            "id": "e0029",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -1160,7 +1129,6 @@
          "entries": [
           {
            "id": "e0030",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -1235,7 +1203,6 @@
          "entries": [
           {
            "id": "e0031",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -1284,7 +1251,6 @@
           },
           {
            "id": "e0032",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -1313,7 +1279,6 @@
          "entries": [
           {
            "id": "e0035",
-           "section": "main",
            "type": "music",
            "segments": [
             {
@@ -1338,7 +1303,6 @@
           },
           {
            "id": "e0036",
-           "section": "main",
            "type": "music",
            "segments": [
             {
@@ -1386,7 +1350,6 @@
          "entries": [
           {
            "id": "e0037",
-           "section": "main",
            "type": "music",
            "segments": [
             {
@@ -1411,7 +1374,6 @@
           },
           {
            "id": "e0038",
-           "section": "main",
            "type": "music",
            "segments": [
             {
@@ -1436,7 +1398,6 @@
           },
           {
            "id": "e0039",
-           "section": "main",
            "type": "other",
            "segments": [
             {
@@ -1446,7 +1407,6 @@
           },
           {
            "id": "e0040",
-           "section": "main",
            "type": "music",
            "segments": [
             {
@@ -1471,7 +1431,6 @@
           },
           {
            "id": "e0041",
-           "section": "main",
            "type": "other",
            "segments": [
             {
@@ -1481,7 +1440,6 @@
           },
           {
            "id": "e0042",
-           "section": "main",
            "type": "music",
            "segments": [
             {
@@ -1530,7 +1488,6 @@
        "entries": [
         {
          "id": "e0043",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -1550,7 +1507,6 @@
        "entries": [
         {
          "id": "e0044",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -1569,7 +1525,6 @@
        "entries": [
         {
          "id": "e0045",
-         "section": "music",
          "type": "music",
          "segments": [
           {
@@ -1594,7 +1549,6 @@
         },
         {
          "id": "e0046",
-         "section": "music",
          "type": "music",
          "segments": [
           {
@@ -1619,7 +1573,6 @@
         },
         {
          "id": "e0047",
-         "section": "music",
          "type": "music",
          "segments": [
           {
@@ -1644,7 +1597,6 @@
         },
         {
          "id": "e0048",
-         "section": "music",
          "type": "music",
          "segments": [
           {
@@ -1669,7 +1621,6 @@
         },
         {
          "id": "e0049",
-         "section": "music",
          "type": "music",
          "segments": [
           {
@@ -1694,7 +1645,6 @@
         },
         {
          "id": "e0050",
-         "section": "music",
          "type": "music",
          "segments": [
           {
@@ -1719,7 +1669,6 @@
         },
         {
          "id": "e0051",
-         "section": "music",
          "type": "music",
          "segments": [
           {
@@ -1767,7 +1716,6 @@
        "entries": [
         {
          "id": "e0052",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -1814,7 +1762,6 @@
        "entries": [
         {
          "id": "emw0mlgzh32u",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -1827,7 +1774,6 @@
         },
         {
          "id": "emw0mmhul4ap",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -1839,7 +1785,6 @@
         },
         {
          "id": "e0055",
-         "section": "music",
          "type": "music",
          "segments": [
           {
@@ -1896,7 +1841,6 @@
         },
         {
          "id": "e0056",
-         "section": "music",
          "type": "music",
          "segments": [
           {
@@ -1929,7 +1873,6 @@
        "entries": [
         {
          "id": "e0053",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -1941,7 +1884,6 @@
         },
         {
          "id": "e0054",
-         "section": "main",
          "segments": [
           {
            "text": "World",
@@ -1959,7 +1901,6 @@
        "entries": [
         {
          "id": "e0058",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -1983,7 +1924,6 @@
        "entries": [
         {
          "id": "emw0mo0hxob3",
-         "section": "main",
          "type": "evolution",
          "segments": [
           {
@@ -2009,7 +1949,6 @@
        "entries": [
         {
          "id": "e0059",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -2020,7 +1959,6 @@
         },
         {
          "id": "e0060",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -2032,7 +1970,6 @@
         },
         {
          "id": "e0061",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -2068,7 +2005,6 @@
         },
         {
          "id": "e0062",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -2080,7 +2016,6 @@
         },
         {
          "id": "e0063",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -2092,7 +2027,6 @@
         },
         {
          "id": "e0064",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -2103,7 +2037,6 @@
         },
         {
          "id": "e0065",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -2116,7 +2049,6 @@
         },
         {
          "id": "e0066",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -2180,7 +2112,6 @@
          "entries": [
           {
            "id": "emw0m47k5l4a",
-           "section": "main",
            "type": "lore",
            "segments": [
             {
@@ -2235,7 +2166,6 @@
        "entries": [
         {
          "id": "e0068",
-         "section": "main",
          "type": "lore",
          "segments": [
           {
@@ -2271,7 +2201,6 @@
        "entries": [
         {
          "id": "e0069",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -2305,7 +2234,6 @@
        "entries": [
         {
          "id": "e0070",
-         "section": "main",
          "type": "music",
          "segments": [
           {
@@ -2324,7 +2252,6 @@
         },
         {
          "id": "e0071",
-         "section": "main",
          "type": "music",
          "segments": [
           {
@@ -2369,7 +2296,6 @@
        "entries": [
         {
          "id": "e0072",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -2389,7 +2315,6 @@
        "entries": [
         {
          "id": "e0073",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -2435,7 +2360,6 @@
        "entries": [
         {
          "id": "e0074",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -2446,7 +2370,6 @@
         },
         {
          "id": "e0075",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -2478,7 +2401,6 @@
          "entries": [
           {
            "id": "e0076",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -2524,7 +2446,6 @@
          "entries": [
           {
            "id": "e0077",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -2560,7 +2481,6 @@
        "entries": [
         {
          "id": "e0078",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -2597,7 +2517,6 @@
        "entries": [
         {
          "id": "e0079",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -2630,7 +2549,6 @@
        "entries": [
         {
          "id": "e0100",
-         "section": "music",
          "type": "music",
          "segments": [
           {
@@ -2661,7 +2579,6 @@
         },
         {
          "id": "e0101",
-         "section": "music",
          "type": "music",
          "segments": [
           {
@@ -2692,7 +2609,6 @@
         },
         {
          "id": "e0102",
-         "section": "music",
          "type": "music",
          "segments": [
           {
@@ -2707,7 +2623,6 @@
         },
         {
          "id": "e0103",
-         "section": "music",
          "type": "music",
          "segments": [
           {
@@ -2722,7 +2637,6 @@
         },
         {
          "id": "e0104",
-         "section": "music",
          "type": "music",
          "segments": [
           {
@@ -2747,7 +2661,6 @@
         },
         {
          "id": "e0105",
-         "section": "music",
          "type": "music",
          "segments": [
           {
@@ -2772,7 +2685,6 @@
         },
         {
          "id": "e0106",
-         "section": "music",
          "type": "music",
          "segments": [
           {
@@ -2797,7 +2709,6 @@
         },
         {
          "id": "e0107",
-         "section": "music",
          "type": "music",
          "segments": [
           {
@@ -2815,7 +2726,6 @@
         },
         {
          "id": "e0108",
-         "section": "music",
          "type": "music",
          "segments": [
           {
@@ -2840,7 +2750,6 @@
         },
         {
          "id": "e0109",
-         "section": "music",
          "type": "music",
          "segments": [
           {
@@ -2855,7 +2764,6 @@
         },
         {
          "id": "e0110",
-         "section": "music",
          "type": "music",
          "segments": [
           {
@@ -2870,7 +2778,6 @@
         },
         {
          "id": "e0111",
-         "section": "music",
          "type": "music",
          "segments": [
           {
@@ -2893,7 +2800,6 @@
          "entries": [
           {
            "id": "e0080",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -2913,7 +2819,6 @@
          "entries": [
           {
            "id": "e0081",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -2925,7 +2830,6 @@
           },
           {
            "id": "e0082",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -2990,7 +2894,6 @@
          "entries": [
           {
            "id": "e0087",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -3016,7 +2919,6 @@
          "entries": [
           {
            "id": "e0088",
-           "section": "main",
            "segments": [
             {
              "text": "New Super Mario Bros. "
@@ -3036,7 +2938,6 @@
           },
           {
            "id": "e0089",
-           "section": "main",
            "segments": [
             {
              "text": "Wii",
@@ -3053,7 +2954,6 @@
           },
           {
            "id": "e0090",
-           "section": "main",
            "type": "lore",
            "segments": [
             {
@@ -3072,7 +2972,6 @@
          "entries": [
           {
            "id": "e0091",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -3091,7 +2990,6 @@
          "entries": [
           {
            "id": "e0092",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -3102,7 +3000,6 @@
           },
           {
            "id": "e0093",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -3115,7 +3012,6 @@
           },
           {
            "id": "e0094",
-           "section": "main",
            "segments": [
             {
              "text": "Super Mario Galaxy "
@@ -3143,7 +3039,6 @@
          "entries": [
           {
            "id": "e0095",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -3190,7 +3085,6 @@
            "entries": [
             {
              "id": "e0096",
-             "section": "main",
              "type": "video",
              "segments": [
               {
@@ -3220,7 +3114,6 @@
          "entries": [
           {
            "id": "e0097",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -3239,7 +3132,6 @@
          "entries": [
           {
            "id": "e0098",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -3258,7 +3150,6 @@
          "entries": [
           {
            "id": "e0099",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -3285,7 +3176,6 @@
          "entries": [
           {
            "id": "e0112",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -3300,7 +3190,6 @@
           },
           {
            "id": "e0113",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -3327,7 +3216,6 @@
           },
           {
            "id": "e0114",
-           "section": "music",
            "type": "music",
            "segments": [
             {
@@ -3362,7 +3250,6 @@
        "entries": [
         {
          "id": "e0115",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -3376,7 +3263,6 @@
         },
         {
          "id": "e0116",
-         "section": "main",
          "segments": [
           {
            "text": "Gen 2  "
@@ -3389,7 +3275,6 @@
         },
         {
          "id": "e0117",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -3404,7 +3289,6 @@
         },
         {
          "id": "e0118",
-         "section": "main",
          "segments": [
           {
            "text": "Gen 4  "
@@ -3417,7 +3301,6 @@
         },
         {
          "id": "e0119",
-         "section": "main",
          "type": "other",
          "segments": [
           {
@@ -3427,7 +3310,6 @@
         },
         {
          "id": "e0120",
-         "section": "music",
          "type": "music",
          "segments": [
           {
@@ -3438,7 +3320,6 @@
         },
         {
          "id": "e0121",
-         "section": "music",
          "type": "music",
          "segments": [
           {
@@ -3501,7 +3382,6 @@
         },
         {
          "id": "e0122",
-         "section": "music",
          "type": "music",
          "segments": [
           {
@@ -3526,7 +3406,6 @@
         },
         {
          "id": "e0123",
-         "section": "music",
          "type": "music",
          "segments": [
           {
@@ -3551,7 +3430,6 @@
         },
         {
          "id": "e0124",
-         "section": "music",
          "type": "music",
          "segments": [
           {
@@ -3561,7 +3439,6 @@
         },
         {
          "id": "e0125",
-         "section": "music",
          "type": "music",
          "segments": [
           {
@@ -3579,7 +3456,6 @@
         },
         {
          "id": "e0126",
-         "section": "music",
          "type": "music",
          "segments": [
           {
@@ -3612,7 +3488,6 @@
        "entries": [
         {
          "id": "e0127",
-         "section": "main",
          "type": "lore",
          "segments": [
           {
@@ -3674,7 +3549,6 @@
          "entries": [
           {
            "id": "e0128",
-           "section": "main",
            "type": "music",
            "segments": [
             {
@@ -3703,7 +3577,6 @@
           },
           {
            "id": "e0129",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -3733,7 +3606,6 @@
           },
           {
            "id": "e0130",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -3745,7 +3617,6 @@
           },
           {
            "id": "e0131",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -3756,7 +3627,6 @@
           },
           {
            "id": "e0132",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -3811,7 +3681,6 @@
        "entries": [
         {
          "id": "e0133",
-         "section": "main",
          "type": "lore",
          "segments": [
           {
@@ -3831,7 +3700,6 @@
        "entries": [
         {
          "id": "e0134",
-         "section": "main",
          "segments": [
           {
            "text": "Sonic the Hedgehog  ("
@@ -3918,7 +3786,6 @@
          "entries": [
           {
            "id": "e0135",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -3953,7 +3820,6 @@
        "entries": [
         {
          "id": "e0136",
-         "section": "main",
          "type": "lore",
          "segments": [
           {
@@ -3992,7 +3858,6 @@
        "entries": [
         {
          "id": "e0139",
-         "section": "music",
          "type": "music",
          "segments": [
           {
@@ -4056,7 +3921,6 @@
         },
         {
          "id": "e0140",
-         "section": "music",
          "type": "music",
          "segments": [
           {
@@ -4115,7 +3979,6 @@
          "entries": [
           {
            "id": "e0138",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -4160,7 +4023,6 @@
        "entries": [
         {
          "id": "e0142",
-         "section": "music",
          "type": "music",
          "segments": [
           {
@@ -4182,7 +4044,6 @@
         },
         {
          "id": "e0143",
-         "section": "music",
          "type": "music",
          "segments": [
           {
@@ -4289,7 +4150,6 @@
            "entries": [
             {
              "id": "e0141",
-             "section": "main",
              "type": "other",
              "segments": [
               {
@@ -4330,7 +4190,6 @@
          "entries": [
           {
            "id": "e0144",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -4342,7 +4201,6 @@
           },
           {
            "id": "e0145",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -4361,7 +4219,6 @@
           },
           {
            "id": "e0146",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -4373,7 +4230,6 @@
           },
           {
            "id": "e0147",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -4400,7 +4256,6 @@
           },
           {
            "id": "e0148",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -4412,7 +4267,6 @@
           },
           {
            "id": "e0149",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -4447,7 +4301,6 @@
          "entries": [
           {
            "id": "e0150",
-           "section": "main",
            "type": "music",
            "segments": [
             {
@@ -4469,7 +4322,6 @@
           },
           {
            "id": "e0151",
-           "section": "main",
            "type": "music",
            "segments": [
             {
@@ -4511,7 +4363,6 @@
          "entries": [
           {
            "id": "e0152",
-           "section": "main",
            "type": "music",
            "segments": [
             {
@@ -4533,7 +4384,6 @@
           },
           {
            "id": "e0153",
-           "section": "main",
            "type": "music",
            "segments": [
             {
@@ -4575,7 +4425,6 @@
          "entries": [
           {
            "id": "e0154",
-           "section": "main",
            "type": "music",
            "segments": [
             {
@@ -4662,7 +4511,6 @@
          "entries": [
           {
            "id": "e0155",
-           "section": "main",
            "type": "music",
            "segments": [
             {
@@ -4734,7 +4582,6 @@
          "entries": [
           {
            "id": "e0156",
-           "section": "main",
            "type": "music",
            "segments": [
             {
@@ -4805,7 +4652,6 @@
            "entries": [
             {
              "id": "e0157",
-             "section": "main",
              "type": "music",
              "segments": [
               {
@@ -4862,7 +4708,6 @@
            "entries": [
             {
              "id": "e0158",
-             "section": "main",
              "type": "music",
              "segments": [
               {
@@ -4907,7 +4752,6 @@
             },
             {
              "id": "e0159",
-             "section": "main",
              "type": "music",
              "segments": [
               {
@@ -4949,7 +4793,6 @@
            "entries": [
             {
              "id": "e0160",
-             "section": "main",
              "type": "music",
              "segments": [
               {
@@ -5006,7 +4849,6 @@
            "entries": [
             {
              "id": "e0161",
-             "section": "main",
              "type": "music",
              "segments": [
               {
@@ -5044,7 +4886,6 @@
             },
             {
              "id": "e0162",
-             "section": "main",
              "type": "music",
              "segments": [
               {
@@ -5115,7 +4956,6 @@
          "entries": [
           {
            "id": "e0163",
-           "section": "main",
            "type": "lore",
            "segments": [
             {
@@ -5129,7 +4969,6 @@
           },
           {
            "id": "e0164",
-           "section": "main",
            "type": "music",
            "segments": [
             {
@@ -5163,7 +5002,6 @@
           },
           {
            "id": "e0165",
-           "section": "main",
            "type": "lore",
            "segments": [
             {
@@ -5199,7 +5037,6 @@
          "entries": [
           {
            "id": "e0166",
-           "section": "main",
            "type": "lore",
            "segments": [
             {
@@ -5213,7 +5050,6 @@
           },
           {
            "id": "e0167",
-           "section": "main",
            "type": "other",
            "segments": [
             {
@@ -5223,7 +5059,6 @@
           },
           {
            "id": "e0168",
-           "section": "main",
            "type": "lore",
            "segments": [
             {
@@ -5253,7 +5088,6 @@
          "entries": [
           {
            "id": "e0169",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -5319,7 +5153,6 @@
          "entries": [
           {
            "id": "e0170",
-           "section": "main",
            "segments": [
             {
              "text": "Tomb Raider 2013",
@@ -5329,7 +5162,6 @@
           },
           {
            "id": "e0171",
-           "section": "main",
            "type": "other",
            "segments": [
             {
@@ -5339,7 +5171,6 @@
           },
           {
            "id": "e0172",
-           "section": "main",
            "type": "other",
            "segments": [
             {
@@ -5363,7 +5194,6 @@
      "entries": [
       {
        "id": "e0173",
-       "section": "main",
        "type": "evolution",
        "segments": [
         {
@@ -5375,7 +5205,6 @@
       },
       {
        "id": "e0174",
-       "section": "main",
        "type": "evolution",
        "segments": [
         {
@@ -5387,7 +5216,6 @@
       },
       {
        "id": "e0175",
-       "section": "main",
        "type": "video",
        "segments": [
         {
@@ -5398,7 +5226,6 @@
       },
       {
        "id": "e0176",
-       "section": "main",
        "type": "evolution",
        "segments": [
         {
@@ -5502,7 +5329,6 @@
        "entries": [
         {
          "id": "e0177",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -5539,7 +5365,6 @@
      "entries": [
       {
        "id": "e0178",
-       "section": "main",
        "segments": [
         {
          "text": "War Thunder",
@@ -5564,7 +5389,6 @@
      "entries": [
       {
        "id": "e0179",
-       "section": "main",
        "type": "video",
        "segments": [
         {
@@ -5595,7 +5419,6 @@
          "entries": [
           {
            "id": "e0180",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -5620,7 +5443,6 @@
           },
           {
            "id": "e0181",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -5661,7 +5483,6 @@
          "entries": [
           {
            "id": "e0187",
-           "section": "main",
            "type": "other",
            "segments": [
             {
@@ -5677,7 +5498,6 @@
           },
           {
            "id": "e0188",
-           "section": "main",
            "type": "other",
            "segments": [
             {
@@ -5694,7 +5514,6 @@
           },
           {
            "id": "e0189",
-           "section": "main",
            "type": "other",
            "segments": [
             {
@@ -5714,7 +5533,6 @@
           },
           {
            "id": "e0190",
-           "section": "main",
            "type": "other",
            "segments": [
             {
@@ -5730,7 +5548,6 @@
           },
           {
            "id": "e0191",
-           "section": "main",
            "type": "other",
            "segments": [
             {
@@ -5740,7 +5557,6 @@
           },
           {
            "id": "e0192",
-           "section": "main",
            "type": "other",
            "segments": [
             {
@@ -5758,7 +5574,6 @@
           },
           {
            "id": "e0193",
-           "section": "main",
            "type": "other",
            "segments": [
             {
@@ -5768,7 +5583,6 @@
           },
           {
            "id": "e0194",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -5793,7 +5607,6 @@
           },
           {
            "id": "e0195",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -5815,7 +5628,6 @@
          "entries": [
           {
            "id": "e0182",
-           "section": "main",
            "type": "other",
            "segments": [
             {
@@ -5825,7 +5637,6 @@
           },
           {
            "id": "e0183",
-           "section": "main",
            "type": "other",
            "segments": [
             {
@@ -5835,7 +5646,6 @@
           },
           {
            "id": "e0184",
-           "section": "main",
            "type": "other",
            "segments": [
             {
@@ -5845,7 +5655,6 @@
           },
           {
            "id": "e0185",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -5865,7 +5674,6 @@
           },
           {
            "id": "e0186",
-           "section": "main",
            "type": "video",
            "segments": [
             {
@@ -5904,7 +5712,6 @@
        "entries": [
         {
          "id": "e0196",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -5923,7 +5730,6 @@
        "entries": [
         {
          "id": "e0197",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -5942,7 +5748,6 @@
         },
         {
          "id": "e0198",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -5987,7 +5792,6 @@
        "entries": [
         {
          "id": "e0199",
-         "section": "main",
          "type": "other",
          "segments": [
           {
@@ -5997,7 +5801,6 @@
         },
         {
          "id": "e0200",
-         "section": "main",
          "type": "other",
          "segments": [
           {
@@ -6016,7 +5819,6 @@
        "entries": [
         {
          "id": "e0201",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -6030,7 +5832,6 @@
         },
         {
          "id": "e0202",
-         "section": "main",
          "type": "lore",
          "segments": [
           {
@@ -6057,7 +5858,6 @@
        "entries": [
         {
          "id": "e0203",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -6101,7 +5901,6 @@
        "entries": [
         {
          "id": "e0204",
-         "section": "main",
          "type": "lore",
          "segments": [
           {
@@ -6140,7 +5939,6 @@
         },
         {
          "id": "e0205",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -6205,7 +6003,6 @@
         },
         {
          "id": "e0206",
-         "section": "main",
          "type": "lore",
          "segments": [
           {
@@ -6267,7 +6064,6 @@
         },
         {
          "id": "e0207",
-         "section": "main",
          "type": "lore",
          "segments": [
           {
@@ -6306,7 +6102,6 @@
         },
         {
          "id": "e0208",
-         "section": "main",
          "type": "lore",
          "segments": [
           {
@@ -6360,7 +6155,6 @@
         },
         {
          "id": "e0209",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -6442,7 +6236,6 @@
         },
         {
          "id": "e0210",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -6456,7 +6249,6 @@
         },
         {
          "id": "e0211",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -6551,7 +6343,6 @@
        "entries": [
         {
          "id": "e0212",
-         "section": "main",
          "type": "lore",
          "segments": [
           {
@@ -6566,7 +6357,6 @@
         },
         {
          "id": "e0213",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -6584,7 +6374,6 @@
         },
         {
          "id": "e0214",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -6629,7 +6418,6 @@
        "entries": [
         {
          "id": "e0215",
-         "section": "main",
          "type": "video",
          "segments": [
           {
@@ -6641,7 +6429,6 @@
         },
         {
          "id": "e0216",
-         "section": "main",
          "type": "music",
          "segments": [
           {
@@ -6682,7 +6469,6 @@
          "entries": [
           {
            "id": "e0217",
-           "section": "main",
            "type": "video",
            "segments": [
             {

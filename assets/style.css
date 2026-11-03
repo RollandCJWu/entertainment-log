@@ -197,12 +197,12 @@ mark { background: var(--m-played-bg); color: inherit; border-radius: 2px; }
 .field.wide { grid-column: 1 / -1; }
 .field input, .field select, .field textarea { padding: 6px 9px; border: 1px solid var(--line); border-radius: 7px; background: var(--bg); font-size: 14px; color: var(--ink); }
 .field textarea { min-height: 60px; resize: vertical; font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace; font-size: 13px; line-height: 1.5; }
-.e-edit { display: grid; grid-template-columns: 110px 110px minmax(0,1fr) auto; gap: 8px; align-items: start; padding: 10px 0; border-top: 1px solid var(--line); }
+.e-edit { display: grid; grid-template-columns: 130px minmax(0,1fr) auto; gap: 8px; align-items: start; padding: 10px 0; border-top: 1px solid var(--line); }
 .e-edit select, .e-edit textarea { width: 100%; padding: 6px 8px; border: 1px solid var(--line); border-radius: 7px; background: var(--bg); color: var(--ink); font-size: 13.5px; }
 .e-edit .e-text { display: flex; flex-direction: column; gap: 6px; }
 .e-edit textarea { display: block; resize: vertical; font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace; font-size: 13px; line-height: 1.5; }
 .e-edit textarea[name=notes] { min-height: 32px; font-family: var(--font); }
-.e-edit .preview { grid-column: 3 / 5; font-size: 13.5px; color: var(--ink-2); }
+.e-edit .preview { grid-column: 2 / 4; font-size: 13.5px; color: var(--ink-2); }
 .e-edit .e-btns { display: flex; gap: 4px; flex-wrap: wrap; }
 .btn-row { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
 .help { font-size: 12.5px; color: var(--ink-3); margin: 6px 0 0; }
@@ -226,7 +226,7 @@ mark { background: var(--m-played-bg); color: inherit; border-radius: 2px; }
   .brand { margin-right: auto; }
   .pending-bar { top: 96px; }
   .entry { grid-template-columns: minmax(0,1fr); gap: 2px; }
-  .e-edit { grid-template-columns: 1fr 1fr; }
+  .e-edit { grid-template-columns: 1fr; }
   .e-edit .e-text, .e-edit .preview, .e-edit .e-btns { grid-column: 1 / -1; }
   .mobile-links { display: flex !important; }
 }

@@ -37,7 +37,7 @@ tools/convert_pptx.py     當初從 PPT 轉換用的腳本，僅供參考，不�
 | 「看了 X 的實況／全流程」 | entry `type: "video"`，連結加 `mark: "video"`；是播放清單就加 `playlist: true` |
 | 「舞秋風的 X 實況」 | 同上，再加 `channel: "舞秋風"` |
 | 「看了 X 的劇情解說」 | `type: "lore"`，連結 `mark: "video"` |
-| 「聽了 X 的 OST」 | `section: "music"`、`type: "music"`，連結 `mark: "music"`，Wiki／VGMdb 不加 mark |
+| 「聽了 X 的 OST」 | `type: "music"`（加在項目紀錄的後面），連結 `mark: "music"`，Wiki／VGMdb 不加 mark |
 | 「看完 X 動畫第 N 季」 | 動漫節點的 entry `type: "anime"`，看的那個連結 `mark: "anime"`；備註寫在 `notes` |
 | 「先記下 X 的影片，還沒看」 | 連結不加 `mark` |
 | 「系列演進／版本比較影片」 | `type: "evolution"` / `"compare"` |

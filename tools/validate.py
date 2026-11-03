@@ -20,9 +20,8 @@ STATUS = {'played', 'playing', 'dropped'}
 SOURCES = {'light-novel', 'manga', 'game', 'original'}
 MARKS = {'video', 'music', 'anime', 'played', 'playing', 'dropped'}
 TYPES = {'video', 'lore', 'music', 'anime', 'reading', 'evolution', 'compare', 'trivia', 'reference', 'other'}
-ENTRY_SECTIONS = {'main', 'music'}
 NODE_KEYS = {'id', 'kind', 'title', 'status', 'source', 'release', 'tags', 'links', 'notes', 'extra', 'entries', 'children', 'origin', 'subsidiary'}
-ENTRY_KEYS = {'id', 'section', 'type', 'segments', 'notes', 'extra'}
+ENTRY_KEYS = {'id', 'type', 'segments', 'notes', 'extra'}
 SEG_KEYS = {'text', 'url', 'mark', 'playlist', 'channel'}
 
 errors, warnings = [], []
@@ -108,8 +107,6 @@ def check_node(n, path, ids, eids):
         if e.get('id') in eids or not e.get('id'):
             err(w, f'entry id 缺少或重複：{e.get("id")}')
         eids.add(e.get('id'))
-        if e.get('section') not in ENTRY_SECTIONS:
-            err(w, 'section 必須是 main 或 music')
         if 'type' in e and e['type'] not in TYPES:
             err(w, f'type 必須是 {sorted(TYPES)} 之一（遊玩紀錄請省略 type，用文字的 mark 表示）')
         if not e.get('segments'):

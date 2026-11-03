@@ -312,8 +312,6 @@ function viewNode(id) {
   ].join('');
   const extra = n.extra && Object.keys(n.extra).length
     ? `<div class="block"><table class="tbl card">${Object.entries(n.extra).map(([k, v]) => `<tr><th>${esc(k)}</th><td>${esc(v)}</td></tr>`).join('')}</table></div>` : '';
-  const main = (n.entries || []).filter((e) => e.section !== 'music');
-  const music = (n.entries || []).filter((e) => e.section === 'music');
   return `${crumbs(rec.path, rec.section)}
     <h1 class="title">${esc(n.title)}</h1>
     <div class="meta-row">${tags}</div>
@@ -321,8 +319,7 @@ function viewNode(id) {
     ${n.notes && n.notes.length ? `<div class="notes">${n.notes.map((t) => `<p>${esc(t)}</p>`).join('')}</div>` : ''}
     ${state.editing ? nodeEditorHtml(n, rec) : ''}
     ${extra}
-    ${main.length ? `<div class="block"><h2>紀錄</h2><div class="card">${entriesHtml(main)}</div></div>` : ''}
-    ${music.length ? `<div class="block"><h2>音樂 / OST</h2><div class="card">${entriesHtml(music)}</div></div>` : ''}
+    ${n.entries && n.entries.length ? `<div class="block"><h2>紀錄</h2><div class="card">${entriesHtml(n.entries)}</div></div>` : ''}
     ${n.children && n.children.length ? `<div class="block"><h2>子項目</h2>${kidsHtml(n.children)}</div>` : ''}`;
 }
 
