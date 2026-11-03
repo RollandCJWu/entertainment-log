@@ -222,16 +222,30 @@ function releaseText(r) {
 }
 
 // ------------------------------------------------------------------ sidebar tree
+// expanded：手動展開（記在瀏覽器）。autoOpen：目前項目的上層，換頁時自動展開，但可以手動收起。
+// filterClosed：篩選目錄時手動收起的項目（篩選文字改變就重置）。
 const expanded = new Set(store.get('el-open', []));
+const autoOpen = new Set();
+const filterClosed = new Set();
+let autoFor = null;
+let lastFilter = '';
+function syncAutoOpen() {
+  const cur = (location.hash.match(/^#\/n\/(.+)$/) || [])[1] || null;
+  if (cur === autoFor) return;
+  autoFor = cur;
+  autoOpen.clear();
+  const rec = cur && state.idx.get(cur);
+  if (rec) rec.path.forEach((n) => autoOpen.add(n.id));
+}
+const isOpen = (id, f) => (f ? !filterClosed.has(id) : expanded.has(id) || autoOpen.has(id));
 function renderTree(filter = '') {
   const f = filter.trim().toLowerCase();
   const cur = (location.hash.match(/^#\/n\/(.+)$/) || [])[1];
-  const curPath = cur && state.idx.get(cur) ? state.idx.get(cur).path.map((n) => n.id) : [];
   const matches = (n) => !f || n.title.toLowerCase().includes(f) || (n.children || []).some(matches);
   const item = (n) => {
     if (!matches(n)) return '';
     const kids = (n.children || []).filter(matches);
-    const open = f ? true : expanded.has(n.id) || curPath.includes(n.id);
+    const open = isOpen(n.id, f);
     const dot = n.status ? `<span class="dot" style="background:${MARK_COLOR[n.status]}" title="${STATUS_LABEL[n.status]}"></span>` : '';
     return `<li><div class="row${n.id === cur ? ' current' : ''}">
       <button class="tw${kids.length ? '' : ' leaf'}" data-tw="${n.id}" aria-label="展開">${open ? '▾' : '▸'}</button>
@@ -512,6 +526,7 @@ export function render() {
   if (after) after();
   document.querySelectorAll('.toplinks a').forEach((a) => a.classList.toggle('active', h.startsWith(a.getAttribute('href'))));
   $('#review-count').textContent = state.review.items.length || '';
+  syncAutoOpen();
   renderTree($('#tree-filter').value);
   closeNav();
 }
@@ -544,11 +559,22 @@ function bindChrome() {
     const b = e.target.closest('[data-tw]');
     if (!b) return;
     const id = b.dataset.tw;
-    if (expanded.has(id)) expanded.delete(id); else expanded.add(id);
+    const f = $('#tree-filter').value.trim().toLowerCase();
+    if (f) {
+      if (filterClosed.has(id)) filterClosed.delete(id); else filterClosed.add(id);
+    } else if (isOpen(id, f)) {
+      expanded.delete(id);
+      autoOpen.delete(id);
+    } else {
+      expanded.add(id);
+    }
     store.set('el-open', [...expanded]);
     renderTree($('#tree-filter').value);
   });
-  $('#tree-filter').addEventListener('input', (e) => renderTree(e.target.value));
+  $('#tree-filter').addEventListener('input', (e) => {
+    if (e.target.value.trim() !== lastFilter) { lastFilter = e.target.value.trim(); filterClosed.clear(); }
+    renderTree(e.target.value);
+  });
   $('#nav-toggle').addEventListener('click', () => { $('#sidebar').classList.add('open'); $('#scrim').hidden = false; });
   $('#scrim').addEventListener('click', closeNav);
 }
