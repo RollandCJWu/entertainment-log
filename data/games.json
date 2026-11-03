@@ -1809,41 +1809,35 @@
        "origin": "ppt:14"
       },
       {
-       "id": "n0076",
-       "kind": "group",
-       "title": "Monster Hunter",
-       "entries": [
-        {
-         "id": "e0053",
-         "section": "main",
-         "type": "video",
-         "segments": [
-          {
-           "text": "MH1(G)",
-           "url": "https://www.bilibili.com/video/BV1SA411E7cc/?spm_id_from=333.337.search-card.all.click",
-           "playlist": true
-          }
-         ]
-        },
-        {
-         "id": "e0054",
-         "section": "main",
-         "type": "play",
-         "segments": [
-          {
-           "text": "World",
-           "mark": "playing"
-          }
-         ]
-        }
-       ],
-       "origin": "ppt:14"
-      },
-      {
        "id": "n0077",
        "kind": "group",
        "title": "Okami",
        "entries": [
+        {
+         "id": "emw0mlgzh32u",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "Okami",
+           "url": "https://www.youtube.com/playlist?list=PLpfAxniIs1Lbu26mFa_Yvhu3y6rEhUc4-",
+           "playlist": true,
+           "channel": "舞秋風"
+          }
+         ]
+        },
+        {
+         "id": "emw0mmhul4ap",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "Okamiden",
+           "url": "https://www.bilibili.com/video/BV1j4411Z7f8/?spm_id_from=333.337.search-card.all.click",
+           "playlist": true
+          }
+         ]
+        },
         {
          "id": "e0055",
          "section": "music",
@@ -1925,40 +1919,40 @@
            "text": ")"
           }
          ]
-        },
+        }
+       ],
+       "origin": "ppt:15"
+      },
+      {
+       "id": "n0076",
+       "kind": "group",
+       "title": "Monster Hunter",
+       "entries": [
         {
-         "id": "e0057",
-         "section": "music",
-         "type": "music",
+         "id": "e0053",
+         "section": "main",
+         "type": "video",
          "segments": [
           {
-           "text": "Street Fighter (Evo. 1987-2023)",
-           "url": "https://www.youtube.com/watch?v=cTkr3Gc4StA"
+           "text": "MH1(G)",
+           "url": "https://www.bilibili.com/video/BV1SA411E7cc/?spm_id_from=333.337.search-card.all.click",
+           "playlist": true
+          }
+         ]
+        },
+        {
+         "id": "e0054",
+         "section": "main",
+         "type": "play",
+         "segments": [
+          {
+           "text": "World",
+           "mark": "playing"
           }
          ]
         }
        ],
-       "children": [
-        {
-         "id": "n0078",
-         "kind": "group",
-         "title": "Okami 、Okamiden",
-         "links": [
-          {
-           "text": "Okami、合集",
-           "url": "https://www.youtube.com/playlist?list=PLpfAxniIs1Lbu26mFa_Yvhu3y6rEhUc4-",
-           "playlist": true,
-           "channel": "舞秋風"
-          },
-          {
-           "text": "Okamiden",
-           "url": "https://www.bilibili.com/video/BV1j4411Z7f8/?spm_id_from=333.337.search-card.all.click"
-          }
-         ],
-         "origin": "ppt:15"
-        }
-       ],
-       "origin": "ppt:15"
+       "origin": "ppt:14"
       },
       {
        "id": "n0079",
@@ -1978,6 +1972,29 @@
         }
        ],
        "origin": "ppt:15"
+      },
+      {
+       "id": "nmw0mfrpppko",
+       "kind": "series",
+       "title": "Street Fighter"
+      },
+      {
+       "id": "nmw0mnwsttp2",
+       "kind": "series",
+       "title": "Street Fighter",
+       "entries": [
+        {
+         "id": "emw0mo0hxob3",
+         "section": "main",
+         "type": "evolution",
+         "segments": [
+          {
+           "text": "Street Fighter (Evo. 1987-2023)",
+           "url": "https://www.youtube.com/watch?v=cTkr3Gc4StA"
+          }
+         ]
+        }
+       ]
       }
      ],
      "origin": "ppt:1"
@@ -2153,32 +2170,30 @@
      "children": [
       {
        "id": "n0083",
-       "kind": "group",
+       "kind": "series",
        "title": "Dark Soul",
-       "entries": [
+       "origin": "ppt:17",
+       "children": [
         {
-         "id": "e0067",
-         "section": "main",
-         "type": "lore",
-         "segments": [
+         "id": "nmw0m3etx4ju",
+         "kind": "work",
+         "title": "Darks Soul 1",
+         "status": "playing",
+         "entries": [
           {
-           "text": "1",
-           "mark": "playing"
-          },
-          {
-           "text": "("
-          },
-          {
-           "text": "劇情",
-           "url": "https://www.bilibili.com/video/BV1qdPje5EWu/?spm_id_from=333.337.search-card.all.click"
-          },
-          {
-           "text": ")"
+           "id": "emw0m47k5l4a",
+           "section": "main",
+           "type": "lore",
+           "segments": [
+            {
+             "text": "劇情解說",
+             "url": "https://www.bilibili.com/video/BV1qdPje5EWu/?spm_id_from=333.337.search-card.all.click"
+            }
+           ]
           }
          ]
         }
-       ],
-       "origin": "ppt:17"
+       ]
       }
      ],
      "origin": "ppt:1"
@@ -5650,90 +5665,6 @@
          "origin": "ppt:40"
         },
         {
-         "id": "n0159",
-         "kind": "group",
-         "title": "Visit or Video Playthrough",
-         "origin": "ppt:40"
-        },
-        {
-         "id": "n0160",
-         "kind": "group",
-         "title": "我的Minecraft啟蒙：舞秋風",
-         "entries": [
-          {
-           "id": "e0182",
-           "section": "main",
-           "type": "other",
-           "segments": [
-            {
-             "text": "舞秋風 Eldaria Islands 記錄檔 (1.2.5)"
-            }
-           ]
-          },
-          {
-           "id": "e0183",
-           "section": "main",
-           "type": "other",
-           "segments": [
-            {
-             "text": "舞秋風北極深淵記錄檔 (1.3.2)"
-            }
-           ]
-          },
-          {
-           "id": "e0184",
-           "section": "main",
-           "type": "other",
-           "segments": [
-            {
-             "text": "舞秋風亞特蘭提斯紀錄檔 (1.5.2)"
-            }
-           ]
-          },
-          {
-           "id": "e0185",
-           "section": "main",
-           "type": "video",
-           "segments": [
-            {
-             "text": "Ragecraft I - The Corrupted Path (1.6.2) (無存檔) ("
-            },
-            {
-             "text": "Walkthrough",
-             "url": "https://www.youtube.com/playlist?list=PL0vqlrKezjBuKSfxGrjus2YlwSkoBR_rS",
-             "mark": "video",
-             "playlist": true,
-             "channel": "舞秋風"
-            },
-            {
-             "text": ")"
-            }
-           ]
-          },
-          {
-           "id": "e0186",
-           "section": "main",
-           "type": "video",
-           "segments": [
-            {
-             "text": "Ragecraft II - The Insomnia (1.7.2) ("
-            },
-            {
-             "text": "Walkthrough",
-             "url": "https://www.youtube.com/playlist?list=PL0vqlrKezjBvCE1lRwaJ_kAharY_iINHB",
-             "mark": "video",
-             "playlist": true,
-             "channel": "舞秋風"
-            },
-            {
-             "text": ")"
-            }
-           ]
-          }
-         ],
-         "origin": "ppt:40"
-        },
-        {
          "id": "n0161",
          "kind": "group",
          "title": "My Gameplay",
@@ -5823,7 +5754,7 @@
            "type": "other",
            "segments": [
             {
-             "text": "大地復甦 (1.8.1) [CTM Map] (Main 已完成)"
+             "text": "大地復甦 (1.8.1) [CTM Map] (已完成，無存檔)"
             }
            ],
            "notes": [
@@ -5832,7 +5763,7 @@
             "以普通難度遊玩，魔王戰時除第一隻以困難難度遊玩，其他隨意。",
             "開啟防止噴裝。",
             "只允許拿取兩個羊毛，並以手邊方塊取代其位置。",
-            "Goal: Major: 蒐集十六色羊毛、一鐵磚、一金磚和一鑽石磚並將上述物品放置於紀念碑上。Minor: 尋找遊戲內所有箱子和彩蛋。"
+            "Goal: 蒐集十六色羊毛、一鐵磚、一金磚和一鑽石磚並將上述物品放置於紀念碑上。"
            ]
           },
           {
@@ -5841,7 +5772,7 @@
            "type": "other",
            "segments": [
             {
-             "text": "狂亂之境3 (1.8.8) [CTM Map] (半自由遊玩)"
+             "text": "狂亂之境3 (1.8.8) [CTM Map] (自由參觀)"
             }
            ]
           },
@@ -5881,6 +5812,84 @@
             },
             {
              "text": " (1.16.5) [Modpack] Goal: Collect all achievements in game."
+            }
+           ]
+          }
+         ],
+         "origin": "ppt:40"
+        },
+        {
+         "id": "n0160",
+         "kind": "group",
+         "title": "Visit & Video Playthrough",
+         "entries": [
+          {
+           "id": "e0182",
+           "section": "main",
+           "type": "other",
+           "segments": [
+            {
+             "text": "舞秋風 Eldaria Islands 記錄檔 (1.2.5)"
+            }
+           ]
+          },
+          {
+           "id": "e0183",
+           "section": "main",
+           "type": "other",
+           "segments": [
+            {
+             "text": "舞秋風北極深淵記錄檔 (1.3.2)"
+            }
+           ]
+          },
+          {
+           "id": "e0184",
+           "section": "main",
+           "type": "other",
+           "segments": [
+            {
+             "text": "舞秋風亞特蘭提斯紀錄檔 (1.5.2)"
+            }
+           ]
+          },
+          {
+           "id": "e0185",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "Ragecraft I - The Corrupted Path (1.6.2) (無存檔) ("
+            },
+            {
+             "text": "Walkthrough",
+             "url": "https://www.youtube.com/playlist?list=PL0vqlrKezjBuKSfxGrjus2YlwSkoBR_rS",
+             "mark": "video",
+             "playlist": true,
+             "channel": "舞秋風"
+            },
+            {
+             "text": ")"
+            }
+           ]
+          },
+          {
+           "id": "e0186",
+           "section": "main",
+           "type": "video",
+           "segments": [
+            {
+             "text": "Ragecraft II - The Insomnia (1.7.2) ("
+            },
+            {
+             "text": "Walkthrough",
+             "url": "https://www.youtube.com/playlist?list=PL0vqlrKezjBvCE1lRwaJ_kAharY_iINHB",
+             "mark": "video",
+             "playlist": true,
+             "channel": "舞秋風"
+            },
+            {
+             "text": ")"
             }
            ]
           }
@@ -6516,7 +6525,7 @@
         {
          "id": "n0169",
          "kind": "group",
-         "title": "終末地 鐵痕電台",
+         "title": "終末地",
          "status": "playing",
          "links": [
           {

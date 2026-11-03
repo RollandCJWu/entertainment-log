@@ -1,40 +1,4 @@
 {
  "version": 1,
- "items": [
-  {
-   "slide": 15,
-   "node": "n0078",
-   "issue": "標題列含多個連結，可能其實是內容而非分類",
-   "text": "*Okami (舞)、*Okamiden",
-   "id": "r0005"
-  },
-  {
-   "slide": 51,
-   "node": "n0210",
-   "issue": "大括號 { } 未成對，拆分可能有誤",
-   "text": "Angry Birds Classic { *Tutorial、*Poached Eggs、*Mighty Hoax、*Danger Above、*The Big Setup、*Ham'Em High、*Mine and Dine、*Birdday Party、*Birdday 5、*Birdday Party 7、*Surf and Turf、*Bad Piggies、*Red's Mighty Feathers、*Short Fuse、*Flock Flavorites、*Bird Island、*Piggy Farm、*Jurassic Park、*Golden Eggs、",
-   "id": "r0014"
-  },
-  {
-   "slide": 53,
-   "node": "n0227",
-   "issue": "標題列含多個連結，可能其實是內容而非分類",
-   "text": "--Wiki (OST, 100% File Select, Her Spaceship.)--",
-   "id": "r0015"
-  },
-  {
-   "slide": 53,
-   "node": "n0230",
-   "issue": "標題列含多個連結，可能其實是內容而非分類",
-   "text": "--Wiki OST, B-Sides, Farewell.--",
-   "id": "r0016"
-  },
-  {
-   "slide": 40,
-   "node": "n0159",
-   "issue": "空節點（沒有內容），可能是預留的分類或轉換遺漏",
-   "text": "Visit or Video Playthrough",
-   "id": "r0023"
-  }
- ]
+ "items": []
 }

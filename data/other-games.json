@@ -1441,204 +1441,8 @@
     },
     {
      "id": "n0210",
-     "kind": "group",
+     "kind": "series",
      "title": "Angry Birds",
-     "entries": [
-      {
-       "id": "e0296",
-       "section": "main",
-       "type": "video",
-       "segments": [
-        {
-         "text": "Angry Birds Classic  "
-        },
-        {
-         "text": "Tutorial",
-         "url": "https://www.youtube.com/playlist?list=PLlJklkizbjsZTwskzBy8-i_ugJucIurss",
-         "playlist": true
-        },
-        {
-         "text": "、"
-        },
-        {
-         "text": "Poached Eggs",
-         "url": "https://www.youtube.com/playlist?list=PL4EB98823051CE0A8",
-         "playlist": true
-        },
-        {
-         "text": "、"
-        },
-        {
-         "text": "Mighty Hoax",
-         "url": "https://www.youtube.com/playlist?list=PLF5DE751AA10265A2",
-         "playlist": true
-        },
-        {
-         "text": "、"
-        },
-        {
-         "text": "Danger Above",
-         "url": "https://www.youtube.com/playlist?list=PLE02A67B1C9F0418A",
-         "playlist": true
-        },
-        {
-         "text": "、"
-        },
-        {
-         "text": "The Big Setup",
-         "url": "https://www.youtube.com/playlist?list=PL846A863A2DC7B3A9",
-         "playlist": true
-        },
-        {
-         "text": "、"
-        },
-        {
-         "text": "Ham'Em High",
-         "url": "https://www.youtube.com/playlist?list=PLE06BF7E22F48EE29",
-         "playlist": true
-        },
-        {
-         "text": "、"
-        },
-        {
-         "text": "Mine and Dine",
-         "url": "https://www.youtube.com/playlist?list=PL16F6FAB06096F442",
-         "playlist": true
-        },
-        {
-         "text": "、"
-        },
-        {
-         "text": "Birdday Party",
-         "url": "https://www.youtube.com/playlist?list=PL42B4B08763363127",
-         "playlist": true
-        },
-        {
-         "text": "、"
-        },
-        {
-         "text": "Birdday 5",
-         "url": "https://www.youtube.com/playlist?list=PLlJklkizbjsZ0CY72AnlS3BKkbt7USLQF",
-         "playlist": true
-        },
-        {
-         "text": "、"
-        },
-        {
-         "text": "Birdday Party 7",
-         "url": "https://www.youtube.com/playlist?list=PLlJklkizbjsZpsBWeQzMcOXDvKNKxe5iW",
-         "playlist": true
-        },
-        {
-         "text": "、"
-        },
-        {
-         "text": "Surf and Turf",
-         "url": "https://www.youtube.com/playlist?list=PLB8C6C45AD2EBB7F2",
-         "playlist": true
-        },
-        {
-         "text": "、"
-        },
-        {
-         "text": "Bad Piggies",
-         "url": "https://www.youtube.com/playlist?list=PLlJklkizbjsZgJ0FCp6uxCEqrLBSIbupP",
-         "playlist": true
-        },
-        {
-         "text": "、"
-        },
-        {
-         "text": "Red's Mighty Feathers",
-         "url": "https://www.youtube.com/playlist?list=PLlJklkizbjsb1jNekbcQltvlnE2oHvyAY",
-         "playlist": true
-        },
-        {
-         "text": "、"
-        },
-        {
-         "text": "Short Fuse",
-         "url": "https://www.youtube.com/playlist?list=PLlJklkizbjsakUbcNB8VLqZZLae4YJ2yr",
-         "playlist": true
-        },
-        {
-         "text": "、"
-        },
-        {
-         "text": "Flock Flavorites",
-         "url": "https://www.youtube.com/playlist?list=PLlJklkizbjsb6NhOED4qlbrT8SkVRAuYM",
-         "playlist": true
-        },
-        {
-         "text": "、"
-        },
-        {
-         "text": "Bird Island",
-         "url": "https://www.youtube.com/playlist?list=PLlJklkizbjsYEQ6hFxCu1DpKhcFMeyJFe",
-         "playlist": true
-        },
-        {
-         "text": "、"
-        },
-        {
-         "text": "Piggy Farm",
-         "url": "https://www.youtube.com/playlist?list=PLlJklkizbjsa0Vy0E44IcZe9xvVyP0t9U",
-         "playlist": true
-        },
-        {
-         "text": "、"
-        },
-        {
-         "text": "Jurassic Park",
-         "url": "https://www.youtube.com/playlist?list=PLlJklkizbjsYVTFWHUmD0ldXetf2M7fcX",
-         "playlist": true
-        },
-        {
-         "text": "、"
-        },
-        {
-         "text": "Golden Eggs",
-         "url": "https://www.youtube.com/playlist?list=PL4085239726CCFD77",
-         "playlist": true
-        }
-       ]
-      },
-      {
-       "id": "e0297",
-       "section": "main",
-       "type": "video",
-       "segments": [
-        {
-         "text": "Powered Up University: "
-        },
-        {
-         "text": "Level 1",
-         "url": "https://www.youtube.com/watch?v=xSfFCT7tnAA"
-        },
-        {
-         "text": ", "
-        },
-        {
-         "text": "Level 2",
-         "url": "https://www.youtube.com/watch?v=7v3UKFj11-c"
-        },
-        {
-         "text": ", "
-        },
-        {
-         "text": "Level 3",
-         "url": "https://www.youtube.com/watch?v=x-xHrEPMDrI"
-        },
-        {
-         "text": ", "
-        },
-        {
-         "text": "Level 4",
-         "url": "https://www.youtube.com/watch?v=7qz199XFtho"
-        }
-       ]
-      }
-     ],
      "children": [
       {
        "id": "n0211",
@@ -1651,6 +1455,204 @@
         }
        ],
        "origin": "ppt:51"
+      },
+      {
+       "id": "nmw0mrpqlyxp",
+       "kind": "work",
+       "title": "Angry Birds Classic",
+       "entries": [
+        {
+         "id": "emw0msg8lk01",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "Tutorial",
+           "url": "https://www.youtube.com/playlist?list=PLlJklkizbjsZTwskzBy8-i_ugJucIurss",
+           "playlist": true
+          },
+          {
+           "text": "、"
+          },
+          {
+           "text": "Poached Eggs",
+           "url": "https://www.youtube.com/playlist?list=PL4EB98823051CE0A8",
+           "playlist": true
+          },
+          {
+           "text": "、"
+          },
+          {
+           "text": "Mighty Hoax",
+           "url": "https://www.youtube.com/playlist?list=PLF5DE751AA10265A2",
+           "playlist": true
+          },
+          {
+           "text": "、"
+          },
+          {
+           "text": "Danger Above",
+           "url": "https://www.youtube.com/playlist?list=PLE02A67B1C9F0418A",
+           "playlist": true
+          },
+          {
+           "text": "、"
+          },
+          {
+           "text": "The Big Setup",
+           "url": "https://www.youtube.com/playlist?list=PL846A863A2DC7B3A9",
+           "playlist": true
+          },
+          {
+           "text": "、"
+          },
+          {
+           "text": "Ham'Em High",
+           "url": "https://www.youtube.com/playlist?list=PLE06BF7E22F48EE29",
+           "playlist": true
+          },
+          {
+           "text": "、"
+          },
+          {
+           "text": "Mine and Dine",
+           "url": "https://www.youtube.com/playlist?list=PL16F6FAB06096F442",
+           "playlist": true
+          },
+          {
+           "text": "、"
+          },
+          {
+           "text": "Birdday Party",
+           "url": "https://www.youtube.com/playlist?list=PL42B4B08763363127",
+           "playlist": true
+          },
+          {
+           "text": "、"
+          },
+          {
+           "text": "Birdday 5",
+           "url": "https://www.youtube.com/playlist?list=PLlJklkizbjsZ0CY72AnlS3BKkbt7USLQF",
+           "playlist": true
+          },
+          {
+           "text": "、"
+          },
+          {
+           "text": "Birdday Party 7",
+           "url": "https://www.youtube.com/playlist?list=PLlJklkizbjsZpsBWeQzMcOXDvKNKxe5iW",
+           "playlist": true
+          },
+          {
+           "text": "、"
+          },
+          {
+           "text": "Surf and Turf",
+           "url": "https://www.youtube.com/playlist?list=PLB8C6C45AD2EBB7F2",
+           "playlist": true
+          },
+          {
+           "text": "、"
+          },
+          {
+           "text": "Bad Piggies",
+           "url": "https://www.youtube.com/playlist?list=PLlJklkizbjsZgJ0FCp6uxCEqrLBSIbupP",
+           "playlist": true
+          },
+          {
+           "text": "、"
+          },
+          {
+           "text": "Red's Mighty Feathers",
+           "url": "https://www.youtube.com/playlist?list=PLlJklkizbjsb1jNekbcQltvlnE2oHvyAY",
+           "playlist": true
+          },
+          {
+           "text": "、"
+          },
+          {
+           "text": "Short Fuse",
+           "url": "https://www.youtube.com/playlist?list=PLlJklkizbjsakUbcNB8VLqZZLae4YJ2yr",
+           "playlist": true
+          },
+          {
+           "text": "、"
+          },
+          {
+           "text": "Flock Flavorites",
+           "url": "https://www.youtube.com/playlist?list=PLlJklkizbjsb6NhOED4qlbrT8SkVRAuYM",
+           "playlist": true
+          },
+          {
+           "text": "、"
+          },
+          {
+           "text": "Bird Island",
+           "url": "https://www.youtube.com/playlist?list=PLlJklkizbjsYEQ6hFxCu1DpKhcFMeyJFe",
+           "playlist": true
+          },
+          {
+           "text": "、"
+          },
+          {
+           "text": "Piggy Farm",
+           "url": "https://www.youtube.com/playlist?list=PLlJklkizbjsa0Vy0E44IcZe9xvVyP0t9U",
+           "playlist": true
+          },
+          {
+           "text": "、"
+          },
+          {
+           "text": "Jurassic Park",
+           "url": "https://www.youtube.com/playlist?list=PLlJklkizbjsYVTFWHUmD0ldXetf2M7fcX",
+           "playlist": true
+          },
+          {
+           "text": "、"
+          },
+          {
+           "text": "Golden Eggs",
+           "url": "https://www.youtube.com/playlist?list=PL4085239726CCFD77",
+           "playlist": true
+          }
+         ]
+        },
+        {
+         "id": "emw0mukvpi8u",
+         "section": "main",
+         "type": "video",
+         "segments": [
+          {
+           "text": "Powered Up University: "
+          },
+          {
+           "text": "Level 1",
+           "url": "https://www.youtube.com/watch?v=xSfFCT7tnAA"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "Level 2",
+           "url": "https://www.youtube.com/watch?v=7v3UKFj11-c"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "Level 3",
+           "url": "https://www.youtube.com/watch?v=x-xHrEPMDrI"
+          },
+          {
+           "text": ", "
+          },
+          {
+           "text": "Level 4",
+           "url": "https://www.youtube.com/watch?v=7qz199XFtho"
+          }
+         ]
+        }
+       ]
       }
      ],
      "origin": "ppt:51"
@@ -1791,8 +1793,7 @@
       {
        "id": "n0215",
        "kind": "group",
-       "title": "Kingdom Rush (全流程攻略)",
-       "status": "playing",
+       "title": "Kingdom Rush",
        "links": [
         {
          "text": "Kingdom Rush ",
@@ -2128,28 +2129,34 @@
    "children": [
     {
      "id": "n0224",
-     "kind": "group",
+     "kind": "work",
      "title": "911 Operator, 112 Operator",
      "status": "played",
      "origin": "ppt:53"
     },
     {
      "id": "n0225",
-     "kind": "group",
+     "kind": "work",
      "title": "A Hat in Time",
-     "links": [
+     "origin": "ppt:53",
+     "entries": [
       {
-       "text": "A Hat in Time",
-       "url": "https://www.youtube.com/watch?v=x3YVKIhd32c",
-       "mark": "video"
-      }
-     ],
-     "children": [
+       "id": "emw0mykzpm9m",
+       "section": "main",
+       "type": "video",
+       "segments": [
+        {
+         "text": "A Hat in Time",
+         "url": "https://www.youtube.com/watch?v=x3YVKIhd32c",
+         "mark": "video"
+        }
+       ]
+      },
       {
-       "id": "n0226",
-       "kind": "group",
-       "title": "Steam Achievements",
-       "links": [
+       "id": "emw0n18vha9x",
+       "section": "main",
+       "type": "reference",
+       "segments": [
         {
          "text": "("
         },
@@ -2160,133 +2167,49 @@
         {
          "text": ")"
         }
-       ],
-       "origin": "ppt:53"
+       ]
+      },
+      {
+       "id": "emw0n7sbi1tk",
+       "section": "music",
+       "type": "music",
+       "segments": [
+        {
+         "text": "("
+        },
+        {
+         "text": "OST",
+         "url": "https://www.youtube.com/playlist?list=OLAK5uy_n_GNYM9iyOsghyEEZTtLloDyLnEOqL-ME",
+         "mark": "music"
+        },
+        {
+         "text": ", "
+        },
+        {
+         "text": "100% File Select",
+         "url": "https://www.youtube.com/watch?v=a_NW8eG-Utc",
+         "mark": "music"
+        },
+        {
+         "text": ", "
+        },
+        {
+         "text": "Her Spaceship",
+         "url": "https://www.youtube.com/watch?v=Je4PCeDsHik",
+         "mark": "music"
+        },
+        {
+         "text": ".)"
+        }
+       ]
       }
      ],
-     "origin": "ppt:53"
-    },
-    {
-     "id": "n0227",
-     "kind": "group",
-     "title": "OST, 100% File Select, Her Spaceship.",
      "links": [
       {
        "text": "Wiki",
        "url": "https://ahatintime.fandom.com/wiki/Soundtrack"
-      },
-      {
-       "text": " ("
-      },
-      {
-       "text": "OST",
-       "url": "https://www.youtube.com/playlist?list=OLAK5uy_n_GNYM9iyOsghyEEZTtLloDyLnEOqL-ME",
-       "mark": "music"
-      },
-      {
-       "text": ", "
-      },
-      {
-       "text": "100% File Select",
-       "url": "https://www.youtube.com/watch?v=a_NW8eG-Utc",
-       "mark": "music"
-      },
-      {
-       "text": ", "
-      },
-      {
-       "text": "Her Spaceship",
-       "url": "https://www.youtube.com/watch?v=Je4PCeDsHik",
-       "mark": "music"
-      },
-      {
-       "text": ".)"
       }
-     ],
-     "children": [
-      {
-       "id": "n0228",
-       "kind": "group",
-       "title": "Bloons TD 6",
-       "status": "playing",
-       "origin": "ppt:53"
-      },
-      {
-       "id": "n0229",
-       "kind": "group",
-       "title": "Celeste",
-       "children": [
-        {
-         "id": "n0230",
-         "kind": "group",
-         "title": "OST, B-Sides, Farewell.",
-         "links": [
-          {
-           "text": "Wiki",
-           "url": "https://celestegame.fandom.com/wiki/Music"
-          },
-          {
-           "text": " "
-          },
-          {
-           "text": "OST",
-           "url": "https://www.youtube.com/playlist?list=PLe1jcCJWvkWiWLp9h3ge0e5v7n6kxEfOG",
-           "mark": "music"
-          },
-          {
-           "text": ", "
-          },
-          {
-           "text": "B-Sides",
-           "url": "https://www.youtube.com/playlist?list=PLe1jcCJWvkWg9PnsWDEbQvIa_XmkMzjzk",
-           "mark": "music"
-          },
-          {
-           "text": ", "
-          },
-          {
-           "text": "Farewell",
-           "url": "https://www.youtube.com/playlist?list=PLczA8pMWxlsF00YJy-i_hZfDrTbUelQs0",
-           "mark": "music"
-          },
-          {
-           "text": "."
-          }
-         ],
-         "origin": "ppt:53"
-        }
-       ],
-       "origin": "ppt:53"
-      },
-      {
-       "id": "n0231",
-       "kind": "group",
-       "title": "Castle Story",
-       "entries": [
-        {
-         "id": "e0315",
-         "section": "main",
-         "type": "video",
-         "segments": [
-          {
-           "text": "Trailer",
-           "url": "https://www.youtube.com/watch?v=BMCWVvuza_s"
-          },
-          {
-           "text": "、"
-          },
-          {
-           "text": "Castle Story",
-           "url": "https://www.youtube.com/playlist?list=PL1z5TtdeKIKe_0vU_LczBMI0idI8--jxP",
-           "playlist": true
-          }
-         ]
-        }
-       ],
-       "origin": "ppt:53"
-      }
-     ],
-     "origin": "ppt:53"
+     ]
     },
     {
      "id": "n0232",
@@ -2305,49 +2228,132 @@
         }
        ],
        "origin": "ppt:53"
+      }
+     ],
+     "origin": "ppt:53"
+    },
+    {
+     "id": "n0228",
+     "kind": "group",
+     "title": "Bloons TD 6",
+     "status": "playing",
+     "origin": "ppt:53"
+    },
+    {
+     "id": "n0229",
+     "kind": "group",
+     "title": "Celeste",
+     "origin": "ppt:53",
+     "links": [
+      {
+       "text": "Wiki",
+       "url": "https://celestegame.fandom.com/wiki/Music"
+      }
+     ],
+     "entries": [
+      {
+       "id": "emw0ncfwd4ps",
+       "section": "music",
+       "type": "music",
+       "segments": [
+        {
+         "text": "OST",
+         "url": "https://www.youtube.com/playlist?list=PLe1jcCJWvkWiWLp9h3ge0e5v7n6kxEfOG",
+         "mark": "music"
+        },
+        {
+         "text": ", "
+        },
+        {
+         "text": "B-Sides",
+         "url": "https://www.youtube.com/playlist?list=PLe1jcCJWvkWg9PnsWDEbQvIa_XmkMzjzk",
+         "mark": "music"
+        },
+        {
+         "text": ", "
+        },
+        {
+         "text": "Farewell",
+         "url": "https://www.youtube.com/playlist?list=PLczA8pMWxlsF00YJy-i_hZfDrTbUelQs0",
+         "mark": "music"
+        },
+        {
+         "text": "."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "n0231",
+     "kind": "group",
+     "title": "Castle Story",
+     "entries": [
+      {
+       "id": "e0315",
+       "section": "main",
+       "type": "video",
+       "segments": [
+        {
+         "text": "Trailer",
+         "url": "https://www.youtube.com/watch?v=BMCWVvuza_s"
+        }
+       ]
       },
       {
-       "id": "n0234",
-       "kind": "group",
-       "title": "Darkest Dungeon",
-       "links": [
+       "id": "emw0nes4uzup",
+       "section": "main",
+       "type": "video",
+       "segments": [
         {
-         "text": "Darkest Dungeon",
-         "url": "https://www.bilibili.com/video/BV1hA411V7bK?spm_id_from=333.788.videopod.episodes",
+         "text": "Castle Story",
+         "url": "https://www.youtube.com/playlist?list=PL1z5TtdeKIKe_0vU_LczBMI0idI8--jxP",
          "playlist": true
         }
-       ],
-       "origin": "ppt:53"
-      },
+       ]
+      }
+     ],
+     "origin": "ppt:53"
+    },
+    {
+     "id": "n0234",
+     "kind": "group",
+     "title": "Darkest Dungeon",
+     "links": [
       {
-       "id": "n0235",
-       "kind": "group",
-       "title": "Hollow Knights",
-       "entries": [
+       "text": "Darkest Dungeon",
+       "url": "https://www.bilibili.com/video/BV1hA411V7bK?spm_id_from=333.788.videopod.episodes",
+       "playlist": true
+      }
+     ],
+     "origin": "ppt:53"
+    },
+    {
+     "id": "n0235",
+     "kind": "group",
+     "title": "Hollow Knights",
+     "entries": [
+      {
+       "id": "e0316",
+       "section": "main",
+       "type": "music",
+       "segments": [
         {
-         "id": "e0316",
-         "section": "main",
-         "type": "music",
-         "segments": [
-          {
-           "text": "Wiki",
-           "url": "https://hollowknight.fandom.com/wiki/Soundtrack_(Hollow_Knight)"
-          },
-          {
-           "text": " "
-          },
-          {
-           "text": "OST,Gods & Nightmares",
-           "url": "https://www.youtube.com/watch?v=IWZktANV-D8",
-           "mark": "music"
-          },
-          {
-           "text": "–"
-          }
-         ]
+         "text": "Wiki",
+         "url": "https://hollowknight.fandom.com/wiki/Soundtrack_(Hollow_Knight)"
+        },
+        {
+         "text": " "
+        },
+        {
+         "text": "OST,Gods & Nightmares",
+         "url": "https://www.youtube.com/watch?v=IWZktANV-D8",
+         "mark": "music"
+        },
+        {
+         "text": "–"
         }
-       ],
-       "origin": "ppt:53"
+       ]
       }
      ],
      "origin": "ppt:53"
