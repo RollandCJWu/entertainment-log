@@ -1,4 +1,35 @@
 {
  "version": 1,
- "items": []
+ "items": [
+  {
+   "id": "r1a1a61c3f6ap3r",
+   "node": "n1a1a61c3f1eyhe",
+   "issue": "原本「Orcs and Humans」與「OST 1」掛在 Warcraft 系列層，已移到這款作品；請確認 OST 1 是一代的原聲帶",
+   "text": ""
+  },
+  {
+   "id": "r1a1a61c3f6d6ye",
+   "node": "n1a1a61c3f29xsp",
+   "issue": "影片連結的文字原本是遊戲名稱，暫時寫「影片」，請改成實際內容（Walkthrough／Full…）",
+   "text": ""
+  },
+  {
+   "id": "r1a1a61c3f6f8xq",
+   "node": "n1a1a61c3f2d178",
+   "issue": "影片連結的文字原本是遊戲名稱，暫時寫「影片」，請改成實際內容（Walkthrough／Full…）",
+   "text": ""
+  },
+  {
+   "id": "r1a1a61c3f713nj",
+   "node": "n1a1a61c3f45xki",
+   "issue": "PPT 上只有「Shadow of War」文字，沒有連結或標記（原本類型是「其他」）；是玩過、看過，還是只是記下來？",
+   "text": ""
+  },
+  {
+   "id": "r1a1a61c3f73jtt",
+   "node": "n1a1a61c3f56zwb",
+   "issue": "影片連結的文字原本是「Vol.1」，暫時寫「影片」，請改成實際內容",
+   "text": ""
+  }
+ ]
 }

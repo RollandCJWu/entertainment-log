@@ -20,7 +20,7 @@
        "children": [
         {
          "id": "n0038",
-         "kind": "group",
+         "kind": "work",
          "title": "Halo: Combat Evolved",
          "origin": "ppt:3",
          "entries": [
@@ -47,7 +47,7 @@
            "type": "music",
            "segments": [
             {
-             "text": "Halo Infinite OST ("
+             "text": "OST ("
             },
             {
              "text": "Wiki",
@@ -89,49 +89,50 @@
        "id": "n0039",
        "kind": "series",
        "title": "Warcraft",
-       "entries": [
+       "origin": "ppt:4",
+       "children": [
         {
-         "id": "e0002",
-         "type": "lore",
-         "segments": [
+         "id": "n1a1a61c3f1eyhe",
+         "kind": "work",
+         "title": "Warcraft: Orcs & Humans",
+         "entries": [
           {
-           "text": "Orcs and Humans ("
+           "id": "e0002",
+           "type": "video",
+           "segments": [
+            {
+             "text": "Full Game",
+             "url": "https://www.youtube.com/playlist?list=PLyhQRRkqAkC44N7hinwbpno_DhLXnhANR",
+             "mark": "video",
+             "playlist": true
+            }
+           ]
           },
           {
-           "text": "Full Game",
-           "url": "https://www.youtube.com/playlist?list=PLyhQRRkqAkC44N7hinwbpno_DhLXnhANR",
-           "mark": "video",
-           "playlist": true
+           "id": "e1a1a61c3f1ckbd",
+           "type": "lore",
+           "segments": [
+            {
+             "text": "解說",
+             "url": "https://www.bilibili.com/video/BV1Xk4y1W7Sk/?spm_id_from=333.337.search-card.all.click",
+             "mark": "video"
+            }
+           ]
           },
           {
-           "text": ","
-          },
-          {
-           "text": "解說",
-           "url": "https://www.bilibili.com/video/BV1Xk4y1W7Sk/?spm_id_from=333.337.search-card.all.click",
-           "mark": "video"
-          },
-          {
-           "text": ")"
-          }
-         ]
-        },
-        {
-         "id": "e0003",
-         "type": "music",
-         "segments": [
-          {
-           "text": "OST "
-          },
-          {
-           "text": "1",
-           "url": "https://www.youtube.com/watch?v=OTZ8yh2dez0",
-           "mark": "music"
+           "id": "e0003",
+           "type": "music",
+           "segments": [
+            {
+             "text": "OST",
+             "url": "https://www.youtube.com/watch?v=OTZ8yh2dez0",
+             "mark": "music"
+            }
+           ]
           }
          ]
         }
-       ],
-       "origin": "ppt:4"
+       ]
       }
      ],
      "origin": "ppt:1"
@@ -388,134 +389,230 @@
        "id": "n0047",
        "kind": "series",
        "title": "Doom",
-       "entries": [
+       "origin": "ppt:7",
+       "children": [
         {
-         "id": "e0011",
-         "type": "video",
-         "segments": [
+         "id": "n1a1a61c3f20owx",
+         "kind": "work",
+         "title": "Doom (1993)",
+         "entries": [
           {
-           "text": "Doom 1993 (Remastered Gameplay "
-          },
-          {
-           "text": "Full",
-           "url": "https://www.youtube.com/watch?v=Q4GiCg_m8wA",
-           "mark": "video"
-          },
-          {
-           "text": ", "
-          },
-          {
-           "text": "Final Boss & Ending",
-           "url": "https://www.youtube.com/watch?v=rmqGOfuGKK0",
-           "mark": "video"
-          },
-          {
-           "text": "), "
-          },
-          {
-           "text": "Doom 2",
-           "url": "https://www.youtube.com/watch?v=HOTeZHhrCDg&pp=ygUXZG9vbSAyIGZ1bGwgd2Fsa3Rocm91Z2g%3D",
-           "mark": "video"
-          },
-          {
-           "text": ", "
-          },
-          {
-           "text": "Final Doom",
-           "url": "https://www.youtube.com/watch?v=ceuR5YFF_O0",
-           "mark": "video"
-          },
-          {
-           "text": ", "
-          },
-          {
-           "text": "Doom 64",
-           "url": "https://www.youtube.com/watch?v=jswXuV30e1k",
-           "mark": "video"
+           "id": "e0011",
+           "type": "video",
+           "segments": [
+            {
+             "text": "Remastered Gameplay ("
+            },
+            {
+             "text": "Full",
+             "url": "https://www.youtube.com/watch?v=Q4GiCg_m8wA",
+             "mark": "video"
+            },
+            {
+             "text": ", "
+            },
+            {
+             "text": "Final Boss & Ending",
+             "url": "https://www.youtube.com/watch?v=rmqGOfuGKK0",
+             "mark": "video"
+            },
+            {
+             "text": ")"
+            }
+           ]
           }
          ]
         },
         {
-         "id": "e0012",
-         "type": "music",
-         "segments": [
+         "id": "n1a1a61c3f2505f",
+         "kind": "work",
+         "title": "Doom 2",
+         "entries": [
           {
-           "text": "Doom(2016) Wiki",
-           "url": "https://doomwiki.org/wiki/Doom_(Original_Game_Soundtrack)"
-          },
+           "id": "e1a1a61c3f22i3c",
+           "type": "video",
+           "segments": [
+            {
+             "text": "Walkthrough",
+             "url": "https://www.youtube.com/watch?v=HOTeZHhrCDg&pp=ygUXZG9vbSAyIGZ1bGwgd2Fsa3Rocm91Z2g%3D",
+             "mark": "video"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "id": "n1a1a61c3f29xsp",
+         "kind": "work",
+         "title": "Final Doom",
+         "entries": [
           {
-           "text": ": "
-          },
+           "id": "e1a1a61c3f27b3n",
+           "type": "video",
+           "segments": [
+            {
+             "text": "影片",
+             "url": "https://www.youtube.com/watch?v=ceuR5YFF_O0",
+             "mark": "video"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "id": "n1a1a61c3f2d178",
+         "kind": "work",
+         "title": "Doom 64",
+         "entries": [
           {
-           "text": "vid.",
-           "url": "https://www.youtube.com/watch?v=Jm932Sqwf5E",
-           "mark": "music"
-          },
+           "id": "e1a1a61c3f2b203",
+           "type": "video",
+           "segments": [
+            {
+             "text": "影片",
+             "url": "https://www.youtube.com/watch?v=jswXuV30e1k",
+             "mark": "video"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "id": "n1a1a61c3f2fdjt",
+         "kind": "work",
+         "title": "Doom (2016)",
+         "entries": [
           {
-           "text": ", "
-          },
+           "id": "e0012",
+           "type": "music",
+           "segments": [
+            {
+             "text": "OST ("
+            },
+            {
+             "text": "Wiki",
+             "url": "https://doomwiki.org/wiki/Doom_(Original_Game_Soundtrack)"
+            },
+            {
+             "text": ", "
+            },
+            {
+             "text": "vid.",
+             "url": "https://www.youtube.com/watch?v=Jm932Sqwf5E",
+             "mark": "music"
+            },
+            {
+             "text": ")"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "id": "n1a1a61c3f338hk",
+         "kind": "work",
+         "title": "Doom Eternal",
+         "entries": [
           {
-           "text": "Doom Eternal Wiki",
-           "url": "https://doomwiki.org/wiki/Doom_Eternal_soundtrack"
-          },
-          {
-           "text": ": "
-          },
-          {
-           "text": "vid.",
-           "url": "https://www.youtube.com/watch?v=TBWcG0gADS4",
-           "mark": "music"
+           "id": "e1a1a61c3f31kpt",
+           "type": "music",
+           "segments": [
+            {
+             "text": "OST ("
+            },
+            {
+             "text": "Wiki",
+             "url": "https://doomwiki.org/wiki/Doom_Eternal_soundtrack"
+            },
+            {
+             "text": ", "
+            },
+            {
+             "text": "vid.",
+             "url": "https://www.youtube.com/watch?v=TBWcG0gADS4",
+             "mark": "music"
+            },
+            {
+             "text": ")"
+            }
+           ]
           }
          ]
         }
-       ],
-       "origin": "ppt:7"
+       ]
       },
       {
        "id": "n0048",
        "kind": "series",
        "title": "Wolfenstein",
-       "entries": [
+       "origin": "ppt:7",
+       "children": [
         {
-         "id": "e0014",
-         "type": "video",
-         "segments": [
+         "id": "n1a1a61c3f35ge6",
+         "kind": "work",
+         "title": "Castle Wolfenstein",
+         "entries": [
           {
-           "text": "Castle Wolfenstein",
-           "url": "https://www.youtube.com/watch?v=8fgok9eHqO8",
-           "mark": "video"
-          },
+           "id": "e0014",
+           "type": "video",
+           "segments": [
+            {
+             "text": "Walkthrough",
+             "url": "https://www.youtube.com/watch?v=8fgok9eHqO8",
+             "mark": "video"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "id": "n1a1a61c3f3a4ei",
+         "kind": "work",
+         "title": "Beyond Castle Wolfenstein",
+         "entries": [
           {
-           "text": ", "
-          },
+           "id": "e1a1a61c3f38cpa",
+           "type": "video",
+           "segments": [
+            {
+             "text": "Walkthrough",
+             "url": "https://www.youtube.com/watch?v=Bf7z8kjza2c&t=4s",
+             "mark": "video"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "id": "n1a1a61c3f3esmc",
+         "kind": "work",
+         "title": "Wolfenstein 3D",
+         "entries": [
           {
-           "text": "Beyond Castle Wolfenstein",
-           "url": "https://www.youtube.com/watch?v=Bf7z8kjza2c&t=4s",
-           "mark": "video"
-          },
-          {
-           "text": ", "
-          },
-          {
-           "text": "Wolfenstein 3D",
-           "url": "https://www.youtube.com/watch?v=x8o0a5ntxfc&t=11s",
-           "mark": "video"
-          },
-          {
-           "text": " ("
-          },
-          {
-           "text": "Spear of Destiny",
-           "url": "https://www.youtube.com/watch?v=UXuftq-EiQM&pp=ygUQc3BlYXIgb2YgZGVzdGlueQ%3D%3D",
-           "mark": "video"
-          },
-          {
-           "text": ")"
+           "id": "e1a1a61c3f3c0vl",
+           "type": "video",
+           "segments": [
+            {
+             "text": "Walkthrough",
+             "url": "https://www.youtube.com/watch?v=x8o0a5ntxfc&t=11s",
+             "mark": "video"
+            },
+            {
+             "text": " ("
+            },
+            {
+             "text": "Spear of Destiny",
+             "url": "https://www.youtube.com/watch?v=UXuftq-EiQM&pp=ygUQc3BlYXIgb2YgZGVzdGlueQ%3D%3D",
+             "mark": "video"
+            },
+            {
+             "text": ")"
+            }
+           ]
           }
          ]
         }
-       ],
-       "origin": "ppt:7"
+       ]
       }
      ],
      "origin": "ppt:1"
@@ -526,55 +623,57 @@
      "title": "Monolith Productions",
      "children": [
       {
+       "id": "n1a1a61c3f401in",
+       "kind": "work",
+       "title": "Blood",
+       "entries": [
+        {
+         "id": "emw1tduismex",
+         "type": "lore",
+         "segments": [
+          {
+           "text": "遊戲解說",
+           "url": "https://www.bilibili.com/video/BV137411975k/?spm_id_from=333.337.search-card.all.click",
+           "mark": "video"
+          }
+         ]
+        }
+       ]
+      },
+      {
        "id": "n0050",
        "kind": "series",
        "title": "Middle Earth",
-       "entries": [
+       "origin": "ppt:7",
+       "children": [
         {
-         "id": "e0016",
-         "type": "music",
-         "segments": [
+         "id": "n1a1a61c3f427t7",
+         "kind": "work",
+         "title": "Shadow of Mordor",
+         "status": "played",
+         "entries": [
           {
-           "text": "Shadow of Mordor ",
-           "mark": "played"
-          },
-          {
-           "text": " "
-          },
-          {
-           "text": "OST",
-           "url": "https://www.youtube.com/watch?v=fitw4w59ovI",
-           "mark": "music"
+           "id": "e0016",
+           "type": "music",
+           "segments": [
+            {
+             "text": "OST",
+             "url": "https://www.youtube.com/watch?v=fitw4w59ovI",
+             "mark": "music"
+            }
+           ]
           }
          ]
         },
         {
-         "id": "e0017",
-         "type": "other",
-         "segments": [
-          {
-           "text": "Shadow of War"
-          }
-         ]
-        }
-       ],
-       "origin": "ppt:7"
-      }
-     ],
-     "origin": "ppt:1",
-     "entries": [
-      {
-       "id": "emw1tduismex",
-       "type": "lore",
-       "segments": [
-        {
-         "text": "Blood 遊戲解說",
-         "url": "https://www.bilibili.com/video/BV137411975k/?spm_id_from=333.337.search-card.all.click",
-         "mark": "video"
+         "id": "n1a1a61c3f45xki",
+         "kind": "work",
+         "title": "Shadow of War"
         }
        ]
       }
-     ]
+     ],
+     "origin": "ppt:1"
     },
     {
      "id": "n0008",
@@ -585,113 +684,124 @@
        "id": "n0051",
        "kind": "series",
        "title": "The Last of Us",
-       "entries": [
+       "origin": "ppt:8",
+       "children": [
         {
-         "id": "emw1tgrubstn",
-         "type": "video",
-         "segments": [
+         "id": "n1a1a61c3f47f1j",
+         "kind": "work",
+         "title": "The Last of Us 1",
+         "entries": [
           {
-           "text": "The Last of Us 1",
-           "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjvP0emKj8Q4KqlBd9WBlOn2",
-           "mark": "video",
-           "playlist": true,
-           "channel": "舞秋風"
-          }
-         ]
-        },
-        {
-         "id": "e0018",
-         "type": "music",
-         "segments": [
+           "id": "emw1tgrubstn",
+           "type": "video",
+           "segments": [
+            {
+             "text": "舞秋風實況",
+             "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjvP0emKj8Q4KqlBd9WBlOn2",
+             "mark": "video",
+             "playlist": true,
+             "channel": "舞秋風"
+            }
+           ]
+          },
           {
-           "text": "The Last of Us 1 OST",
-           "url": "https://www.youtube.com/watch?v=vXrXCvRpiDY&list=RDvXrXCvRpiDY&start_radio=1",
-           "mark": "music"
+           "id": "e0018",
+           "type": "music",
+           "segments": [
+            {
+             "text": "OST",
+             "url": "https://www.youtube.com/watch?v=vXrXCvRpiDY&list=RDvXrXCvRpiDY&start_radio=1",
+             "mark": "music"
+            }
+           ]
           }
          ]
         }
-       ],
-       "origin": "ppt:8"
+       ]
       },
       {
        "id": "n0052",
        "kind": "series",
        "title": "Uncharted",
-       "entries": [
+       "origin": "ppt:8",
+       "children": [
         {
-         "id": "e0019",
-         "type": "video",
-         "segments": [
+         "id": "n1a1a61c3f49zrs",
+         "kind": "work",
+         "title": "Uncharted: Drake’s Fortune",
+         "entries": [
           {
-           "text": "UC1. Drake’s Fortune  ("
+           "id": "e0019",
+           "type": "video",
+           "segments": [
+            {
+             "text": "舞秋風實況",
+             "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjvP6S1CcLKH9Iu78Qh1RJlf",
+             "mark": "video",
+             "playlist": true,
+             "channel": "舞秋風"
+            },
+            {
+             "text": "、"
+            },
+            {
+             "text": "Walkthrough",
+             "url": "https://www.youtube.com/watch?v=Hv48CUSjC40",
+             "mark": "video"
+            },
+            {
+             "text": "、"
+            },
+            {
+             "text": "All Treasures",
+             "url": "https://www.youtube.com/watch?v=6Q2vQoCJucM",
+             "mark": "video"
+            },
+            {
+             "text": "、"
+            },
+            {
+             "text": "All Deaths",
+             "url": "https://www.youtube.com/watch?v=38nIzzj4yEA",
+             "mark": "video"
+            },
+            {
+             "text": "、"
+            },
+            {
+             "text": "All Melee",
+             "url": "https://www.youtube.com/watch?v=Uof-Dmb6jiM",
+             "mark": "video"
+            }
+           ]
           },
           {
-           "text": "舞秋風",
-           "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjvP6S1CcLKH9Iu78Qh1RJlf",
-           "mark": "video",
-           "playlist": true,
-           "channel": "舞秋風"
-          },
-          {
-           "text": ")、"
-          },
-          {
-           "text": "Walkthrough",
-           "url": "https://www.youtube.com/watch?v=Hv48CUSjC40",
-           "mark": "video"
-          },
-          {
-           "text": "、"
-          },
-          {
-           "text": "All Treasures",
-           "url": "https://www.youtube.com/watch?v=6Q2vQoCJucM",
-           "mark": "video"
-          },
-          {
-           "text": "、"
-          },
-          {
-           "text": "All Deaths",
-           "url": "https://www.youtube.com/watch?v=38nIzzj4yEA",
-           "mark": "video"
-          },
-          {
-           "text": "、"
-          },
-          {
-           "text": "All Melee",
-           "url": "https://www.youtube.com/watch?v=Uof-Dmb6jiM",
-           "mark": "video"
-          }
-         ]
-        },
-        {
-         "id": "e0020",
-         "type": "music",
-         "segments": [
-          {
-           "text": "UC1 ("
-          },
-          {
-           "text": "Vgmdb",
-           "url": "https://vgmdb.net/album/5655"
-          },
-          {
-           "text": ", "
-          },
-          {
-           "text": "vid.",
-           "url": "https://www.youtube.com/watch?v=oe-Aac14Ias",
-           "mark": "music"
-          },
-          {
-           "text": ")"
+           "id": "e0020",
+           "type": "music",
+           "segments": [
+            {
+             "text": "OST ("
+            },
+            {
+             "text": "Vgmdb",
+             "url": "https://vgmdb.net/album/5655"
+            },
+            {
+             "text": ", "
+            },
+            {
+             "text": "vid.",
+             "url": "https://www.youtube.com/watch?v=oe-Aac14Ias",
+             "mark": "music"
+            },
+            {
+             "text": ")"
+            }
+           ]
           }
          ]
         }
-       ],
-       "origin": "ppt:8"
+       ]
       }
      ],
      "origin": "ppt:1"
@@ -706,54 +816,84 @@
        "kind": "work",
        "title": "Insaniquarium",
        "status": "played",
-       "origin": "ppt:9"
+       "origin": "ppt:9",
+       "entries": [
+        {
+         "id": "emw1tvnobu6t",
+         "type": "music",
+         "segments": [
+          {
+           "text": "OST",
+           "url": "https://www.youtube.com/watch?v=4iGYOAZDVKw&list=RD4iGYOAZDVKw&start_radio=1",
+           "mark": "music"
+          },
+          {
+           "text": " ("
+          },
+          {
+           "text": "track.12",
+           "url": "https://downloads.khinsider.com/game-soundtracks/album/insaniquarium/12.%2520Insaniquarium%2520Arrangement.mp3",
+           "mark": "music"
+          },
+          {
+           "text": ")"
+          }
+         ]
+        }
+       ]
       },
       {
        "id": "n0054",
        "kind": "series",
        "title": "Bookworm",
-       "entries": [
-        {
-         "id": "e0021",
-         "type": "video",
-         "segments": [
-          {
-           "text": "Bookworm",
-           "url": "https://www.youtube.com/watch?v=1wURJFp6rj8",
-           "mark": "video"
-          },
-          {
-           "text": " (Showcase)"
-          }
-         ]
-        }
-       ],
        "origin": "ppt:9",
        "children": [
+        {
+         "id": "n1a1a61c3f542vv",
+         "kind": "work",
+         "title": "Bookworm",
+         "entries": [
+          {
+           "id": "e0021",
+           "type": "video",
+           "segments": [
+            {
+             "text": "Showcase",
+             "url": "https://www.youtube.com/watch?v=1wURJFp6rj8",
+             "mark": "video"
+            }
+           ]
+          }
+         ]
+        },
         {
          "id": "nmw1tmw3w2xd",
          "kind": "subseries",
          "title": "Bookworm Adventure",
-         "entries": [
+         "children": [
           {
-           "id": "emw1tnwvv53j",
-           "type": "video",
-           "segments": [
+           "id": "n1a1a61c3f56zwb",
+           "kind": "work",
+           "title": "Vol.1",
+           "entries": [
             {
-             "text": "Vol.1",
-             "url": "https://www.youtube.com/watch?v=2c3EHhoNWgM",
-             "mark": "video"
+             "id": "emw1tnwvv53j",
+             "type": "video",
+             "segments": [
+              {
+               "text": "影片",
+               "url": "https://www.youtube.com/watch?v=2c3EHhoNWgM",
+               "mark": "video"
+              }
+             ]
             }
            ]
           },
           {
-           "id": "emw1toorfmat",
-           "segments": [
-            {
-             "text": "Vol.2",
-             "mark": "played"
-            }
-           ]
+           "id": "n1a1a61c3f582k7",
+           "kind": "work",
+           "title": "Vol.2",
+           "status": "played"
           }
          ]
         }
@@ -788,6 +928,18 @@
              "mark": "video"
             }
            ]
+          },
+          {
+           "id": "e1a1a61c3f4evp6",
+           "type": "music",
+           "segments": [
+            {
+             "text": "OST",
+             "url": "https://www.youtube.com/playlist?list=PLvLtQbVH1Nu59oBk-3K6uBw8WWMaxGQuB",
+             "mark": "music",
+             "playlist": true
+            }
+           ]
           }
          ]
         }
@@ -799,7 +951,21 @@
        "kind": "work",
        "title": "Rocket Mania Deluxe",
        "status": "played",
-       "origin": "ppt:9"
+       "origin": "ppt:9",
+       "entries": [
+        {
+         "id": "e1a1a61c3f50ja9",
+         "type": "music",
+         "segments": [
+          {
+           "text": "OST",
+           "url": "https://www.bilibili.com/video/BV1VL4y1j7rf/?spm_id_from=333.337.search-card.all.click",
+           "mark": "music",
+           "playlist": true
+          }
+         ]
+        }
+       ]
       },
       {
        "id": "n0059",
@@ -808,10 +974,23 @@
        "children": [
         {
          "id": "n0060",
-         "kind": "subseries",
+         "kind": "work",
          "title": "Zuma’s Revenge",
          "status": "played",
-         "origin": "ppt:9"
+         "origin": "ppt:9",
+         "entries": [
+          {
+           "id": "e1a1a61c3f520cl",
+           "type": "music",
+           "segments": [
+            {
+             "text": "OST",
+             "url": "https://www.youtube.com/watch?v=WnzGcY_g7Uk",
+             "mark": "music"
+            }
+           ]
+          }
+         ]
         }
        ],
        "origin": "ppt:9"
@@ -820,92 +999,52 @@
        "id": "nmw1tq2j8z9l",
        "kind": "work",
        "title": "Heavy Weapon",
-       "status": "played"
-      }
-     ],
-     "origin": "ppt:1",
-     "entries": [
-      {
-       "id": "emw1tvnobu6t",
-       "type": "music",
-       "segments": [
+       "status": "played",
+       "entries": [
         {
-         "text": "Heavy Weapon Deluxe",
-         "url": "https://www.bilibili.com/video/BV1DG4y1N7PY?spm_id_from=333.788.videopod.sections",
-         "mark": "music",
-         "playlist": true
-        },
-        {
-         "text": ", "
-        },
-        {
-         "text": "Insaniquarium",
-         "url": "https://www.youtube.com/watch?v=4iGYOAZDVKw&list=RD4iGYOAZDVKw&start_radio=1",
-         "mark": "music"
-        },
-        {
-         "text": " (",
-         "mark": "music"
-        },
-        {
-         "text": "track.12",
-         "url": "https://downloads.khinsider.com/game-soundtracks/album/insaniquarium/12.%2520Insaniquarium%2520Arrangement.mp3",
-         "mark": "music"
-        },
-        {
-         "text": ")",
-         "mark": "music"
-        },
-        {
-         "text": ", "
-        },
-        {
-         "text": "PVZ1",
-         "url": "https://www.youtube.com/playlist?list=PLvLtQbVH1Nu59oBk-3K6uBw8WWMaxGQuB",
-         "mark": "music",
-         "playlist": true
-        },
-        {
-         "text": ", "
-        },
-        {
-         "text": "Rocket Mania",
-         "url": "https://www.bilibili.com/video/BV1VL4y1j7rf/?spm_id_from=333.337.search-card.all.click",
-         "mark": "music",
-         "playlist": true
-        },
-        {
-         "text": ", "
-        },
-        {
-         "text": "Zuma’s Revenge",
-         "url": "https://www.youtube.com/watch?v=WnzGcY_g7Uk",
-         "mark": "music"
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "id": "n0010",
-     "kind": "company",
-     "title": "Supergiant Games",
-     "entries": [
-      {
-       "id": "e0025",
-       "type": "video",
-       "segments": [
-        {
-         "text": "Bastion",
-         "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjvpMMibdM0cCq1m62guui0U",
-         "playlist": true,
-         "channel": "舞秋風",
-         "mark": "video"
+         "id": "e1a1a61c3f4c9h5",
+         "type": "music",
+         "segments": [
+          {
+           "text": "Deluxe OST",
+           "url": "https://www.bilibili.com/video/BV1DG4y1N7PY?spm_id_from=333.788.videopod.sections",
+           "mark": "music",
+           "playlist": true
+          }
+         ]
         }
        ]
       }
      ],
      "origin": "ppt:1"
+    },
+    {
+     "id": "n0010",
+     "kind": "company",
+     "title": "Supergiant Games",
+     "origin": "ppt:1",
+     "children": [
+      {
+       "id": "n1a1a61c3f5ahny",
+       "kind": "work",
+       "title": "Bastion",
+       "entries": [
+        {
+         "id": "e0025",
+         "type": "video",
+         "segments": [
+          {
+           "text": "舞秋風實況",
+           "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjvpMMibdM0cCq1m62guui0U",
+           "playlist": true,
+           "channel": "舞秋風",
+           "mark": "video"
+          }
+         ]
+        }
+       ]
+      }
+     ]
     },
     {
      "id": "n0011",
@@ -927,16 +1066,28 @@
            "url": "https://www.bilibili.com/video/BV1dF411J7Hx/?spm_id_from=333.337.search-card.all.click",
            "mark": "video",
            "playlist": true
-          },
+          }
+         ]
+        }
+       ],
+       "children": [
+        {
+         "id": "n1a1a61c3f5fwgr",
+         "kind": "work",
+         "title": "Left 4 Dead 2",
+         "entries": [
           {
-           "text": ","
-          },
-          {
-           "text": "舞秋風實況 (L4D 2)",
-           "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjtP3FsHfNtRolBgt5xlJ3vT",
-           "mark": "video",
-           "playlist": true,
-           "channel": "舞秋風"
+           "id": "e1a1a61c3f5degk",
+           "type": "video",
+           "segments": [
+            {
+             "text": "舞秋風實況",
+             "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjtP3FsHfNtRolBgt5xlJ3vT",
+             "mark": "video",
+             "playlist": true,
+             "channel": "舞秋風"
+            }
+           ]
           }
          ]
         }

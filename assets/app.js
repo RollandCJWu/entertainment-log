@@ -242,9 +242,11 @@ function renderTree(filter = '') {
   const f = filter.trim().toLowerCase();
   const cur = (location.hash.match(/^#\/n\/(.+)$/) || [])[1];
   const matches = (n) => !f || n.title.toLowerCase().includes(f) || (n.children || []).some(matches);
+  // 輕量作品在上層頁面就看得到，目錄裡不列出（篩選時或正在看的除外）
+  const listed = (n) => matches(n) && (f || !isLight(n) || n.id === cur);
   const item = (n) => {
-    if (!matches(n)) return '';
-    const kids = (n.children || []).filter(matches);
+    if (!listed(n)) return '';
+    const kids = (n.children || []).filter(listed);
     const open = isOpen(n.id, f);
     const dot = n.status ? `<span class="dot" style="background:${MARK_COLOR[n.status]}" title="${STATUS_LABEL[n.status]}"></span>` : '';
     return `<li><div class="row${n.id === cur ? ' current' : ''}">
@@ -305,6 +307,24 @@ function kidsHtml(nodes) {
   }).join('')}</div>`;
 }
 
+// 輕量作品：沒有子項目、紀錄不超過 1 筆的作品。不單獨成為子項目卡片，直接在上層列成一行
+export const isLight = (n) => n.kind === 'work' && !(n.children && n.children.length) && (n.entries || []).length <= 1;
+
+function workRowsHtml(list) {
+  return `<ul class="entries works">${list.map((w) => {
+    const e = (w.entries || [])[0];
+    const label = e ? entryLabel(e) : (w.status ? STATUS_LABEL[w.status] : '');
+    const dot = w.status ? `<span class="dot" style="display:inline-block;background:${MARK_COLOR[w.status]}" title="${STATUS_LABEL[w.status]}"></span> ` : '';
+    const links = (w.links || []).filter((x) => x.url).map((x) => segsHtml([{ ...x, text: x.text.trim() }])).join(' ');
+    const notes = [...(e ? e.notes || [] : []), ...(w.notes || [])].map((t) => `<span class="enote">${esc(t)}</span>`).join('');
+    return `<li class="entry work-row">
+      <div class="wtitle">${dot}<a href="#/n/${w.id}">${esc(w.title)}</a>${links ? ` <span class="wlinks">${links}</span>` : ''}</div>
+      <span class="etype">${esc(label)}</span>
+      <div class="etext">${e ? segsHtml(e.segments) : ''}${notes}</div>
+    </li>`;
+  }).join('')}</ul>`;
+}
+
 function entriesHtml(list) {
   return `<ul class="entries">${list.map((e) => `<li class="entry">
       <span class="etype">${esc(entryLabel(e))}</span>
@@ -331,6 +351,8 @@ function viewNode(id) {
   const links = (n.links || []).filter((x) => x.url);
   const main = links.find((x) => norm(x.text) === norm(n.title));
   const others = links.filter((x) => x !== main);
+  const lightKids = (n.children || []).filter(isLight);
+  const heavyKids = (n.children || []).filter((c) => !isLight(c));
   const titleHtml = main
     ? `<a class="title-link" href="${esc(main.url)}" target="_blank" rel="noopener noreferrer" title="${esc(siteOf(main.url))}">${esc(n.title)}</a>`
     : esc(n.title);
@@ -342,7 +364,8 @@ function viewNode(id) {
     ${state.editing ? nodeEditorHtml(n, rec) : ''}
     ${extra}
     ${n.entries && n.entries.length ? `<div class="block"><h2>紀錄</h2><div class="card">${entriesHtml(n.entries)}</div></div>` : ''}
-    ${n.children && n.children.length ? `<div class="block"><h2>子項目</h2>${kidsHtml(n.children)}</div>` : ''}`;
+    ${lightKids.length ? `<div class="block"><h2>作品</h2><div class="card">${workRowsHtml(lightKids)}</div></div>` : ''}
+    ${heavyKids.length ? `<div class="block"><h2>子項目</h2>${kidsHtml(heavyKids)}</div>` : ''}`;
 }
 
 // ---- search

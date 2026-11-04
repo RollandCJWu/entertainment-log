@@ -32,7 +32,7 @@ tools/convert_pptx.py     當初從 PPT 轉換用的腳本，僅供參考，不�
 
 | 使用者說 | 怎麼記 |
 |---|---|
-| 「我玩過／通關了 X」 | 節點 `status: "played"`；如果只是系列裡的某一代，就新增一筆不寫 `type` 的 entry，給那段文字加 `mark: "played"`（首頁「遊玩中」會一起收集 `mark: "playing"` 的文字）。不要再用 `type: "play"` |
+| 「我玩過／通關了 X」 | X 的作品節點 `status: "played"`；系列裡的某一代也是開一個 `work` 節點（見 `docs/schema.md` 的作品規則），不要再用 `type: "play"` |
 | 「正在玩 X」「X 退坑了」 | `status: "playing"` / `"dropped"` |
 | 「看了 X 的實況／全流程」 | entry `type: "video"`，連結加 `mark: "video"`；是播放清單就加 `playlist: true` |
 | 「舞秋風的 X 實況」 | 同上，再加 `channel: "舞秋風"` |
@@ -55,5 +55,6 @@ tools/convert_pptx.py     當初從 PPT 轉換用的腳本，僅供參考，不�
 
 ## 待辦（使用者已同意的下一步）
 
+- 依「每款遊戲一個 work」規則（`docs/schema.md`）分批重整 Japan、Europe、China、Taiwan，再做 other-games；USA 已完成，可當範本。不確定的拆法放進 `data/review.json`。
 - 分批補上 `release` 發行日期（每筆附來源網址）。
 - 依 `data/review.json` 和使用者回饋修正轉換錯誤。
