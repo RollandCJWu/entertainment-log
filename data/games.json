@@ -208,7 +208,7 @@
      "children": [
       {
        "id": "n0041",
-       "kind": "company",
+       "kind": "studio",
        "title": "DICE LA",
        "children": [
         {
@@ -250,12 +250,11 @@
          ]
         }
        ],
-       "subsidiary": true,
        "origin": "ppt:6"
       },
       {
        "id": "n0042",
-       "kind": "company",
+       "kind": "studio",
        "title": "Maxis",
        "children": [
         {
@@ -311,14 +310,12 @@
          ]
         }
        ],
-       "subsidiary": true,
        "origin": "ppt:6"
       },
       {
        "id": "n0043",
-       "kind": "company",
-       "title": "WestWood",
-       "subsidiary": true,
+       "kind": "studio",
+       "title": "Westwood Studios",
        "origin": "ppt:6",
        "children": [
         {
@@ -4788,9 +4785,8 @@
       },
       {
        "id": "n0123",
-       "kind": "company",
+       "kind": "studio",
        "title": "Relic Entertainment",
-       "subsidiary": true,
        "origin": "ppt:31",
        "children": [
         {
@@ -4816,6 +4812,9 @@
           }
          ]
         }
+       ],
+       "notes": [
+        "2024 年 3 月起脫離 Sega 獨立"
        ]
       }
      ],

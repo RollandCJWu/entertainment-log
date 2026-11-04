@@ -17,7 +17,7 @@ export const TYPE_LABEL = {
   evolution: '系列演進', trivia: '雜談', reference: '資料', other: '其他',
 };
 export const KIND_LABEL = {
-  region: '地區', company: '公司', category: '分類', series: '系列', subseries: '子系列', group: '分組', work: '作品',
+  region: '地區', company: '公司', studio: '子公司/團隊', category: '分類', series: '系列', subseries: '子系列', group: '分組', work: '作品',
 };
 export const STATUS_LABEL = { played: '已玩過', playing: '遊玩中', dropped: '退坑' };
 export const SOURCE_LABEL = { 'light-novel': '輕小說原作', manga: '漫畫原作', game: '遊戲原作', original: '原創' };

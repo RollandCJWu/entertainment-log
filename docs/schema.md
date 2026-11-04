@@ -27,7 +27,7 @@
 | 欄位 | 必填 | 說明 |
 |---|---|---|
 | `id` | ✔ | 唯一 ID。新增時用 `python3 tools/validate.py --new-id n` 產生 |
-| `kind` | ✔ | `region` 地區、`company` 公司、`category` 分類、`series` 系列、`subseries` 子系列、`group` 分組、`work` 作品 |
+| `kind` | ✔ | `region` 地區、`company` 公司、`studio` 子公司/團隊（隸屬於某集團或公司的子公司、開發團隊）、`category` 分類、`series` 系列、`subseries` 子系列、`group` 分組、`work` 作品 |
 | `title` | ✔ | 名稱 |
 | `status` | | 個人遊玩狀態：`played` 已玩過、`playing` 遊玩中、`dropped` 退坑 |
 | `source` | | 動漫的原作媒介：`light-novel`、`manga`、`game`、`original` |
@@ -39,7 +39,6 @@
 | `entries` | | Entry 陣列，這個項目的紀錄（為空時省略此欄位） |
 | `children` | | 子項目（為空時省略此欄位） |
 | `origin` | | 原 PPT 頁碼，例如 `"ppt:23"`。只是參考用 |
-| `subsidiary` | | `true` 表示是子公司（只用在 `company`） |
 
 ### 什麼時候開節點（作品規則）
 
