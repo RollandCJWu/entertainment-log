@@ -211,31 +211,6 @@
          "id": "n0044",
          "kind": "series",
          "title": "Medal of Honor",
-         "entries": [
-          {
-           "id": "e0005",
-           "type": "video",
-           "segments": [
-            {
-             "text": "Walkthrough",
-             "url": "https://www.youtube.com/watch?v=AEeAwjqTg1o",
-             "mark": "video"
-            }
-           ]
-          },
-          {
-           "id": "e0006",
-           "type": "music",
-           "segments": [
-            {
-             "text": "OST",
-             "url": "https://www.youtube.com/playlist?list=OLAK5uy_lof7DW0CSXDZZpxU__9jTFaqtljohi__M",
-             "mark": "music",
-             "playlist": true
-            }
-           ]
-          }
-         ],
          "origin": "ppt:6",
          "children": [
           {
