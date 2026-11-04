@@ -2742,6 +2742,75 @@
      "origin": "ppt:1"
     },
     {
+     "id": "n1a1a645bb610f7",
+     "kind": "company",
+     "title": "Hudson Soft",
+     "children": [
+      {
+       "id": "n0096",
+       "kind": "series",
+       "title": "Adventure Island",
+       "origin": "ppt:22",
+       "entries": [
+        {
+         "id": "e1a1a62e109f5l3",
+         "type": "evolution",
+         "segments": [
+          {
+           "text": "Evolution 1986–2009",
+           "url": "https://www.youtube.com/watch?v=9UiWLEsODdQ"
+          }
+         ]
+        }
+       ],
+       "children": [
+        {
+         "id": "n1a1a62e109cnd8",
+         "kind": "work",
+         "title": "Adventure Island",
+         "entries": [
+          {
+           "id": "e1a1a62e109a405",
+           "type": "video",
+           "segments": [
+            {
+             "text": "影片",
+             "url": "https://www.bilibili.com/video/BV1Bpr5YUEnt/?spm_id_from=333.1387.upload.video_card.click"
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "n1a1a645bb63kzf",
+     "kind": "company",
+     "title": "Irem",
+     "children": [
+      {
+       "id": "n1a1a62e1078eli",
+       "kind": "work",
+       "title": "Kung-Fu Master",
+       "status": "played",
+       "entries": [
+        {
+         "id": "e1a1a62e1075lh9",
+         "type": "video",
+         "segments": [
+          {
+           "text": "影片",
+           "url": "https://www.youtube.com/watch?v=EgO4HtWIJjQ&pp=ygUYa3VuZyBmdSBtYXN0ZXIgZ2FtZSAxOTg0"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
      "id": "n0017",
      "kind": "company",
      "title": "Japan Studio",
@@ -2980,24 +3049,6 @@
        "status": "played"
       },
       {
-       "id": "n1a1a62e1078eli",
-       "kind": "work",
-       "title": "Kung-Fu Master",
-       "status": "played",
-       "entries": [
-        {
-         "id": "e1a1a62e1075lh9",
-         "type": "video",
-         "segments": [
-          {
-           "text": "影片",
-           "url": "https://www.youtube.com/watch?v=EgO4HtWIJjQ&pp=ygUYa3VuZyBmdSBtYXN0ZXIgZ2FtZSAxOTg0"
-          }
-         ]
-        }
-       ]
-      },
-      {
        "id": "n0090",
        "kind": "series",
        "title": "Metal Gear",
@@ -3157,43 +3208,6 @@
      "kind": "company",
      "title": "Nintendo",
      "children": [
-      {
-       "id": "n0096",
-       "kind": "series",
-       "title": "Adventure Island",
-       "origin": "ppt:22",
-       "entries": [
-        {
-         "id": "e1a1a62e109f5l3",
-         "type": "evolution",
-         "segments": [
-          {
-           "text": "Evolution 1986–2009",
-           "url": "https://www.youtube.com/watch?v=9UiWLEsODdQ"
-          }
-         ]
-        }
-       ],
-       "children": [
-        {
-         "id": "n1a1a62e109cnd8",
-         "kind": "work",
-         "title": "Adventure Island",
-         "entries": [
-          {
-           "id": "e1a1a62e109a405",
-           "type": "video",
-           "segments": [
-            {
-             "text": "影片",
-             "url": "https://www.bilibili.com/video/BV1Bpr5YUEnt/?spm_id_from=333.1387.upload.video_card.click"
-            }
-           ]
-          }
-         ]
-        }
-       ]
-      },
       {
        "id": "n0097",
        "kind": "work",
@@ -4597,10 +4611,10 @@
        "entries": [
         {
          "id": "e1a1a62e11a4bjy",
-         "type": "compare",
+         "type": "evolution",
          "segments": [
           {
-           "text": "版本比較",
+           "text": "Evolution",
            "url": "https://www.youtube.com/watch?v=bKeQaNmzLak"
           }
          ]
@@ -4615,10 +4629,10 @@
        "entries": [
         {
          "id": "e1a1a62e11a6vyc",
-         "type": "compare",
+         "type": "evolution",
          "segments": [
           {
-           "text": "版本比較",
+           "text": "Evolution",
            "url": "https://www.youtube.com/watch?v=YZxrDC9cSnQ"
           }
          ]
@@ -4806,6 +4820,66 @@
       }
      ],
      "origin": "ppt:1"
+    },
+    {
+     "id": "n0024",
+     "kind": "company",
+     "title": "SNK",
+     "origin": "ppt:1",
+     "children": [
+      {
+       "id": "n1a1a62e1291at3",
+       "kind": "series",
+       "title": "Fatal Fury",
+       "entries": [
+        {
+         "id": "e1a1a62e128fxhk",
+         "type": "evolution",
+         "segments": [
+          {
+           "text": "Evolution 1991–2025",
+           "url": "https://www.youtube.com/watch?v=qAFgM9YpCe4",
+           "mark": "video"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": "n1a1a62e1296a06",
+       "kind": "work",
+       "title": "Ikari Warriors",
+       "entries": [
+        {
+         "id": "e1a1a62e1293ttb",
+         "type": "video",
+         "segments": [
+          {
+           "text": "影片",
+           "url": "https://www.youtube.com/watch?v=yQYoiZcqURg"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": "n1a1a62e129aqb5",
+       "kind": "series",
+       "title": "The King of Fighters",
+       "entries": [
+        {
+         "id": "e1a1a62e1298ioj",
+         "type": "evolution",
+         "segments": [
+          {
+           "text": "Evolution 1994–2022",
+           "url": "https://www.youtube.com/watch?v=esh34gj9AS4"
+          }
+         ]
+        }
+       ]
+      }
+     ]
     },
     {
      "id": "n0023",
@@ -5993,7 +6067,7 @@
              "text": "OST（"
             },
             {
-             "text": "Disc1",
+             "text": "Disc 1",
              "url": "https://www.youtube.com/playlist?list=PL3ABFCD5E86FD91EF",
              "mark": "music"
             },
@@ -6001,7 +6075,7 @@
              "text": "、"
             },
             {
-             "text": "Disc2",
+             "text": "Disc 2",
              "url": "https://www.youtube.com/playlist?list=PL573ACCA6FC102F20",
              "mark": "music"
             },
@@ -6388,84 +6462,6 @@
      "origin": "ppt:1"
     },
     {
-     "id": "n0024",
-     "kind": "company",
-     "title": "SNK",
-     "origin": "ppt:1",
-     "children": [
-      {
-       "id": "n1a1a62e128dmre",
-       "kind": "series",
-       "title": "Double Dragon",
-       "entries": [
-        {
-         "id": "e1a1a62e128b99b",
-         "type": "evolution",
-         "segments": [
-          {
-           "text": "Evolution 1987–2023",
-           "url": "https://www.youtube.com/watch?v=koJzICDYL0A",
-           "mark": "video"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "id": "n1a1a62e1291at3",
-       "kind": "series",
-       "title": "Fatal Fury",
-       "entries": [
-        {
-         "id": "e1a1a62e128fxhk",
-         "type": "evolution",
-         "segments": [
-          {
-           "text": "Evolution 1991–2025",
-           "url": "https://www.youtube.com/watch?v=qAFgM9YpCe4",
-           "mark": "video"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "id": "n1a1a62e1296a06",
-       "kind": "work",
-       "title": "Ikari Warriors",
-       "entries": [
-        {
-         "id": "e1a1a62e1293ttb",
-         "type": "video",
-         "segments": [
-          {
-           "text": "影片",
-           "url": "https://www.youtube.com/watch?v=yQYoiZcqURg"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "id": "n1a1a62e129aqb5",
-       "kind": "series",
-       "title": "The King of Fighters",
-       "entries": [
-        {
-         "id": "e1a1a62e1298ioj",
-         "type": "evolution",
-         "segments": [
-          {
-           "text": "Evolution 1994–2022",
-           "url": "https://www.youtube.com/watch?v=esh34gj9AS4"
-          }
-         ]
-        }
-       ]
-      }
-     ]
-    },
-    {
      "id": "n0025",
      "kind": "company",
      "title": "Taito",
@@ -6537,10 +6533,10 @@
        "entries": [
         {
          "id": "e1a1a62e12afuri",
-         "type": "compare",
+         "type": "evolution",
          "segments": [
           {
-           "text": "版本比較",
+           "text": "Evolution",
            "url": "https://www.youtube.com/watch?v=7XdFbQKO0cs",
            "mark": "video"
           }
@@ -6561,34 +6557,6 @@
           {
            "text": "影片",
            "url": "https://www.youtube.com/watch?v=pLOVsLwfvsQ"
-          }
-         ]
-        },
-        {
-         "id": "e1a1a62e129e68g",
-         "type": "compare",
-         "segments": [
-          {
-           "text": "版本比較",
-           "url": "https://www.youtube.com/watch?v=7XdFbQKO0cs"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "id": "n0155",
-       "kind": "series",
-       "title": "River City",
-       "origin": "ppt:39",
-       "entries": [
-        {
-         "id": "e1a1a62e12a0ift",
-         "type": "compare",
-         "segments": [
-          {
-           "text": "版本比較",
-           "url": "https://www.youtube.com/watch?v=Wyp7_DwjxTY"
           }
          ]
         }
@@ -6638,6 +6606,49 @@
       }
      ],
      "origin": "ppt:1"
+    },
+    {
+     "id": "n1a1a645bb65tbf",
+     "kind": "company",
+     "title": "Technōs Japan",
+     "children": [
+      {
+       "id": "n1a1a62e128dmre",
+       "kind": "series",
+       "title": "Double Dragon",
+       "entries": [
+        {
+         "id": "e1a1a62e128b99b",
+         "type": "evolution",
+         "segments": [
+          {
+           "text": "Evolution 1987–2023",
+           "url": "https://www.youtube.com/watch?v=koJzICDYL0A",
+           "mark": "video"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": "n0155",
+       "kind": "series",
+       "title": "River City",
+       "origin": "ppt:39",
+       "entries": [
+        {
+         "id": "e1a1a62e12a0ift",
+         "type": "evolution",
+         "segments": [
+          {
+           "text": "Evolution",
+           "url": "https://www.youtube.com/watch?v=Wyp7_DwjxTY"
+          }
+         ]
+        }
+       ]
+      }
+     ]
     }
    ],
    "origin": "ppt:1"

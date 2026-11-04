@@ -14,7 +14,7 @@ const FILES = { channels: 'data/channels.json', review: 'data/review.json' };
 
 export const TYPE_LABEL = {
   video: '影片', lore: '劇情解說', music: '音樂', anime: '動畫', reading: '小說/漫畫',
-  evolution: '系列演進', compare: '版本比較', trivia: '雜談', reference: '資料', other: '其他',
+  evolution: '系列演進', trivia: '雜談', reference: '資料', other: '其他',
 };
 export const KIND_LABEL = {
   region: '地區', company: '公司', category: '分類', series: '系列', subseries: '子系列', group: '分組', work: '作品',
@@ -307,20 +307,24 @@ function kidsHtml(nodes) {
   }).join('')}</div>`;
 }
 
-// 輕量作品：沒有子項目、紀錄不超過 1 筆的作品。不單獨成為子項目卡片，直接在上層列成一行
-export const isLight = (n) => n.kind === 'work' && !(n.children && n.children.length) && (n.entries || []).length <= 1;
+// 作品列：沒有子項目的作品，在上層頁面的「作品」區塊照原本順序列成一行，紀錄有幾筆就疊幾行
+export const isRow = (n) => n.kind === 'work' && !(n.children && n.children.length);
+// 輕量作品（紀錄不超過 1 筆）：左側目錄不列出
+export const isLight = (n) => isRow(n) && (n.entries || []).length <= 1;
 
 function workRowsHtml(list) {
   return `<ul class="entries works">${list.map((w) => {
-    const e = (w.entries || [])[0];
-    const label = e ? entryLabel(e) : (w.status ? STATUS_LABEL[w.status] : '');
+    const es = w.entries || [];
     const dot = w.status ? `<span class="dot" style="display:inline-block;background:${MARK_COLOR[w.status]}" title="${STATUS_LABEL[w.status]}"></span> ` : '';
     const links = (w.links || []).filter((x) => x.url).map((x) => segsHtml([{ ...x, text: x.text.trim() }])).join(' ');
-    const notes = [...(e ? e.notes || [] : []), ...(w.notes || [])].map((t) => `<span class="enote">${esc(t)}</span>`).join('');
+    const wnotes = (w.notes || []).map((t) => `<span class="enote">${esc(t)}</span>`).join('');
+    const line = (label, body) => `<div class="we"><span class="etype">${esc(label)}</span><div class="etext">${body}</div></div>`;
+    const lines = es.length
+      ? es.map((e, i) => line(entryLabel(e), segsHtml(e.segments) + (e.notes || []).map((t) => `<span class="enote">${esc(t)}</span>`).join('') + (i === es.length - 1 ? wnotes : ''))).join('')
+      : line(w.status ? STATUS_LABEL[w.status] : '', wnotes);
     return `<li class="entry work-row">
       <div class="wtitle">${dot}<a href="#/n/${w.id}">${esc(w.title)}</a>${links ? ` <span class="wlinks">${links}</span>` : ''}</div>
-      <span class="etype">${esc(label)}</span>
-      <div class="etext">${e ? segsHtml(e.segments) : ''}${notes}</div>
+      <div class="wentries">${lines}</div>
     </li>`;
   }).join('')}</ul>`;
 }
@@ -351,8 +355,8 @@ function viewNode(id) {
   const links = (n.links || []).filter((x) => x.url);
   const main = links.find((x) => norm(x.text) === norm(n.title));
   const others = links.filter((x) => x !== main);
-  const lightKids = (n.children || []).filter(isLight);
-  const heavyKids = (n.children || []).filter((c) => !isLight(c));
+  const lightKids = (n.children || []).filter(isRow);
+  const heavyKids = (n.children || []).filter((c) => !isRow(c));
   const titleHtml = main
     ? `<a class="title-link" href="${esc(main.url)}" target="_blank" rel="noopener noreferrer" title="${esc(siteOf(main.url))}">${esc(n.title)}</a>`
     : esc(n.title);

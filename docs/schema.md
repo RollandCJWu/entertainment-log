@@ -49,7 +49,7 @@
 - 紀錄文字不用重複寫遊戲名稱：寫 `OST`、`Full Walkthrough`、`舞秋風實況` 就好。
 - 連結文字要寫清楚內容，不用 PPT 時期的自創簡寫（`vid.`、`rec.`、`tr. 13`、`Evo.`…）。常見縮寫如 `OST` 可以保留。音樂寫成「`OST` (Wiki)」：聽的那個連結是文字本身，Wiki／VGMdb 放括號裡。
 - 內容不明的影片連結暫時寫 `影片`，並在 `data/review.json` 記一筆待確認。
-- **輕量作品**（`work`、沒有子項目、紀錄 ≤ 1 筆）在網站上不顯示成子項目卡片，而是在上層頁面的「作品」區塊列成一行，左側目錄也不列出。紀錄增加到 2 筆以上就自動變成卡片。
+- **作品列**：沒有子項目的 `work` 在上層頁面的「作品」區塊照原本順序列成一行，紀錄有幾筆就疊幾行；系列、子系列、分組才顯示成子項目卡片。紀錄不超過 1 筆的作品（輕量作品）左側目錄不列出。
 
 ### release
 
@@ -69,7 +69,7 @@
 
 | 欄位 | 說明 |
 |---|---|
-| `type` | 選填。省略表示遊玩紀錄（類型欄顯示文字上的 `played`／`playing`／`dropped` 標記）。其餘：`video` 影片（實況、全流程）、`lore` 劇情解說、`music` 音樂、`anime` 動畫、`reading` 小說／漫畫、`evolution` 系列演進（Evo.）、`compare` 版本比較（Ver. Compare）、`trivia` 雜談、`reference` 資料（Wiki、資料庫）、`other` 其他 |
+| `type` | 選填。省略表示遊玩紀錄（類型欄顯示文字上的 `played`／`playing`／`dropped` 標記）。其餘：`video` 影片（實況、全流程）、`lore` 劇情解說、`music` 音樂、`anime` 動畫、`reading` 小說／漫畫、`evolution` 系列演進（一系列遊戲的整合展示影片，包含以前的 Evo. 與 Ver. Compare）、`trivia` 雜談、`reference` 資料（Wiki、資料庫）、`other` 其他 |
 | `segments` | 這筆紀錄的內容，由多段文字和連結組成 |
 | `notes` | 選填，備註（例如「巴哈含第 24.5 集總集篇」） |
 

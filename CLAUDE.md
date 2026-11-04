@@ -41,7 +41,7 @@ tools/convert_pptx.py     當初從 PPT 轉換用的腳本，僅供參考，不�
 | 「看完 X 動畫第 N 季」 | 動漫節點的 entry `type: "anime"`，看的那個連結 `mark: "anime"`；備註寫在 `notes` |
 | 「先記下 X 的影片，還沒看」 | 連結不加 `mark` |
 | 「X 的 Wiki」 | 作品本身的 Wiki 放節點 `links`，文字用作品標題（會掛在標題上）；某一季／某張專輯的 Wiki 放在那筆紀錄裡 |
-| 「系列演進／版本比較影片」 | `type: "evolution"` / `"compare"` |
+| 「系列演進／版本比較影片」 | `type: "evolution"`（兩者是同一類，不再分開） |
 | 「X 的發行日」 | `release`，一定要附 `source` 網址；查不到就不要填 |
 | 新的作品 | 遊戲放 `data/games.json` 對應的公司底下（找不到公司就在對應地區新增 `company`）；不屬於任何公司的放 `data/other-games.json`；動漫放 `data/anime.json` 的最上層，`kind: "work"` |
 

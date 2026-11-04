@@ -42,21 +42,6 @@
    "issue": "原本是「Jackal, Kung-Fu Master」一個項目、標為已玩過，拆成兩款後兩款都先標已玩過，請確認"
   },
   {
-   "id": "r1a1a62e12cdk9e",
-   "node": "n1a1a62e1078eli",
-   "issue": "Kung-Fu Master 是 Irem 的遊戲，不是 Konami；要移到別的公司嗎？"
-  },
-  {
-   "id": "r1a1a62e12cfey7",
-   "node": "n0096",
-   "issue": "Adventure Island（高橋名人的冒險島）是 Hudson Soft 的遊戲，不是 Nintendo；要移到別的公司嗎？"
-  },
-  {
-   "id": "r1a1a62e12d1kph",
-   "node": "n0100",
-   "issue": "音樂連結原本寫「rec.」（Super Mario Bros. 1–3、Super Mario World），已改成「OST」；如果 rec. 有別的意思請告訴我"
-  },
-  {
    "id": "r1a1a62e12d3v88",
    "node": "n0100",
    "issue": "「Speedrun (2013)」原本接在 Yoshi's Island 實況後面，先放在 Yoshi's Island；Luigi's Mansion 2、3 原本只有文字，先建成空作品"
@@ -80,21 +65,6 @@
    "id": "r1a1a62e12db1ei",
    "node": "n0133",
    "issue": "FF VII～X 原本被轉檔誤放在 FF VI 底下，已拉回同一層；FF IV 的影片原本只寫「Main Game、Interlude、The After Years」（少了遊戲名），判斷是 FF IV；各作的音樂 Wiki 改成「資料」紀錄；FF I & II 的合輯音樂放在 FF I"
-  },
-  {
-   "id": "r1a1a62e12deueu",
-   "node": "n1a1a62e128dmre",
-   "issue": "Double Dragon（雙截龍）是 Technōs Japan 的遊戲，不是 SNK；要移到別的公司嗎？"
-  },
-  {
-   "id": "r1a1a62e12e04pp",
-   "node": "n0154",
-   "issue": "Operation Wolf 的「版本比較」連結和 Bubble Bobble 的版本比較是同一支影片，可能是 PPT 轉檔時連錯了"
-  },
-  {
-   "id": "r1a1a62e12e29yj",
-   "node": "n0155",
-   "issue": "River City（熱血系列）是 Technōs Japan 的遊戲，不是 Taito；要移到別的公司嗎？"
   },
   {
    "id": "r1a1a62ebc43krd",
@@ -132,102 +102,107 @@
    "issue": "「(Database, vid.)」那筆音樂判斷是 The Tale of a Cruel World（原本寫在備註），請確認；Otherworld 是另一款遊戲的 OST"
   },
   {
-   "id": "r1a1a63036293pe",
-   "node": "n0223",
-   "issue": "2016-2020 有一筆影片「(舞秋風, 厄難)」少了遊戲名稱（應該是轉檔時遺漏），先留在分類層，請告訴我是哪款遊戲"
-  },
-  {
-   "id": "r1a1a6305b6d04a",
+   "id": "r1a1a645e084bv6",
    "node": "n0014",
    "issue": "Capcom：以下 10 款的影片連結原本只寫遊戲名稱，暫時標成「影片」，請告訴我實際內容（Full Walkthrough、實況…）：1942、Ghosts 'n Goblins、Mega Man、Mega Man 2、Mega Man 3、Mega Man 4、Mega Man 5、Okamiden、Monster Hunter G、Resident Evil HD Remaster"
   },
   {
-   "id": "r1a1a6305b6frno",
+   "id": "r1a1a645e087kxx",
    "node": "n0015",
    "issue": "Falcom：以下 11 款的影片連結原本只寫遊戲名稱，暫時標成「影片」，請告訴我實際內容（Full Walkthrough、實況…）：Dragon Slayer、Xanadu: Dragon Slayer II、Faxanadu、Xanadu Next、Tokyo Xanadu、Romanica: Dragon Slayer Jr.、Legacy of the Wizard、Sorcerian、Lord Monarch、The Legend of Xanadu、The Legend of Xanadu II"
   },
   {
-   "id": "r1a1a6305b7139i",
+   "id": "r1a1a645e089z4h",
+   "node": "n1a1a645bb610f7",
+   "issue": "Hudson Soft：以下 1 款的影片連結原本只寫遊戲名稱，暫時標成「影片」，請告訴我實際內容（Full Walkthrough、實況…）：Adventure Island"
+  },
+  {
+   "id": "r1a1a645e08bb8k",
+   "node": "n1a1a645bb63kzf",
+   "issue": "Irem：以下 1 款的影片連結原本只寫遊戲名稱，暫時標成「影片」，請告訴我實際內容（Full Walkthrough、實況…）：Kung-Fu Master"
+  },
+  {
+   "id": "r1a1a645e08door",
    "node": "n0017",
    "issue": "Japan Studio：以下 1 款的影片連結原本只寫遊戲名稱，暫時標成「影片」，請告訴我實際內容（Full Walkthrough、實況…）：Shadow of the Colossus"
   },
   {
-   "id": "r1a1a6305b73avw",
+   "id": "r1a1a645e08ffm5",
    "node": "n0019",
-   "issue": "Konami：以下 5 款的影片連結原本只寫遊戲名稱，暫時標成「影片」，請告訴我實際內容（Full Walkthrough、實況…）：Castlevania (1986)、Gradius、Kung-Fu Master、Metal Gear、Silent Hill: The Arcade"
+   "issue": "Konami：以下 4 款的影片連結原本只寫遊戲名稱，暫時標成「影片」，請告訴我實際內容（Full Walkthrough、實況…）：Castlevania (1986)、Gradius、Metal Gear、Silent Hill: The Arcade"
   },
   {
-   "id": "r1a1a6305b753bx",
+   "id": "r1a1a645e091hvo",
    "node": "n0020",
    "issue": "Namco：以下 3 款的影片連結原本只寫遊戲名稱，暫時標成「影片」，請告訴我實際內容（Full Walkthrough、實況…）：Galaxian、Galaga、Tekken"
   },
   {
-   "id": "r1a1a6305b77awa",
+   "id": "r1a1a645e093tf1",
    "node": "n0021",
-   "issue": "Nintendo：以下 33 款的影片連結原本只寫遊戲名稱，暫時標成「影片」，請告訴我實際內容（Full Walkthrough、實況…）：Adventure Island、Duck Hunt、Kirby's Dream Land、Kirby's Adventure、Kirby's Dream Land 2、Mario Bros. (1983)、Super Mario Bros.、Super Mario Bros.: The Lost Levels、Super Mario Bros. 2、Super Mario Bros. 3、Super Mario World、Super Mario Land、Super Mario Land 2: 6 Golden Coins、Super Mario RPG、Super Mario 64、Super Mario Sunshine、Luigi's Mansion、Donkey Kong (1981)、Donkey Kong Jr.、Super Mario Kart、Wario Land: Super Mario Land 3、Yoshi's Safari、Metroid: Zero Mission、Metroid: Samus Returns、Super Metroid、Metroid Fusion、Pokémon FireRed / LeafGreen、Pokémon Emerald、The Legend of Zelda、Zelda II: The Adventure of Link、A Link to the Past & Four Swords、Link's Awakening (2019)、Ocarina of Time 3D"
+   "issue": "Nintendo：以下 32 款的影片連結原本只寫遊戲名稱，暫時標成「影片」，請告訴我實際內容（Full Walkthrough、實況…）：Duck Hunt、Kirby's Dream Land、Kirby's Adventure、Kirby's Dream Land 2、Mario Bros. (1983)、Super Mario Bros.、Super Mario Bros.: The Lost Levels、Super Mario Bros. 2、Super Mario Bros. 3、Super Mario World、Super Mario Land、Super Mario Land 2: 6 Golden Coins、Super Mario RPG、Super Mario 64、Super Mario Sunshine、Luigi's Mansion、Donkey Kong (1981)、Donkey Kong Jr.、Super Mario Kart、Wario Land: Super Mario Land 3、Yoshi's Safari、Metroid: Zero Mission、Metroid: Samus Returns、Super Metroid、Metroid Fusion、Pokémon FireRed / LeafGreen、Pokémon Emerald、The Legend of Zelda、Zelda II: The Adventure of Link、A Link to the Past & Four Swords、Link's Awakening (2019)、Ocarina of Time 3D"
   },
   {
-   "id": "r1a1a6305b7924z",
+   "id": "r1a1a645e0964b0",
    "node": "n0022",
    "issue": "Sega：以下 4 款的影片連結原本只寫遊戲名稱，暫時標成「影片」，請告訴我實際內容（Full Walkthrough、實況…）：Sonic the Hedgehog 2、Sonic CD、Sonic Chaos、Sonic the Hedgehog 3"
   },
   {
-   "id": "r1a1a6305b7cqef",
-   "node": "n0023",
-   "issue": "Square Enix：以下 8 款的影片連結原本只寫遊戲名稱，暫時標成「影片」，請告訴我實際內容（Full Walkthrough、實況…）：Nier Replicant ver.1.22474487139…、Final Fantasy XIII、Tomb Raider (1996)、Tomb Raider 2、Tomb Raider 3、Tomb Raider 4、Tomb Raider 5、Tomb Raider 6"
-  },
-  {
-   "id": "r1a1a6305b7et0t",
+   "id": "r1a1a645e098lze",
    "node": "n0024",
    "issue": "SNK：以下 1 款的影片連結原本只寫遊戲名稱，暫時標成「影片」，請告訴我實際內容（Full Walkthrough、實況…）：Ikari Warriors"
   },
   {
-   "id": "r1a1a6305b80hpx",
+   "id": "r1a1a645e09ao5u",
+   "node": "n0023",
+   "issue": "Square Enix：以下 8 款的影片連結原本只寫遊戲名稱，暫時標成「影片」，請告訴我實際內容（Full Walkthrough、實況…）：Nier Replicant ver.1.22474487139…、Final Fantasy XIII、Tomb Raider (1996)、Tomb Raider 2、Tomb Raider 3、Tomb Raider 4、Tomb Raider 5、Tomb Raider 6"
+  },
+  {
+   "id": "r1a1a645e09cyq3",
    "node": "n0025",
    "issue": "Taito：以下 5 款的影片連結原本只寫遊戲名稱，暫時標成「影片」，請告訴我實際內容（Full Walkthrough、實況…）：Arkanoid (1986)、Arkanoid: Revenge of Doh、Operation Wolf、Space Invaders (1978)、Space Invaders Extreme 1 & 2"
   },
   {
-   "id": "r1a1a6305b82vd7",
+   "id": "r1a1a645e09en47",
    "node": "n0030",
    "issue": "Ubisoft：以下 2 款的影片連結原本只寫遊戲名稱，暫時標成「影片」，請告訴我實際內容（Full Walkthrough、實況…）：Assassin’s Creed、Rayman"
   },
   {
-   "id": "r1a1a6305b84lu3",
+   "id": "r1a1a645e0a0wy7",
    "node": "n0174",
    "issue": "RPG Maker 遊戲：以下 4 款的影片連結原本只寫遊戲名稱，暫時標成「影片」，請告訴我實際內容（Full Walkthrough、實況…）：夢日記 ゆめにっき、勇者物語：世界樹之心、Ib、Omori"
   },
   {
-   "id": "r1a1a6305b87ual",
+   "id": "r1a1a645e0a2c8r",
    "node": "n0175",
    "issue": "Early Games (維基百科)：以下 8 款的影片連結原本只寫遊戲名稱，暫時標成「影片」，請告訴我實際內容（Full Walkthrough、實況…）：陰極射線管娛樂裝置、Bertie the Brain、Nimrod、Tennis for Two、Spacewar!、The Sumerian Game、Hamurabi、Lunar Lander (1969)"
   },
   {
-   "id": "r1a1a6305b89dsg",
+   "id": "r1a1a645e0a4hp0",
    "node": "n0176",
    "issue": "1970s, 1980s：以下 22 款的影片連結原本只寫遊戲名稱，暫時標成「影片」，請告訴我實際內容（Full Walkthrough、實況…）：Breakout (1976)、Super Breakout、Breakout 2000、Computer Space、Death Race、Dragon Ball、Galaxy Game、Gran Trak 10、Gauntlet (2014)、Haunted House (1982)、Jetpac、Knight Lore、Lunar Lander (1979)、Pong、Prince of Persia (1989)、R-Type (1987)、Sea Wolf、Star Trek (1971)、Wizardry: Proving Grounds of the Mad Overlord、Zork I、Zork II、Zork III"
   },
   {
-   "id": "r1a1a6305b8b4c0",
+   "id": "r1a1a645e0a7vjj",
    "node": "n0203",
    "issue": "1990s：以下 1 款的影片連結原本只寫遊戲名稱，暫時標成「影片」，請告訴我實際內容（Full Walkthrough、實況…）：Langrisser I"
   },
   {
-   "id": "r1a1a6305b8dm2n",
+   "id": "r1a1a645e0a9n3c",
    "node": "n0208",
    "issue": "2000-2010：以下 8 款的影片連結原本只寫遊戲名稱，暫時標成「影片」，請告訴我實際內容（Full Walkthrough、實況…）：The Forest Temple、The Light Temple、The Ice Temple、The Crystal Temple、Elements、Fairy Tales、Angry Birds Go、Cave Story"
   },
   {
-   "id": "r1a1a6305b8fr6j",
+   "id": "r1a1a645e0abl4p",
    "node": "n0212",
    "issue": "2011-2015：以下 10 款的影片連結原本只寫遊戲名稱，暫時標成「影片」，請告訴我實際內容（Full Walkthrough、實況…）：Contrast、Dumb Ways to Die、Don’t Starve、Into the Dead、Into the Dead 2、Puppeteer、Reus、Terraria、The Bridge、To the Moon"
   },
   {
-   "id": "r1a1a6305b9173o",
+   "id": "r1a1a645e0ad0s9",
    "node": "n0223",
    "issue": "2016-2020：以下 4 款的影片連結原本只寫遊戲名稱，暫時標成「影片」，請告訴我實際內容（Full Walkthrough、實況…）：A Hat in Time、The Sinking City、Castle Story、Darkest Dungeon"
   },
   {
-   "id": "r1a1a6305b93oqn",
+   "id": "r1a1a645e0afleb",
    "node": "n0236",
    "issue": "2021-2025：以下 1 款的影片連結原本只寫遊戲名稱，暫時標成「影片」，請告訴我實際內容（Full Walkthrough、實況…）：Aurum Blade"
   }
