@@ -1104,11 +1104,12 @@
        "entries": [
         {
          "id": "e1a1a62e0f47xx3",
-         "type": "lore",
+         "type": "trivia",
          "segments": [
           {
            "text": "系列世界觀解析",
-           "url": "https://www.bilibili.com/video/BV1MD4y1c7fV?spm_id_from=333.788.videopod.sections"
+           "url": "https://www.bilibili.com/video/BV1MD4y1c7fV?spm_id_from=333.788.videopod.sections",
+           "mark": "video"
           }
          ]
         }
@@ -1122,28 +1123,31 @@
          "entries": [
           {
            "id": "e1a1a62e0f49fe1",
-           "type": "reading",
+           "type": "lore",
            "segments": [
             {
-             "text": "數位惡魔物語 女神轉生 小說（"
+             "text": "數位惡魔物語 女神轉生 小說介紹（"
             },
             {
              "text": "1",
-             "url": "https://www.bilibili.com/video/BV1Dq4y1c7nW?spm_id_from=333.788.videopod.sections"
+             "url": "https://www.bilibili.com/video/BV1Dq4y1c7nW?spm_id_from=333.788.videopod.sections",
+             "mark": "video"
             },
             {
              "text": "、"
             },
             {
              "text": "2",
-             "url": "https://www.bilibili.com/video/BV1jR4y1T7KR?spm_id_from=333.788.videopod.sections"
+             "url": "https://www.bilibili.com/video/BV1jR4y1T7KR?spm_id_from=333.788.videopod.sections",
+             "mark": "video"
             },
             {
              "text": "、"
             },
             {
              "text": "3",
-             "url": "https://www.bilibili.com/video/BV1hT4y1D7GY?spm_id_from=333.788.videopod.sections"
+             "url": "https://www.bilibili.com/video/BV1hT4y1D7GY?spm_id_from=333.788.videopod.sections",
+             "mark": "video"
             },
             {
              "text": "）"
@@ -1156,14 +1160,16 @@
            "segments": [
             {
              "text": "遊戲解說",
-             "url": "https://www.youtube.com/watch?v=49wr9OwvRhI"
+             "url": "https://www.youtube.com/watch?v=49wr9OwvRhI",
+             "mark": "video"
             },
             {
              "text": "、"
             },
             {
              "text": "舊約（合輯版）",
-             "url": "https://www.bilibili.com/video/BV1C541117rV/?spm_id_from=333.788.videopod.sections"
+             "url": "https://www.bilibili.com/video/BV1C541117rV/?spm_id_from=333.788.videopod.sections",
+             "mark": "video"
             }
            ]
           }
@@ -1174,18 +1180,6 @@
          "kind": "subseries",
          "title": "真女神轉生",
          "origin": "ppt:11",
-         "entries": [
-          {
-           "id": "e1a1a62e0f86of6",
-           "type": "lore",
-           "segments": [
-            {
-             "text": "系列解說：III、V",
-             "url": "https://www.bilibili.com/video/BV1us4y1b7MF?spm_id_from=333.788.videopod.sections"
-            }
-           ]
-          }
-         ],
          "children": [
           {
            "id": "n1a1a62e0f52n6d",
@@ -1198,7 +1192,8 @@
              "segments": [
               {
                "text": "系列解說",
-               "url": "https://www.bilibili.com/video/BV18T4y1B7Up?spm_id_from=333.788.videopod.sections"
+               "url": "https://www.bilibili.com/video/BV18T4y1B7Up?spm_id_from=333.788.videopod.sections",
+               "mark": "video"
               }
              ]
             },
@@ -1208,7 +1203,9 @@
              "segments": [
               {
                "text": "OST",
-               "url": "https://www.youtube.com/playlist?list=OLAK5uy_kxJDN_NWe5mCEWhaqL3dZ1n08mD5XZrs4"
+               "url": "https://www.youtube.com/playlist?list=OLAK5uy_kxJDN_NWe5mCEWhaqL3dZ1n08mD5XZrs4",
+               "mark": "music",
+               "playlist": true
               }
              ]
             }
@@ -1225,7 +1222,8 @@
              "segments": [
               {
                "text": "系列解說",
-               "url": "https://www.bilibili.com/video/BV1BS4y1e7Zf?spm_id_from=333.788.videopod.sections"
+               "url": "https://www.bilibili.com/video/BV1BS4y1e7Zf?spm_id_from=333.788.videopod.sections",
+               "mark": "video"
               }
              ]
             },
@@ -1235,7 +1233,9 @@
              "segments": [
               {
                "text": "OST",
-               "url": "https://www.youtube.com/playlist?list=OLAK5uy_kp084HBDYgnfsq83kLByM-UF6kP0qLvvM"
+               "url": "https://www.youtube.com/playlist?list=OLAK5uy_kp084HBDYgnfsq83kLByM-UF6kP0qLvvM",
+               "mark": "music",
+               "playlist": true
               }
              ]
             }
@@ -1252,7 +1252,8 @@
              "segments": [
               {
                "text": "系列解說",
-               "url": "https://www.bilibili.com/video/BV1ce4y1d7U3?spm_id_from=333.788.videopod.sections"
+               "url": "https://www.bilibili.com/video/BV1ce4y1d7U3?spm_id_from=333.788.videopod.sections",
+               "mark": "video"
               }
              ]
             },
@@ -1262,7 +1263,9 @@
              "segments": [
               {
                "text": "OST",
-               "url": "https://www.youtube.com/playlist?list=OLAK5uy_kFu2t7MMRjs9EqgThct5WMD2NF_2BMTzU"
+               "url": "https://www.youtube.com/playlist?list=OLAK5uy_kFu2t7MMRjs9EqgThct5WMD2NF_2BMTzU",
+               "mark": "music",
+               "playlist": true
               }
              ]
             }
@@ -1279,7 +1282,8 @@
              "segments": [
               {
                "text": "系列解說",
-               "url": "https://www.youtube.com/watch?v=xagrqmJAfUM"
+               "url": "https://www.youtube.com/watch?v=xagrqmJAfUM",
+               "mark": "video"
               }
              ]
             },
@@ -1289,7 +1293,9 @@
              "segments": [
               {
                "text": "OST",
-               "url": "https://www.youtube.com/playlist?list=OLAK5uy_mMEVuSIwUpe0D6_ZYgs5--rxHzJR3jhmY"
+               "url": "https://www.youtube.com/playlist?list=OLAK5uy_mMEVuSIwUpe0D6_ZYgs5--rxHzJR3jhmY",
+               "mark": "music",
+               "playlist": true
               }
              ]
             }
@@ -1306,7 +1312,9 @@
              "segments": [
               {
                "text": "OST",
-               "url": "https://www.youtube.com/playlist?list=OLAK5uy_mfkGD6oZ0fhkzM3amx2Y7s49Lw6f12PqM"
+               "url": "https://www.youtube.com/playlist?list=OLAK5uy_mfkGD6oZ0fhkzM3amx2Y7s49Lw6f12PqM",
+               "mark": "music",
+               "playlist": true
               }
              ]
             }
@@ -1323,7 +1331,8 @@
              "segments": [
               {
                "text": "系列解說",
-               "url": "https://www.bilibili.com/video/BV1AG411P7oc?spm_id_from=333.788.videopod.sections"
+               "url": "https://www.bilibili.com/video/BV1AG411P7oc?spm_id_from=333.788.videopod.sections",
+               "mark": "video"
               }
              ]
             }
@@ -1340,7 +1349,8 @@
              "segments": [
               {
                "text": "系列解說",
-               "url": "https://www.youtube.com/watch?v=ZltxlPch-Ss"
+               "url": "https://www.youtube.com/watch?v=ZltxlPch-Ss",
+               "mark": "video"
               }
              ]
             },
@@ -1350,7 +1360,9 @@
              "segments": [
               {
                "text": "OST",
-               "url": "https://www.youtube.com/playlist?list=OLAK5uy_lfKQUOnuXF83ukE0jQxjafpL3oYg35yJc"
+               "url": "https://www.youtube.com/playlist?list=OLAK5uy_lfKQUOnuXF83ukE0jQxjafpL3oYg35yJc",
+               "mark": "music",
+               "playlist": true
               }
              ]
             }
@@ -1370,14 +1382,16 @@
               },
               {
                "text": "上",
-               "url": "https://www.bilibili.com/video/BV1424y1k71Y?spm_id_from=333.788.videopod.sections"
+               "url": "https://www.bilibili.com/video/BV1424y1k71Y?spm_id_from=333.788.videopod.sections",
+               "mark": "video"
               },
               {
                "text": "、"
               },
               {
                "text": "下",
-               "url": "https://www.bilibili.com/video/BV1FA411D7qD?spm_id_from=333.788.player.switch"
+               "url": "https://www.bilibili.com/video/BV1FA411D7qD?spm_id_from=333.788.player.switch",
+               "mark": "video"
               },
               {
                "text": "）"
@@ -1390,7 +1404,9 @@
              "segments": [
               {
                "text": "OST",
-               "url": "https://www.youtube.com/playlist?list=OLAK5uy_lfuF9Oyba2ESbVeayphK90nhttgSxQ41A"
+               "url": "https://www.youtube.com/playlist?list=OLAK5uy_lfuF9Oyba2ESbVeayphK90nhttgSxQ41A",
+               "mark": "music",
+               "playlist": true
               }
              ]
             }
@@ -1402,12 +1418,25 @@
            "title": "真女神轉生 V",
            "entries": [
             {
+             "id": "emw27g2x94wo",
+             "type": "lore",
+             "segments": [
+              {
+               "text": "系列解說：III、V",
+               "url": "https://www.bilibili.com/video/BV1us4y1b7MF?spm_id_from=333.788.videopod.sections",
+               "mark": "video"
+              }
+             ]
+            },
+            {
              "id": "e1a1a62e0f7e0cb",
              "type": "music",
              "segments": [
               {
                "text": "OST",
-               "url": "https://www.youtube.com/playlist?list=OLAK5uy_l8W0p5KqFSHnYlueZRq091XwdgzSDmVPI"
+               "url": "https://www.youtube.com/playlist?list=OLAK5uy_l8W0p5KqFSHnYlueZRq091XwdgzSDmVPI",
+               "mark": "music",
+               "playlist": true
               }
              ]
             }
@@ -1424,7 +1453,8 @@
              "segments": [
               {
                "text": "系列解說",
-               "url": "https://www.bilibili.com/video/BV1oU411U72p?spm_id_from=333.788.videopod.sections"
+               "url": "https://www.bilibili.com/video/BV1oU411U72p?spm_id_from=333.788.videopod.sections",
+               "mark": "video"
               }
              ]
             }
@@ -1449,7 +1479,8 @@
              "segments": [
               {
                "text": "系列解說",
-               "url": "https://www.bilibili.com/video/BV1MY4y1A7mS?spm_id_from=333.788.videopod.sections"
+               "url": "https://www.bilibili.com/video/BV1MY4y1A7mS?spm_id_from=333.788.videopod.sections",
+               "mark": "video"
               }
              ]
             }
@@ -1466,7 +1497,8 @@
              "segments": [
               {
                "text": "系列解說",
-               "url": "https://www.bilibili.com/video/BV11t4y1J7YC/?spm_id_from=333.788.videopod.sections"
+               "url": "https://www.bilibili.com/video/BV11t4y1J7YC/?spm_id_from=333.788.videopod.sections",
+               "mark": "video"
               }
              ]
             }
@@ -1483,7 +1515,8 @@
              "segments": [
               {
                "text": "系列解說",
-               "url": "https://www.bilibili.com/video/BV1cg411D7YQ?spm_id_from=333.788.player.switch"
+               "url": "https://www.bilibili.com/video/BV1cg411D7YQ?spm_id_from=333.788.player.switch",
+               "mark": "video"
               }
              ]
             }
@@ -1506,14 +1539,16 @@
             },
             {
              "text": "最後的聖經系列",
-             "url": "https://www.bilibili.com/video/BV1Bs4y1E7Gr?spm_id_from=333.788.player.switch"
+             "url": "https://www.bilibili.com/video/BV1Bs4y1E7Gr?spm_id_from=333.788.player.switch",
+             "mark": "video"
             },
             {
              "text": "、"
             },
             {
              "text": "新約系列",
-             "url": "https://www.bilibili.com/video/BV18g4y1T7e2?spm_id_from=333.788.videopod.sections"
+             "url": "https://www.bilibili.com/video/BV18g4y1T7e2?spm_id_from=333.788.videopod.sections",
+             "mark": "video"
             },
             {
              "text": "）"
@@ -1534,7 +1569,8 @@
            "segments": [
             {
              "text": "系列解說",
-             "url": "https://www.bilibili.com/video/BV1Cg4y157Sw?spm_id_from=333.788.videopod.sections"
+             "url": "https://www.bilibili.com/video/BV1Cg4y157Sw?spm_id_from=333.788.videopod.sections",
+             "mark": "video"
             }
            ]
           }
@@ -1557,7 +1593,8 @@
              "segments": [
               {
                "text": "系列解說",
-               "url": "https://www.bilibili.com/video/BV1mu41157FC?spm_id_from=333.788.videopod.sections"
+               "url": "https://www.bilibili.com/video/BV1mu41157FC?spm_id_from=333.788.videopod.sections",
+               "mark": "video"
               }
              ]
             }
@@ -1574,7 +1611,8 @@
              "segments": [
               {
                "text": "系列解說",
-               "url": "https://www.bilibili.com/video/BV1nu4y1p7tq?spm_id_from=333.788.videopod.sections"
+               "url": "https://www.bilibili.com/video/BV1nu4y1p7tq?spm_id_from=333.788.videopod.sections",
+               "mark": "video"
               }
              ]
             }
@@ -1593,7 +1631,8 @@
            "segments": [
             {
              "text": "系列解說",
-             "url": "https://www.bilibili.com/video/BV1CY4y197gN?spm_id_from=333.788.videopod.sections"
+             "url": "https://www.bilibili.com/video/BV1CY4y197gN?spm_id_from=333.788.videopod.sections",
+             "mark": "video"
             }
            ]
           }
@@ -1611,17 +1650,8 @@
            "segments": [
             {
              "text": "系列解說",
-             "url": "https://www.bilibili.com/video/BV1yK411x7Vs/?spm_id_from=333.788.videopod.sections"
-            }
-           ]
-          },
-          {
-           "id": "e1a1a62e0fccy21",
-           "type": "lore",
-           "segments": [
-            {
-             "text": "系列解說：I、II",
-             "url": "https://www.bilibili.com/video/BV1Dc411s79H?spm_id_from=333.788.player.switch"
+             "url": "https://www.bilibili.com/video/BV1yK411x7Vs/?spm_id_from=333.788.videopod.sections",
+             "mark": "video"
             }
            ]
           }
@@ -1638,7 +1668,8 @@
              "segments": [
               {
                "text": "系列解說",
-               "url": "https://www.bilibili.com/video/BV1n6421F7NR?spm_id_from=333.788.videopod.sections"
+               "url": "https://www.bilibili.com/video/BV1n6421F7NR?spm_id_from=333.788.videopod.sections",
+               "mark": "video"
               }
              ]
             }
@@ -1655,7 +1686,8 @@
              "segments": [
               {
                "text": "系列解說",
-               "url": "https://www.bilibili.com/video/BV1Mr421x7jg?spm_id_from=333.788.videopod.sections"
+               "url": "https://www.bilibili.com/video/BV1Mr421x7jg?spm_id_from=333.788.videopod.sections",
+               "mark": "video"
               }
              ]
             }
@@ -1747,21 +1779,24 @@
               },
               {
                "text": "上",
-               "url": "https://www.bilibili.com/video/BV1wr421J7cH?spm_id_from=333.788.videopod.sections"
+               "url": "https://www.bilibili.com/video/BV1wr421J7cH?spm_id_from=333.788.videopod.sections",
+               "mark": "video"
               },
               {
                "text": "、"
               },
               {
                "text": "下",
-               "url": "https://www.bilibili.com/video/BV1eS421R7mn?spm_id_from=333.788.videopod.sections"
+               "url": "https://www.bilibili.com/video/BV1eS421R7mn?spm_id_from=333.788.videopod.sections",
+               "mark": "video"
               },
               {
                "text": "、"
               },
               {
                "text": "Golden",
-               "url": "https://www.bilibili.com/video/BV1Ez421i7y8?spm_id_from=333.788.videopod.sections"
+               "url": "https://www.bilibili.com/video/BV1Ez421i7y8?spm_id_from=333.788.videopod.sections",
+               "mark": "video"
               },
               {
                "text": "）"
@@ -1872,6 +1907,24 @@
              ]
             }
            ]
+          },
+          {
+           "id": "nmw27n0n37rw",
+           "kind": "work",
+           "title": "Persona 1",
+           "entries": [
+            {
+             "id": "emw27ne0jxxp",
+             "type": "lore",
+             "segments": [
+              {
+               "text": "系列解說：I、II",
+               "url": "https://www.bilibili.com/video/BV1Dc411s79H?spm_id_from=333.788.player.switch",
+               "mark": "video"
+              }
+             ]
+            }
+           ]
           }
          ]
         }
@@ -1888,7 +1941,8 @@
          "segments": [
           {
            "text": "解說",
-           "url": "https://www.bilibili.com/video/BV1hTyUYBEtP?spm_id_from=333.788.videopod.sections"
+           "url": "https://www.bilibili.com/video/BV1hTyUYBEtP?spm_id_from=333.788.videopod.sections",
+           "mark": "video"
           }
          ]
         }
