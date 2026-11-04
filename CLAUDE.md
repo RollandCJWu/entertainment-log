@@ -55,6 +55,6 @@ tools/convert_pptx.py     當初從 PPT 轉換用的腳本，僅供參考，不�
 
 ## 待辦（使用者已同意的下一步）
 
-- 依「每款遊戲一個 work」規則（`docs/schema.md`）分批重整 Japan、Europe、China、Taiwan，再做 other-games；USA 已完成，可當範本。不確定的拆法放進 `data/review.json`。
+- games.json 與 other-games.json 已依「每款遊戲一個 work」規則重整完（Minecraft 維持使用者自己整理的樣子）。接下來依 `data/review.json` 的回覆逐項修正，尤其是暫時寫「影片」的連結文字。
 - 分批補上 `release` 發行日期（每筆附來源網址）。
 - 依 `data/review.json` 和使用者回饋修正轉換錯誤。

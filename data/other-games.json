@@ -7,627 +7,980 @@
    "id": "n0173",
    "kind": "category",
    "title": "舞秋風小遊戲時間",
-   "entries": [
+   "origin": "ppt:46",
+   "children": [
     {
-     "id": "e0218",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a63033fazur",
+     "kind": "work",
+     "title": "微細胞戰爭",
+     "entries": [
       {
-       "text": "微細胞戰爭",
-       "url": "https://www.youtube.com/watch?v=XZr-vLwb2wo&list=PLBtVUsNOhEjuu1h20FuxTpTpZlmznwkKh&index=134",
-       "channel": "舞秋風"
+       "id": "e1a1a63033f8uk7",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=XZr-vLwb2wo&list=PLBtVUsNOhEjuu1h20FuxTpTpZlmznwkKh&index=134",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0219",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a63033feyad",
+     "kind": "work",
+     "title": "超級過勞死",
+     "entries": [
       {
-       "text": "超級過勞死",
-       "url": "https://www.youtube.com/watch?v=HSXKPuhcdOk",
-       "channel": "舞秋風"
+       "id": "e1a1a63033fcst8",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=HSXKPuhcdOk",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0220",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a6303402gg0",
+     "kind": "work",
+     "title": "電眼美女 校園篇",
+     "entries": [
       {
-       "text": "電眼美女 校園篇",
-       "url": "https://youtube.com/watch?v=tONWwLC73yc",
-       "channel": "舞秋風"
+       "id": "e1a1a6303400f2m",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://youtube.com/watch?v=tONWwLC73yc",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0221",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a6303407kwd",
+     "kind": "work",
+     "title": "從月球落下",
+     "entries": [
       {
-       "text": "從月球落下",
-       "url": "https://www.youtube.com/watch?v=tJVIAWikVRU",
-       "channel": "舞秋風"
+       "id": "e1a1a6303405lq2",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=tJVIAWikVRU",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0222",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a630340bksk",
+     "kind": "work",
+     "title": "明星三缺一",
+     "entries": [
       {
-       "text": "明星三缺一",
-       "url": "https://www.youtube.com/watch?v=mhNOyhGGUzU",
-       "channel": "舞秋風"
+       "id": "e1a1a6303409jul",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=mhNOyhGGUzU",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0223",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a630340f3tw",
+     "kind": "work",
+     "title": "寄生病毒",
+     "entries": [
       {
-       "text": "寄生病毒",
-       "url": "https://www.youtube.com/watch?v=MpbF29u7Yrk",
-       "channel": "舞秋風"
+       "id": "e1a1a630340dyyo",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=MpbF29u7Yrk",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0224",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a6303413top",
+     "kind": "work",
+     "title": "萬聖節冒險",
+     "entries": [
       {
-       "text": "萬聖節冒險",
-       "url": "https://www.youtube.com/watch?v=Z2FxMAuFcZM",
-       "channel": "舞秋風"
+       "id": "e1a1a63034114j4",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=Z2FxMAuFcZM",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0225",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a6303418k2o",
+     "kind": "work",
+     "title": "洋蔥媽媽",
+     "entries": [
       {
-       "text": "洋蔥媽媽",
-       "url": "https://www.youtube.com/watch?v=V_LSPopl45I",
-       "channel": "舞秋風"
+       "id": "e1a1a6303416ehc",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=V_LSPopl45I",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0226",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a630341cj7k",
+     "kind": "work",
+     "title": "水晶挖挖哇",
+     "entries": [
       {
-       "text": "水晶挖挖哇",
-       "url": "https://www.youtube.com/watch?v=b3hNXMTjY3c",
-       "channel": "舞秋風"
+       "id": "e1a1a630341at11",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=b3hNXMTjY3c",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0227",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a6303420d7d",
+     "kind": "work",
+     "title": "修繕王阿修",
+     "entries": [
       {
-       "text": "修繕王阿修",
-       "url": "https://www.youtube.com/watch?v=ikhGQ7RYiIE",
-       "channel": "舞秋風"
+       "id": "e1a1a630341erza",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=ikhGQ7RYiIE",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0228",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a6303425cdt",
+     "kind": "work",
+     "title": "他和她的故事",
+     "entries": [
       {
-       "text": "他和她的故事",
-       "url": "https://www.youtube.com/watch?v=L_WN31TsVE4",
-       "channel": "舞秋風"
+       "id": "e1a1a6303423bnn",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=L_WN31TsVE4",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0229",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a6303429py2",
+     "kind": "work",
+     "title": "空中花園",
+     "entries": [
       {
-       "text": "空中花園 遊戲",
-       "url": "https://www.youtube.com/watch?v=5j6tq3uWvDI",
-       "channel": "舞秋風"
+       "id": "e1a1a6303427otg",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=5j6tq3uWvDI",
+         "channel": "舞秋風"
+        },
+        {
+         "text": "、"
+        },
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=5j6tq3uWvDI",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0230",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a630342d8l5",
+     "kind": "work",
+     "title": "麥克陰影",
+     "entries": [
       {
-       "text": "麥克陰影",
-       "url": "https://www.youtube.com/watch?v=TKZvjdEsas0",
-       "channel": "舞秋風"
+       "id": "e1a1a630342b1w4",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=TKZvjdEsas0",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0231",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a6303432sra",
+     "kind": "work",
+     "title": "夢行者",
+     "entries": [
       {
-       "text": "夢行者 遊戲",
-       "url": "https://www.youtube.com/watch?v=ITLgIF-aiOM",
-       "channel": "舞秋風"
+       "id": "e1a1a6303430n0w",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=ITLgIF-aiOM",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0232",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a6303436o0m",
+     "kind": "work",
+     "title": "俄羅斯方塊對戰",
+     "entries": [
       {
-       "text": "俄羅斯方塊對戰",
-       "url": "https://www.youtube.com/watch?v=AFPYH7OEHZk",
-       "channel": "舞秋風"
+       "id": "e1a1a6303434x1n",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=AFPYH7OEHZk",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0233",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a630343a5zg",
+     "kind": "work",
+     "title": "世紀喵合戰",
+     "entries": [
       {
-       "text": "世紀喵合戰",
-       "url": "https://www.youtube.com/watch?v=D62Y5WA2rqE",
-       "channel": "舞秋風"
+       "id": "e1a1a6303438u0k",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=D62Y5WA2rqE",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0234",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a630343eoi2",
+     "kind": "work",
+     "title": "Jetpack Joyride",
+     "entries": [
       {
-       "text": "jetpack joyride",
-       "url": "https://www.youtube.com/watch?v=ftikWPABkHE",
-       "channel": "舞秋風"
+       "id": "e1a1a630343chlt",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=ftikWPABkHE",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0235",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a630344338c",
+     "kind": "work",
+     "title": "寵物連連看",
+     "entries": [
       {
-       "text": "寵物連連看",
-       "url": "https://www.youtube.com/watch?v=VR3mHB430zI",
-       "channel": "舞秋風"
+       "id": "e1a1a6303441qjh",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=VR3mHB430zI",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0236",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a63034474di",
+     "kind": "work",
+     "title": "聖誕騎士2",
+     "entries": [
       {
-       "text": "聖誕騎士2",
-       "url": "https://www.youtube.com/watch?v=979IokskRgw",
-       "channel": "舞秋風"
+       "id": "e1a1a63034455e1",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=979IokskRgw",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0237",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a630344b74l",
+     "kind": "work",
+     "title": "小熊維尼全壘打",
+     "entries": [
       {
-       "text": "小熊維尼全壘打",
-       "url": "https://www.youtube.com/watch?v=yO3IRrkJhSo",
-       "channel": "舞秋風"
+       "id": "e1a1a6303449tzw",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=yO3IRrkJhSo",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0238",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a63034504po",
+     "kind": "work",
+     "title": "觸摸偵探",
+     "entries": [
       {
-       "text": "觸摸偵探",
-       "url": "https://www.youtube.com/watch?v=eqF5YpiXFj4",
-       "channel": "舞秋風"
+       "id": "e1a1a630344d3do",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=eqF5YpiXFj4",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0239",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a6303454rlg",
+     "kind": "work",
+     "title": "龍族物語",
+     "entries": [
       {
-       "text": "龍族物語",
-       "url": "https://www.youtube.com/watch?v=VjcHkBL5G_A",
-       "channel": "舞秋風"
+       "id": "e1a1a63034521n2",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=VjcHkBL5G_A",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0240",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a630345877g",
+     "kind": "work",
+     "title": "救援任務",
+     "entries": [
       {
-       "text": "救援任務",
-       "url": "https://www.youtube.com/watch?v=DLPJRcAegJc",
-       "channel": "舞秋風"
+       "id": "e1a1a63034565ai",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=DLPJRcAegJc",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0241",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a630345c1wk",
+     "kind": "work",
+     "title": "餵食大嘴怪",
+     "entries": [
       {
-       "text": "餵食大嘴怪",
-       "url": "https://www.youtube.com/watch?v=K99w44UKCac",
-       "channel": "舞秋風"
+       "id": "e1a1a630345abpa",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=K99w44UKCac",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0242",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a63034614g9",
+     "kind": "work",
+     "title": "鴨子的人生冒險",
+     "entries": [
       {
-       "text": "鴨子的人生冒險",
-       "url": "https://www.youtube.com/watch?v=MHyGWP29t54",
-       "channel": "舞秋風"
+       "id": "e1a1a630345fvcn",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=MHyGWP29t54",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0243",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a6303465jei",
+     "kind": "work",
+     "title": "殭屍王子復仇",
+     "entries": [
       {
-       "text": "殭屍王子復仇",
-       "url": "https://www.youtube.com/watch?v=txdddmpdXFk",
-       "channel": "舞秋風"
+       "id": "e1a1a6303463iah",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=txdddmpdXFk",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0244",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a63034693x4",
+     "kind": "work",
+     "title": "幹掉你的老闆",
+     "entries": [
       {
-       "text": "幹掉你的老闆",
-       "url": "https://www.youtube.com/watch?v=kFOkBcJ3XhY&list=PLBtVUsNOhEjuu1h20FuxTpTpZlmznwkKh&index=97",
-       "channel": "舞秋風"
-      },
-      {
-       "text": " "
-      },
-      {
-       "text": "All Kills",
-       "url": "https://www.youtube.com/watch?v=7VqeFnfNPGU",
-       "channel": "舞秋風"
+       "id": "e1a1a6303467tvi",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=kFOkBcJ3XhY&list=PLBtVUsNOhEjuu1h20FuxTpTpZlmznwkKh&index=97",
+         "channel": "舞秋風"
+        },
+        {
+         "text": "、"
+        },
+        {
+         "text": "All Kills",
+         "url": "https://www.youtube.com/watch?v=7VqeFnfNPGU",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0246",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a630346dsrf",
+     "kind": "work",
+     "title": "磁場迷陣",
+     "entries": [
       {
-       "text": "磁場迷陣",
-       "url": "https://www.youtube.com/watch?v=xhOVN16Iw98&list=PLBtVUsNOhEjuu1h20FuxTpTpZlmznwkKh&index=94",
-       "channel": "舞秋風"
+       "id": "e1a1a630346bu0k",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=xhOVN16Iw98&list=PLBtVUsNOhEjuu1h20FuxTpTpZlmznwkKh&index=94",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0247",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a63034728ct",
+     "kind": "work",
+     "title": "糖果大冒險",
+     "entries": [
       {
-       "text": "空中花園",
-       "url": "https://www.youtube.com/watch?v=5j6tq3uWvDI",
-       "channel": "舞秋風"
+       "id": "e1a1a630346fj6r",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=XZW4l0k7S50",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0248",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a6303476sar",
+     "kind": "work",
+     "title": "笨笨的死法",
+     "entries": [
       {
-       "text": "糖果大冒險",
-       "url": "https://www.youtube.com/watch?v=XZW4l0k7S50",
-       "channel": "舞秋風"
+       "id": "e1a1a63034742ha",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=AabuIv-YeQw",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0249",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a630347ay1l",
+     "kind": "work",
+     "title": "桌子搶奪戰",
+     "entries": [
       {
-       "text": "笨笨的死法",
-       "url": "https://www.youtube.com/watch?v=AabuIv-YeQw",
-       "channel": "舞秋風"
+       "id": "e1a1a6303478oyf",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=Y0J0xCQ-wdQ",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0250",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a630347e6pc",
+     "kind": "work",
+     "title": "月亮華爾滋",
+     "entries": [
       {
-       "text": "桌子搶奪戰",
-       "url": "https://www.youtube.com/watch?v=Y0J0xCQ-wdQ",
-       "channel": "舞秋風"
+       "id": "e1a1a630347c2jr",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=XdvLBckTNk8",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0251",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a6303483gsx",
+     "kind": "work",
+     "title": "貓咪戳戳",
+     "entries": [
       {
-       "text": "月亮華爾滋",
-       "url": "https://www.youtube.com/watch?v=XdvLBckTNk8",
-       "channel": "舞秋風"
+       "id": "e1a1a630348139l",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=D_Ulk36SHuA&list=PLBtVUsNOhEjuu1h20FuxTpTpZlmznwkKh&index=98&pp=iAQB",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0252",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a6303487g01",
+     "kind": "work",
+     "title": "巨蛇女王",
+     "entries": [
       {
-       "text": "貓咪戳戳",
-       "url": "https://www.youtube.com/watch?v=D_Ulk36SHuA&list=PLBtVUsNOhEjuu1h20FuxTpTpZlmznwkKh&index=98&pp=iAQB",
-       "channel": "舞秋風"
+       "id": "e1a1a6303485azl",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=Su1SUreUic8&list=PLBtVUsNOhEjuu1h20FuxTpTpZlmznwkKh&index=95",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0253",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a630348bo54",
+     "kind": "work",
+     "title": "Tiny Thief",
+     "entries": [
       {
-       "text": "巨蛇女王",
-       "url": "https://www.youtube.com/watch?v=Su1SUreUic8&list=PLBtVUsNOhEjuu1h20FuxTpTpZlmznwkKh&index=95",
-       "channel": "舞秋風"
+       "id": "e1a1a6303489ajp",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=gOOGeAxn1tM",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0254",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a63034908jz",
+     "kind": "work",
+     "title": "Cytus",
+     "entries": [
       {
-       "text": "Tiny Thief",
-       "url": "https://www.youtube.com/watch?v=gOOGeAxn1tM",
-       "channel": "舞秋風"
+       "id": "e1a1a630348drcn",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=A1kycxGVzlQ&list=PLBtVUsNOhEjuu1h20FuxTpTpZlmznwkKh",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0255",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a6303494alv",
+     "kind": "work",
+     "title": "Skulls of the Shogun",
+     "entries": [
       {
-       "text": "Cytus",
-       "url": "https://www.youtube.com/watch?v=A1kycxGVzlQ&list=PLBtVUsNOhEjuu1h20FuxTpTpZlmznwkKh",
-       "channel": "舞秋風"
+       "id": "e1a1a63034920hb",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=qiZrkn3AMTU&list=PLBtVUsNOhEjuu1h20FuxTpTpZlmznwkKh",
+         "channel": "舞秋風"
+        },
+        {
+         "text": "、"
+        },
+        {
+         "text": "全流程",
+         "url": "https://www.bilibili.com/video/BV1hW41127vT/?spm_id_from=333.337.search-card.all.click",
+         "playlist": true
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0256",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a6303498s8t",
+     "kind": "work",
+     "title": "Flappy Bird",
+     "entries": [
       {
-       "text": "Skulls of the Shogun",
-       "url": "https://www.youtube.com/watch?v=qiZrkn3AMTU&list=PLBtVUsNOhEjuu1h20FuxTpTpZlmznwkKh",
-       "channel": "舞秋風"
-      },
-      {
-       "text": " "
-      },
-      {
-       "text": "全流程",
-       "url": "https://www.bilibili.com/video/BV1hW41127vT/?spm_id_from=333.337.search-card.all.click",
-       "playlist": true
+       "id": "e1a1a6303496x6u",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=bvadthz3kS0",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0258",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a630349cbdc",
+     "kind": "work",
+     "title": "Finn & Bones",
+     "entries": [
       {
-       "text": "Flappy Bird",
-       "url": "https://www.youtube.com/watch?v=bvadthz3kS0",
-       "channel": "舞秋風"
+       "id": "e1a1a630349ar63",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=F5b3jsJkPds&list=PLBtVUsNOhEjuu1h20FuxTpTpZlmznwkKh&index=90&pp=iAQB",
+         "channel": "舞秋風"
+        },
+        {
+         "text": "、"
+        },
+        {
+         "text": "Walkthrough",
+         "url": "https://www.youtube.com/watch?v=ZOjAtMrCwmo",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0259",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a63034a12v8",
+     "kind": "work",
+     "title": "跑跑薑餅人 餅乾逃出烤箱大戰!",
+     "entries": [
       {
-       "text": "Finn & Bones",
-       "url": "https://www.youtube.com/watch?v=F5b3jsJkPds&list=PLBtVUsNOhEjuu1h20FuxTpTpZlmznwkKh&index=90&pp=iAQB",
-       "channel": "舞秋風"
-      },
-      {
-       "text": " "
-      },
-      {
-       "text": "Walkthrough",
-       "url": "https://www.youtube.com/watch?v=ZOjAtMrCwmo",
-       "channel": "舞秋風"
+       "id": "e1a1a630349e3x5",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=1h0bGLEjxAw&list=PLBtVUsNOhEjuu1h20FuxTpTpZlmznwkKh&index=89&pp=iAQB",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0261",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a63034a556g",
+     "kind": "work",
+     "title": "Hero Siege",
+     "entries": [
       {
-       "text": "跑跑薑餅人 餅乾逃出烤箱大戰!",
-       "url": "https://www.youtube.com/watch?v=1h0bGLEjxAw&list=PLBtVUsNOhEjuu1h20FuxTpTpZlmznwkKh&index=89&pp=iAQB",
-       "channel": "舞秋風"
+       "id": "e1a1a63034a3yro",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=6FE_r0VRmDI&list=PLBtVUsNOhEjuu1h20FuxTpTpZlmznwkKh&index=88&pp=iAQB",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0262",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a63034a9tpg",
+     "kind": "work",
+     "title": "刀塔聯盟",
+     "entries": [
       {
-       "text": "Hero Siege",
-       "url": "https://www.youtube.com/watch?v=6FE_r0VRmDI&list=PLBtVUsNOhEjuu1h20FuxTpTpZlmznwkKh&index=88&pp=iAQB",
-       "channel": "舞秋風"
+       "id": "e1a1a63034a7xbz",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=C0cln3LZIGU&list=PLBtVUsNOhEjuu1h20FuxTpTpZlmznwkKh&index=87",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0263",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a63034ade4d",
+     "kind": "work",
+     "title": "2048",
+     "entries": [
       {
-       "text": "刀塔聯盟",
-       "url": "https://www.youtube.com/watch?v=C0cln3LZIGU&list=PLBtVUsNOhEjuu1h20FuxTpTpZlmznwkKh&index=87",
-       "channel": "舞秋風"
-      }
-     ]
-    },
-    {
-     "id": "e0264",
-     "type": "video",
-     "segments": [
-      {
-       "text": "2048",
-       "url": "https://www.youtube.com/watch?v=Zjo0xsJn8s0&list=PLBtVUsNOhEjuu1h20FuxTpTpZlmznwkKh&index=85&pp=iAQB",
-       "channel": "舞秋風"
+       "id": "e1a1a63034ab21c",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=Zjo0xsJn8s0&list=PLBtVUsNOhEjuu1h20FuxTpTpZlmznwkKh&index=85&pp=iAQB",
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     }
-   ],
-   "origin": "ppt:46"
+   ]
   },
   {
    "id": "n0174",
    "kind": "category",
    "title": "RPG Maker 遊戲",
-   "entries": [
+   "origin": "ppt:47",
+   "children": [
     {
-     "id": "e0265",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a63034b1zo9",
+     "kind": "work",
+     "title": "巴哈姆特",
+     "entries": [
       {
-       "text": "巴哈姆特",
-       "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjvuuOjHwE2o7sYy9TRIRwcf",
-       "playlist": true,
-       "channel": "舞秋風"
+       "id": "e1a1a63034afxmz",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjvuuOjHwE2o7sYy9TRIRwcf",
+         "playlist": true,
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0266",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a63034b6axo",
+     "kind": "work",
+     "title": "時光圖騰",
+     "entries": [
       {
-       "text": "時光圖騰",
-       "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjssMAvp0yu6sV7wVqYZvsXz",
-       "playlist": true,
-       "channel": "舞秋風"
+       "id": "e1a1a63034b4fzh",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjssMAvp0yu6sV7wVqYZvsXz",
+         "playlist": true,
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0267",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a63034batzl",
+     "kind": "work",
+     "title": "帽子世界",
+     "entries": [
       {
-       "text": "帽子世界",
-       "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjtl6PuNFSqeMcGUN1bWMR_z",
-       "playlist": true,
-       "channel": "舞秋風"
+       "id": "e1a1a63034b8vi6",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjtl6PuNFSqeMcGUN1bWMR_z",
+         "playlist": true,
+         "channel": "舞秋風"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0268",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a63034beqzg",
+     "kind": "work",
+     "title": "夢日記 ゆめにっき",
+     "entries": [
       {
-       "text": "夢日記 ゆめにっき",
-       "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjsFIcsuIfR_cfnGfrvbjCna",
-       "playlist": true
+       "id": "e1a1a63034bccdd",
+       "type": "video",
+       "segments": [
+        {
+         "text": "影片",
+         "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjsFIcsuIfR_cfnGfrvbjCna",
+         "playlist": true
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0269",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a63034c3dx1",
+     "kind": "work",
+     "title": "勇者物語：世界樹之心",
+     "entries": [
       {
-       "text": "勇者物語：世界樹之心",
-       "url": "https://www.youtube.com/playlist?list=PLPFp8-MgoPa9gFSDBck9VdEmlU1ovocoB",
-       "playlist": true
+       "id": "e1a1a63034c0zi3",
+       "type": "video",
+       "segments": [
+        {
+         "text": "影片",
+         "url": "https://www.youtube.com/playlist?list=PLPFp8-MgoPa9gFSDBck9VdEmlU1ovocoB",
+         "playlist": true
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0270",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a63034c7814",
+     "kind": "work",
+     "title": "Ib",
+     "entries": [
       {
-       "text": "Ib",
-       "url": "https://www.bilibili.com/video/BV1iY4y1P7aa/?spm_id_from=333.337.search-card.all.click",
-       "playlist": true
+       "id": "e1a1a63034c56ge",
+       "type": "video",
+       "segments": [
+        {
+         "text": "影片",
+         "url": "https://www.bilibili.com/video/BV1iY4y1P7aa/?spm_id_from=333.337.search-card.all.click",
+         "playlist": true
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0271",
-     "type": "music",
-     "segments": [
+     "id": "n1a1a63034cdpu8",
+     "kind": "work",
+     "title": "Omori",
+     "entries": [
       {
-       "text": "Omori",
-       "url": "https://www.bilibili.com/video/BV18c411b7AU/?spm_id_from=333.337.search-card.all.click"
+       "id": "e1a1a63034c9jbg",
+       "type": "video",
+       "segments": [
+        {
+         "text": "影片",
+         "url": "https://www.bilibili.com/video/BV18c411b7AU/?spm_id_from=333.337.search-card.all.click"
+        },
+        {
+         "text": "、"
+        },
+        {
+         "text": "Steam 全成就",
+         "url": "https://www.bilibili.com/video/BV1iW4y1n7nW/?spm_id_from=333.337.search-card.all.click",
+         "playlist": true
+        }
+       ]
       },
       {
-       "text": " ("
-      },
-      {
-       "text": "Steam全成就",
-       "url": "https://www.bilibili.com/video/BV1iW4y1n7nW/?spm_id_from=333.337.search-card.all.click",
-       "playlist": true
-      },
-      {
-       "text": ") "
-      },
-      {
-       "text": "Wiki",
-       "url": "https://omori.fandom.com/wiki/MUSIC"
-      },
-      {
-       "text": " "
-      },
-      {
-       "text": "OST",
-       "url": "https://www.youtube.com/playlist?list=PLbANFjAlbtqLkcthrPJ7lqYcVTSwXr2L0",
-       "mark": "music"
+       "id": "e1a1a63034cbkdg",
+       "type": "music",
+       "segments": [
+        {
+         "text": "OST",
+         "url": "https://www.youtube.com/playlist?list=PLbANFjAlbtqLkcthrPJ7lqYcVTSwXr2L0",
+         "mark": "music"
+        },
+        {
+         "text": " ("
+        },
+        {
+         "text": "Wiki",
+         "url": "https://omori.fandom.com/wiki/MUSIC"
+        },
+        {
+         "text": ")"
+        }
+       ]
       }
      ]
     }
-   ],
-   "origin": "ppt:47"
+   ]
   },
   {
    "id": "n0175",
@@ -639,139 +992,230 @@
      "url": "https://zh.wikipedia.org/wiki/%E6%97%A9%E6%9C%9F%E9%9B%BB%E5%AD%90%E9%81%8A%E6%88%B2%E5%8F%B2"
     }
    ],
-   "entries": [
+   "origin": "ppt:48",
+   "children": [
     {
-     "id": "e0272",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a63034d2bvn",
+     "kind": "work",
+     "title": "陰極射線管娛樂裝置",
+     "entries": [
       {
-       "text": "陰極射線管娛樂裝置",
-       "url": "https://www.youtube.com/watch?v=k_WUb-1C010"
+       "id": "e1a1a63034cfyzs",
+       "type": "video",
+       "segments": [
+        {
+         "text": "影片",
+         "url": "https://www.youtube.com/watch?v=k_WUb-1C010"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0273",
-     "type": "reference",
-     "segments": [
+     "id": "n1a1a63034d6qud",
+     "kind": "work",
+     "title": "Turochamp",
+     "entries": [
       {
-       "text": "Turochamp",
-       "url": "https://zh.wikipedia.org/wiki/Turochamp"
+       "id": "e1a1a63034d42dq",
+       "type": "reference",
+       "segments": [
+        {
+         "text": "Wiki",
+         "url": "https://zh.wikipedia.org/wiki/Turochamp"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0274",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a63034daf6a",
+     "kind": "work",
+     "title": "Bertie the Brain",
+     "entries": [
       {
-       "text": "Bertie the Brain",
-       "url": "https://www.youtube.com/watch?v=0zljMpx__Z8"
+       "id": "e1a1a63034d8bsb",
+       "type": "video",
+       "segments": [
+        {
+         "text": "影片",
+         "url": "https://www.youtube.com/watch?v=0zljMpx__Z8"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0275",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a63034deojj",
+     "kind": "work",
+     "title": "Nimrod",
+     "entries": [
       {
-       "text": "Nimrod",
-       "url": "https://www.youtube.com/watch?v=xGNkb66Fuw8"
+       "id": "e1a1a63034dc8fd",
+       "type": "video",
+       "segments": [
+        {
+         "text": "影片",
+         "url": "https://www.youtube.com/watch?v=xGNkb66Fuw8"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0276",
-     "type": "reference",
-     "segments": [
+     "id": "n1a1a63034e3gr1",
+     "kind": "work",
+     "title": "Checkers",
+     "entries": [
       {
-       "text": "Checkers",
-       "url": "https://en.wikipedia.org/wiki/Checkers_(video_game)"
+       "id": "e1a1a63034e1xoz",
+       "type": "reference",
+       "segments": [
+        {
+         "text": "Wiki",
+         "url": "https://en.wikipedia.org/wiki/Checkers_(video_game)"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0277",
-     "type": "reference",
-     "segments": [
+     "id": "n1a1a63034e7ck3",
+     "kind": "work",
+     "title": "OXO",
+     "entries": [
       {
-       "text": "OXO",
-       "url": "https://zh.wikipedia.org/wiki/OXO"
+       "id": "e1a1a63034e5kxt",
+       "type": "reference",
+       "segments": [
+        {
+         "text": "Wiki",
+         "url": "https://zh.wikipedia.org/wiki/OXO"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0278",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a63034ebplo",
+     "kind": "work",
+     "title": "Tennis for Two",
+     "entries": [
       {
-       "text": "Tennis for Two",
-       "url": "https://www.youtube.com/watch?v=6PG2mdU_i8k"
+       "id": "e1a1a63034e9rqj",
+       "type": "video",
+       "segments": [
+        {
+         "text": "影片",
+         "url": "https://www.youtube.com/watch?v=6PG2mdU_i8k"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0279",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a63034f0v83",
+     "kind": "work",
+     "title": "Spacewar!",
+     "entries": [
       {
-       "text": "Spacewar!",
-       "url": "https://www.youtube.com/watch?v=Rmvb4Hktv7U"
+       "id": "e1a1a63034eem1k",
+       "type": "video",
+       "segments": [
+        {
+         "text": "影片",
+         "url": "https://www.youtube.com/watch?v=Rmvb4Hktv7U"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0280",
-     "type": "reference",
-     "segments": [
+     "id": "n1a1a63034f4cnp",
+     "kind": "work",
+     "title": "馬倫巴",
+     "entries": [
       {
-       "text": "馬倫巴",
-       "url": "https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%80%AB%E5%B7%B4"
+       "id": "e1a1a63034f2tlh",
+       "type": "reference",
+       "segments": [
+        {
+         "text": "Wiki",
+         "url": "https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%80%AB%E5%B7%B4"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0281",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a63034f868d",
+     "kind": "work",
+     "title": "The Sumerian Game",
+     "entries": [
       {
-       "text": "The Sumerian Game",
-       "url": "https://www.youtube.com/watch?v=-uOrc-IhkR4"
+       "id": "e1a1a63034f6kgw",
+       "type": "video",
+       "segments": [
+        {
+         "text": "影片",
+         "url": "https://www.youtube.com/watch?v=-uOrc-IhkR4"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0282",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a63034fdgoe",
+     "kind": "work",
+     "title": "Hamurabi",
+     "entries": [
       {
-       "text": "Hamurabi",
-       "url": "https://www.youtube.com/watch?v=XbUxIvWRabA"
+       "id": "e1a1a63034fbgfg",
+       "type": "video",
+       "segments": [
+        {
+         "text": "影片",
+         "url": "https://www.youtube.com/watch?v=XbUxIvWRabA"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0283",
-     "type": "reference",
-     "segments": [
+     "id": "n1a1a6303501jhr",
+     "kind": "work",
+     "title": "Space Travel",
+     "entries": [
       {
-       "text": "Space Travel",
-       "url": "https://zh.wikipedia.org/wiki/%E6%98%9F%E9%99%85%E6%97%85%E8%A1%8C_(1969%E5%B9%B4%E6%B8%B8%E6%88%8F)"
+       "id": "e1a1a63034ff8df",
+       "type": "reference",
+       "segments": [
+        {
+         "text": "Wiki",
+         "url": "https://zh.wikipedia.org/wiki/%E6%98%9F%E9%99%85%E6%97%85%E8%A1%8C_(1969%E5%B9%B4%E6%B8%B8%E6%88%8F)"
+        }
+       ]
       }
      ]
     },
     {
-     "id": "e0284",
-     "type": "video",
-     "segments": [
+     "id": "n1a1a6303505gml",
+     "kind": "work",
+     "title": "Lunar Lander (1969)",
+     "entries": [
       {
-       "text": "Lunar Lander (1969)",
-       "url": "https://www.youtube.com/watch?v=2TkFCo4F0_U"
+       "id": "e1a1a63035036jk",
+       "type": "video",
+       "segments": [
+        {
+         "text": "影片",
+         "url": "https://www.youtube.com/watch?v=2TkFCo4F0_U"
+        }
+       ]
       }
      ]
     }
-   ],
-   "origin": "ppt:48"
+   ]
   },
   {
    "id": "n0176",
@@ -780,281 +1224,407 @@
    "children": [
     {
      "id": "n0177",
-     "kind": "group",
+     "kind": "work",
      "title": "Asteroids",
-     "links": [
+     "origin": "ppt:49",
+     "entries": [
       {
-       "text": "Asteroids",
-       "url": "https://freeasteroids.org/"
+       "id": "e1a1a630350712l",
+       "type": "other",
+       "segments": [
+        {
+         "text": "線上遊玩",
+         "url": "https://freeasteroids.org/"
+        }
+       ]
       }
-     ],
-     "origin": "ppt:49"
+     ]
     },
     {
      "id": "n0178",
-     "kind": "group",
+     "kind": "series",
      "title": "Breakout",
-     "entries": [
+     "origin": "ppt:49",
+     "children": [
       {
-       "id": "e0285",
-       "type": "video",
-       "segments": [
+       "id": "n1a1a630350cz1n",
+       "kind": "work",
+       "title": "Breakout (1976)",
+       "entries": [
         {
-         "text": "Breakout 1976",
-         "url": "https://www.youtube.com/watch?v=AMUv8KvVt08"
-        },
-        {
-         "text": ", "
-        },
-        {
-         "text": "Super Breakout",
-         "url": "https://www.youtube.com/watch?v=p_Xf9vMike8"
+         "id": "e1a1a630350a94g",
+         "type": "video",
+         "segments": [
+          {
+           "text": "影片",
+           "url": "https://www.youtube.com/watch?v=AMUv8KvVt08"
+          }
+         ]
         }
        ]
       },
       {
-       "id": "e0286",
-       "type": "video",
-       "segments": [
+       "id": "n1a1a6303510y4o",
+       "kind": "work",
+       "title": "Super Breakout",
+       "entries": [
         {
-         "text": "Breakout 2000",
-         "url": "https://www.youtube.com/watch?v=jKuLdnwjU9w"
+         "id": "e1a1a630350e7m2",
+         "type": "video",
+         "segments": [
+          {
+           "text": "影片",
+           "url": "https://www.youtube.com/watch?v=p_Xf9vMike8"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": "n1a1a630351449o",
+       "kind": "work",
+       "title": "Breakout 2000",
+       "entries": [
+        {
+         "id": "e1a1a63035128a5",
+         "type": "video",
+         "segments": [
+          {
+           "text": "影片",
+           "url": "https://www.youtube.com/watch?v=jKuLdnwjU9w"
+          }
+         ]
         }
        ]
       }
-     ],
-     "origin": "ppt:49"
+     ]
     },
     {
      "id": "n0179",
-     "kind": "group",
-     "title": "Battle City (啾啾鞋解說)",
-     "links": [
+     "kind": "work",
+     "title": "Battle City",
+     "origin": "ppt:49",
+     "entries": [
       {
-       "text": "啾啾鞋解說",
-       "url": "https://www.youtube.com/watch?v=fMpt4T90Wwk"
+       "id": "e1a1a6303516siv",
+       "type": "lore",
+       "segments": [
+        {
+         "text": "啾啾鞋解說",
+         "url": "https://www.youtube.com/watch?v=fMpt4T90Wwk"
+        }
+       ]
       }
-     ],
-     "origin": "ppt:49"
+     ]
     },
     {
      "id": "n0180",
-     "kind": "group",
+     "kind": "work",
      "title": "Computer Space",
-     "links": [
-      {
-       "text": "Computer Space",
-       "url": "https://www.youtube.com/watch?v=b3BQsCCwo8w"
-      }
-     ],
-     "origin": "ppt:49"
-    },
-    {
-     "id": "n0181",
-     "kind": "group",
-     "title": "Death Race",
-     "links": [
-      {
-       "text": "Death Race",
-       "url": "https://www.youtube.com/watch?v=aBBtt72aJLA"
-      }
-     ],
-     "origin": "ppt:49"
-    },
-    {
-     "id": "n0182",
-     "kind": "group",
-     "title": "Dragon Ball",
-     "children": [
-      {
-       "id": "n0183",
-       "kind": "group",
-       "title": "game list wiki, video",
-       "links": [
-        {
-         "text": "wiki",
-         "url": "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_video_games"
-        },
-        {
-         "text": "video",
-         "url": "https://www.youtube.com/watch?v=o0_P7akjNAQ"
-        }
-       ],
-       "origin": "ppt:49"
-      }
-     ],
-     "origin": "ppt:49"
-    },
-    {
-     "id": "n0184",
-     "kind": "group",
-     "title": "Galaxy Game",
-     "links": [
-      {
-       "text": "Galaxy Game",
-       "url": "https://www.youtube.com/watch?v=rVprIIDDLYY"
-      }
-     ],
-     "origin": "ppt:49"
-    },
-    {
-     "id": "n0185",
-     "kind": "group",
-     "title": "Gran Trak 10",
-     "links": [
-      {
-       "text": "Gran Trak 10",
-       "url": "https://www.youtube.com/watch?v=drQSjojxW_Q"
-      }
-     ],
-     "origin": "ppt:49"
-    },
-    {
-     "id": "n0186",
-     "kind": "group",
-     "title": "Gauntlet (Evo. 1985-2014)",
-     "links": [
-      {
-       "text": "Gauntlet (Evo. 1985-2014)",
-       "url": "https://www.youtube.com/watch?v=fbWaM4BHVqM"
-      }
-     ],
+     "origin": "ppt:49",
      "entries": [
       {
-       "id": "e0287",
+       "id": "e1a1a6303519u85",
        "type": "video",
        "segments": [
         {
-         "text": "Gauntlet (2014)",
-         "url": "https://www.youtube.com/watch?v=8nvsL-VsTSM",
-         "mark": "video"
+         "text": "影片",
+         "url": "https://www.youtube.com/watch?v=b3BQsCCwo8w"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "n0181",
+     "kind": "work",
+     "title": "Death Race",
+     "origin": "ppt:49",
+     "entries": [
+      {
+       "id": "e1a1a630351b1tl",
+       "type": "video",
+       "segments": [
+        {
+         "text": "影片",
+         "url": "https://www.youtube.com/watch?v=aBBtt72aJLA"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "n0182",
+     "kind": "series",
+     "title": "Dragon Ball",
+     "origin": "ppt:49",
+     "entries": [
+      {
+       "id": "e1a1a630351d6gr",
+       "type": "reference",
+       "segments": [
+        {
+         "text": "遊戲列表 Wiki",
+         "url": "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_video_games"
+        }
+       ]
+      },
+      {
+       "id": "e1a1a630351fsrm",
+       "type": "video",
+       "segments": [
+        {
+         "text": "影片",
+         "url": "https://www.youtube.com/watch?v=o0_P7akjNAQ"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "n0184",
+     "kind": "work",
+     "title": "Galaxy Game",
+     "origin": "ppt:49",
+     "entries": [
+      {
+       "id": "e1a1a63035217c6",
+       "type": "video",
+       "segments": [
+        {
+         "text": "影片",
+         "url": "https://www.youtube.com/watch?v=rVprIIDDLYY"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "n0185",
+     "kind": "work",
+     "title": "Gran Trak 10",
+     "origin": "ppt:49",
+     "entries": [
+      {
+       "id": "e1a1a63035236a5",
+       "type": "video",
+       "segments": [
+        {
+         "text": "影片",
+         "url": "https://www.youtube.com/watch?v=drQSjojxW_Q"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "n0186",
+     "kind": "series",
+     "title": "Gauntlet",
+     "origin": "ppt:49",
+     "entries": [
+      {
+       "id": "e1a1a630352aq5c",
+       "type": "evolution",
+       "segments": [
+        {
+         "text": "Evolution 1985–2014",
+         "url": "https://www.youtube.com/watch?v=fbWaM4BHVqM"
         }
        ]
       }
      ],
-     "origin": "ppt:49"
+     "children": [
+      {
+       "id": "n1a1a6303528ww1",
+       "kind": "work",
+       "title": "Gauntlet (2014)",
+       "entries": [
+        {
+         "id": "e1a1a63035265ff",
+         "type": "video",
+         "segments": [
+          {
+           "text": "影片",
+           "url": "https://www.youtube.com/watch?v=8nvsL-VsTSM",
+           "mark": "video"
+          }
+         ]
+        }
+       ]
+      }
+     ]
     },
     {
      "id": "n0187",
-     "kind": "group",
+     "kind": "work",
      "title": "Haunted House (1982)",
-     "links": [
+     "origin": "ppt:49",
+     "entries": [
       {
-       "text": "Haunted House (1982)",
-       "url": "https://www.youtube.com/watch?v=E-NCOJRvTh8"
+       "id": "e1a1a630352cpop",
+       "type": "video",
+       "segments": [
+        {
+         "text": "影片",
+         "url": "https://www.youtube.com/watch?v=E-NCOJRvTh8"
+        }
+       ]
       }
-     ],
-     "origin": "ppt:49"
+     ]
     },
     {
      "id": "n0188",
-     "kind": "group",
+     "kind": "work",
      "title": "Jetpac",
-     "links": [
+     "origin": "ppt:49",
+     "entries": [
       {
-       "text": "Jetpac",
-       "url": "https://www.youtube.com/watch?v=9Hy29KoBnGY"
+       "id": "e1a1a630352e31c",
+       "type": "video",
+       "segments": [
+        {
+         "text": "影片",
+         "url": "https://www.youtube.com/watch?v=9Hy29KoBnGY"
+        }
+       ]
       }
-     ],
-     "origin": "ppt:49"
+     ]
     },
     {
      "id": "n0189",
-     "kind": "group",
+     "kind": "work",
      "title": "Knight Lore",
-     "links": [
+     "origin": "ppt:49",
+     "entries": [
       {
-       "text": "Knight Lore",
-       "url": "https://www.youtube.com/watch?v=fytkxfzsCFc",
-       "mark": "video"
+       "id": "e1a1a6303530o8c",
+       "type": "video",
+       "segments": [
+        {
+         "text": "影片",
+         "url": "https://www.youtube.com/watch?v=fytkxfzsCFc",
+         "mark": "video"
+        }
+       ]
       }
-     ],
-     "origin": "ppt:49"
+     ]
     },
     {
      "id": "n0190",
-     "kind": "group",
+     "kind": "work",
      "title": "Lunar Lander (1979)",
-     "links": [
+     "origin": "ppt:49",
+     "entries": [
       {
-       "text": "Lunar Lander (1979)",
-       "url": "https://www.youtube.com/watch?v=UdheQXhZzWU"
+       "id": "e1a1a6303533btz",
+       "type": "video",
+       "segments": [
+        {
+         "text": "影片",
+         "url": "https://www.youtube.com/watch?v=UdheQXhZzWU"
+        }
+       ]
       }
-     ],
-     "origin": "ppt:49"
+     ]
     },
     {
      "id": "n0191",
-     "kind": "group",
+     "kind": "work",
      "title": "Pong",
-     "links": [
+     "origin": "ppt:49",
+     "entries": [
       {
-       "text": "Pong",
-       "url": "https://www.youtube.com/watch?v=fiShX2pTz9A"
+       "id": "e1a1a6303535uwl",
+       "type": "video",
+       "segments": [
+        {
+         "text": "影片",
+         "url": "https://www.youtube.com/watch?v=fiShX2pTz9A"
+        }
+       ]
       }
-     ],
-     "origin": "ppt:49"
+     ]
     },
     {
      "id": "n0192",
-     "kind": "group",
+     "kind": "series",
      "title": "Prince of Persia",
+     "origin": "ppt:49",
      "children": [
       {
        "id": "n0193",
-       "kind": "group",
+       "kind": "work",
        "title": "Prince of Persia (1989)",
-       "links": [
+       "origin": "ppt:49",
+       "entries": [
         {
-         "text": "Prince of Persia (1989)",
-         "url": "https://www.youtube.com/watch?v=FGQmtlxllWY"
+         "id": "e1a1a6303537g35",
+         "type": "video",
+         "segments": [
+          {
+           "text": "影片",
+           "url": "https://www.youtube.com/watch?v=FGQmtlxllWY"
+          }
+         ]
         }
-       ],
-       "origin": "ppt:49"
+       ]
       }
-     ],
-     "origin": "ppt:49"
+     ]
     },
     {
      "id": "n0194",
-     "kind": "group",
+     "kind": "series",
      "title": "R-Type",
+     "origin": "ppt:49",
      "children": [
       {
        "id": "n0195",
-       "kind": "group",
+       "kind": "work",
        "title": "R-Type (1987)",
-       "links": [
+       "origin": "ppt:49",
+       "entries": [
         {
-         "text": "R-Type (1987)",
-         "url": "https://www.youtube.com/watch?v=9qXHicrtLJU",
-         "mark": "video"
+         "id": "e1a1a6303539i05",
+         "type": "video",
+         "segments": [
+          {
+           "text": "影片",
+           "url": "https://www.youtube.com/watch?v=9qXHicrtLJU",
+           "mark": "video"
+          }
+         ]
         }
-       ],
-       "origin": "ppt:49"
+       ]
       }
-     ],
-     "origin": "ppt:49"
+     ]
     },
     {
      "id": "n0196",
-     "kind": "group",
+     "kind": "work",
      "title": "Sea Wolf",
-     "links": [
+     "origin": "ppt:49",
+     "entries": [
       {
-       "text": "Sea Wolf",
-       "url": "https://www.youtube.com/watch?v=fySeh8tHNTE"
+       "id": "e1a1a630353ciw7",
+       "type": "video",
+       "segments": [
+        {
+         "text": "影片",
+         "url": "https://www.youtube.com/watch?v=fySeh8tHNTE"
+        }
+       ]
       }
-     ],
-     "origin": "ppt:49"
+     ]
     },
     {
      "id": "n0197",
-     "kind": "group",
+     "kind": "work",
      "title": "Spelunker",
+     "origin": "ppt:49",
      "entries": [
       {
-       "id": "e0288",
+       "id": "e1a1a630353ebc3",
        "type": "lore",
        "segments": [
         {
@@ -1065,7 +1635,7 @@
        ]
       },
       {
-       "id": "e0289",
+       "id": "e1a1a6303540i3s",
        "type": "video",
        "segments": [
         {
@@ -1074,71 +1644,128 @@
         }
        ]
       }
-     ],
-     "origin": "ppt:49"
+     ]
     },
     {
      "id": "n0198",
-     "kind": "group",
+     "kind": "work",
      "title": "Star Trek (1971)",
-     "links": [
+     "origin": "ppt:49",
+     "entries": [
       {
-       "text": "Star Trek (1971)",
-       "url": "https://www.youtube.com/watch?v=XDB6gpjqins"
+       "id": "e1a1a6303542hxs",
+       "type": "video",
+       "segments": [
+        {
+         "text": "影片",
+         "url": "https://www.youtube.com/watch?v=XDB6gpjqins"
+        }
+       ]
       }
-     ],
-     "origin": "ppt:49"
+     ]
     },
     {
      "id": "n0199",
-     "kind": "group",
+     "kind": "work",
      "title": "Tetris",
-     "status": "played",
-     "origin": "ppt:49"
+     "origin": "ppt:49",
+     "status": "played"
     },
     {
      "id": "n0200",
-     "kind": "group",
-     "title": "Wizardry Series",
-     "children": [
+     "kind": "series",
+     "title": "Wizardry",
+     "origin": "ppt:49",
+     "entries": [
       {
-       "id": "n0201",
-       "kind": "group",
-       "title": "Proving Grounds of the Mad Overlord, Evo. 1979-2021",
-       "links": [
+       "id": "e1a1a6303549vqu",
+       "type": "evolution",
+       "segments": [
         {
-         "text": "Proving Grounds of the Mad Overlord",
-         "url": "https://www.youtube.com/watch?v=UWQK-Q5sLKg"
-        },
-        {
-         "text": "Evo. 1979-2021",
+         "text": "Evolution 1979–2021",
          "url": "https://www.youtube.com/watch?v=diEF059e4Mo&pp=ygUSd2l6YXJkcnkgZXZvbHV0aW9u"
         }
-       ],
-       "origin": "ppt:49"
+       ]
       }
      ],
-     "origin": "ppt:49"
+     "children": [
+      {
+       "id": "n1a1a6303547gfo",
+       "kind": "work",
+       "title": "Wizardry: Proving Grounds of the Mad Overlord",
+       "entries": [
+        {
+         "id": "e1a1a6303544xa6",
+         "type": "video",
+         "segments": [
+          {
+           "text": "影片",
+           "url": "https://www.youtube.com/watch?v=UWQK-Q5sLKg"
+          }
+         ]
+        }
+       ]
+      }
+     ]
     },
     {
      "id": "n0202",
-     "kind": "group",
-     "title": "Zork I, II, III",
-     "links": [
+     "kind": "series",
+     "title": "Zork",
+     "origin": "ppt:49",
+     "children": [
       {
-       "text": "I",
-       "url": "https://www.youtube.com/watch?v=mWNgQdybISA"
+       "id": "n1a1a630354dc3h",
+       "kind": "work",
+       "title": "Zork I",
+       "entries": [
+        {
+         "id": "e1a1a630354bx4i",
+         "type": "video",
+         "segments": [
+          {
+           "text": "影片",
+           "url": "https://www.youtube.com/watch?v=mWNgQdybISA"
+          }
+         ]
+        }
+       ]
       },
       {
-       "text": "II",
-       "url": "https://www.youtube.com/watch?v=9NSzlFmshj8"
+       "id": "n1a1a6303551h40",
+       "kind": "work",
+       "title": "Zork II",
+       "entries": [
+        {
+         "id": "e1a1a630354f4qu",
+         "type": "video",
+         "segments": [
+          {
+           "text": "影片",
+           "url": "https://www.youtube.com/watch?v=9NSzlFmshj8"
+          }
+         ]
+        }
+       ]
       },
       {
-       "text": "III",
-       "url": "https://www.youtube.com/watch?v=k-y4v4S8uG4"
+       "id": "n1a1a6303556o16",
+       "kind": "work",
+       "title": "Zork III",
+       "entries": [
+        {
+         "id": "e1a1a63035544og",
+         "type": "video",
+         "segments": [
+          {
+           "text": "影片",
+           "url": "https://www.youtube.com/watch?v=k-y4v4S8uG4"
+          }
+         ]
+        }
+       ]
       }
-     ],
-     "origin": "ppt:49"
+     ]
     }
    ],
    "origin": "ppt:49"
@@ -1150,74 +1777,110 @@
    "children": [
     {
      "id": "n0204",
-     "kind": "group",
+     "kind": "series",
      "title": "Civilization",
-     "entries": [
+     "origin": "ppt:50",
+     "children": [
       {
-       "id": "e0290",
-       "type": "lore",
-       "segments": [
+       "id": "n1a1a630355ekqd",
+       "kind": "work",
+       "title": "Civilization",
+       "entries": [
         {
-         "text": "I(解說)",
-         "url": "https://www.bilibili.com/video/BV1shoCBgEUi/?spm_id_from=333.337.search-card.all.click"
+         "id": "e1a1a630355czcv",
+         "type": "lore",
+         "segments": [
+          {
+           "text": "解說",
+           "url": "https://www.bilibili.com/video/BV1shoCBgEUi/?spm_id_from=333.337.search-card.all.click"
+          }
+         ]
         }
        ]
-      },
+      }
+     ]
+    },
+    {
+     "id": "n1a1a630355ac0c",
+     "kind": "work",
+     "title": "I Have No Mouth, and I Must Scream",
+     "entries": [
       {
-       "id": "e0291",
+       "id": "e1a1a6303558msc",
        "type": "lore",
        "segments": [
         {
-         "text": "I Have No Mouth, and I Must Scream (解說)",
+         "text": "解說",
          "url": "https://www.bilibili.com/video/BV1K54y1B7Dc/?spm_id_from=333.337.search-card.all.click"
         }
        ]
       }
-     ],
-     "origin": "ppt:50"
+     ]
     },
     {
      "id": "n0205",
-     "kind": "group",
+     "kind": "series",
      "title": "Langrisser",
-     "entries": [
+     "origin": "ppt:50",
+     "children": [
       {
-       "id": "e0292",
-       "type": "video",
-       "segments": [
+       "id": "n1a1a6303563531",
+       "kind": "work",
+       "title": "Langrisser I",
+       "notes": [
+        "重製版"
+       ],
+       "entries": [
         {
-         "text": "I(重製版)",
-         "url": "https://www.bilibili.com/video/BV1FJ411R7Vv/?spm_id_from=333.1387.list.card_archive.click",
-         "playlist": true
+         "id": "e1a1a6303560xck",
+         "type": "video",
+         "segments": [
+          {
+           "text": "影片",
+           "url": "https://www.bilibili.com/video/BV1FJ411R7Vv/?spm_id_from=333.1387.list.card_archive.click",
+           "playlist": true
+          }
+         ]
         }
        ]
       }
-     ],
-     "origin": "ppt:50"
+     ]
     },
     {
      "id": "n0206",
-     "kind": "group",
-     "title": "Mortal Kombat (Evo. 1992-2023)",
-     "links": [
+     "kind": "series",
+     "title": "Mortal Kombat",
+     "origin": "ppt:50",
+     "entries": [
       {
-       "text": "Mortal Kombat (Evo. 1992-2023)",
-       "url": "https://www.youtube.com/watch?v=QOiM0qbiCj0"
+       "id": "e1a1a63035655l0",
+       "type": "evolution",
+       "segments": [
+        {
+         "text": "Evolution 1992–2023",
+         "url": "https://www.youtube.com/watch?v=QOiM0qbiCj0"
+        }
+       ]
       }
-     ],
-     "origin": "ppt:50"
+     ]
     },
     {
      "id": "n0207",
-     "kind": "group",
-     "title": "Rampart (啾啾鞋解說)",
-     "links": [
+     "kind": "work",
+     "title": "Rampart",
+     "origin": "ppt:50",
+     "entries": [
       {
-       "text": "Rampart (啾啾鞋解說)",
-       "url": "https://www.youtube.com/watch?v=xbVyuDK271A"
+       "id": "e1a1a6303567zwf",
+       "type": "lore",
+       "segments": [
+        {
+         "text": "啾啾鞋解說",
+         "url": "https://www.youtube.com/watch?v=xbVyuDK271A"
+        }
+       ]
       }
-     ],
-     "origin": "ppt:50"
+     ]
     }
    ],
    "origin": "ppt:50"
@@ -1226,97 +1889,173 @@
    "id": "n0208",
    "kind": "category",
    "title": "2000-2010",
-   "entries": [
-    {
-     "id": "e0299",
-     "type": "video",
-     "segments": [
-      {
-       "text": "Machinarium",
-       "url": "https://www.youtube.com/watch?v=IJNR2EpS0jw",
-       "playlist": true,
-       "channel": "舞秋風"
-      }
-     ]
-    }
-   ],
    "children": [
     {
-     "id": "n0209",
-     "kind": "group",
-     "title": "冰火姊弟",
+     "id": "n1a1a630358fpn2",
+     "kind": "work",
+     "title": "Machinarium",
      "entries": [
       {
-       "id": "e0293",
+       "id": "e1a1a630358dj22",
        "type": "video",
        "segments": [
         {
-         "text": "in The Forest",
-         "url": "https://www.youtube.com/watch?v=og0inOdAh8w"
-        },
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/watch?v=IJNR2EpS0jw",
+         "playlist": true,
+         "channel": "舞秋風"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "n0209",
+     "kind": "series",
+     "title": "冰火姊弟",
+     "origin": "ppt:51",
+     "children": [
+      {
+       "id": "n1a1a630356by1a",
+       "kind": "work",
+       "title": "The Forest Temple",
+       "entries": [
         {
-         "text": ", "
-        },
-        {
-         "text": "in The Light Temple",
-         "url": "https://www.youtube.com/watch?v=ztISl4eNvh4"
-        },
-        {
-         "text": ", "
-        },
-        {
-         "text": "The Ice Temple",
-         "url": "https://www.youtube.com/watch?v=kGPJ0QcMIxY"
-        },
-        {
-         "text": ", "
-        },
-        {
-         "text": "The crystal Temple",
-         "url": "https://www.youtube.com/watch?v=JsDnMsygqsQ"
-        },
-        {
-         "text": ", "
-        },
-        {
-         "text": "Elements",
-         "url": "https://www.youtube.com/watch?v=vHJcI8zg6ww"
-        },
-        {
-         "text": ", "
-        },
-        {
-         "text": "Fairy Tales",
-         "url": "https://www.youtube.com/watch?v=R8HmKfKblg0"
+         "id": "e1a1a6303569y4p",
+         "type": "video",
+         "segments": [
+          {
+           "text": "影片",
+           "url": "https://www.youtube.com/watch?v=og0inOdAh8w"
+          }
+         ]
         }
        ]
       },
       {
-       "id": "e0294",
+       "id": "n1a1a630356f55m",
+       "kind": "work",
+       "title": "The Light Temple",
+       "entries": [
+        {
+         "id": "e1a1a630356dt1y",
+         "type": "video",
+         "segments": [
+          {
+           "text": "影片",
+           "url": "https://www.youtube.com/watch?v=ztISl4eNvh4"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": "n1a1a63035740sn",
+       "kind": "work",
+       "title": "The Ice Temple",
+       "entries": [
+        {
+         "id": "e1a1a63035714ms",
+         "type": "video",
+         "segments": [
+          {
+           "text": "影片",
+           "url": "https://www.youtube.com/watch?v=kGPJ0QcMIxY"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": "n1a1a6303578zmm",
+       "kind": "work",
+       "title": "The Crystal Temple",
+       "entries": [
+        {
+         "id": "e1a1a630357678d",
+         "type": "video",
+         "segments": [
+          {
+           "text": "影片",
+           "url": "https://www.youtube.com/watch?v=JsDnMsygqsQ"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": "n1a1a630357cpn0",
+       "kind": "work",
+       "title": "Elements",
+       "entries": [
+        {
+         "id": "e1a1a630357a8ph",
+         "type": "video",
+         "segments": [
+          {
+           "text": "影片",
+           "url": "https://www.youtube.com/watch?v=vHJcI8zg6ww"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": "n1a1a6303580cvr",
+       "kind": "work",
+       "title": "Fairy Tales",
+       "entries": [
+        {
+         "id": "e1a1a630357eg7k",
+         "type": "video",
+         "segments": [
+          {
+           "text": "影片",
+           "url": "https://www.youtube.com/watch?v=R8HmKfKblg0"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "n1a1a6303585wsn",
+     "kind": "work",
+     "title": "花蟲",
+     "entries": [
+      {
+       "id": "e1a1a6303583a1h",
        "type": "video",
        "segments": [
         {
-         "text": "花蟲",
+         "text": "舞秋風實況",
          "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjsy3SOlWLQgAjtdCVuaDokn",
          "playlist": true,
          "channel": "舞秋風"
         }
        ]
-      },
+      }
+     ]
+    },
+    {
+     "id": "n1a1a6303589mv8",
+     "kind": "work",
+     "title": "命運石之門",
+     "entries": [
       {
-       "id": "e0295",
+       "id": "e1a1a6303587zgv",
        "type": "video",
        "segments": [
         {
-         "text": "命運石之門",
+         "text": "舞秋風實況",
          "url": "https://www.youtube.com/playlist?list=PLpfAxniIs1LZOw0CBq-zilW4OlIQ0xjKJ",
          "playlist": true,
          "channel": "舞秋風"
         }
        ]
       }
-     ],
-     "origin": "ppt:51"
+     ]
     },
     {
      "id": "n0210",
@@ -1325,15 +2064,21 @@
      "children": [
       {
        "id": "n0211",
-       "kind": "group",
+       "kind": "work",
        "title": "Angry Birds Go",
-       "links": [
+       "origin": "ppt:51",
+       "entries": [
         {
-         "text": "Angry Birds Go",
-         "url": "https://www.youtube.com/watch?v=g4HWYx-Nt6c"
+         "id": "e1a1a630358bqzj",
+         "type": "video",
+         "segments": [
+          {
+           "text": "影片",
+           "url": "https://www.youtube.com/watch?v=g4HWYx-Nt6c"
+          }
+         ]
         }
-       ],
-       "origin": "ppt:51"
+       ]
       },
       {
        "id": "nmw0mrpqlyxp",
@@ -1542,7 +2287,7 @@
      "entries": [
       {
        "id": "e0298",
-       "type": "other",
+       "type": "video",
        "segments": [
         {
          "text": "影片",
@@ -1559,378 +2304,527 @@
    "id": "n0212",
    "kind": "category",
    "title": "2011-2015",
-   "entries": [
-    {
-     "id": "e0300",
-     "type": "video",
-     "segments": [
-      {
-       "text": "Contrast",
-       "url": "https://www.youtube.com/watch?v=FiGhlCBo8Kk"
-      }
-     ]
-    },
-    {
-     "id": "e0301",
-     "type": "video",
-     "segments": [
-      {
-       "text": "Cube World",
-       "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjv3ieVJ4ZCYlY0ur1Z1aZDb",
-       "playlist": true,
-       "channel": "舞秋風"
-      }
-     ]
-    },
-    {
-     "id": "e0302",
-     "type": "video",
-     "segments": [
-      {
-       "text": "Dumb Ways to Die",
-       "url": "https://www.youtube.com/watch?v=IJNR2EpS0jw"
-      }
-     ]
-    },
-    {
-     "id": "e0303",
-     "type": "video",
-     "segments": [
-      {
-       "text": "Don’t Starve",
-       "url": "https://www.bilibili.com/video/BV1VcBkBTEA9/?spm_id_from=333.337.search-card.all.click"
-      }
-     ]
-    },
-    {
-     "id": "e0304",
-     "type": "video",
-     "segments": [
-      {
-       "text": "Eryi’s Action",
-       "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjvO7jBasUJCeLdimvCpu_-r",
-       "playlist": true,
-       "channel": "舞秋風"
-      }
-     ]
-    },
-    {
-     "id": "e0305",
-     "type": "video",
-     "segments": [
-      {
-       "text": "Fez",
-       "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjslpqbOtzgyDh8hqkXv4p1N",
-       "playlist": true,
-       "channel": "舞秋風"
-      },
-      {
-       "text": " "
-      },
-      {
-       "text": "Godus",
-       "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjtTisc9Bv7AjOdfNwzTFYjX",
-       "playlist": true,
-       "channel": "舞秋風"
-      }
-     ]
-    },
-    {
-     "id": "e0306",
-     "type": "video",
-     "segments": [
-      {
-       "text": "Gomo",
-       "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjtgZFfAYROHEtnXjiBgduEj",
-       "playlist": true,
-       "channel": "舞秋風"
-      }
-     ]
-    }
-   ],
    "children": [
     {
-     "id": "n0213",
-     "kind": "group",
-     "title": "Into The Dead 1 2",
-     "links": [
+     "id": "n1a1a6303593ceh",
+     "kind": "work",
+     "title": "Contrast",
+     "entries": [
       {
-       "text": "1",
-       "url": "https://www.youtube.com/playlist?list=PLGtZwVE-T07soQOxRRzB2dhKmL7FZ7oBj",
-       "playlist": true
+       "id": "e1a1a6303591vtg",
+       "type": "video",
+       "segments": [
+        {
+         "text": "影片",
+         "url": "https://www.youtube.com/watch?v=FiGhlCBo8Kk"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "n1a1a6303598xsp",
+     "kind": "work",
+     "title": "Cube World",
+     "entries": [
+      {
+       "id": "e1a1a6303595rlm",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjv3ieVJ4ZCYlY0ur1Z1aZDb",
+         "playlist": true,
+         "channel": "舞秋風"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "n1a1a630359cceo",
+     "kind": "work",
+     "title": "Dumb Ways to Die",
+     "entries": [
+      {
+       "id": "e1a1a630359a0b5",
+       "type": "video",
+       "segments": [
+        {
+         "text": "影片",
+         "url": "https://www.youtube.com/watch?v=IJNR2EpS0jw"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "n1a1a63035a0qf8",
+     "kind": "work",
+     "title": "Don’t Starve",
+     "entries": [
+      {
+       "id": "e1a1a630359epav",
+       "type": "video",
+       "segments": [
+        {
+         "text": "影片",
+         "url": "https://www.bilibili.com/video/BV1VcBkBTEA9/?spm_id_from=333.337.search-card.all.click"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "n1a1a63035a40pi",
+     "kind": "work",
+     "title": "Eryi’s Action",
+     "entries": [
+      {
+       "id": "e1a1a63035a22lr",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjvO7jBasUJCeLdimvCpu_-r",
+         "playlist": true,
+         "channel": "舞秋風"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "n1a1a63035a94cu",
+     "kind": "work",
+     "title": "Fez",
+     "entries": [
+      {
+       "id": "e1a1a63035a7usv",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjslpqbOtzgyDh8hqkXv4p1N",
+         "playlist": true,
+         "channel": "舞秋風"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "n1a1a63035ad1qo",
+     "kind": "work",
+     "title": "Godus",
+     "entries": [
+      {
+       "id": "e1a1a63035abzol",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjtTisc9Bv7AjOdfNwzTFYjX",
+         "playlist": true,
+         "channel": "舞秋風"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "n1a1a63035b1xhl",
+     "kind": "work",
+     "title": "Gomo",
+     "entries": [
+      {
+       "id": "e1a1a63035af2gh",
+       "type": "video",
+       "segments": [
+        {
+         "text": "舞秋風實況",
+         "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjtgZFfAYROHEtnXjiBgduEj",
+         "playlist": true,
+         "channel": "舞秋風"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "n0213",
+     "kind": "series",
+     "title": "Into the Dead",
+     "origin": "ppt:52",
+     "children": [
+      {
+       "id": "n1a1a63035benb4",
+       "kind": "work",
+       "title": "Into the Dead",
+       "entries": [
+        {
+         "id": "e1a1a63035bcjj0",
+         "type": "video",
+         "segments": [
+          {
+           "text": "影片",
+           "url": "https://www.youtube.com/playlist?list=PLGtZwVE-T07soQOxRRzB2dhKmL7FZ7oBj",
+           "playlist": true
+          }
+         ]
+        }
+       ]
       },
       {
-       "text": "2",
-       "url": "https://www.youtube.com/playlist?list=PLGtZwVE-T07uXnlG9LzewELuYP9rhuOvv",
-       "playlist": true
+       "id": "n1a1a63035c2az6",
+       "kind": "work",
+       "title": "Into the Dead 2",
+       "entries": [
+        {
+         "id": "e1a1a63035c0foj",
+         "type": "video",
+         "segments": [
+          {
+           "text": "影片",
+           "url": "https://www.youtube.com/playlist?list=PLGtZwVE-T07uXnlG9LzewELuYP9rhuOvv",
+           "playlist": true
+          }
+         ]
+        }
+       ]
       }
-     ],
-     "origin": "ppt:52"
+     ]
     },
     {
      "id": "n0214",
-     "kind": "group",
+     "kind": "series",
      "title": "Kingdom Rush",
+     "origin": "ppt:52",
      "children": [
       {
        "id": "n0215",
-       "kind": "group",
+       "kind": "work",
        "title": "Kingdom Rush",
-       "links": [
+       "origin": "ppt:52",
+       "entries": [
         {
-         "text": "全流程攻略",
-         "url": "https://www.bilibili.com/video/BV1Bg411a7fN?spm_id_from=333.788.videopod.episodes",
-         "playlist": true
+         "id": "e1a1a63035c5dos",
+         "type": "video",
+         "segments": [
+          {
+           "text": "全流程攻略",
+           "url": "https://www.bilibili.com/video/BV1Bg411a7fN?spm_id_from=333.788.videopod.episodes",
+           "playlist": true
+          }
+         ]
         }
-       ],
-       "origin": "ppt:52"
+       ]
       }
-     ],
-     "origin": "ppt:52"
+     ]
     },
     {
      "id": "n0216",
-     "kind": "group",
+     "kind": "series",
      "title": "Otherworld",
-     "entries": [
+     "origin": "ppt:52",
+     "children": [
       {
-       "id": "e0307",
-       "type": "video",
-       "segments": [
+       "id": "n1a1a63035c9i9e",
+       "kind": "work",
+       "title": "Spring of Shadows",
+       "entries": [
         {
-         "text": "Spring of Shadows",
-         "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjvANlSpchmd78oxh1MzQh5G",
-         "playlist": true,
-         "channel": "舞秋風"
+         "id": "e1a1a63035c7po5",
+         "type": "video",
+         "segments": [
+          {
+           "text": "舞秋風實況",
+           "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjvANlSpchmd78oxh1MzQh5G",
+           "playlist": true,
+           "channel": "舞秋風"
+          }
+         ]
         }
        ]
       },
       {
-       "id": "e0308",
-       "type": "video",
-       "segments": [
+       "id": "n1a1a63035cd0ml",
+       "kind": "work",
+       "title": "Omens of Summer",
+       "entries": [
         {
-         "text": "Omens of Summer",
-         "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjsqGa2LRevA6QG3JViYL4nD",
-         "playlist": true,
-         "channel": "舞秋風"
+         "id": "e1a1a63035cbm7x",
+         "type": "video",
+         "segments": [
+          {
+           "text": "舞秋風實況",
+           "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjsqGa2LRevA6QG3JViYL4nD",
+           "playlist": true,
+           "channel": "舞秋風"
+          }
+         ]
         }
        ]
       },
       {
-       "id": "e0309",
-       "type": "video",
-       "segments": [
+       "id": "n1a1a63035d1iyj",
+       "kind": "work",
+       "title": "Shades of Fall",
+       "entries": [
         {
-         "text": "Shades of Fall",
-         "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjs7OKvJK2tdbQkx4iGyOLZ7",
-         "playlist": true,
-         "channel": "舞秋風"
+         "id": "e1a1a63035cf19y",
+         "type": "video",
+         "segments": [
+          {
+           "text": "舞秋風實況",
+           "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjs7OKvJK2tdbQkx4iGyOLZ7",
+           "playlist": true,
+           "channel": "舞秋風"
+          }
+         ]
         }
        ]
       }
-     ],
-     "origin": "ppt:52"
+     ]
     },
     {
      "id": "n0217",
-     "kind": "group",
+     "kind": "work",
      "title": "Puppeteer",
-     "links": [
+     "origin": "ppt:52",
+     "entries": [
       {
-       "text": "Puppeteer",
-       "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjtT7ZQ4av4duYKD_SxkT7H1",
-       "playlist": true,
-       "channel": "舞秋風"
+       "id": "e1a1a63035d3p98",
+       "type": "video",
+       "segments": [
+        {
+         "text": "影片",
+         "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjtT7ZQ4av4duYKD_SxkT7H1",
+         "playlist": true,
+         "channel": "舞秋風"
+        }
+       ]
       }
-     ],
-     "origin": "ppt:52"
+     ]
     },
     {
      "id": "n0218",
-     "kind": "group",
+     "kind": "work",
      "title": "Reus",
-     "links": [
+     "origin": "ppt:52",
+     "entries": [
       {
-       "text": "Reus",
-       "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjts4doDHWa2nz0jgIx7-O-9",
-       "playlist": true,
-       "channel": "舞秋風"
+       "id": "e1a1a63035d6pbd",
+       "type": "video",
+       "segments": [
+        {
+         "text": "影片",
+         "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjts4doDHWa2nz0jgIx7-O-9",
+         "playlist": true,
+         "channel": "舞秋風"
+        }
+       ]
       }
-     ],
-     "origin": "ppt:52"
+     ]
     },
     {
      "id": "n0219",
-     "kind": "group",
+     "kind": "work",
      "title": "Terraria",
-     "links": [
-      {
-       "text": "Terraria",
-       "url": "https://www.youtube.com/playlist?list=PL-JPD8A3qWVNUWDUU-32zCmFh3O9Xzo__",
-       "playlist": true
-      }
-     ],
+     "origin": "ppt:52",
      "entries": [
       {
-       "id": "e0310",
-       "type": "music",
+       "id": "e1a1a63035b3b3m",
+       "type": "video",
        "segments": [
         {
-         "text": "Wiki",
-         "url": "https://terraria.fandom.com/wiki/Music"
-        },
-        {
-         "text": " "
-        },
+         "text": "影片",
+         "url": "https://www.youtube.com/playlist?list=PL-JPD8A3qWVNUWDUU-32zCmFh3O9Xzo__",
+         "playlist": true
+        }
+       ]
+      },
+      {
+       "id": "e1a1a63035b6td6",
+       "type": "music",
+       "segments": [
         {
          "text": "OST",
          "url": "https://www.youtube.com/playlist?list=PLBO2h-GzDvIazWs1jFf0QwzLjKqTW5w5a",
          "mark": "music"
         },
         {
-         "text": " "
+         "text": " ("
         },
         {
-         "text": "Otherworld",
-         "url": "https://www.youtube.com/playlist?list=OLAK5uy_nUDcpdudzrmBxsOWtpSK9EJGSGCRntdlQ",
-         "mark": "music"
-        }
-       ],
-       "notes": [
-        "The Tale of a Cruel World"
-       ]
-      },
-      {
-       "id": "e0311",
-       "type": "music",
-       "segments": [
-        {
-         "text": "("
-        },
-        {
-         "text": "Database",
-         "url": "https://dmdokuro.bandcamp.com/album/the-tale-of-a-cruel-world-calamity-original-soundtrack"
-        },
-        {
-         "text": ", "
-        },
-        {
-         "text": "vid.",
-         "url": "https://www.youtube.com/playlist?list=OLAK5uy_kZa95NcrhEi4wl5foyY2ZjVMYqdvYlgkk",
-         "mark": "music"
+         "text": "Wiki",
+         "url": "https://terraria.fandom.com/wiki/Music"
         },
         {
          "text": ")"
         }
        ]
-      }
-     ],
-     "origin": "ppt:52"
-    },
-    {
-     "id": "n0220",
-     "kind": "group",
-     "title": "The Bridge",
-     "links": [
+      },
       {
-       "text": "The Bridge",
-       "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjuNYpkr-SCuQGacoOEpkY0F",
-       "playlist": true,
-       "channel": "舞秋風"
-      }
-     ],
-     "origin": "ppt:52"
-    },
-    {
-     "id": "n0221",
-     "kind": "group",
-     "title": "To the Moon",
-     "links": [
-      {
-       "text": "To the Moon",
-       "url": "https://www.youtube.com/playlist?list=PLpfAxniIs1LYaueM6GxmmnF2U3Glk9wxa",
-       "playlist": true,
-       "channel": "舞秋風"
-      }
-     ],
-     "origin": "ppt:52"
-    },
-    {
-     "id": "n0222",
-     "kind": "group",
-     "title": "Undertale",
-     "entries": [
-      {
-       "id": "e0312",
+       "id": "e1a1a63035b8dr8",
        "type": "music",
        "segments": [
         {
-         "text": "Undertale Wiki",
-         "url": "https://undertale.fandom.com/wiki/Category:Music"
-        },
-        {
-         "text": " "
-        },
-        {
-         "text": "OST",
-         "url": "https://www.youtube.com/playlist?list=PLpJl5XaLHtLX-pDk4kctGxtF4nq6BIyjg",
+         "text": "Otherworld OST",
+         "url": "https://www.youtube.com/playlist?list=OLAK5uy_nUDcpdudzrmBxsOWtpSK9EJGSGCRntdlQ",
          "mark": "music"
-        },
-        {
-         "text": "."
         }
        ]
       },
       {
-       "id": "e0313",
-       "type": "reference",
-       "segments": [
-        {
-         "text": "Deltarune Wiki "
-        },
-        {
-         "text": "Ch.1",
-         "url": "https://deltarune.fandom.com/wiki/DELTARUNE_Chapter_1_OST"
-        },
-        {
-         "text": " "
-        },
-        {
-         "text": "Ch.2",
-         "url": "https://deltarune.fandom.com/wiki/DELTARUNE_Chapter_2_OST"
-        }
-       ]
-      },
-      {
-       "id": "e0314",
+       "id": "e1a1a63035ba4o3",
        "type": "music",
        "segments": [
         {
-         "text": "Ch. 1 OST",
-         "url": "https://www.youtube.com/playlist?list=OLAK5uy_lTzhIII4QNQ8oQDT-4okKVtmoQqdFBiMs",
+         "text": "The Tale of a Cruel World",
+         "url": "https://www.youtube.com/playlist?list=OLAK5uy_kZa95NcrhEi4wl5foyY2ZjVMYqdvYlgkk",
          "mark": "music"
         },
         {
          "text": " ("
         },
         {
-         "text": "tr. 13",
-         "url": "https://youtube.com/watch?v=PhhGEA_317w",
-         "mark": "music"
+         "text": "Bandcamp",
+         "url": "https://dmdokuro.bandcamp.com/album/the-tale-of-a-cruel-world-calamity-original-soundtrack"
         },
         {
-         "text": ") "
-        },
-        {
-         "text": "Ch. 2 OST",
-         "url": "https://www.youtube.com/playlist?list=OLAK5uy_kADMv-61zFDA5jOl2rTBQpqaa8celjh54",
-         "mark": "music"
+         "text": ")"
         }
        ]
       }
-     ],
-     "origin": "ppt:52"
+     ]
+    },
+    {
+     "id": "n0220",
+     "kind": "work",
+     "title": "The Bridge",
+     "origin": "ppt:52",
+     "entries": [
+      {
+       "id": "e1a1a63035d8ysz",
+       "type": "video",
+       "segments": [
+        {
+         "text": "影片",
+         "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjuNYpkr-SCuQGacoOEpkY0F",
+         "playlist": true,
+         "channel": "舞秋風"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "n0221",
+     "kind": "work",
+     "title": "To the Moon",
+     "origin": "ppt:52",
+     "entries": [
+      {
+       "id": "e1a1a63035da4ag",
+       "type": "video",
+       "segments": [
+        {
+         "text": "影片",
+         "url": "https://www.youtube.com/playlist?list=PLpfAxniIs1LYaueM6GxmmnF2U3Glk9wxa",
+         "playlist": true,
+         "channel": "舞秋風"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "n0222",
+     "kind": "series",
+     "title": "Undertale",
+     "origin": "ppt:52",
+     "children": [
+      {
+       "id": "n1a1a63035decxc",
+       "kind": "work",
+       "title": "Undertale",
+       "entries": [
+        {
+         "id": "e1a1a63035dc4lf",
+         "type": "music",
+         "segments": [
+          {
+           "text": "OST",
+           "url": "https://www.youtube.com/playlist?list=PLpJl5XaLHtLX-pDk4kctGxtF4nq6BIyjg",
+           "mark": "music"
+          },
+          {
+           "text": " ("
+          },
+          {
+           "text": "Wiki",
+           "url": "https://undertale.fandom.com/wiki/Category:Music"
+          },
+          {
+           "text": ")"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": "n1a1a63035e4my7",
+       "kind": "work",
+       "title": "Deltarune",
+       "entries": [
+        {
+         "id": "e1a1a63035e0nxf",
+         "type": "reference",
+         "segments": [
+          {
+           "text": "Chapter 1 Wiki",
+           "url": "https://deltarune.fandom.com/wiki/DELTARUNE_Chapter_1_OST"
+          },
+          {
+           "text": "、"
+          },
+          {
+           "text": "Chapter 2 Wiki",
+           "url": "https://deltarune.fandom.com/wiki/DELTARUNE_Chapter_2_OST"
+          }
+         ]
+        },
+        {
+         "id": "e1a1a63035e27gn",
+         "type": "music",
+         "segments": [
+          {
+           "text": "Chapter 1 OST",
+           "url": "https://www.youtube.com/playlist?list=OLAK5uy_lTzhIII4QNQ8oQDT-4okKVtmoQqdFBiMs",
+           "mark": "music"
+          },
+          {
+           "text": "（"
+          },
+          {
+           "text": "Track 13",
+           "url": "https://youtube.com/watch?v=PhhGEA_317w",
+           "mark": "music"
+          },
+          {
+           "text": "）、"
+          },
+          {
+           "text": "Chapter 2 OST",
+           "url": "https://www.youtube.com/playlist?list=OLAK5uy_kADMv-61zFDA5jOl2rTBQpqaa8celjh54",
+           "mark": "music"
+          }
+         ]
+        }
+       ]
+      }
+     ]
     }
    ],
    "origin": "ppt:52"
@@ -1941,28 +2835,22 @@
    "title": "2016-2020",
    "entries": [
     {
-     "id": "e0318",
+     "id": "e1a1a63035e7zoe",
      "type": "video",
      "segments": [
       {
-       "text": "("
-      },
-      {
-       "text": "舞秋風",
+       "text": "舞秋風實況",
        "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjtjnU8OwQB31hJdNwUyyqUP",
        "playlist": true,
        "channel": "舞秋風"
       },
       {
-       "text": ", "
+       "text": "、"
       },
       {
        "text": "厄難",
        "url": "https://www.bilibili.com/video/BV1ti421Y71D/?spm_id_from=333.1387.collection.video_card.click",
        "playlist": true
-      },
-      {
-       "text": ")"
       }
      ]
     }
@@ -1971,57 +2859,60 @@
     {
      "id": "n0224",
      "kind": "work",
-     "title": "911 Operator, 112 Operator",
-     "status": "played",
-     "origin": "ppt:53"
+     "title": "911 Operator",
+     "origin": "ppt:53",
+     "status": "played"
+    },
+    {
+     "id": "n1a1a63035e9t0o",
+     "kind": "work",
+     "title": "112 Operator",
+     "status": "played"
     },
     {
      "id": "n0225",
      "kind": "work",
      "title": "A Hat in Time",
      "origin": "ppt:53",
+     "links": [
+      {
+       "text": "A Hat in Time",
+       "url": "https://ahatintime.fandom.com/wiki/Soundtrack"
+      }
+     ],
      "entries": [
       {
-       "id": "emw0mykzpm9m",
+       "id": "e1a1a63035ebb5z",
        "type": "video",
        "segments": [
         {
-         "text": "A Hat in Time",
+         "text": "影片",
          "url": "https://www.youtube.com/watch?v=x3YVKIhd32c",
          "mark": "video"
         }
        ]
       },
       {
-       "id": "emw0n18vha9x",
+       "id": "e1a1a63035edffe",
        "type": "reference",
        "segments": [
         {
-         "text": "("
-        },
-        {
          "text": "Steam Achievements",
          "url": "https://steamcommunity.com/stats/253230/achievements"
-        },
-        {
-         "text": ")"
         }
        ]
       },
       {
-       "id": "emw0n7sbi1tk",
+       "id": "e1a1a63035efxdn",
        "type": "music",
        "segments": [
-        {
-         "text": "("
-        },
         {
          "text": "OST",
          "url": "https://www.youtube.com/playlist?list=OLAK5uy_n_GNYM9iyOsghyEEZTtLloDyLnEOqL-ME",
          "mark": "music"
         },
         {
-         "text": ", "
+         "text": "、"
         },
         {
          "text": "100% File Select",
@@ -2029,23 +2920,14 @@
          "mark": "music"
         },
         {
-         "text": ", "
+         "text": "、"
         },
         {
          "text": "Her Spaceship",
          "url": "https://www.youtube.com/watch?v=Je4PCeDsHik",
          "mark": "music"
-        },
-        {
-         "text": ".)"
         }
        ]
-      }
-     ],
-     "links": [
-      {
-       "text": "Wiki",
-       "url": "https://ahatintime.fandom.com/wiki/Soundtrack"
       }
      ]
     },
@@ -2053,44 +2935,50 @@
      "id": "n0232",
      "kind": "group",
      "title": "Cthulhu 相關遊戲",
+     "origin": "ppt:53",
      "children": [
       {
        "id": "n0233",
-       "kind": "group",
+       "kind": "work",
        "title": "The Sinking City",
-       "links": [
+       "origin": "ppt:53",
+       "entries": [
         {
-         "text": "The Sinking City",
-         "url": "https://www.bilibili.com/video/BV1Jx411o7aW/?spm_id_from=333.337.search-card.all.click",
-         "playlist": true
+         "id": "e1a1a63035f1ynx",
+         "type": "video",
+         "segments": [
+          {
+           "text": "影片",
+           "url": "https://www.bilibili.com/video/BV1Jx411o7aW/?spm_id_from=333.337.search-card.all.click",
+           "playlist": true
+          }
+         ]
         }
-       ],
-       "origin": "ppt:53"
+       ]
       }
-     ],
-     "origin": "ppt:53"
+     ]
     },
     {
      "id": "n0228",
-     "kind": "group",
+     "kind": "work",
      "title": "Bloons TD 6",
-     "status": "playing",
-     "origin": "ppt:53"
+     "origin": "ppt:53",
+     "status": "playing"
     },
     {
      "id": "n0229",
-     "kind": "group",
+     "kind": "work",
      "title": "Celeste",
      "origin": "ppt:53",
      "links": [
       {
-       "text": "Wiki",
+       "text": "Celeste",
        "url": "https://celestegame.fandom.com/wiki/Music"
       }
      ],
      "entries": [
       {
-       "id": "emw0ncfwd4ps",
+       "id": "e1a1a63035f345m",
        "type": "music",
        "segments": [
         {
@@ -2099,7 +2987,7 @@
          "mark": "music"
         },
         {
-         "text": ", "
+         "text": "、"
         },
         {
          "text": "B-Sides",
@@ -2107,15 +2995,12 @@
          "mark": "music"
         },
         {
-         "text": ", "
+         "text": "、"
         },
         {
          "text": "Farewell",
          "url": "https://www.youtube.com/playlist?list=PLczA8pMWxlsF00YJy-i_hZfDrTbUelQs0",
          "mark": "music"
-        },
-        {
-         "text": "."
         }
        ]
       }
@@ -2123,74 +3008,77 @@
     },
     {
      "id": "n0231",
-     "kind": "group",
+     "kind": "work",
      "title": "Castle Story",
+     "origin": "ppt:53",
      "entries": [
       {
-       "id": "e0315",
+       "id": "e1a1a63035f6v66",
        "type": "video",
        "segments": [
         {
          "text": "Trailer",
          "url": "https://www.youtube.com/watch?v=BMCWVvuza_s"
-        }
-       ]
-      },
-      {
-       "id": "emw0nes4uzup",
-       "type": "video",
-       "segments": [
+        },
         {
-         "text": "Castle Story",
+         "text": "、"
+        },
+        {
+         "text": "影片",
          "url": "https://www.youtube.com/playlist?list=PL1z5TtdeKIKe_0vU_LczBMI0idI8--jxP",
          "playlist": true
         }
        ]
       }
-     ],
-     "origin": "ppt:53"
+     ]
     },
     {
      "id": "n0234",
-     "kind": "group",
+     "kind": "work",
      "title": "Darkest Dungeon",
-     "links": [
+     "origin": "ppt:53",
+     "entries": [
       {
-       "text": "Darkest Dungeon",
-       "url": "https://www.bilibili.com/video/BV1hA411V7bK?spm_id_from=333.788.videopod.episodes",
-       "playlist": true
+       "id": "e1a1a63035f8wj9",
+       "type": "video",
+       "segments": [
+        {
+         "text": "影片",
+         "url": "https://www.bilibili.com/video/BV1hA411V7bK?spm_id_from=333.788.videopod.episodes",
+         "playlist": true
+        }
+       ]
       }
-     ],
-     "origin": "ppt:53"
+     ]
     },
     {
      "id": "n0235",
-     "kind": "group",
-     "title": "Hollow Knights",
+     "kind": "work",
+     "title": "Hollow Knight",
+     "origin": "ppt:53",
      "entries": [
       {
-       "id": "e0316",
+       "id": "e1a1a63035fap7o",
        "type": "music",
        "segments": [
+        {
+         "text": "OST、Gods & Nightmares",
+         "url": "https://www.youtube.com/watch?v=IWZktANV-D8",
+         "mark": "music"
+        },
+        {
+         "text": " ("
+        },
         {
          "text": "Wiki",
          "url": "https://hollowknight.fandom.com/wiki/Soundtrack_(Hollow_Knight)"
         },
         {
-         "text": " "
-        },
-        {
-         "text": "OST,Gods & Nightmares",
-         "url": "https://www.youtube.com/watch?v=IWZktANV-D8",
-         "mark": "music"
-        },
-        {
-         "text": "–"
+         "text": ")"
         }
        ]
       }
-     ],
-     "origin": "ppt:53"
+     ]
     },
     {
      "id": "n1a1a16f3551vbw",
@@ -2211,178 +3099,67 @@
    "id": "n0236",
    "kind": "category",
    "title": "2021-2025",
-   "entries": [
-    {
-     "id": "e0323",
-     "type": "video",
-     "segments": [
-      {
-       "text": "Aurum Blade",
-       "url": "https://www.youtube.com/playlist?list=PLYvcPu4lSVNz97p2h48_Rk1Fi7mR8oWbe",
-       "playlist": true
-      }
-     ]
-    },
-    {
-     "id": "e0324",
-     "type": "other",
-     "segments": [
-      {
-       "text": "Civilizations Wars"
-      }
-     ]
-    },
-    {
-     "id": "e0327",
-     "type": "other",
-     "segments": [
-      {
-       "text": "Earn to Die"
-      }
-     ]
-    },
-    {
-     "id": "e0328",
-     "type": "other",
-     "segments": [
-      {
-       "text": "Earth Taken"
-      }
-     ]
-    },
-    {
-     "id": "e0330",
-     "type": "other",
-     "segments": [
-      {
-       "text": "HOBO I, II, III, IV, V, Vi, VII"
-      }
-     ]
-    },
-    {
-     "id": "e0331",
-     "type": "other",
-     "segments": [
-      {
-       "text": "Incursion 2 The Artifact"
-      }
-     ]
-    },
-    {
-     "id": "e0332",
-     "type": "other",
-     "segments": [
-      {
-       "text": "Legend of the Void"
-      }
-     ]
-    },
-    {
-     "id": "e0337",
-     "type": "other",
-     "segments": [
-      {
-       "text": "Plazma Burst"
-      }
-     ]
-    },
-    {
-     "id": "e0338",
-     "type": "other",
-     "segments": [
-      {
-       "text": "Roar Rampage"
-      }
-     ]
-    },
-    {
-     "id": "e0339",
-     "type": "other",
-     "segments": [
-      {
-       "text": "Stick Wars"
-      }
-     ]
-    },
-    {
-     "id": "e0340",
-     "type": "other",
-     "segments": [
-      {
-       "text": "Strike Force Heroes"
-      }
-     ]
-    },
-    {
-     "id": "e0342",
-     "type": "other",
-     "segments": [
-      {
-       "text": "Warfare 1944"
-      }
-     ]
-    }
-   ],
    "origin": "ppt:54",
    "children": [
     {
-     "id": "n1a1a16f3551vdg",
-     "kind": "work",
-     "title": "Escape From Duckov",
-     "status": "playing"
-    },
-    {
-     "id": "n1a1a16f35519tc",
-     "kind": "work",
-     "title": "Sifu",
-     "status": "dropped"
-    },
-    {
-     "id": "n1a1a16f3551je9",
-     "kind": "work",
+     "id": "n1a1a630361ebbh",
+     "kind": "series",
      "title": "Age of War",
-     "status": "played",
-     "entries": [
+     "children": [
       {
-       "id": "e0322",
-       "segments": [
+       "id": "n1a1a16f3551je9",
+       "kind": "work",
+       "title": "Age of War",
+       "status": "played"
+      },
+      {
+       "id": "n1a1a6303617a20",
+       "kind": "work",
+       "title": "Age of War 2",
+       "status": "played"
+      },
+      {
+       "id": "n1a1a630361ce3c",
+       "kind": "work",
+       "title": "Army of Ages",
+       "status": "played",
+       "entries": [
         {
-         "text": "I",
-         "mark": "played"
-        },
-        {
-         "text": ", "
-        },
-        {
-         "text": "II",
-         "mark": "played"
-        },
-        {
-         "text": ", "
-        },
-        {
-         "text": "Army of Ages",
-         "mark": "played"
-        },
-        {
-         "text": "（"
-        },
-        {
-         "text": "補充",
-         "url": "https://www.bilibili.com/video/BV13M4y1j7kb/?spm_id_from=333.337.search-card.all.click"
-        },
-        {
-         "text": "）"
+         "id": "e1a1a630361a72g",
+         "type": "video",
+         "segments": [
+          {
+           "text": "補充影片",
+           "url": "https://www.bilibili.com/video/BV13M4y1j7kb/?spm_id_from=333.337.search-card.all.click"
+          }
+         ]
         }
        ]
       }
      ]
     },
     {
-     "id": "n1a1a16f3551ght",
+     "id": "n1a1a63035fehbv",
      "kind": "work",
-     "title": "Decision Legacy",
-     "status": "playing"
+     "title": "Aurum Blade",
+     "entries": [
+      {
+       "id": "e1a1a63035fcbm7",
+       "type": "video",
+       "segments": [
+        {
+         "text": "影片",
+         "url": "https://www.youtube.com/playlist?list=PLYvcPu4lSVNz97p2h48_Rk1Fi7mR8oWbe",
+         "playlist": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "n1a1a63036005ep",
+     "kind": "work",
+     "title": "Civilizations Wars"
     },
     {
      "id": "n1a1a16f35513t8",
@@ -2391,10 +3168,50 @@
      "status": "played"
     },
     {
+     "id": "n1a1a16f3551ght",
+     "kind": "work",
+     "title": "Decision Legacy",
+     "status": "playing"
+    },
+    {
+     "id": "n1a1a63036022n0",
+     "kind": "work",
+     "title": "Earn to Die"
+    },
+    {
+     "id": "n1a1a6303604zkk",
+     "kind": "work",
+     "title": "Earth Taken"
+    },
+    {
+     "id": "n1a1a16f3551vdg",
+     "kind": "work",
+     "title": "Escape From Duckov",
+     "status": "playing"
+    },
+    {
      "id": "n1a1a16f3551krd",
      "kind": "work",
      "title": "Frozen Islands",
      "status": "played"
+    },
+    {
+     "id": "n1a1a630360744b",
+     "kind": "work",
+     "title": "HOBO",
+     "notes": [
+      "I～VII"
+     ]
+    },
+    {
+     "id": "n1a1a6303609pal",
+     "kind": "work",
+     "title": "Incursion 2 The Artifact"
+    },
+    {
+     "id": "n1a1a630360bd21",
+     "kind": "work",
+     "title": "Legend of the Void"
     },
     {
      "id": "n1a1a16f3551fka",
@@ -2421,10 +3238,41 @@
      "status": "played"
     },
     {
+     "id": "n1a1a630360dphq",
+     "kind": "work",
+     "title": "Plazma Burst"
+    },
+    {
+     "id": "n1a1a630360f1dc",
+     "kind": "work",
+     "title": "Roar Rampage"
+    },
+    {
+     "id": "n1a1a16f35519tc",
+     "kind": "work",
+     "title": "Sifu",
+     "status": "dropped"
+    },
+    {
+     "id": "n1a1a6303611up3",
+     "kind": "work",
+     "title": "Stick Wars"
+    },
+    {
+     "id": "n1a1a63036137z5",
+     "kind": "work",
+     "title": "Strike Force Heroes"
+    },
+    {
      "id": "n1a1a16f3551r5i",
      "kind": "work",
      "title": "The Last Stand - Union City",
      "status": "played"
+    },
+    {
+     "id": "n1a1a6303615tu4",
+     "kind": "work",
+     "title": "Warfare 1944"
     },
     {
      "id": "n1a1a16f355119r",
