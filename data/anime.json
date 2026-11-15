@@ -13,11 +13,11 @@
      "url": "https://swordartonline.fandom.com/wiki/Sword_Art_Online_Wiki"
     },
     {
-     "text": "Wiki",
+     "text": "動畫Wiki",
      "url": "https://swordartonline.fandom.com/wiki/Sword_Art_Online_Anime_Mainpage"
     },
     {
-     "text": "劇場版Wiki",
+     "text": "動畫劇場版Wiki",
      "url": "https://zh.wikipedia.org/wiki/%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_(%E5%8B%95%E7%95%AB)#%E5%8A%87%E5%A0%B4%E7%89%88"
     }
    ],
@@ -27,364 +27,52 @@
      "type": "anime",
      "segments": [
       {
-       "text": "第一季 ("
-      },
-      {
-       "text": "巴哈",
+       "text": "第一季",
        "url": "https://ani.gamer.com.tw/animeVideo.php?sn=926",
        "mark": "anime"
       },
       {
-       "text": ")"
-      }
-     ]
-    },
-    {
-     "id": "e0345",
-     "type": "anime",
-     "segments": [
-      {
-       "text": "Extra Edition ("
-      },
-      {
-       "text": "巴哈",
-       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=1",
-       "mark": "anime"
-      },
-      {
-       "text": ")"
-      }
-     ]
-    },
-    {
-     "id": "e0346",
-     "type": "anime",
-     "segments": [
-      {
-       "text": "第二季 ("
-      },
-      {
-       "text": "巴哈",
-       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=903",
-       "mark": "anime"
-      },
-      {
-       "text": ")"
-      }
-     ],
-     "notes": [
-      "※巴哈不含第14.5集總集篇"
-     ]
-    },
-    {
-     "id": "e0347",
-     "type": "anime",
-     "segments": [
-      {
-       "text": "Sword Art Offline ("
-      },
-      {
-       "text": "Wiki",
-       "url": "https://swordartonline.fandom.com/wiki/Sword_Art_Online_Anime_Mainpage#Blu-ray_Bonus_Episodes"
-      },
-      {
        "text": ", "
       },
       {
-       "text": "Season1",
+       "text": "Offline",
        "url": "https://www.bilibili.com/video/BV1gx411W71f/",
        "mark": "anime"
       },
       {
+       "text": "、"
+      },
+      {
+       "text": "Extra Edition",
+       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=1",
+       "mark": "anime"
+      },
+      {
+       "text": "、"
+      },
+      {
+       "text": "第二季",
+       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=903",
+       "mark": "anime"
+      },
+      {
        "text": ", "
       },
       {
-       "text": "Season2",
+       "text": "Offline",
        "url": "https://www.bilibili.com/video/BV1Tx411x7Xb/?spm_id_from=333.788.recommend_more_video.1",
        "mark": "anime"
       },
       {
-       "text": ")"
-      }
-     ]
-    },
-    {
-     "id": "e0348",
-     "type": "anime",
-     "segments": [
-      {
-       "text": "劇場版：序列爭戰 ("
+       "text": "；"
       },
       {
-       "text": "巴哈",
-       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=9242",
-       "mark": "anime"
-      },
-      {
-       "text": ")"
-      }
-     ]
-    },
-    {
-     "id": "e0349",
-     "type": "anime",
-     "segments": [
-      {
-       "text": "Gun Gale Online ("
-      },
-      {
-       "text": "巴哈",
-       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=9684",
-       "mark": "anime"
-      },
-      {
-       "text": ")"
-      }
-     ]
-    },
-    {
-     "id": "e0350",
-     "type": "other",
-     "segments": [
-      {
-       "text": "Alicization"
-      }
-     ]
-    },
-    {
-     "id": "e0351",
-     "type": "anime",
-     "segments": [
-      {
-       "text": "Alicization ("
-      },
-      {
-       "text": "巴哈",
-       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=10849",
-       "mark": "anime"
-      },
-      {
-       "text": ")"
+       "text": "Offline Wiki",
+       "url": "https://swordartonline.fandom.com/wiki/Sword_Art_Online_Anime_Mainpage#Blu-ray_Bonus_Episodes"
       }
      ],
      "notes": [
-      "※巴哈含第18.5集總集篇"
-     ]
-    },
-    {
-     "id": "e0352",
-     "type": "anime",
-     "segments": [
-      {
-       "text": "War of Underworld ("
-      },
-      {
-       "text": "巴哈",
-       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=13805",
-       "mark": "anime"
-      },
-      {
-       "text": ")"
-      }
-     ],
-     "notes": [
-      "※巴哈含第24.5集總集篇"
-     ]
-    },
-    {
-     "id": "e0353",
-     "type": "anime",
-     "segments": [
-      {
-       "text": "War of Underworld -THE LAST SEASON- ("
-      },
-      {
-       "text": "巴哈",
-       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=16243",
-       "mark": "anime"
-      },
-      {
-       "text": ")"
-      }
-     ]
-    },
-    {
-     "id": "e0354",
-     "type": "anime",
-     "segments": [
-      {
-       "text": "劇場版："
-      }
-     ]
-    },
-    {
-     "id": "e0355",
-     "type": "anime",
-     "segments": [
-      {
-       "text": "－Progressive－無星夜的詠嘆調",
-       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=30988",
-       "mark": "anime"
-      }
-     ]
-    },
-    {
-     "id": "e0356",
-     "type": "anime",
-     "segments": [
-      {
-       "text": "－",
-       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=30988",
-       "mark": "anime"
-      },
-      {
-       "text": "P",
-       "mark": "anime"
-      },
-      {
-       "text": "rogressive",
-       "url": "https://myself-bbs.com/thread-49728-1-1.html",
-       "mark": "anime"
-      },
-      {
-       "text": "－",
-       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=30988",
-       "mark": "anime"
-      },
-      {
-       "text": "陰沉薄暮的詼諧曲",
-       "url": "https://myself-bbs.com/thread-49728-1-1.html",
-       "mark": "anime"
-      }
-     ]
-    },
-    {
-     "id": "e0357",
-     "type": "anime",
-     "segments": [
-      {
-       "text": "十周年紀念",
-       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=35849",
-       "mark": "anime"
-      }
-     ]
-    },
-    {
-     "id": "e0365",
-     "type": "other",
-     "segments": [
-      {
-       "text": "SAO the Movie -Ordinal Scale-"
-      }
-     ]
-    },
-    {
-     "id": "e0366",
-     "type": "music",
-     "segments": [
-      {
-       "text": "Theme Song Album",
-       "url": "https://soundcloud.com/user-370340344-147391052/soa-moviest-flac-catch-the-momentmerry-hurry-berryring-a-bellcatch-the-moment-instrumental",
-       "mark": "music"
-      },
-      {
-       "text": ", "
-      },
-      {
-       "text": "Original Soundtrack",
-       "url": "https://www.youtube.com/playlist?list=OLAK5uy_mPkpMD3lMYH5kap0KLVyUEgfjAl3gHYoM",
-       "mark": "music"
-      }
-     ]
-    },
-    {
-     "id": "e0367",
-     "type": "other",
-     "segments": [
-      {
-       "text": "Gun Gale Online"
-      }
-     ]
-    },
-    {
-     "id": "e0368",
-     "type": "music",
-     "segments": [
-      {
-       "text": "ED Album",
-       "url": "https://www.bilibili.com/video/BV1tp411f7vc/?spm_id_from=333.337.search-card.all.click",
-       "mark": "music"
-      },
-      {
-       "text": "、"
-      },
-      {
-       "text": "OP Album",
-       "url": "https://www.youtube.com/playlist?list=OLAK5uy_lKPQG6QYqMhj2NumvlqraoZtTMGzEeD6w",
-       "mark": "music"
-      },
-      {
-       "text": "、"
-      },
-      {
-       "text": "Elza’s Songs",
-       "url": "https://www.youtube.com/playlist?list=OLAK5uy_mCEanKig1u0yGny_th9asmeu20rNtF4Pc",
-       "mark": "music"
-      }
-     ]
-    },
-    {
-     "id": "e0369",
-     "type": "music",
-     "segments": [
-      {
-       "text": "Character Songs & OSTs: "
-      },
-      {
-       "text": "#1",
-       "url": "https://www.bilibili.com/video/BV1bs411H79A/?spm_id_from=333.337.search-card.all.click",
-       "mark": "music"
-      },
-      {
-       "text": "、"
-      },
-      {
-       "text": "#2",
-       "url": "https://www.youtube.com/watch?v=TKETdnkcVvc",
-       "mark": "music"
-      },
-      {
-       "text": "、"
-      },
-      {
-       "text": "#3",
-       "url": "https://www.bilibili.com/video/BV1pt411x7pR/?spm_id_from=333.337.search-card.all.click",
-       "mark": "music"
-      },
-      {
-       "text": "、"
-      },
-      {
-       "text": "#4",
-       "url": "https://www.bilibili.com/video/BV1Ht411x7tC/?spm_id_from=333.999.0.0",
-       "mark": "music"
-      },
-      {
-       "text": "、"
-      },
-      {
-       "text": "#5",
-       "url": "https://soundcloud.com/pink-devil_llenn/special-amore",
-       "mark": "music"
-      },
-      {
-       "text": "、"
-      },
-      {
-       "text": "#6",
-       "url": "https://soundcloud.com/pink-devil_llenn/ame-nochi-hare",
-       "mark": "music"
-      }
+      "※第二季不含第14.5集總集篇；Offline 指動畫 Blue-Ray Bonus 短篇: Sword Art Offline"
      ]
     },
     {
@@ -392,7 +80,7 @@
      "type": "music",
      "segments": [
       {
-       "text": "SAO OST Wiki: "
+       "text": "OST Wiki: "
       },
       {
        "text": "vol.1",
@@ -420,74 +108,12 @@
        "url": "https://swordartonline.fandom.com/wiki/Sword_Art_Online_II_Original_Soundtrack_vol.2"
       },
       {
-       "text": " SAO Music Collection: "
+       "text": "；"
       },
       {
-       "text": "vid.",
+       "text": "SAO Music Collection",
        "url": "https://www.youtube.com/playlist?list=OLAK5uy_lUOfmFBZVV_p8q_-9MKYt3qNCmN99f3mQ",
        "mark": "music"
-      }
-     ]
-    },
-    {
-     "id": "e0360",
-     "type": "music",
-     "segments": [
-      {
-       "text": "SAO Song Collection: "
-      },
-      {
-       "text": "Wiki",
-       "url": "https://swordartonline.fandom.com/wiki/Sword_Art_Online_Song_Collection"
-      }
-     ]
-    },
-    {
-     "id": "e0361",
-     "type": "music",
-     "segments": [
-      {
-       "text": "vid. (Track 1~11)",
-       "url": "https://www.youtube.com/playlist?list=PLBO2h-GzDvIbkkp-krzA65CBRNTilGdYM",
-       "mark": "music"
-      },
-      {
-       "text": ", (Track "
-      },
-      {
-       "text": "12",
-       "url": "https://swordartonline.fandom.com/wiki/Crossing_field#Song_",
-       "mark": "music"
-      },
-      {
-       "text": ", "
-      },
-      {
-       "text": "13",
-       "url": "https://swordartonline.fandom.com/wiki/Yume_Sekai",
-       "mark": "music"
-      },
-      {
-       "text": ","
-      },
-      {
-       "text": " "
-      },
-      {
-       "text": "14",
-       "url": "https://swordartonline.fandom.com/wiki/INNOCENCE",
-       "mark": "music"
-      },
-      {
-       "text": ", "
-      },
-      {
-       "text": "15",
-       "url": "https://swordartonline.fandom.com/wiki/Overfly",
-       "mark": "music"
-      },
-      {
-       "text": ")"
       }
      ]
     },
@@ -506,27 +132,68 @@
      ]
     },
     {
-     "id": "e0363",
+     "id": "e0360",
      "type": "music",
      "segments": [
       {
-       "text": "Sword Art Online Song Collection II: "
+       "text": "Song Collection: "
+      },
+      {
+       "text": "Wiki",
+       "url": "https://swordartonline.fandom.com/wiki/Sword_Art_Online_Song_Collection"
+      },
+      {
+       "text": "、"
+      },
+      {
+       "text": "Track 1~11",
+       "url": "https://www.youtube.com/playlist?list=PLBO2h-GzDvIbkkp-krzA65CBRNTilGdYM",
+       "mark": "music"
+      },
+      {
+       "text": ", "
+      },
+      {
+       "text": "12",
+       "url": "https://swordartonline.fandom.com/wiki/Crossing_field#Song_",
+       "mark": "music"
+      },
+      {
+       "text": ", "
+      },
+      {
+       "text": "13",
+       "url": "https://swordartonline.fandom.com/wiki/Yume_Sekai",
+       "mark": "music"
+      },
+      {
+       "text": ", "
+      },
+      {
+       "text": "14",
+       "url": "https://swordartonline.fandom.com/wiki/INNOCENCE",
+       "mark": "music"
+      },
+      {
+       "text": ", "
+      },
+      {
+       "text": "15",
+       "url": "https://swordartonline.fandom.com/wiki/Overfly",
+       "mark": "music"
+      },
+      {
+       "text": "；Song Collection II: "
       },
       {
        "text": "Wiki",
        "url": "https://swordartonline.fandom.com/wiki/Sword_Art_Online_Song_Collection_II"
-      }
-     ]
-    },
-    {
-     "id": "e0364",
-     "type": "music",
-     "segments": [
-      {
-       "text": "vid. (Track "
       },
       {
-       "text": "1~10",
+       "text": "、"
+      },
+      {
+       "text": "Track 1~10",
        "url": "https://www.youtube.com/playlist?list=PLBO2h-GzDvIY0jKzMpWymT7EO9--wcVlN",
        "mark": "music"
       },
@@ -593,16 +260,206 @@
        "text": "18",
        "url": "https://www.youtube.com/watch?v=wRiDUXe9n-s",
        "mark": "music"
+      }
+     ]
+    },
+    {
+     "id": "e0351",
+     "type": "anime",
+     "segments": [
+      {
+       "text": "Alicization",
+       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=10849",
+       "mark": "anime"
+      },
+      {
+       "text": "、"
+      },
+      {
+       "text": "War of Underworld",
+       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=13805",
+       "mark": "anime"
+      },
+      {
+       "text": "、"
+      },
+      {
+       "text": "War of Underworld -THE LAST SEASON-",
+       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=16243",
+       "mark": "anime"
+      }
+     ],
+     "notes": [
+      "※巴哈含各季總集篇"
+     ]
+    },
+    {
+     "id": "e0348",
+     "type": "anime",
+     "segments": [
+      {
+       "text": "劇場版："
+      },
+      {
+       "text": "序列爭戰",
+       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=9242",
+       "mark": "anime"
+      },
+      {
+       "text": "、劇場版："
+      },
+      {
+       "text": "－Progressive－無星夜的詠嘆調",
+       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=30988",
+       "mark": "anime"
+      },
+      {
+       "text": "、劇場版："
+      },
+      {
+       "text": "－Progressive－ 陰沉薄暮的詼諧曲",
+       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=33945",
+       "mark": "anime"
+      }
+     ]
+    },
+    {
+     "id": "e0366",
+     "type": "music",
+     "segments": [
+      {
+       "text": "序列爭戰 "
+      },
+      {
+       "text": "Theme Song Album",
+       "url": "https://soundcloud.com/user-370340344-147391052/soa-moviest-flac-catch-the-momentmerry-hurry-berryring-a-bellcatch-the-moment-instrumental",
+       "mark": "music"
+      },
+      {
+       "text": ", "
+      },
+      {
+       "text": "OST",
+       "url": "https://www.youtube.com/playlist?list=OLAK5uy_mPkpMD3lMYH5kap0KLVyUEgfjAl3gHYoM",
+       "mark": "music"
+      }
+     ]
+    },
+    {
+     "id": "e0349",
+     "type": "anime",
+     "segments": [
+      {
+       "text": "SAO 外傳: Gun Gale Online ("
+      },
+      {
+       "text": "第一季",
+       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=9684",
+       "mark": "anime"
       },
       {
        "text": ")"
       }
      ]
+    },
+    {
+     "id": "e0368",
+     "type": "music",
+     "segments": [
+      {
+       "text": "GGO "
+      },
+      {
+       "text": "ED Album",
+       "url": "https://www.bilibili.com/video/BV1tp411f7vc/?spm_id_from=333.337.search-card.all.click",
+       "mark": "music"
+      },
+      {
+       "text": "、"
+      },
+      {
+       "text": "OP Album",
+       "url": "https://www.youtube.com/playlist?list=OLAK5uy_lKPQG6QYqMhj2NumvlqraoZtTMGzEeD6w",
+       "mark": "music"
+      },
+      {
+       "text": "、"
+      },
+      {
+       "text": "Elza’s Songs",
+       "url": "https://www.youtube.com/playlist?list=OLAK5uy_mCEanKig1u0yGny_th9asmeu20rNtF4Pc",
+       "mark": "music"
+      }
+     ]
+    },
+    {
+     "id": "e0357",
+     "type": "video",
+     "segments": [
+      {
+       "text": "十周年紀念特別錄製",
+       "url": "https://www.bilibili.com/video/BV1WB4y1d79b",
+       "mark": "video"
+      }
+     ]
+    },
+    {
+     "id": "e0369",
+     "type": "music",
+     "segments": [
+      {
+       "text": "Character Songs & OSTs: "
+      },
+      {
+       "text": "#1",
+       "url": "https://www.bilibili.com/video/BV1bs411H79A/?spm_id_from=333.337.search-card.all.click",
+       "mark": "music"
+      },
+      {
+       "text": "、"
+      },
+      {
+       "text": "#2",
+       "url": "https://www.youtube.com/watch?v=TKETdnkcVvc",
+       "mark": "music"
+      },
+      {
+       "text": "、"
+      },
+      {
+       "text": "#3",
+       "url": "https://www.bilibili.com/video/BV1pt411x7pR/?spm_id_from=333.337.search-card.all.click",
+       "mark": "music"
+      },
+      {
+       "text": "、"
+      },
+      {
+       "text": "#4",
+       "url": "https://www.bilibili.com/video/BV1Ht411x7tC/?spm_id_from=333.999.0.0",
+       "mark": "music"
+      },
+      {
+       "text": "、"
+      },
+      {
+       "text": "#5",
+       "url": "https://soundcloud.com/pink-devil_llenn/special-amore",
+       "mark": "music"
+      },
+      {
+       "text": "、"
+      },
+      {
+       "text": "#6",
+       "url": "https://soundcloud.com/pink-devil_llenn/ame-nochi-hare",
+       "mark": "music"
+      }
+     ],
+     "notes": [
+      "※#2, 5, 6 Album Instrumental ver. Missing"
+     ]
     }
-   ],
-   "notes": [
-    "※巴哈含第36.5集總集篇",
-    "※#2, 5, 6 Album Instrumental ver. Missing"
    ],
    "source": "light-novel",
    "origin": "ppt:58"
