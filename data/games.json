@@ -1972,7 +1972,7 @@
            "type": "video",
            "segments": [
             {
-             "text": "影片",
+             "text": "Playthrough",
              "url": "https://www.youtube.com/watch?v=kdICR49vbvg",
              "mark": "video"
             }
@@ -1993,8 +1993,9 @@
          "type": "video",
          "segments": [
           {
-           "text": "影片",
-           "url": "https://www.youtube.com/watch?v=P7CdqiHHPpQ"
+           "text": "Walkthrough",
+           "url": "https://www.youtube.com/watch?v=P7CdqiHHPpQ",
+           "mark": "video"
           }
          ]
         }
@@ -2011,8 +2012,9 @@
          "type": "video",
          "segments": [
           {
-           "text": "播放清單",
+           "text": "Ace Attorney 1~3 Walkthrough",
            "url": "https://www.youtube.com/playlist?list=PLwFY2FRIQ7pfiWtKDjpLHC9m5pYyjFA5e",
+           "playlist": true,
            "mark": "video"
           }
          ]
@@ -2233,8 +2235,9 @@
            "type": "video",
            "segments": [
             {
-             "text": "影片",
-             "url": "https://www.youtube.com/watch?v=hkD3lEANa_4"
+             "text": "Playthrough",
+             "url": "https://www.youtube.com/watch?v=hkD3lEANa_4",
+             "mark": "video"
             }
            ]
           }
@@ -2250,8 +2253,9 @@
            "type": "video",
            "segments": [
             {
-             "text": "影片",
-             "url": "https://www.youtube.com/watch?v=CWZZUyD-nRs"
+             "text": "Playthrough",
+             "url": "https://www.youtube.com/watch?v=CWZZUyD-nRs",
+             "mark": "video"
             }
            ]
           }
@@ -2267,8 +2271,9 @@
            "type": "video",
            "segments": [
             {
-             "text": "影片",
-             "url": "https://www.youtube.com/watch?v=POAz4qmw_So&pp=ygUKbWVnYSBtYW4gMw%3D%3D"
+             "text": "Playthrough",
+             "url": "https://www.youtube.com/watch?v=POAz4qmw_So&pp=ygUKbWVnYSBtYW4gMw%3D%3D",
+             "mark": "video"
             }
            ]
           }
@@ -2284,8 +2289,9 @@
            "type": "video",
            "segments": [
             {
-             "text": "影片",
-             "url": "https://www.youtube.com/watch?v=vDtfGryOlrg&pp=ygUKbWVnYSBtYW4gNA%3D%3D"
+             "text": "Playthrough",
+             "url": "https://www.youtube.com/watch?v=vDtfGryOlrg&pp=ygUKbWVnYSBtYW4gNA%3D%3D",
+             "mark": "video"
             }
            ]
           }
@@ -2301,8 +2307,9 @@
            "type": "video",
            "segments": [
             {
-             "text": "影片",
-             "url": "https://www.youtube.com/watch?v=F0pYojR9Xf8&pp=ygUKbWVnYSBtYW4gNQ%3D%3D"
+             "text": "Playthrough",
+             "url": "https://www.youtube.com/watch?v=F0pYojR9Xf8&pp=ygUKbWVnYSBtYW4gNQ%3D%3D",
+             "mark": "video"
             }
            ]
           }
@@ -2329,7 +2336,8 @@
              "text": "舞秋風實況",
              "url": "https://www.youtube.com/playlist?list=PLpfAxniIs1Lbu26mFa_Yvhu3y6rEhUc4-",
              "playlist": true,
-             "channel": "舞秋風"
+             "channel": "舞秋風",
+             "mark": "video"
             }
            ]
           },
@@ -2401,8 +2409,9 @@
            "type": "video",
            "segments": [
             {
-             "text": "影片",
+             "text": "全流程",
              "url": "https://www.bilibili.com/video/BV1j4411Z7f8/?spm_id_from=333.337.search-card.all.click",
+             "mark": "video",
              "playlist": true
             }
            ]
@@ -2441,15 +2450,16 @@
         {
          "id": "n1a1a62e0ffeoom",
          "kind": "work",
-         "title": "Monster Hunter G",
+         "title": "Monster Hunter",
          "entries": [
           {
            "id": "e1a1a62e0ffc9e5",
            "type": "video",
            "segments": [
             {
-             "text": "影片",
+             "text": "Walkthrough (G版)",
              "url": "https://www.bilibili.com/video/BV1SA411E7cc/?spm_id_from=333.337.search-card.all.click",
+             "mark": "video",
              "playlist": true
             }
            ]
@@ -2473,15 +2483,17 @@
         {
          "id": "n1a1a62e10212fu",
          "kind": "work",
-         "title": "Resident Evil HD Remaster",
+         "title": "Resident Evil 1",
          "entries": [
           {
            "id": "e1a1a62e101frxo",
            "type": "video",
            "segments": [
             {
-             "text": "影片",
-             "url": "https://www.bilibili.com/video/BV1K4411z7XT?spm_id_from=333.788.videopod.episodes"
+             "text": "全流程 (HD Remaster)",
+             "url": "https://www.bilibili.com/video/BV1K4411z7XT?spm_id_from=333.788.videopod.episodes",
+             "mark": "video",
+             "playlist": true
             }
            ]
           }
@@ -2500,7 +2512,8 @@
          "segments": [
           {
            "text": "Evolution 1987–2023",
-           "url": "https://www.youtube.com/watch?v=cTkr3Gc4StA"
+           "url": "https://www.youtube.com/watch?v=cTkr3Gc4StA",
+           "mark": "video"
           }
          ]
         }
@@ -2530,8 +2543,9 @@
            "type": "video",
            "segments": [
             {
-             "text": "影片",
-             "url": "https://www.youtube.com/watch?v=5r60hGcc8sw"
+             "text": "Playthrough",
+             "url": "https://www.youtube.com/watch?v=5r60hGcc8sw",
+             "mark": "video"
             }
            ]
           }
@@ -2547,7 +2561,7 @@
            "type": "video",
            "segments": [
             {
-             "text": "影片",
+             "text": "Full Game Speedrun",
              "url": "https://www.youtube.com/watch?v=EfnA9NSwq_M&pp=ygUXeGFuYWR1IGRyYWdvbiBzbGF5ZXIgaWk%3D",
              "mark": "video"
             }
@@ -2570,7 +2584,7 @@
              "type": "video",
              "segments": [
               {
-               "text": "影片",
+               "text": "Walkthrough",
                "url": "https://www.youtube.com/watch?v=HutD8ZXZucY",
                "mark": "video"
               }
@@ -2588,7 +2602,7 @@
              "type": "video",
              "segments": [
               {
-               "text": "影片",
+               "text": "Walkthrough",
                "url": "https://www.youtube.com/playlist?list=PLenb9qRetQ0adIoAy2gpsKnc8ucvWb4MQ",
                "mark": "video",
                "playlist": true
@@ -2607,7 +2621,7 @@
              "type": "video",
              "segments": [
               {
-               "text": "影片",
+               "text": "全流程",
                "url": "https://www.bilibili.com/video/BV1ox411D76C/?spm_id_from=333.337.search-card.all.click",
                "mark": "video",
                "playlist": true
@@ -2628,7 +2642,7 @@
            "type": "video",
            "segments": [
             {
-             "text": "影片",
+             "text": "Full Game Speedrun",
              "url": "https://www.bilibili.com/video/BV1X64y1e7SC/?spm_id_from=333.337.search-card.all.click",
              "mark": "video"
             }
@@ -2646,7 +2660,7 @@
            "type": "video",
            "segments": [
             {
-             "text": "影片",
+             "text": "Playthrough",
              "url": "https://www.youtube.com/watch?v=Y_yWLyQb19Q",
              "mark": "video"
             }
@@ -2661,11 +2675,12 @@
          "entries": [
           {
            "id": "e1a1a62e1052ovi",
-           "type": "video",
+           "type": "trivia",
            "segments": [
             {
-             "text": "影片",
-             "url": "https://www.youtube.com/watch?v=uDn-Izhs3Xo"
+             "text": "遊戲介紹",
+             "url": "https://www.youtube.com/watch?v=uDn-Izhs3Xo",
+             "mark": "video"
             }
            ]
           }
@@ -2681,7 +2696,7 @@
            "type": "video",
            "segments": [
             {
-             "text": "影片",
+             "text": "Playthrough",
              "url": "https://www.youtube.com/playlist?list=PLE1SGNFiFUlCvhfgF7tWP12fztTQkCP4C",
              "mark": "video",
              "playlist": true
@@ -2701,7 +2716,8 @@
            "segments": [
             {
              "text": "OST",
-             "url": "https://www.youtube.com/watch?v=vLaGqXuQn2Y"
+             "url": "https://www.youtube.com/watch?v=vLaGqXuQn2Y",
+             "mark": "music"
             }
            ]
           }
@@ -2717,7 +2733,7 @@
              "type": "video",
              "segments": [
               {
-               "text": "影片",
+               "text": "Walkthrough (Youtube 頻道內關鍵字查詢)",
                "url": "https://www.youtube.com/@fedaeltw/search?query=%E9%A2%A8%E4%B9%8B%E5%82%B3%E8%AA%AA%5BPCE%5D",
                "mark": "video",
                "playlist": true
@@ -2736,7 +2752,7 @@
              "type": "video",
              "segments": [
               {
-               "text": "影片",
+               "text": "Walkthrough",
                "url": "https://www.bilibili.com/video/BV14t411F7Z7/?spm_id_from=333.337.search-card.all.click",
                "mark": "video",
                "playlist": true
@@ -6923,14 +6939,6 @@
            ]
           },
           {
-           "id": "e0193",
-           "segments": [
-            {
-             "text": "狂亂之境3 (1.8.8) [CTM Map] (自由參觀)"
-            }
-           ]
-          },
-          {
            "id": "e0194",
            "segments": [
             {
@@ -7044,7 +7052,7 @@
              "text": "Ragecraft III - The Prophecy (1.8.8) ("
             },
             {
-             "text": "walkthrough",
+             "text": "walkthrough (b站頻道內關鍵字搜尋)",
              "url": "https://space.bilibili.com/zh-Hant/680447/search?keyword=%E7%8B%82%E4%B9%B1%E4%B9%8B%E5%A2%833",
              "mark": "video",
              "playlist": true
