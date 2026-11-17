@@ -2796,8 +2796,9 @@
            "type": "lore",
            "segments": [
             {
-             "text": "劇情解說",
-             "url": "https://www.bilibili.com/video/BV1qdPje5EWu/?spm_id_from=333.337.search-card.all.click"
+             "text": "遊戲解說",
+             "url": "https://www.bilibili.com/video/BV1qdPje5EWu/?spm_id_from=333.337.search-card.all.click",
+             "mark": "video"
             }
            ]
           }
@@ -2825,7 +2826,8 @@
          "segments": [
           {
            "text": "Evolution 1986–2009",
-           "url": "https://www.youtube.com/watch?v=9UiWLEsODdQ"
+           "url": "https://www.youtube.com/watch?v=9UiWLEsODdQ",
+           "mark": "video"
           }
          ]
         }
@@ -2838,11 +2840,12 @@
          "entries": [
           {
            "id": "e1a1a62e109a405",
-           "type": "video",
+           "type": "trivia",
            "segments": [
             {
-             "text": "影片",
-             "url": "https://www.bilibili.com/video/BV1Bpr5YUEnt/?spm_id_from=333.1387.upload.video_card.click"
+             "text": "遊戲解說",
+             "url": "https://www.bilibili.com/video/BV1Bpr5YUEnt/?spm_id_from=333.1387.upload.video_card.click",
+             "mark": "video"
             }
            ]
           }
@@ -2861,15 +2864,15 @@
        "id": "n1a1a62e1078eli",
        "kind": "work",
        "title": "Kung-Fu Master",
-       "status": "played",
        "entries": [
         {
          "id": "e1a1a62e1075lh9",
          "type": "video",
          "segments": [
           {
-           "text": "影片",
-           "url": "https://www.youtube.com/watch?v=EgO4HtWIJjQ&pp=ygUYa3VuZyBmdSBtYXN0ZXIgZ2FtZSAxOTg0"
+           "text": "Walkthrough",
+           "url": "https://www.youtube.com/watch?v=EgO4HtWIJjQ&pp=ygUYa3VuZyBmdSBtYXN0ZXIgZ2FtZSAxOTg0",
+           "mark": "video"
           }
          ]
         }
@@ -2893,8 +2896,9 @@
          "type": "video",
          "segments": [
           {
-           "text": "影片",
-           "url": "https://www.youtube.com/watch?v=XFMw0p_Co6Y"
+           "text": "Walkthrough",
+           "url": "https://www.youtube.com/watch?v=XFMw0p_Co6Y",
+           "mark": "video"
           }
          ]
         },
@@ -2904,7 +2908,8 @@
          "segments": [
           {
            "text": "OST",
-           "url": "https://www.youtube.com/watch?v=cU5oekU-764"
+           "url": "https://www.youtube.com/watch?v=cU5oekU-764",
+           "mark": "music"
           }
          ]
         }
@@ -2935,14 +2940,16 @@
            "segments": [
             {
              "text": "Walkthrough",
-             "url": "https://www.youtube.com/watch?v=MFvtcdo3co0"
+             "url": "https://www.youtube.com/watch?v=MFvtcdo3co0",
+             "mark": "video"
             },
             {
              "text": "、"
             },
             {
              "text": "All Endings",
-             "url": "https://www.youtube.com/watch?v=eD8AZgzLNH4"
+             "url": "https://www.youtube.com/watch?v=eD8AZgzLNH4",
+             "mark": "video"
             }
            ]
           },
@@ -2952,7 +2959,8 @@
            "segments": [
             {
              "text": "劇情解說",
-             "url": "https://www.bilibili.com/video/BV1AE411s7PA/?spm_id_from=333.337.search-card.all.click"
+             "url": "https://www.bilibili.com/video/BV1AE411s7PA/?spm_id_from=333.337.search-card.all.click",
+             "mark": "video"
             }
            ]
           }
@@ -2971,7 +2979,7 @@
          "type": "video",
          "segments": [
           {
-           "text": "Arcade 版",
+           "text": "Arcade Playthrough",
            "url": "https://www.youtube.com/watch?v=XqaS5WA3IsA",
            "mark": "video"
           },
@@ -2979,7 +2987,7 @@
            "text": "、"
           },
           {
-           "text": "NES 版",
+           "text": "NES Playthrough",
            "url": "https://www.youtube.com/watch?v=ueeKMQSS4bw",
            "mark": "video"
           }
@@ -3018,13 +3026,18 @@
        "id": "n1a1a62e10661it",
        "kind": "work",
        "title": "臥龍：蒼天殞落",
-       "links": [
-        {
-         "text": "臥龍 蒼天殞落",
-         "url": "https://www.youtube.com/watch?v=9PphqSFRDPI"
-        }
-       ],
        "entries": [
+        {
+         "id": "emwkqwmlk8r9",
+         "type": "video",
+         "segments": [
+          {
+           "text": "Full Walkthrough",
+           "url": "https://www.youtube.com/watch?v=9PphqSFRDPI",
+           "mark": "video"
+          }
+         ]
+        },
         {
          "id": "e1a1a62e1062srg",
          "type": "music",
@@ -3072,7 +3085,7 @@
            "type": "video",
            "segments": [
             {
-             "text": "影片",
+             "text": "Walkthrough",
              "url": "https://www.youtube.com/watch?v=mOTUVXrAOE8",
              "mark": "video"
             }
@@ -3098,7 +3111,7 @@
            "type": "video",
            "segments": [
             {
-             "text": "影片",
+             "text": "Walkthrough",
              "url": "https://www.youtube.com/watch?v=Wmpi64_RpnE",
              "mark": "video"
             }
@@ -3131,8 +3144,9 @@
            "type": "video",
            "segments": [
             {
-             "text": "影片",
-             "url": "https://www.youtube.com/watch?v=ehlAMTh42Ko&pp=ygUPbWV0YWwgZ2VhciAxOTg3"
+             "text": "Walkthrough",
+             "url": "https://www.youtube.com/watch?v=ehlAMTh42Ko&pp=ygUPbWV0YWwgZ2VhciAxOTg3",
+             "mark": "video"
             }
            ]
           }
@@ -3155,8 +3169,9 @@
            "type": "video",
            "segments": [
             {
-             "text": "影片",
-             "url": "https://www.youtube.com/watch?v=93Oc5CljxHE"
+             "text": "Walkthrough",
+             "url": "https://www.youtube.com/watch?v=93Oc5CljxHE",
+             "mark": "video"
             }
            ]
           }
@@ -3193,8 +3208,9 @@
              "type": "video",
              "segments": [
               {
-               "text": "影片",
-               "url": "https://www.youtube.com/watch?v=Q046OW4xdvc"
+               "text": "Walkthrough",
+               "url": "https://www.youtube.com/watch?v=Q046OW4xdvc",
+               "mark": "video"
               }
              ]
             }
@@ -3210,8 +3226,9 @@
              "type": "video",
              "segments": [
               {
-               "text": "影片",
-               "url": "https://www.youtube.com/watch?v=29VVkfuXkVI"
+               "text": "Walkthrough",
+               "url": "https://www.youtube.com/watch?v=29VVkfuXkVI",
+               "mark": "video"
               }
              ]
             }
@@ -3227,9 +3244,10 @@
          "links": [
           {
            "text": "Pac-Man",
-           "url": "https://g.co/kgs/Gaq2Y2h"
+           "url": "https://www.google.com/search?q=pac+man&sca_esv=875ab3efbf6e41f3&hl=zh-Hant-TW&sxsrf=AKL5yDiMbUTs96fRRAO9LT0EVIB-OzFYhw%3A1794923665912&ei=kVz8aummN8jj2roPotDSiAk&biw=1193&bih=676&ved=2ahUKEwips4Xck4-YAxXIsVYBHSKoFJEQ4dUDegQIBhAM&uact=5&oq=pac+man&gs_lp=Egxnd3Mtd2l6LXNlcnAiB3BhYyBtYW4yBRAuGIAEMgoQABiABBiKBRhDMgUQABiABDIFEAAYgAQyBRAuGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyFBAuGIAEGJcFGNwEGN4EGOAE2AEBSK4WUOcKWO8TcAF4AJABAJgBM6ABsAKqAQE3uAEDyAEA-AEBmAIHoALLAqgCAMICERAuGIAEGLEDGIMBGMcBGNEDwgILEAAYgAQYsQMYgwHCAiAQLhiABBixAxiDARjHARjRAxiXBRjcBBjeBBjgBNgBAcICChAuGIAEGIoFGEPCAg4QLhiABBixAxjHARjRA8ICCBAAGIAEGLEDwgIQEC4YgAQYigUYQxixAxiDAcICGRAuGIAEGIoFGEMYlwUY3AQY3gQY4ATYAQHCAgsQLhiABBixAxiDAcICCBAAGIAEGLQHwgIaEC4YgAQYsQMYgwEYlwUY3AQY3gQY4ATYAQGYAwHxBf_wBHvztukVugYGCAEQARgUkgcBN6AHvDGyBwE3uAfLAsIHBTAuNS4yyAcTgAgB&sclient=gws-wiz-serp"
           }
-         ]
+         ],
+         "status": "played"
         }
        ],
        "origin": "ppt:21"
@@ -3255,8 +3273,9 @@
              "type": "video",
              "segments": [
               {
-               "text": "影片",
-               "url": "https://www.youtube.com/watch?v=xgebvIXcqbs"
+               "text": "Walkthrough",
+               "url": "https://www.youtube.com/watch?v=xgebvIXcqbs",
+               "mark": "video"
               }
              ]
             }
@@ -3283,11 +3302,12 @@
        "entries": [
         {
          "id": "e1a1a62e10a1h7i",
-         "type": "video",
+         "type": "trivia",
          "segments": [
           {
-           "text": "影片",
-           "url": "https://www.youtube.com/watch?v=Z6PESYjuNHs"
+           "text": "遊戲介紹",
+           "url": "https://www.youtube.com/watch?v=Z6PESYjuNHs",
+           "mark": "video"
           }
          ]
         }
@@ -3315,8 +3335,9 @@
            "type": "video",
            "segments": [
             {
-             "text": "影片",
-             "url": "https://www.youtube.com/watch?v=hGt_c2w7C_E"
+             "text": "Walkthrough",
+             "url": "https://www.youtube.com/watch?v=hGt_c2w7C_E",
+             "mark": "video"
             }
            ]
           }
@@ -3332,8 +3353,9 @@
            "type": "video",
            "segments": [
             {
-             "text": "影片",
-             "url": "https://www.youtube.com/watch?v=AN_DjirV2Gc"
+             "text": "Walkthrough",
+             "url": "https://www.youtube.com/watch?v=AN_DjirV2Gc",
+             "mark": "video"
             }
            ]
           }
@@ -3349,8 +3371,9 @@
            "type": "video",
            "segments": [
             {
-             "text": "影片",
-             "url": "https://www.youtube.com/watch?v=xWlOr2Lqlec"
+             "text": "Walkthrough",
+             "url": "https://www.youtube.com/watch?v=xWlOr2Lqlec",
+             "mark": "video"
             }
            ]
           }
@@ -3370,7 +3393,8 @@
          "segments": [
           {
            "text": "2D 馬莉歐雜談",
-           "url": "https://www.bilibili.com/video/BV13y8EzcEeY/?spm_id_from=333.1387.upload.video_card.click"
+           "url": "https://www.bilibili.com/video/BV13y8EzcEeY/?spm_id_from=333.1387.upload.video_card.click",
+           "mark": "video"
           }
          ]
         }
@@ -3392,7 +3416,7 @@
              "type": "video",
              "segments": [
               {
-               "text": "影片",
+               "text": "Gameplay",
                "url": "https://www.youtube.com/watch?v=JHlUEJXaxfY",
                "mark": "video"
               }
@@ -3409,186 +3433,205 @@
          "origin": "ppt:23",
          "children": [
           {
-           "id": "n1a1a62e10b8jur",
-           "kind": "work",
+           "id": "nmwkrzbzb1pe",
+           "kind": "subseries",
            "title": "Super Mario Bros.",
-           "entries": [
+           "children": [
             {
-             "id": "e1a1a62e10b4tea",
-             "type": "video",
-             "segments": [
+             "id": "n1a1a62e10b8jur",
+             "kind": "work",
+             "title": "Super Mario Bros.",
+             "entries": [
               {
-               "text": "影片",
-               "url": "https://www.youtube.com/watch?v=rLl9XBg7wSs",
-               "mark": "video"
-              }
-             ]
-            },
-            {
-             "id": "e1a1a62e10b6rqo",
-             "type": "music",
-             "segments": [
-              {
-               "text": "OST",
-               "url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-bros",
-               "mark": "music"
-              }
-             ]
-            }
-           ]
-          },
-          {
-           "id": "n1a1a62e10bd58z",
-           "kind": "work",
-           "title": "Super Mario Bros.: The Lost Levels",
-           "entries": [
-            {
-             "id": "e1a1a62e10bariw",
-             "type": "video",
-             "segments": [
-              {
-               "text": "影片",
-               "url": "https://www.youtube.com/watch?v=5apu4ML9Wto",
-               "mark": "video"
+               "id": "e1a1a62e10b4tea",
+               "type": "video",
+               "segments": [
+                {
+                 "text": "Walkthrough",
+                 "url": "https://www.youtube.com/watch?v=rLl9XBg7wSs",
+                 "mark": "video"
+                }
+               ]
               },
               {
-               "text": "、"
+               "id": "e1a1a62e10b6rqo",
+               "type": "music",
+               "segments": [
+                {
+                 "text": "OST",
+                 "url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-bros",
+                 "mark": "music"
+                }
+               ]
+              }
+             ]
+            },
+            {
+             "id": "n1a1a62e10bd58z",
+             "kind": "work",
+             "title": "Super Mario Bros.: The Lost Levels",
+             "entries": [
+              {
+               "id": "e1a1a62e10bariw",
+               "type": "video",
+               "segments": [
+                {
+                 "text": "Walkthrough",
+                 "url": "https://www.youtube.com/watch?v=5apu4ML9Wto",
+                 "mark": "video"
+                },
+                {
+                 "text": "、"
+                },
+                {
+                 "text": "娛樂導向介紹",
+                 "url": "https://www.youtube.com/watch?v=mFJTys1HgXo",
+                 "mark": "video"
+                }
+               ]
+              }
+             ]
+            },
+            {
+             "id": "n1a1a62e10c37bx",
+             "kind": "work",
+             "title": "Super Mario Bros. 2",
+             "entries": [
+              {
+               "id": "e1a1a62e10bf1k0",
+               "type": "video",
+               "segments": [
+                {
+                 "text": "Walkthrough",
+                 "url": "https://www.youtube.com/watch?v=tFPoNZoFBXM",
+                 "mark": "video"
+                }
+               ]
               },
               {
-               "text": "補充影片",
-               "url": "https://www.youtube.com/watch?v=mFJTys1HgXo"
-              }
-             ]
-            }
-           ]
-          },
-          {
-           "id": "n1a1a62e10c37bx",
-           "kind": "work",
-           "title": "Super Mario Bros. 2",
-           "entries": [
-            {
-             "id": "e1a1a62e10bf1k0",
-             "type": "video",
-             "segments": [
-              {
-               "text": "影片",
-               "url": "https://www.youtube.com/watch?v=tFPoNZoFBXM",
-               "mark": "video"
+               "id": "e1a1a62e10c1zq0",
+               "type": "music",
+               "segments": [
+                {
+                 "text": "OST",
+                 "url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-bros-2",
+                 "mark": "music"
+                }
+               ]
               }
              ]
             },
             {
-             "id": "e1a1a62e10c1zq0",
-             "type": "music",
-             "segments": [
+             "id": "n1a1a62e10c9irc",
+             "kind": "work",
+             "title": "Super Mario Bros. 3",
+             "entries": [
               {
-               "text": "OST",
-               "url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-bros-2",
-               "mark": "music"
+               "id": "e1a1a62e10c5v6v",
+               "type": "video",
+               "segments": [
+                {
+                 "text": "Walkthrough",
+                 "url": "https://www.youtube.com/watch?v=7i9omPUt9iQ",
+                 "mark": "video"
+                }
+               ]
+              },
+              {
+               "id": "e1a1a62e10c7wrg",
+               "type": "music",
+               "segments": [
+                {
+                 "text": "OST",
+                 "url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-bros.-3-1988-nes",
+                 "mark": "music"
+                }
+               ]
               }
              ]
             }
            ]
           },
           {
-           "id": "n1a1a62e10c9irc",
-           "kind": "work",
-           "title": "Super Mario Bros. 3",
-           "entries": [
-            {
-             "id": "e1a1a62e10c5v6v",
-             "type": "video",
-             "segments": [
-              {
-               "text": "影片",
-               "url": "https://www.youtube.com/watch?v=7i9omPUt9iQ"
-              }
-             ]
-            },
-            {
-             "id": "e1a1a62e10c7wrg",
-             "type": "music",
-             "segments": [
-              {
-               "text": "OST",
-               "url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-bros.-3-1988-nes",
-               "mark": "music"
-              }
-             ]
-            }
-           ]
-          },
-          {
-           "id": "n1a1a62e10d0bfk",
-           "kind": "work",
+           "id": "nmwks14tz1zj",
+           "kind": "subseries",
            "title": "Super Mario World",
-           "entries": [
+           "children": [
             {
-             "id": "e1a1a62e10cbw0n",
-             "type": "video",
-             "segments": [
+             "id": "n1a1a62e10d0bfk",
+             "kind": "work",
+             "title": "Super Mario World",
+             "entries": [
               {
-               "text": "影片",
-               "url": "https://www.youtube.com/watch?v=86tFFfsUwvU"
+               "id": "e1a1a62e10cbw0n",
+               "type": "video",
+               "segments": [
+                {
+                 "text": "Walkthrough",
+                 "url": "https://www.youtube.com/watch?v=86tFFfsUwvU",
+                 "mark": "video"
+                }
+               ]
+              },
+              {
+               "id": "e1a1a62e10cesf6",
+               "type": "music",
+               "segments": [
+                {
+                 "text": "OST",
+                 "url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-world-snes-gamerip",
+                 "mark": "music"
+                }
+               ]
               }
              ]
             },
             {
-             "id": "e1a1a62e10cesf6",
-             "type": "music",
-             "segments": [
+             "id": "n1a1a62e10d6h7q",
+             "kind": "work",
+             "title": "Super Mario World 2: Yoshi's Island",
+             "entries": [
               {
-               "text": "OST",
-               "url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-world-snes-gamerip",
-               "mark": "music"
-              }
-             ]
-            }
-           ]
-          },
-          {
-           "id": "n1a1a62e10d6h7q",
-           "kind": "work",
-           "title": "Super Mario World 2: Yoshi's Island",
-           "entries": [
-            {
-             "id": "e1a1a62e10d2eux",
-             "type": "video",
-             "segments": [
-              {
-               "text": "舞秋風實況",
-               "url": "https://www.youtube.com/playlist?list=PL085D3CCB446936BC",
-               "playlist": true,
-               "channel": "舞秋風"
+               "id": "e1a1a62e10d2eux",
+               "type": "video",
+               "segments": [
+                {
+                 "text": "舞秋風實況",
+                 "url": "https://www.youtube.com/playlist?list=PL085D3CCB446936BC",
+                 "playlist": true,
+                 "channel": "舞秋風",
+                 "mark": "video"
+                },
+                {
+                 "text": "、"
+                },
+                {
+                 "text": "Speedrun (2013)",
+                 "url": "https://www.youtube.com/watch?v=M-LrpZlQ9Gs",
+                 "mark": "video"
+                }
+               ]
               },
               {
-               "text": "、"
-              },
-              {
-               "text": "Speedrun (2013)",
-               "url": "https://www.youtube.com/watch?v=M-LrpZlQ9Gs"
-              }
-             ]
-            },
-            {
-             "id": "e1a1a62e10d4jah",
-             "type": "music",
-             "segments": [
-              {
-               "text": "OST",
-               "url": "https://www.youtube.com/watch?v=oRxgYC5zrV4",
-               "mark": "music"
-              },
-              {
-               "text": " ("
-              },
-              {
-               "text": "VGMdb",
-               "url": "https://vgmdb.net/album/281"
-              },
-              {
-               "text": ")"
+               "id": "e1a1a62e10d4jah",
+               "type": "music",
+               "segments": [
+                {
+                 "text": "OST",
+                 "url": "https://www.youtube.com/watch?v=oRxgYC5zrV4",
+                 "mark": "music"
+                },
+                {
+                 "text": " ("
+                },
+                {
+                 "text": "VGMdb",
+                 "url": "https://vgmdb.net/album/281"
+                },
+                {
+                 "text": ")"
+                }
+               ]
               }
              ]
             }
@@ -3612,8 +3655,9 @@
              "type": "video",
              "segments": [
               {
-               "text": "影片",
-               "url": "https://www.youtube.com/watch?v=2lBl2I2wPOA"
+               "text": "Walkthrough",
+               "url": "https://www.youtube.com/watch?v=2lBl2I2wPOA",
+               "mark": "video"
               }
              ]
             },
@@ -3640,8 +3684,9 @@
              "type": "video",
              "segments": [
               {
-               "text": "影片",
-               "url": "https://www.youtube.com/watch?v=iegaW5v1XDg"
+               "text": "Walkthrough",
+               "url": "https://www.youtube.com/watch?v=iegaW5v1XDg",
+               "mark": "video"
               }
              ]
             },
@@ -3667,58 +3712,67 @@
          "origin": "ppt:23",
          "children": [
           {
-           "id": "n1a1a62e10eaief",
-           "kind": "work",
+           "id": "nmwkrtxl3n7j",
+           "kind": "subseries",
            "title": "New Super Mario Bros.",
-           "status": "played",
-           "entries": [
+           "children": [
             {
-             "id": "e1a1a62e10e5mgt",
-             "type": "video",
-             "segments": [
+             "id": "n1a1a62e10eaief",
+             "kind": "work",
+             "title": "New Super Mario Bros.",
+             "status": "played",
+             "entries": [
               {
-               "text": "Speedrun",
-               "url": "https://www.youtube.com/watch?v=BoCTpIwQMic"
+               "id": "e1a1a62e10e5mgt",
+               "type": "video",
+               "segments": [
+                {
+                 "text": "Speedrun",
+                 "url": "https://www.youtube.com/watch?v=BoCTpIwQMic",
+                 "mark": "video"
+                }
+               ]
+              },
+              {
+               "id": "e1a1a62e10e7xtv",
+               "type": "music",
+               "segments": [
+                {
+                 "text": "OST",
+                 "url": "https://www.youtube.com/watch?v=cdT4deqFExk",
+                 "mark": "music"
+                }
+               ]
               }
              ]
             },
             {
-             "id": "e1a1a62e10e7xtv",
-             "type": "music",
-             "segments": [
+             "id": "n1a1a62e10f0a1c",
+             "kind": "work",
+             "title": "New Super Mario Bros. Wii",
+             "status": "played",
+             "entries": [
               {
-               "text": "OST",
-               "url": "https://www.youtube.com/watch?v=cdT4deqFExk",
-               "mark": "music"
-              }
-             ]
-            }
-           ]
-          },
-          {
-           "id": "n1a1a62e10f0a1c",
-           "kind": "work",
-           "title": "New Super Mario Bros. Wii",
-           "status": "played",
-           "entries": [
-            {
-             "id": "e1a1a62e10ecpaj",
-             "type": "video",
-             "segments": [
+               "id": "e1a1a62e10ecpaj",
+               "type": "video",
+               "segments": [
+                {
+                 "text": "4 Players Walkthrough",
+                 "url": "https://www.youtube.com/watch?v=QaMIHSLUZac",
+                 "mark": "video"
+                }
+               ]
+              },
               {
-               "text": "4 人遊玩",
-               "url": "https://www.youtube.com/watch?v=QaMIHSLUZac"
-              }
-             ]
-            },
-            {
-             "id": "e1a1a62e10eef72",
-             "type": "music",
-             "segments": [
-              {
-               "text": "OST",
-               "url": "https://www.youtube.com/watch?v=4lqV66o4Hkk",
-               "mark": "music"
+               "id": "e1a1a62e10eef72",
+               "type": "music",
+               "segments": [
+                {
+                 "text": "OST",
+                 "url": "https://www.youtube.com/watch?v=4lqV66o4Hkk",
+                 "mark": "music"
+                }
+               ]
               }
              ]
             }
@@ -3743,7 +3797,8 @@
              "segments": [
               {
                "text": "影片",
-               "url": "https://www.youtube.com/watch?v=cRDC3hgtGuI"
+               "url": "https://www.youtube.com/watch?v=cRDC3hgtGuI",
+               "mark": "video"
               }
              ]
             },
@@ -3788,8 +3843,9 @@
              "type": "video",
              "segments": [
               {
-               "text": "影片",
-               "url": "https://www.youtube.com/watch?v=vT3AaQ77ges"
+               "text": "Full Walkthrough",
+               "url": "https://www.youtube.com/watch?v=vT3AaQ77ges",
+               "mark": "video"
               }
              ]
             },
@@ -3826,7 +3882,7 @@
              "type": "video",
              "segments": [
               {
-               "text": "影片",
+               "text": "全流程收集",
                "url": "https://www.bilibili.com/video/BV18P4y1A7D2/?spm_id_from=333.788.comment.all.click",
                "mark": "video",
                "playlist": true
@@ -3858,27 +3914,34 @@
           },
           {
            "id": "n1a1a62e11069nc",
-           "kind": "work",
+           "kind": "subseries",
            "title": "Super Mario Galaxy",
-           "status": "played"
-          },
-          {
-           "id": "n1a1a62e110anxs",
-           "kind": "work",
-           "title": "Super Mario Galaxy 2",
-           "status": "played",
-           "entries": [
+           "children": [
             {
-             "id": "e1a1a62e11085fj",
-             "type": "music",
-             "segments": [
+             "id": "n1a1a62e110anxs",
+             "kind": "work",
+             "title": "Super Mario Galaxy 2",
+             "status": "played",
+             "entries": [
               {
-               "text": "OST",
-               "url": "https://www.youtube.com/playlist?list=PLMjtnWNmNlGtkxveuSNcdY74esMhz4jOD",
-               "mark": "music",
-               "playlist": true
+               "id": "e1a1a62e11085fj",
+               "type": "music",
+               "segments": [
+                {
+                 "text": "OST",
+                 "url": "https://www.youtube.com/playlist?list=PLMjtnWNmNlGtkxveuSNcdY74esMhz4jOD",
+                 "mark": "music",
+                 "playlist": true
+                }
+               ]
               }
              ]
+            },
+            {
+             "id": "nmwkry0jjw27",
+             "kind": "work",
+             "title": "Super Mario Galaxy",
+             "status": "played"
             }
            ]
           }
@@ -3908,8 +3971,9 @@
                "text": "、"
               },
               {
-               "text": "Collectibles",
-               "url": "https://www.youtube.com/watch?v=YvZ2ZtUVDE4"
+               "text": "All Collectibles",
+               "url": "https://www.youtube.com/watch?v=YvZ2ZtUVDE4",
+               "mark": "video"
               }
              ]
             },
@@ -3950,7 +4014,8 @@
            "segments": [
             {
              "text": "Evolution",
-             "url": "https://www.youtube.com/watch?v=VJdlFxSOhZc"
+             "url": "https://www.youtube.com/watch?v=VJdlFxSOhZc",
+             "mark": "video"
             }
            ]
           }
@@ -3972,7 +4037,7 @@
                "type": "video",
                "segments": [
                 {
-                 "text": "影片",
+                 "text": "Gameplay",
                  "url": "https://www.youtube.com/watch?v=Pp2aMs38ERY",
                  "mark": "video"
                 }
@@ -3990,8 +4055,9 @@
                "type": "video",
                "segments": [
                 {
-                 "text": "影片",
-                 "url": "https://www.youtube.com/watch?v=GmOJN-zq6yg"
+                 "text": "Gameplay",
+                 "url": "https://www.youtube.com/watch?v=GmOJN-zq6yg",
+                 "mark": "video"
                 }
                ]
               }
@@ -4017,8 +4083,9 @@
              "type": "video",
              "segments": [
               {
-               "text": "影片",
-               "url": "https://www.youtube.com/watch?v=6KzhEGPUNIk"
+               "text": "Full Gameplay",
+               "url": "https://www.youtube.com/watch?v=6KzhEGPUNIk",
+               "mark": "video"
               }
              ]
             }
@@ -4042,8 +4109,9 @@
              "type": "video",
              "segments": [
               {
-               "text": "影片",
-               "url": "https://www.youtube.com/watch?v=ZJuxdR0KH-s"
+               "text": "Walkthrough",
+               "url": "https://www.youtube.com/watch?v=ZJuxdR0KH-s",
+               "mark": "video"
               }
              ]
             },
@@ -4078,8 +4146,9 @@
              "type": "video",
              "segments": [
               {
-               "text": "影片",
-               "url": "https://www.youtube.com/watch?v=dh_5zflwKsQ"
+               "text": "Playthrough",
+               "url": "https://www.youtube.com/watch?v=dh_5zflwKsQ",
+               "mark": "video"
               }
              ]
             },

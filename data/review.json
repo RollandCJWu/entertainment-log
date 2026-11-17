@@ -2,21 +2,6 @@
  "version": 1,
  "items": [
   {
-   "id": "r1a1a62e12c8zoq",
-   "node": "n1a1a62e10661it",
-   "issue": "臥龍不屬於仁王系列，從仁王分組移出；「臥龍 蒼天殞落」YouTube 連結（未標記）是什麼影片？先放在標題連結"
-  },
-  {
-   "id": "r1a1a62e12cacpm",
-   "node": "n0089",
-   "issue": "原本是「Jackal, Kung-Fu Master」一個項目、標為已玩過，拆成兩款後兩款都先標已玩過，請確認"
-  },
-  {
-   "id": "r1a1a62e12d3v88",
-   "node": "n0100",
-   "issue": "「Speedrun (2013)」原本接在 Yoshi's Island 實況後面，先放在 Yoshi's Island；Luigi's Mansion 2、3 原本只有文字，先建成空作品"
-  },
-  {
    "id": "r1a1a62e12d57ot",
    "node": "n0114",
    "issue": "音樂連結原本只寫「1, 2」，判斷是 Metroid 與 Metroid II 的 OST，請確認"
