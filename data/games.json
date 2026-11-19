@@ -4213,9 +4213,20 @@
              "type": "video",
              "segments": [
               {
-               "text": "影片",
+               "text": "Walkthrough",
                "url": "https://www.youtube.com/watch?v=9hgtfzhel0Y&pp=ygUYemVybyBtaXNzaW9uIHdhbGt0aHJvdWdo",
                "mark": "video"
+              }
+             ]
+            },
+            {
+             "id": "emwmxaz8elq6",
+             "type": "music",
+             "segments": [
+              {
+               "text": "OST",
+               "url": "https://downloads.khinsider.com/game-soundtracks/album/metroid-zero-mission",
+               "mark": "music"
               }
              ]
             }
@@ -4234,9 +4245,20 @@
              "type": "video",
              "segments": [
               {
-               "text": "影片",
+               "text": "Walkthrough",
                "url": "https://www.youtube.com/watch?v=3fw1pDgbQ8I",
                "mark": "video"
+              }
+             ]
+            },
+            {
+             "id": "emwmxbtja3ip",
+             "type": "music",
+             "segments": [
+              {
+               "text": "OST",
+               "url": "https://www.youtube.com/playlist?list=PLESFnlO3kNnq-NkZsVdi-6WFeYSiNPiUr",
+               "mark": "music"
               }
              ]
             }
@@ -4252,8 +4274,9 @@
              "type": "video",
              "segments": [
               {
-               "text": "影片",
-               "url": "https://www.youtube.com/watch?v=Y9tufNHthJE&t=1759s"
+               "text": "Walkthrough",
+               "url": "https://www.youtube.com/watch?v=Y9tufNHthJE&t=1759s",
+               "mark": "video"
               }
              ]
             }
@@ -4269,7 +4292,7 @@
              "type": "video",
              "segments": [
               {
-               "text": "影片",
+               "text": "Walkthrough",
                "url": "https://www.youtube.com/watch?v=7pWRoQ2SQsc",
                "mark": "video"
               }
@@ -4299,63 +4322,12 @@
        "entries": [
         {
          "id": "e1a1a62e1160svh",
-         "type": "music",
+         "type": "trivia",
          "segments": [
           {
-           "text": "動畫無印篇（第一季）音樂："
-          },
-          {
-           "text": "第 1–10 集",
-           "url": "https://www.bilibili.com/video/BV1Zt411x7bc/?spm_id_from=333.999.0.0"
-          },
-          {
-           "text": "、"
-          },
-          {
-           "text": "11–20",
-           "url": "https://www.bilibili.com/video/BV1Lt41147Zj/?spm_id_from=333.999.0.0"
-          },
-          {
-           "text": "、"
-          },
-          {
-           "text": "21–70",
-           "url": "https://www.bilibili.com/video/BV1Ct411W71Z/?spm_id_from=333.999.0.0"
-          },
-          {
-           "text": "（40）、"
-          },
-          {
-           "text": "71–118",
-           "url": "https://www.bilibili.com/video/BV1gt411s7BD/"
-          },
-          {
-           "text": "、"
-          },
-          {
-           "text": "119–200",
-           "url": "https://www.bilibili.com/video/BV1Mt411s7iV/?spm_id_from=333.999.0.0"
-          },
-          {
-           "text": "、"
-          },
-          {
-           "text": "201–276",
-           "url": "https://www.bilibili.com/video/BV1Mt411s7ND/?spm_id_from=333.999.0.0"
-          },
-          {
-           "text": "，缺失補齊："
-          },
-          {
-           "text": "271",
-           "url": "https://www.bilibili.com/video/BV13Z421t7fQ/?spm_id_from=333.337.search-card.all.click'"
-          },
-          {
-           "text": "、"
-          },
-          {
-           "text": "275（粵語）",
-           "url": "https://www.bilibili.com/video/BV1Bt411W7XG?p=75"
+           "text": "動畫系列順序",
+           "url": "https://www.bilibili.com/zh-Hant/video/BV1L142117r2/",
+           "mark": "video"
           }
          ]
         }
@@ -4366,7 +4338,7 @@
          "kind": "work",
          "title": "Pokémon FireRed / LeafGreen",
          "notes": [
-          "第 1 世代"
+          "第 1 世代重製"
          ],
          "entries": [
           {
@@ -4374,8 +4346,9 @@
            "type": "video",
            "segments": [
             {
-             "text": "影片",
-             "url": "https://www.youtube.com/watch?v=_6uv4msYJiM"
+             "text": "Fire Red Walkthrough",
+             "url": "https://www.youtube.com/watch?v=_6uv4msYJiM",
+             "mark": "video"
             }
            ]
           },
@@ -4408,7 +4381,8 @@
          "title": "Pokémon HeartGold / SoulSilver",
          "status": "played",
          "notes": [
-          "第 2 世代；玩的是 SoulSilver"
+          "第二世代重製",
+          "玩過的是 SoulSilver"
          ],
          "entries": [
           {
@@ -4437,7 +4411,7 @@
         {
          "id": "n1a1a62e1155o5y",
          "kind": "work",
-         "title": "Pokémon Emerald",
+         "title": "Pokémon Ruby / Emerald / Sapphire",
          "notes": [
           "第 3 世代"
          ],
@@ -4447,9 +4421,10 @@
            "type": "video",
            "segments": [
             {
-             "text": "影片",
+             "text": "綠寶石全流程",
              "url": "https://www.bilibili.com/video/BV19Q4y1c7b7/?spm_id_from=333.337.search-card.all.click",
-             "mark": "video"
+             "mark": "video",
+             "playlist": true
             }
            ]
           }
@@ -4458,10 +4433,11 @@
         {
          "id": "n1a1a62e115aql7",
          "kind": "work",
-         "title": "Pokémon Platinum",
+         "title": "Pokémon Diamond / Pearl / Platinum",
          "status": "playing",
          "notes": [
-          "第 4 世代"
+          "第 4 世代",
+          "Platinum 遊玩中"
          ],
          "entries": [
           {
@@ -4528,6 +4504,7 @@
             {
              "text": "全流程",
              "url": "https://www.bilibili.com/video/BV1dz411v7Uo/?spm_id_from=333.1387.search.video_card.click",
+             "mark": "video",
              "playlist": true
             }
            ]
@@ -4537,8 +4514,9 @@
            "type": "lore",
            "segments": [
             {
-             "text": "解析",
-             "url": "https://www.bilibili.com/video/BV1eh4y1d7sR/?spm_id_from=333.1387.search.video_card.click"
+             "text": "劇情解析",
+             "url": "https://www.bilibili.com/video/BV1eh4y1d7sR/?spm_id_from=333.1387.search.video_card.click",
+             "mark": "video"
             }
            ]
           },
@@ -4549,6 +4527,7 @@
             {
              "text": "OST",
              "url": "https://www.bilibili.com/video/BV16u411n714/?spm_id_from=333.337.search-card.all.click",
+             "mark": "music",
              "playlist": true
             },
             {
@@ -4579,7 +4558,8 @@
          "segments": [
           {
            "text": "系列世界觀解說",
-           "url": "https://www.bilibili.com/video/BV18m4y1t7cf/?spm_id_from=333.337.search-card.all.click"
+           "url": "https://www.bilibili.com/video/BV18m4y1t7cf/?spm_id_from=333.337.search-card.all.click",
+           "mark": "video"
           }
          ]
         }
@@ -4601,8 +4581,9 @@
              "type": "video",
              "segments": [
               {
-               "text": "影片",
-               "url": "https://www.youtube.com/watch?v=6g2vk8Gudqs"
+               "text": "Walkthrough",
+               "url": "https://www.youtube.com/watch?v=6g2vk8Gudqs",
+               "mark": "video"
               }
              ]
             },
@@ -4639,7 +4620,7 @@
              "type": "video",
              "segments": [
               {
-               "text": "影片",
+               "text": "Walkthrough",
                "url": "https://www.youtube.com/watch?v=pvse1JSiz9A",
                "mark": "video"
               }
@@ -4678,8 +4659,9 @@
              "type": "video",
              "segments": [
               {
-               "text": "影片",
+               "text": "Walkthorugh",
                "url": "https://www.youtube.com/playlist?list=PL8NxvmyK0mT4ojRhCP-OnC6zBO9jFx6lq",
+               "mark": "video",
                "playlist": true
               }
              ]
@@ -4689,18 +4671,16 @@
           {
            "id": "n1a1a62e1176pz7",
            "kind": "work",
-           "title": "Link's Awakening (2019)",
-           "notes": [
-            "2019 重製版"
-           ],
+           "title": "Link's Awakening",
            "entries": [
             {
              "id": "e1a1a62e1174iqr",
              "type": "video",
              "segments": [
               {
-               "text": "影片",
-               "url": "https://www.youtube.com/watch?v=9iTQCA7FxEQ"
+               "text": "2019 Remake Version Walkthrough",
+               "url": "https://www.youtube.com/watch?v=9iTQCA7FxEQ",
+               "mark": "video"
               }
              ]
             }
@@ -4710,17 +4690,15 @@
            "id": "n1a1a62e117b89k",
            "kind": "work",
            "title": "Ocarina of Time 3D",
-           "notes": [
-            "3DS 重製版"
-           ],
            "entries": [
             {
              "id": "e1a1a62e11789a5",
              "type": "video",
              "segments": [
               {
-               "text": "影片",
+               "text": "3DS 重製版 全流程",
                "url": "https://www.bilibili.com/video/BV1fJ411x7iQ/?spm_id_from=333.337.search-card.all.click",
+               "mark": "video",
                "playlist": true
               }
              ]
@@ -4788,6 +4766,7 @@
           {
            "text": "I–IV 代解說",
            "url": "https://www.bilibili.com/video/BV1Vt4y147rS?spm_id_from=333.788.videopod.sections",
+           "mark": "video",
            "playlist": true
           }
          ]
@@ -4813,6 +4792,7 @@
             {
              "text": "OST",
              "url": "https://www.youtube.com/playlist?list=PLvNp0Boas720BYHiEHd-zM942KP_bCSZ4",
+             "mark": "music",
              "playlist": true
             }
            ]
@@ -4829,8 +4809,9 @@
            "type": "video",
            "segments": [
             {
-             "text": "影片",
-             "url": "https://www.youtube.com/watch?v=oR2HjN_GEZ8"
+             "text": "Walkthrough",
+             "url": "https://www.youtube.com/watch?v=oR2HjN_GEZ8",
+             "mark": "video"
             }
            ]
           },
@@ -4841,6 +4822,7 @@
             {
              "text": "OST",
              "url": "https://www.youtube.com/playlist?list=PLvNp0Boas721Im_ZBhvDEuCqzLsRvlKb3",
+             "mark": "music",
              "playlist": true
             }
            ]
@@ -4857,8 +4839,9 @@
            "type": "video",
            "segments": [
             {
-             "text": "影片",
-             "url": "https://www.youtube.com/watch?v=qBTjXNOOeDY"
+             "text": "Walkthrough",
+             "url": "https://www.youtube.com/watch?v=qBTjXNOOeDY",
+             "mark": "video"
             }
            ]
           },
@@ -4869,6 +4852,7 @@
             {
              "text": "OST",
              "url": "https://www.youtube.com/playlist?list=PLvNp0Boas7205K42TtDtdUCCrtkD-X0id",
+             "mark": "music",
              "playlist": true
             }
            ]
@@ -4885,8 +4869,9 @@
            "type": "video",
            "segments": [
             {
-             "text": "影片",
-             "url": "https://www.youtube.com/watch?v=-59vNc4EWm0"
+             "text": "Walkthrough",
+             "url": "https://www.youtube.com/watch?v=-59vNc4EWm0",
+             "mark": "video"
             }
            ]
           },
@@ -4897,6 +4882,7 @@
             {
              "text": "OST",
              "url": "https://www.youtube.com/playlist?list=PLvNp0Boas720uxEBskKdzdCmMVB4ESZKF",
+             "mark": "music",
              "playlist": true
             }
            ]
@@ -4913,8 +4899,9 @@
            "type": "video",
            "segments": [
             {
-             "text": "影片",
-             "url": "https://www.youtube.com/watch?v=lrdjLR1HR9s"
+             "text": "Walkthrough",
+             "url": "https://www.youtube.com/watch?v=lrdjLR1HR9s",
+             "mark": "video"
             }
            ]
           }
@@ -4942,6 +4929,7 @@
             {
              "text": "Full Campaign",
              "url": "https://www.bilibili.com/video/BV13W41157hz/?spm_id_from=333.337.search-card.all.click",
+             "mark": "video",
              "playlist": true
             }
            ],
@@ -4993,8 +4981,9 @@
          "type": "video",
          "segments": [
           {
-           "text": "影片",
-           "url": "https://www.youtube.com/watch?v=yQYoiZcqURg"
+           "text": "Walkthrough",
+           "url": "https://www.youtube.com/watch?v=yQYoiZcqURg",
+           "mark": "video"
           }
          ]
         }
@@ -5011,7 +5000,8 @@
          "segments": [
           {
            "text": "Evolution 1994–2022",
-           "url": "https://www.youtube.com/watch?v=esh34gj9AS4"
+           "url": "https://www.youtube.com/watch?v=esh34gj9AS4",
+           "mark": "video"
           }
          ]
         }
