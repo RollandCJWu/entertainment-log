@@ -6721,7 +6721,8 @@
            "text": "舞秋風實況",
            "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjuBL-Ab6ub4p5WUpalqkxx2",
            "playlist": true,
-           "channel": "舞秋風"
+           "channel": "舞秋風",
+           "mark": "video"
           }
          ]
         }
@@ -6736,7 +6737,7 @@
      "children": [
       {
        "id": "n0157",
-       "kind": "series",
+       "kind": "work",
        "title": "Minecraft",
        "children": [
         {
@@ -6750,53 +6751,48 @@
            "segments": [
             {
              "text": "the sunken island",
-             "url": "https://www.youtube.com/watch?v=4V4KW2F0C3I"
+             "url": "https://www.youtube.com/watch?v=4V4KW2F0C3I",
+             "mark": "video"
             },
             {
              "text": ", "
             },
             {
              "text": "eldaria v3",
-             "url": "https://www.youtube.com/watch?v=STsKFiDWd_0"
+             "url": "https://www.youtube.com/watch?v=STsKFiDWd_0",
+             "mark": "video"
             },
             {
              "text": ", "
             },
             {
              "text": "boat racing",
-             "url": "https://www.youtube.com/watch?v=Ndl2sdlyZHs"
-            }
-           ]
-          },
-          {
-           "id": "e0181",
-           "type": "video",
-           "segments": [
+             "url": "https://www.youtube.com/watch?v=Ndl2sdlyZHs",
+             "mark": "video"
+            },
+            {
+             "text": ", "
+            },
             {
              "text": "pvp map survival",
-             "url": "https://www.youtube.com/watch?v=OC7a2uk_4qY"
+             "url": "https://www.youtube.com/watch?v=OC7a2uk_4qY",
+             "mark": "video"
             },
             {
              "text": ", "
             },
             {
              "text": "survival map atlantis",
-             "url": "https://www.youtube.com/watch?v=6qGskase7z0"
-            },
-            {
-             "text": ", "
-            },
-            {
-             "text": "minecraft t3c",
-             "url": "https://www.youtube.com/playlist?list=PLIK6JDdqw7u33Hhzqfdy9IFWpTDSryWPu",
-             "playlist": true
+             "url": "https://www.youtube.com/watch?v=6qGskase7z0",
+             "mark": "video"
             },
             {
              "text": ", "
             },
             {
              "text": "zombie map walking dead trailer",
-             "url": "https://www.youtube.com/watch?v=BPL9GAJwv0k"
+             "url": "https://www.youtube.com/watch?v=BPL9GAJwv0k",
+             "mark": "video"
             }
            ]
           }
@@ -6934,32 +6930,17 @@
         {
          "id": "n0160",
          "kind": "group",
-         "title": "Visit & Video Playthrough",
+         "title": "Video Playthrough",
          "entries": [
           {
-           "id": "e0182",
-           "type": "other",
+           "id": "emwne246fcxm",
+           "type": "video",
            "segments": [
             {
-             "text": "舞秋風 Eldaria Islands 記錄檔 (1.2.5)"
-            }
-           ]
-          },
-          {
-           "id": "e0183",
-           "type": "other",
-           "segments": [
-            {
-             "text": "舞秋風北極深淵記錄檔 (1.3.2)"
-            }
-           ]
-          },
-          {
-           "id": "e0184",
-           "type": "other",
-           "segments": [
-            {
-             "text": "舞秋風亞特蘭提斯紀錄檔 (1.5.2)"
+             "text": "minecraft t3c Parkour",
+             "url": "https://www.youtube.com/playlist?list=PLIK6JDdqw7u33Hhzqfdy9IFWpTDSryWPu",
+             "mark": "video",
+             "playlist": true
             }
            ]
           },
@@ -6968,7 +6949,7 @@
            "type": "video",
            "segments": [
             {
-             "text": "Ragecraft I - The Corrupted Path (1.6.2) ("
+             "text": "Ragecraft I - The Corrupted Path (1.6.2) "
             },
             {
              "text": "Walkthrough",
@@ -6977,16 +6958,7 @@
              "playlist": true
             },
             {
-             "text": ")"
-            }
-           ]
-          },
-          {
-           "id": "e0186",
-           "type": "video",
-           "segments": [
-            {
-             "text": "Ragecraft II - The Insomnia (1.7.2) ("
+             "text": "、II - The Insomnia (1.7.2) "
             },
             {
              "text": "Walkthrough",
@@ -6995,33 +6967,43 @@
              "playlist": true
             },
             {
-             "text": ")"
-            }
-           ]
-          },
-          {
-           "id": "emw1u30h0yjh",
-           "type": "video",
-           "segments": [
-            {
-             "text": "Ragecraft III - The Prophecy (1.8.8) ("
+             "text": "、Ragecraft III - The Prophecy (1.8.8) "
             },
             {
              "text": "walkthrough (b站頻道內關鍵字搜尋)",
              "url": "https://space.bilibili.com/zh-Hant/680447/search?keyword=%E7%8B%82%E4%B9%B1%E4%B9%8B%E5%A2%833",
              "mark": "video",
              "playlist": true
-            },
-            {
-             "text": ")"
             }
            ]
           }
          ],
          "origin": "ppt:40"
+        },
+        {
+         "id": "nmwnea38oecl",
+         "kind": "group",
+         "title": "Maps Visit",
+         "entries": [
+          {
+           "id": "emwnea6efotx",
+           "type": "other",
+           "segments": [
+            {
+             "text": "舞秋風 Eldaria Islands 記錄檔 (1.2.5), 舞秋風北極深淵記錄檔 (1.3.2), 舞秋風亞特蘭提斯紀錄檔 (1.5.2)"
+            }
+           ]
+          }
+         ]
         }
        ],
-       "origin": "ppt:40"
+       "origin": "ppt:40",
+       "links": [
+        {
+         "text": "個人 Minecraft 記錄檔",
+         "url": "https://drive.google.com/drive/folders/1dlttBmKCFYd4jGtTZN_aJ4ojjYOvjJU3"
+        }
+       ]
       }
      ],
      "origin": "ppt:1"
@@ -7047,8 +7029,9 @@
            "type": "video",
            "segments": [
             {
-             "text": "影片",
-             "url": "https://www.bilibili.com/video/BV14s411U7oK/"
+             "text": "全流程",
+             "url": "https://www.bilibili.com/video/BV14s411U7oK/",
+             "mark": "video"
             }
            ]
           }
@@ -7072,8 +7055,9 @@
            "type": "video",
            "segments": [
             {
-             "text": "影片",
-             "url": "https://www.youtube.com/watch?v=rAd6MlU5yiY"
+             "text": "Walkthrough",
+             "url": "https://www.youtube.com/watch?v=rAd6MlU5yiY",
+             "mark": "video"
             }
            ]
           }
@@ -7091,7 +7075,16 @@
             {
              "text": "舞秋風實況",
              "url": "https://www.youtube.com/watch?v=nS9SmNoyzoQ&list=PLBtVUsNOhEjuu1h20FuxTpTpZlmznwkKh&index=87&pp=iAQB",
+             "mark": "video",
              "channel": "舞秋風"
+            },
+            {
+             "text": "、"
+            },
+            {
+             "text": "Full Game",
+             "url": "https://www.youtube.com/watch?v=akqlNVK-VdE",
+             "mark": "video"
             }
            ]
           }
@@ -7110,14 +7103,8 @@
              "text": "舞秋風實況",
              "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjtWVM2vzXKTuF2qXC3JY3F2",
              "playlist": true,
-             "channel": "舞秋風"
-            },
-            {
-             "text": "、"
-            },
-            {
-             "text": "Full Game",
-             "url": "https://www.youtube.com/watch?v=akqlNVK-VdE"
+             "channel": "舞秋風",
+             "mark": "video"
             }
            ]
           }
@@ -7791,7 +7778,9 @@
             {
              "text": "舞秋風實況",
              "url": "https://www.youtube.com/playlist?list=PLpfAxniIs1LbuSbvM893K8UiSoox13xzI",
-             "channel": "舞秋風"
+             "channel": "舞秋風",
+             "playlist": true,
+             "mark": "video"
             }
            ]
           }
@@ -7800,23 +7789,26 @@
         {
          "id": "n1a1a62ebc3dmv8",
          "kind": "work",
-         "title": "仙劍奇俠傳五前傳",
+         "title": "仙劍奇俠傳五",
          "entries": [
           {
            "id": "e1a1a62ebc39mxa",
            "type": "video",
            "segments": [
             {
-             "text": "舞秋風實況",
+             "text": "仙五前傳 舞秋風實況",
              "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjsoP8PFN1JQVJi2YUm64WWz",
-             "channel": "舞秋風"
+             "channel": "舞秋風",
+             "playlist": true,
+             "mark": "video"
             },
             {
              "text": "、"
             },
             {
              "text": "全技能展示",
-             "url": "https://www.youtube.com/watch?v=lTZ75RDcykc"
+             "url": "https://www.youtube.com/watch?v=lTZ75RDcykc",
+             "mark": "video"
             }
            ]
           },
@@ -7859,7 +7851,8 @@
            "text": "舞秋風實況",
            "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjtmZJTuRcIIp4-NNFtUq6J1",
            "playlist": true,
-           "channel": "舞秋風"
+           "channel": "舞秋風",
+           "mark": "video"
           }
          ]
         }

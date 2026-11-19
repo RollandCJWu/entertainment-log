@@ -2,21 +2,6 @@
  "version": 1,
  "items": [
   {
-   "id": "r1a1a62ebc43krd",
-   "node": "n1a1a62ebc21a0r",
-   "issue": "原本是一行「Full Game、Rayman Legends」，Full Game（未標記）先放在 Rayman Legends，請確認是哪一款的"
-  },
-  {
-   "id": "r1a1a62ebc4561m",
-   "node": "n0169",
-   "issue": "終末地是另一款遊戲，原本放在明日方舟底下；現在兩款並列在「明日方舟」系列裡，賽壬唱片留在明日方舟作品底下"
-  },
-  {
-   "id": "r1a1a62ebc47nse",
-   "node": "n0172",
-   "issue": "阿貓阿狗原本被放在仙劍奇俠傳底下，它是大宇另一款遊戲，已移到大宇資訊底下"
-  },
-  {
    "id": "r1a1a6303621o7x",
    "node": "n1a1a6303429py2",
    "issue": "原本有「空中花園 遊戲」和「空中花園」兩支舞秋風影片（不同連結），先合在同一款；如果是兩款不同的遊戲請告訴我"
@@ -35,11 +20,6 @@
    "id": "r1a1a6303627l3d",
    "node": "n0219",
    "issue": "「(Database, vid.)」那筆音樂判斷是 The Tale of a Cruel World（原本寫在備註），請確認；Otherworld 是另一款遊戲的 OST"
-  },
-  {
-   "id": "r1a1a645e09en47",
-   "node": "n0030",
-   "issue": "Ubisoft：以下 2 款的影片連結原本只寫遊戲名稱，暫時標成「影片」，請告訴我實際內容（Full Walkthrough、實況…）：Assassin’s Creed、Rayman"
   },
   {
    "id": "r1a1a645e0a0wy7",
