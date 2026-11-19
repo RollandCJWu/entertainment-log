@@ -4792,8 +4792,7 @@
             {
              "text": "OST",
              "url": "https://www.youtube.com/playlist?list=PLvNp0Boas720BYHiEHd-zM942KP_bCSZ4",
-             "mark": "music",
-             "playlist": true
+             "mark": "music"
             }
            ]
           }
@@ -4822,8 +4821,7 @@
             {
              "text": "OST",
              "url": "https://www.youtube.com/playlist?list=PLvNp0Boas721Im_ZBhvDEuCqzLsRvlKb3",
-             "mark": "music",
-             "playlist": true
+             "mark": "music"
             }
            ]
           }
@@ -4852,8 +4850,7 @@
             {
              "text": "OST",
              "url": "https://www.youtube.com/playlist?list=PLvNp0Boas7205K42TtDtdUCCrtkD-X0id",
-             "mark": "music",
-             "playlist": true
+             "mark": "music"
             }
            ]
           }
@@ -4882,8 +4879,7 @@
             {
              "text": "OST",
              "url": "https://www.youtube.com/playlist?list=PLvNp0Boas720uxEBskKdzdCmMVB4ESZKF",
-             "mark": "music",
-             "playlist": true
+             "mark": "music"
             }
            ]
           }
@@ -5030,8 +5026,9 @@
            "type": "lore",
            "segments": [
             {
-             "text": "解說",
-             "url": "https://www.bilibili.com/video/BV154KgeoEVy/?spm_id_from=333.337.search-card.all.click"
+             "text": "遊戲解說",
+             "url": "https://www.bilibili.com/video/BV154KgeoEVy/?spm_id_from=333.337.search-card.all.click",
+             "mark": "video"
             }
            ]
           }
@@ -5047,18 +5044,20 @@
            "type": "lore",
            "segments": [
             {
-             "text": "解說（"
+             "text": "遊戲解說（"
             },
             {
              "text": "上",
-             "url": "https://www.bilibili.com/video/BV1KcCoYQENd/?spm_id_from=333.337.search-card.all.click"
+             "url": "https://www.bilibili.com/video/BV1KcCoYQENd/?spm_id_from=333.337.search-card.all.click",
+             "mark": "video"
             },
             {
              "text": "、"
             },
             {
              "text": "下",
-             "url": "https://www.bilibili.com/video/BV1FyDTY9Ew6/?spm_id_from=333.788"
+             "url": "https://www.bilibili.com/video/BV1FyDTY9Ew6/?spm_id_from=333.788",
+             "mark": "video"
             },
             {
              "text": "）"
@@ -5080,12 +5079,14 @@
          "type": "lore",
          "segments": [
           {
-           "text": "劇情解說",
-           "url": "https://www.bilibili.com/video/BV1dp4y1G7DN/?spm_id_from=333.1387.collection.video_card.click"
+           "text": "系列劇情解說",
+           "url": "https://www.bilibili.com/video/BV1dp4y1G7DN/?spm_id_from=333.1387.collection.video_card.click",
+           "mark": "video",
+           "playlist": true
           }
          ],
          "notes": [
-          "IV、V 僅看劇情解說，無遊玩影片"
+          "IV、V 僅看劇情解說，無 Gameplay 影片"
          ]
         }
        ],
@@ -5100,7 +5101,7 @@
            "type": "video",
            "segments": [
             {
-             "text": "3DS 版",
+             "text": "3DS版 全流程",
              "url": "https://www.bilibili.com/video/BV1KT4y1p7NP/?spm_id_from=333.337.search-card.all.click",
              "mark": "video",
              "playlist": true
@@ -5140,7 +5141,7 @@
            "type": "video",
            "segments": [
             {
-             "text": "3DS 版",
+             "text": "3DS版 全流程",
              "url": "https://www.bilibili.com/video/BV1WN4y1q7sb/?spm_id_from=333.337.search-card.all.click",
              "mark": "video",
              "playlist": true
@@ -5180,7 +5181,7 @@
            "type": "video",
            "segments": [
             {
-             "text": "3DS 版",
+             "text": "3DS版 全流程",
              "url": "https://www.bilibili.com/video/BV1VV411R7Wr/?spm_id_from=333.788.video.desc.click",
              "mark": "video",
              "playlist": true
@@ -5276,27 +5277,100 @@
        "entries": [
         {
          "id": "e1a1a62e11e4t60",
-         "type": "lore",
+         "type": "trivia",
          "segments": [
           {
            "text": "系列世界觀解讀",
-           "url": "https://www.bilibili.com/video/BV1XZ4y1H7fB?spm_id_from=333.788.recommend_more_video.0"
+           "url": "https://www.bilibili.com/video/BV1XZ4y1H7fB?spm_id_from=333.788.recommend_more_video.0",
+           "mark": "video"
           }
          ]
         }
        ],
        "children": [
         {
-         "id": "n1a1a62e11d7t3j",
-         "kind": "work",
-         "title": "Drakengard",
+         "id": "n0131",
+         "kind": "subseries",
+         "title": "Nier",
+         "origin": "ppt:33",
          "entries": [
           {
-           "id": "e1a1a62e11d3z14",
+           "id": "e1a1a62e11e2jp7",
            "type": "lore",
            "segments": [
             {
-             "text": "解說",
+             "text": "尼爾編年史",
+             "url": "https://www.bilibili.com/video/BV1984y127Qb/?spm_id_from=333.788.recommend_more_video.0&trackid=web_related_0.router-related-2206146-j2qzm.1765614643664.143",
+             "mark": "video"
+            }
+           ]
+          }
+         ],
+         "children": [
+          {
+           "id": "n1a1a62e11dbotf",
+           "kind": "work",
+           "title": "Nier Replicant ver.1.22474487139…",
+           "notes": [
+            "Nier 的重製版"
+           ],
+           "entries": [
+            {
+             "id": "e1a1a62e11d9o90",
+             "type": "video",
+             "segments": [
+              {
+               "text": "全流程",
+               "url": "https://www.youtube.com/playlist?list=PLwFY2FRIQ7pf3awtlKTWKQ7D0v8rwfBUA",
+               "mark": "video",
+               "playlist": true
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "id": "n1a1a62e11dfak4",
+           "kind": "work",
+           "title": "NieR:Automata",
+           "entries": [
+            {
+             "id": "e1a1a62e11dda96",
+             "type": "music",
+             "segments": [
+              {
+               "text": "OST Disc 1~3",
+               "url": "https://www.youtube.com/playlist?list=OLAK5uy_l--G5hZu15rmQoiNnHHGCARJ5xJePbWOM",
+               "mark": "music",
+               "playlist": true
+              },
+              {
+               "text": " ("
+              },
+              {
+               "text": "Wiki",
+               "url": "https://nier.fandom.com/wiki/NieR:Automata_Original_Soundtrack"
+              },
+              {
+               "text": ")"
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "id": "nmwn8lmyvuj7",
+         "kind": "work",
+         "title": "Drakengard 1",
+         "entries": [
+          {
+           "id": "emwn8lq3zfev",
+           "type": "video",
+           "segments": [
+            {
+             "text": "全流程",
              "url": "https://www.bilibili.com/video/BV17J411h7hG?spm_id_from=333.788.videopod.episodes",
              "mark": "video",
              "playlist": true
@@ -5306,12 +5380,13 @@
             },
             {
              "text": "劇情解讀",
-             "url": "https://www.bilibili.com/video/BV1LT4y1G7t3/?spm_id_from=333.788.video.desc.click"
+             "url": "https://www.bilibili.com/video/BV1LT4y1G7t3/?spm_id_from=333.788.video.desc.click",
+             "mark": "video"
             }
            ]
           },
           {
-           "id": "e1a1a62e11d5l4c",
+           "id": "emwn8mliuipx",
            "type": "music",
            "segments": [
             {
@@ -5332,76 +5407,6 @@
            ]
           }
          ]
-        },
-        {
-         "id": "n0131",
-         "kind": "subseries",
-         "title": "Nier",
-         "origin": "ppt:33",
-         "entries": [
-          {
-           "id": "e1a1a62e11e2jp7",
-           "type": "lore",
-           "segments": [
-            {
-             "text": "尼爾編年史",
-             "url": "https://www.bilibili.com/video/BV1984y127Qb/?spm_id_from=333.788.recommend_more_video.0&trackid=web_related_0.router-related-2206146-j2qzm.1765614643664.143"
-            }
-           ]
-          }
-         ],
-         "children": [
-          {
-           "id": "n1a1a62e11dbotf",
-           "kind": "work",
-           "title": "Nier Replicant ver.1.22474487139…",
-           "notes": [
-            "Nier 的重製版"
-           ],
-           "entries": [
-            {
-             "id": "e1a1a62e11d9o90",
-             "type": "video",
-             "segments": [
-              {
-               "text": "影片",
-               "url": "https://www.youtube.com/playlist?list=PLwFY2FRIQ7pf3awtlKTWKQ7D0v8rwfBUA",
-               "mark": "video",
-               "playlist": true
-              }
-             ]
-            }
-           ]
-          },
-          {
-           "id": "n1a1a62e11dfak4",
-           "kind": "work",
-           "title": "NieR:Automata",
-           "entries": [
-            {
-             "id": "e1a1a62e11dda96",
-             "type": "music",
-             "segments": [
-              {
-               "text": "OST Disc 1、2、3",
-               "url": "https://www.youtube.com/playlist?list=OLAK5uy_l--G5hZu15rmQoiNnHHGCARJ5xJePbWOM",
-               "mark": "music"
-              },
-              {
-               "text": " ("
-              },
-              {
-               "text": "Wiki",
-               "url": "https://nier.fandom.com/wiki/NieR:Automata_Original_Soundtrack"
-              },
-              {
-               "text": ")"
-              }
-             ]
-            }
-           ]
-          }
-         ]
         }
        ]
       },
@@ -5417,11 +5422,13 @@
          "segments": [
           {
            "text": "單機劇情解說",
-           "url": "https://www.bilibili.com/video/BV1254y1a7NL?spm_id_from=333.788.videopod.sections"
+           "url": "https://www.bilibili.com/video/BV1254y1a7NL?spm_id_from=333.788.videopod.sections",
+           "playlist": true,
+           "mark": "video"
           }
          ],
          "notes": [
-          "VI 僅看劇情解說，無遊玩影片"
+          "VI 僅看劇情解說，無 Gameplay 影片"
          ]
         }
        ],
@@ -5437,19 +5444,10 @@
            "type": "video",
            "segments": [
             {
-             "text": "20th Anniversary 版",
+             "text": "20th Anniversary Walkthrough",
              "url": "https://www.youtube.com/playlist?list=PLo6dUe-n7Er_1OhKNvceh0JLSOLZWH5H-",
+             "mark": "video",
              "playlist": true
-            }
-           ]
-          },
-          {
-           "id": "e1a1a62e11e8rug",
-           "type": "reference",
-           "segments": [
-            {
-             "text": "音樂 Wiki",
-             "url": "https://finalfantasy.fandom.com/wiki/Music_of_Final_Fantasy#Final_Fantasy_.26_Final_Fantasy_II"
             }
            ]
           },
@@ -5470,17 +5468,8 @@
              "url": "https://finalfantasy.fandom.com/wiki/Original_soundtracks_of_Final_Fantasy_I_%26_II#All_Sounds_of_Final_Fantasy_I_.26_II"
             },
             {
-             "text": ")"
-            }
-           ],
-           "notes": [
-            "I & II 合輯"
-           ]
-          },
-          {
-           "id": "e1a1a62e11edtoe",
-           "type": "music",
-           "segments": [
+             "text": ")、"
+            },
             {
              "text": "Symphonic Suite Final Fantasy",
              "url": "https://www.youtube.com/playlist?list=PLHautG-TadiuvdRQ3Oh14GL0ABBRpBq-T",
@@ -5496,7 +5485,16 @@
             {
              "text": ")"
             }
+           ],
+           "notes": [
+            "I & II 合輯"
            ]
+          }
+         ],
+         "links": [
+          {
+           "text": "音樂 Wiki",
+           "url": "https://finalfantasy.fandom.com/wiki/Music_of_Final_Fantasy#Final_Fantasy_.26_Final_Fantasy_II"
           }
          ]
         },
@@ -5510,16 +5508,19 @@
            "type": "video",
            "segments": [
             {
-             "text": "PSP 版",
+             "text": "PSP Ver. Walkthrough",
              "url": "https://www.youtube.com/playlist?list=PLcKOBt093M8pT8F3RofkVq03hmsZ_oJKC",
+             "mark": "video",
              "playlist": true
             },
             {
              "text": "、"
             },
             {
-             "text": "Soul of Rebirth",
-             "url": "https://www.youtube.com/playlist?list=PLcKOBt093M8pLnrxEs_Giw6MRqm7uL3Pn"
+             "text": "Soul of Rebirth Walkthrough",
+             "url": "https://www.youtube.com/playlist?list=PLcKOBt093M8pLnrxEs_Giw6MRqm7uL3Pn",
+             "mark": "video",
+             "playlist": true
             }
            ]
           }
@@ -5536,19 +5537,10 @@
            "type": "video",
            "segments": [
             {
-             "text": "PC 版",
+             "text": "PC Ver. Walkthrough",
              "url": "https://www.youtube.com/playlist?list=PLo6dUe-n7Er_rY7GNVltCSV4NDD0Ma48f",
+             "mark": "video",
              "playlist": true
-            }
-           ]
-          },
-          {
-           "id": "e1a1a62e11f59eg",
-           "type": "reference",
-           "segments": [
-            {
-             "text": "音樂 Wiki",
-             "url": "https://finalfantasy.fandom.com/wiki/Music_of_Final_Fantasy#Final_Fantasy_III"
             }
            ]
           },
@@ -5569,14 +5561,8 @@
              "url": "https://finalfantasy.fandom.com/wiki/Final_Fantasy_III_Original_Sound_Version"
             },
             {
-             "text": ")"
-            }
-           ]
-          },
-          {
-           "id": "e1a1a62e11fa0yl",
-           "type": "music",
-           "segments": [
+             "text": ")、"
+            },
             {
              "text": "Eternal Legend of the Wind",
              "url": "https://www.youtube.com/playlist?list=PLF0D8E226A47C1379",
@@ -5594,6 +5580,12 @@
             }
            ]
           }
+         ],
+         "links": [
+          {
+           "text": "音樂 Wiki",
+           "url": "https://finalfantasy.fandom.com/wiki/Music_of_Final_Fantasy#Final_Fantasy_III"
+          }
          ]
         },
         {
@@ -5607,8 +5599,9 @@
            "type": "video",
            "segments": [
             {
-             "text": "本篇",
+             "text": "本篇全流程",
              "url": "https://www.bilibili.com/video/BV1p3411H7Li/?spm_id_from=333.337.search-card.all.click",
+             "mark": "video",
              "playlist": true
             },
             {
@@ -5616,7 +5609,8 @@
             },
             {
              "text": "Interlude",
-             "url": "https://www.youtube.com/watch?v=JlA4qAF_kPE"
+             "url": "https://www.youtube.com/watch?v=JlA4qAF_kPE",
+             "mark": "video"
             },
             {
              "text": "、"
@@ -5624,17 +5618,8 @@
             {
              "text": "The After Years",
              "url": "https://www.youtube.com/playlist?list=PL1-nRQse3Hf2IjnFx_TNkIfX8hw-OxiTu",
+             "mark": "video",
              "playlist": true
-            }
-           ]
-          },
-          {
-           "id": "e1a1a62e11fedf2",
-           "type": "reference",
-           "segments": [
-            {
-             "text": "音樂 Wiki",
-             "url": "https://finalfantasy.fandom.com/wiki/Music_of_Final_Fantasy#Final_Fantasy_IV"
             }
            ]
           },
@@ -5655,14 +5640,8 @@
              "url": "https://finalfantasy.fandom.com/wiki/Original_soundtracks_of_Final_Fantasy_IV#Final_Fantasy_IV:_Original_Sound_Version"
             },
             {
-             "text": ")"
-            }
-           ]
-          },
-          {
-           "id": "e1a1a62e1202rss",
-           "type": "music",
-           "segments": [
+             "text": ")、"
+            },
             {
              "text": "Piano Collections",
              "url": "https://www.youtube.com/playlist?list=OLAK5uy_mUjQbALzHU5vE2IPz670TxiaX8irD1bjc",
@@ -5676,14 +5655,8 @@
              "url": "https://finalfantasy.fandom.com/wiki/Piano_Collections:_Final_Fantasy_IV"
             },
             {
-             "text": ")"
-            }
-           ]
-          },
-          {
-           "id": "e1a1a62e1205ebv",
-           "type": "music",
-           "segments": [
+             "text": ")、"
+            },
             {
              "text": "Celtic Moon",
              "url": "https://www.youtube.com/playlist?list=PLE4BD65621A60F241",
@@ -5697,14 +5670,8 @@
              "url": "https://finalfantasy.fandom.com/wiki/Final_Fantasy_IV:_Celtic_Moon"
             },
             {
-             "text": ")"
-            }
-           ]
-          },
-          {
-           "id": "e1a1a62e1207pw5",
-           "type": "music",
-           "segments": [
+             "text": ")、"
+            },
             {
              "text": "Minimum Album",
              "url": "https://www.youtube.com/playlist?list=PLDA73F959A3493927",
@@ -5722,6 +5689,12 @@
             }
            ]
           }
+         ],
+         "links": [
+          {
+           "text": "音樂 Wiki",
+           "url": "https://finalfantasy.fandom.com/wiki/Music_of_Final_Fantasy#Final_Fantasy_IV"
+          }
          ]
         },
         {
@@ -5735,19 +5708,9 @@
            "type": "video",
            "segments": [
             {
-             "text": "Pixel Remaster 版",
+             "text": "Pixel Remaster Ver. Walkthrough",
              "url": "https://www.youtube.com/playlist?list=PL0w8Te9HdCC6-Gw0i12hYT8ttAk297x2z",
              "playlist": true
-            }
-           ]
-          },
-          {
-           "id": "e1a1a62e120bgx5",
-           "type": "reference",
-           "segments": [
-            {
-             "text": "音樂 Wiki",
-             "url": "https://finalfantasy.fandom.com/wiki/Music_of_Final_Fantasy#Final_Fantasy_V"
             }
            ]
           },
@@ -5768,14 +5731,8 @@
              "url": "https://finalfantasy.fandom.com/wiki/Final_Fantasy_V:_Original_Sound_Version"
             },
             {
-             "text": ")"
-            }
-           ]
-          },
-          {
-           "id": "e1a1a62e1210hf0",
-           "type": "music",
-           "segments": [
+             "text": ")、"
+            },
             {
              "text": "Piano Collections",
              "url": "https://www.youtube.com/playlist?list=OLAK5uy_m2VkIMU5bEBcfiNcL1mf-eQbsxQ2E6bZE",
@@ -5789,14 +5746,8 @@
              "url": "https://finalfantasy.fandom.com/wiki/Piano_Collections:_Final_Fantasy_V"
             },
             {
-             "text": ")"
-            }
-           ]
-          },
-          {
-           "id": "e1a1a62e1212osn",
-           "type": "music",
-           "segments": [
+             "text": ")、"
+            },
             {
              "text": "Dear Friends",
              "url": "https://www.youtube.com/watch?v=C8v44YuoJKU",
@@ -5814,6 +5765,12 @@
             }
            ]
           }
+         ],
+         "links": [
+          {
+           "text": "音樂 Wiki",
+           "url": "https://finalfantasy.fandom.com/wiki/Music_of_Final_Fantasy#Final_Fantasy_V"
+          }
          ]
         },
         {
@@ -5822,16 +5779,6 @@
          "title": "Final Fantasy VI",
          "origin": "ppt:34",
          "entries": [
-          {
-           "id": "e1a1a62e1214ss8",
-           "type": "reference",
-           "segments": [
-            {
-             "text": "音樂 Wiki",
-             "url": "https://finalfantasy.fandom.com/wiki/Music_of_Final_Fantasy#Final_Fantasy_VI"
-            }
-           ]
-          },
           {
            "id": "e1a1a62e12162yb",
            "type": "music",
@@ -5849,14 +5796,8 @@
              "url": "https://finalfantasy.fandom.com/wiki/Original_soundtrack_of_Final_Fantasy_VI#Final_Fantasy_VI:_Original_Sound_Version"
             },
             {
-             "text": ")"
-            }
-           ]
-          },
-          {
-           "id": "e1a1a62e12183z2",
-           "type": "music",
-           "segments": [
+             "text": ")、"
+            },
             {
              "text": "Piano Collections",
              "url": "https://www.youtube.com/playlist?list=OLAK5uy_mniZ-5uNgooOHukXll1pRuL3XSuGSI3Qg",
@@ -5870,14 +5811,8 @@
              "url": "https://finalfantasy.fandom.com/wiki/Piano_Collections:_Final_Fantasy_VI"
             },
             {
-             "text": ")"
-            }
-           ]
-          },
-          {
-           "id": "e1a1a62e121b8tj",
-           "type": "music",
-           "segments": [
+             "text": ")、"
+            },
             {
              "text": "Grand Finale",
              "url": "https://www.youtube.com/playlist?list=PLxFujYG0o0wd-UEFCZ9o3PFaVaHtcFHrv",
@@ -5895,6 +5830,12 @@
             }
            ]
           }
+         ],
+         "links": [
+          {
+           "text": "音樂 Wiki",
+           "url": "https://finalfantasy.fandom.com/wiki/Music_of_Final_Fantasy#Final_Fantasy_VI"
+          }
          ]
         },
         {
@@ -5903,16 +5844,6 @@
          "title": "Final Fantasy VII",
          "origin": "ppt:35",
          "entries": [
-          {
-           "id": "e1a1a62e121d9rc",
-           "type": "reference",
-           "segments": [
-            {
-             "text": "音樂 Wiki",
-             "url": "https://finalfantasy.fandom.com/wiki/Music_of_Final_Fantasy#Final_Fantasy_VII"
-            }
-           ]
-          },
           {
            "id": "e1a1a62e121fygz",
            "type": "music",
@@ -5930,14 +5861,8 @@
              "url": "https://finalfantasy.fandom.com/wiki/Final_Fantasy_VII:_Original_Soundtrack"
             },
             {
-             "text": ")"
-            }
-           ]
-          },
-          {
-           "id": "e1a1a62e12217pg",
-           "type": "music",
-           "segments": [
+             "text": ")、"
+            },
             {
              "text": "Piano Collections",
              "url": "https://www.youtube.com/playlist?list=OLAK5uy_mhateyYieg0ert6KO_CVSSOggfANvDWE0",
@@ -5955,6 +5880,12 @@
             }
            ]
           }
+         ],
+         "links": [
+          {
+           "text": "音樂 Wiki",
+           "url": "https://finalfantasy.fandom.com/wiki/Music_of_Final_Fantasy#Final_Fantasy_VII"
+          }
          ]
         },
         {
@@ -5963,16 +5894,6 @@
          "title": "Final Fantasy VIII",
          "origin": "ppt:35",
          "entries": [
-          {
-           "id": "e1a1a62e1223aoa",
-           "type": "reference",
-           "segments": [
-            {
-             "text": "音樂 Wiki",
-             "url": "https://finalfantasy.fandom.com/wiki/Music_of_Final_Fantasy#Final_Fantasy_VIII"
-            }
-           ]
-          },
           {
            "id": "e1a1a62e1225rg6",
            "type": "music",
@@ -5983,7 +5904,7 @@
              "mark": "music"
             },
             {
-             "text": "、"
+             "text": ", "
             },
             {
              "text": "Disc 3 Track 20",
@@ -5998,14 +5919,8 @@
              "url": "https://finalfantasy.fandom.com/wiki/Final_Fantasy_VIII:_Original_Soundtrack"
             },
             {
-             "text": ")"
-            }
-           ]
-          },
-          {
-           "id": "e1a1a62e1227hb0",
-           "type": "music",
-           "segments": [
+             "text": ")、"
+            },
             {
              "text": "Piano Collections",
              "url": "https://www.youtube.com/playlist?list=OLAK5uy_k8anbHv845HYvK_yygXsljQcd-D1kO1GY",
@@ -6019,14 +5934,8 @@
              "url": "https://finalfantasy.fandom.com/wiki/Piano_Collections:_Final_Fantasy_VIII"
             },
             {
-             "text": ")"
-            }
-           ]
-          },
-          {
-           "id": "e1a1a62e122awv2",
-           "type": "music",
-           "segments": [
+             "text": ")、"
+            },
             {
              "text": "FITHOS LUSEC WECOS VINOSEC",
              "url": "https://www.youtube.com/playlist?list=PL3dlpEkBp0q6qR3Llush38UqIH_LxRDaT",
@@ -6044,6 +5953,12 @@
             }
            ]
           }
+         ],
+         "links": [
+          {
+           "text": "音樂 Wiki",
+           "url": "https://finalfantasy.fandom.com/wiki/Music_of_Final_Fantasy#Final_Fantasy_VIII"
+          }
          ]
         },
         {
@@ -6052,16 +5967,6 @@
          "title": "Final Fantasy IX",
          "origin": "ppt:35",
          "entries": [
-          {
-           "id": "e1a1a62e122cj0e",
-           "type": "reference",
-           "segments": [
-            {
-             "text": "音樂 Wiki",
-             "url": "https://finalfantasy.fandom.com/wiki/Music_of_Final_Fantasy#Final_Fantasy_IX"
-            }
-           ]
-          },
           {
            "id": "e1a1a62e122egfa",
            "type": "music",
@@ -6079,14 +5984,8 @@
              "url": "https://finalfantasy.fandom.com/wiki/Final_Fantasy_IX:_Original_Soundtrack"
             },
             {
-             "text": ")"
-            }
-           ]
-          },
-          {
-           "id": "e1a1a62e1230h0s",
-           "type": "music",
-           "segments": [
+             "text": ")、"
+            },
             {
              "text": "Piano Collections",
              "url": "https://www.youtube.com/playlist?list=PL63DC9D052F15446F",
@@ -6104,6 +6003,12 @@
             }
            ]
           }
+         ],
+         "links": [
+          {
+           "text": "音樂 Wiki",
+           "url": "https://finalfantasy.fandom.com/wiki/Music_of_Final_Fantasy#Final_Fantasy_IX"
+          }
          ]
         },
         {
@@ -6112,16 +6017,6 @@
          "title": "Final Fantasy X",
          "origin": "ppt:35",
          "entries": [
-          {
-           "id": "e1a1a62e1232lwo",
-           "type": "reference",
-           "segments": [
-            {
-             "text": "音樂 Wiki",
-             "url": "https://finalfantasy.fandom.com/wiki/Music_of_Final_Fantasy#Final_Fantasy_X"
-            }
-           ]
-          },
           {
            "id": "e1a1a62e1234jey",
            "type": "music",
@@ -6132,7 +6027,7 @@
              "mark": "music"
             },
             {
-             "text": "、"
+             "text": ", "
             },
             {
              "text": "Disc 1 Track 1",
@@ -6140,7 +6035,7 @@
              "mark": "music"
             },
             {
-             "text": "、"
+             "text": ", "
             },
             {
              "text": "Disc 4 Track 20",
@@ -6155,14 +6050,8 @@
              "url": "https://finalfantasy.fandom.com/wiki/Final_Fantasy_X:_Original_Soundtrack"
             },
             {
-             "text": ")"
-            }
-           ]
-          },
-          {
-           "id": "e1a1a62e1237u9h",
-           "type": "music",
-           "segments": [
+             "text": ")、"
+            },
             {
              "text": "Piano Collections",
              "url": "https://www.youtube.com/playlist?list=OLAK5uy_n6moxAxuL56JRwq6jyy5eOmMFaXEwkges",
@@ -6179,20 +6068,13 @@
              "text": ")"
             }
            ]
-          }
-         ]
-        },
-        {
-         "id": "n1a1a62e123de9z",
-         "kind": "work",
-         "title": "Final Fantasy X-2",
-         "entries": [
+          },
           {
-           "id": "e1a1a62e1239pmq",
+           "id": "emwn99skmw75",
            "type": "music",
            "segments": [
             {
-             "text": "OST（"
+             "text": "X-2 OST（"
             },
             {
              "text": "Disc 1",
@@ -6200,7 +6082,7 @@
              "mark": "music"
             },
             {
-             "text": "、"
+             "text": ", "
             },
             {
              "text": "Disc 2",
@@ -6208,21 +6090,15 @@
              "mark": "music"
             },
             {
-             "text": "） ("
+             "text": "）("
             },
             {
              "text": "Wiki",
              "url": "https://finalfantasy.fandom.com/wiki/Final_Fantasy_X-2:_Original_Soundtrack"
             },
             {
-             "text": ")"
-            }
-           ]
-          },
-          {
-           "id": "e1a1a62e123bb2t",
-           "type": "music",
-           "segments": [
+             "text": ")、"
+            },
             {
              "text": "Piano Collections",
              "url": "https://www.youtube.com/playlist?list=PLuZCn7R90yRbxE2zKzkK8gIp0Dv0McEhO",
@@ -6240,6 +6116,12 @@
             }
            ]
           }
+         ],
+         "links": [
+          {
+           "text": "音樂 Wiki",
+           "url": "https://finalfantasy.fandom.com/wiki/Music_of_Final_Fantasy#Final_Fantasy_X"
+          }
          ]
         },
         {
@@ -6252,8 +6134,9 @@
            "type": "video",
            "segments": [
             {
-             "text": "影片",
+             "text": "Full Walkthrough",
              "url": "https://www.youtube.com/playlist?list=PLhPXFNuPMDAHYGsJEy9-OEFKizFMbBWMM",
+             "mark": "video",
              "playlist": true
             }
            ]
@@ -6268,11 +6151,12 @@
          "entries": [
           {
            "id": "e1a1a62e125dqvr",
-           "type": "lore",
+           "type": "trivia",
            "segments": [
             {
-             "text": "Final Fantasy Legend I–III 解說",
-             "url": "https://www.bilibili.com/video/BV1cm42157bo/?spm_id_from=333.337.search-card.all.click"
+             "text": "Final Fantasy Legend I–III 遊戲解說",
+             "url": "https://www.bilibili.com/video/BV1cm42157bo/?spm_id_from=333.337.search-card.all.click",
+             "mark": "video"
             }
            ]
           }
@@ -6342,8 +6226,9 @@
              "type": "lore",
              "segments": [
               {
-               "text": "解說",
-               "url": "https://www.bilibili.com/video/BV1EptDeMEdN/?spm_id_from=333.1387.search.video_card.click"
+               "text": "遊戲解說",
+               "url": "https://www.bilibili.com/video/BV1EptDeMEdN/?spm_id_from=333.1387.search.video_card.click",
+               "mark": "video"
               }
              ]
             }
@@ -6359,8 +6244,9 @@
              "type": "lore",
              "segments": [
               {
-               "text": "解說",
-               "url": "https://www.bilibili.com/video/BV13J25YJEDp/?spm_id_from=333.1387.search.video_card.click"
+               "text": "遊戲解說",
+               "url": "https://www.bilibili.com/video/BV13J25YJEDp/?spm_id_from=333.1387.search.video_card.click",
+               "mark": "video"
               }
              ]
             }
@@ -6376,8 +6262,9 @@
              "type": "lore",
              "segments": [
               {
-               "text": "解說",
-               "url": "https://www.bilibili.com/video/BV1mQ2BYyEMH/?spm_id_from=333.1387.search.video_card.click"
+               "text": "遊戲解說",
+               "url": "https://www.bilibili.com/video/BV1mQ2BYyEMH/?spm_id_from=333.1387.search.video_card.click",
+               "mark": "video"
               }
              ]
             }
@@ -6404,8 +6291,9 @@
              "type": "lore",
              "segments": [
               {
-               "text": "解說",
-               "url": "https://www.bilibili.com/video/BV1fP4y117i5/?spm_id_from=333.337.search-card.all.click"
+               "text": "遊戲解說",
+               "url": "https://www.bilibili.com/video/BV1fP4y117i5/?spm_id_from=333.337.search-card.all.click",
+               "mark": "video"
               }
              ]
             }
@@ -6421,8 +6309,9 @@
              "type": "lore",
              "segments": [
               {
-               "text": "解說",
-               "url": "https://www.bilibili.com/video/BV1EM411Y7JU?spm_id_from=333.788.videopod.sections"
+               "text": "遊戲解說",
+               "url": "https://www.bilibili.com/video/BV1EM411Y7JU?spm_id_from=333.788.videopod.sections",
+               "mark": "video"
               }
              ]
             }
@@ -6440,7 +6329,7 @@
        "children": [
         {
          "id": "n0147",
-         "kind": "subseries",
+         "kind": "group",
          "title": "1st Series",
          "origin": "ppt:37",
          "children": [
@@ -6454,7 +6343,7 @@
              "type": "video",
              "segments": [
               {
-               "text": "影片",
+               "text": "Walkthrough",
                "url": "https://www.youtube.com/watch?v=a9HQa74cefg",
                "mark": "video"
               }
@@ -6472,7 +6361,7 @@
              "type": "video",
              "segments": [
               {
-               "text": "影片",
+               "text": "Walkthrough",
                "url": "https://www.youtube.com/watch?v=HGt7pg4jxus",
                "mark": "video"
               }
@@ -6490,7 +6379,7 @@
              "type": "video",
              "segments": [
               {
-               "text": "影片",
+               "text": "Walkthrough",
                "url": "https://www.youtube.com/watch?v=6zf9oZQnZcw",
                "mark": "video"
               }
@@ -6508,7 +6397,7 @@
              "type": "video",
              "segments": [
               {
-               "text": "影片",
+               "text": "Walkthrough",
                "url": "https://www.youtube.com/watch?v=Ri61A_PNzcc",
                "mark": "video"
               }
@@ -6526,7 +6415,7 @@
              "type": "video",
              "segments": [
               {
-               "text": "影片",
+               "text": "Walkthrough",
                "url": "https://www.youtube.com/watch?v=63VVa26xZfc",
                "mark": "video"
               }
@@ -6544,7 +6433,7 @@
              "type": "video",
              "segments": [
               {
-               "text": "影片",
+               "text": "Walkthrough",
                "url": "https://www.youtube.com/watch?v=eabZPvoCAwo",
                "mark": "video"
               }
@@ -6610,8 +6499,9 @@
            "type": "video",
            "segments": [
             {
-             "text": "影片",
-             "url": "https://www.youtube.com/watch?v=Th-Z6QQ5AOQ"
+             "text": "Gameplay",
+             "url": "https://www.youtube.com/watch?v=Th-Z6QQ5AOQ",
+             "mark": "video"
             }
            ]
           }
@@ -6627,8 +6517,9 @@
            "type": "video",
            "segments": [
             {
-             "text": "影片",
-             "url": "https://www.youtube.com/watch?v=sXA1AliWuKM"
+             "text": "Gameplay",
+             "url": "https://www.youtube.com/watch?v=sXA1AliWuKM",
+             "mark": "video"
             }
            ]
           }
@@ -6645,7 +6536,8 @@
            "segments": [
             {
              "text": "All Bosses",
-             "url": "https://www.youtube.com/watch?v=whYdFeWOCas"
+             "url": "https://www.youtube.com/watch?v=whYdFeWOCas",
+             "mark": "video"
             }
            ]
           }
@@ -6683,8 +6575,9 @@
          "type": "video",
          "segments": [
           {
-           "text": "影片",
-           "url": "https://www.youtube.com/watch?v=pLOVsLwfvsQ"
+           "text": "Evolution",
+           "url": "https://www.youtube.com/watch?v=pLOVsLwfvsQ",
+           "mark": "video"
           }
          ]
         }
@@ -6706,8 +6599,9 @@
            "type": "video",
            "segments": [
             {
-             "text": "影片",
-             "url": "https://www.youtube.com/watch?v=MU4psw3ccUI"
+             "text": "Gameplay",
+             "url": "https://www.youtube.com/watch?v=MU4psw3ccUI",
+             "mark": "video"
             }
            ]
           }
@@ -6723,8 +6617,9 @@
            "type": "video",
            "segments": [
             {
-             "text": "影片",
-             "url": "https://www.youtube.com/watch?v=Qhoi2t3-jMw"
+             "text": "Gameplay",
+             "url": "https://www.youtube.com/watch?v=Qhoi2t3-jMw",
+             "mark": "video"
             }
            ]
           }
@@ -6769,8 +6664,9 @@
          "type": "evolution",
          "segments": [
           {
-           "text": "Evolution",
-           "url": "https://www.youtube.com/watch?v=Wyp7_DwjxTY"
+           "text": "Evolution 1986~2024",
+           "url": "https://www.youtube.com/watch?v=Wyp7_DwjxTY",
+           "mark": "video"
           }
          ]
         }

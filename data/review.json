@@ -2,16 +2,6 @@
  "version": 1,
  "items": [
   {
-   "id": "r1a1a62e12d9jxm",
-   "node": "n1a1a62e11d7t3j",
-   "issue": "Drakengard 1 原本有「Drakengard 1」和「劇情解讀」兩支 B 站影片，第一支暫時標成「解說」，請確認內容"
-  },
-  {
-   "id": "r1a1a62e12db1ei",
-   "node": "n0133",
-   "issue": "FF VII～X 原本被轉檔誤放在 FF VI 底下，已拉回同一層；FF IV 的影片原本只寫「Main Game、Interlude、The After Years」（少了遊戲名），判斷是 FF IV；各作的音樂 Wiki 改成「資料」紀錄；FF I & II 的合輯音樂放在 FF I"
-  },
-  {
    "id": "r1a1a62ebc43krd",
    "node": "n1a1a62ebc21a0r",
    "issue": "原本是一行「Full Game、Rayman Legends」，Full Game（未標記）先放在 Rayman Legends，請確認是哪一款的"
@@ -45,16 +35,6 @@
    "id": "r1a1a6303627l3d",
    "node": "n0219",
    "issue": "「(Database, vid.)」那筆音樂判斷是 The Tale of a Cruel World（原本寫在備註），請確認；Otherworld 是另一款遊戲的 OST"
-  },
-  {
-   "id": "r1a1a645e09ao5u",
-   "node": "n0023",
-   "issue": "Square Enix：以下 8 款的影片連結原本只寫遊戲名稱，暫時標成「影片」，請告訴我實際內容（Full Walkthrough、實況…）：Nier Replicant ver.1.22474487139…、Final Fantasy XIII、Tomb Raider (1996)、Tomb Raider 2、Tomb Raider 3、Tomb Raider 4、Tomb Raider 5、Tomb Raider 6"
-  },
-  {
-   "id": "r1a1a645e09cyq3",
-   "node": "n0025",
-   "issue": "Taito：以下 5 款的影片連結原本只寫遊戲名稱，暫時標成「影片」，請告訴我實際內容（Full Walkthrough、實況…）：Arkanoid (1986)、Arkanoid: Revenge of Doh、Operation Wolf、Space Invaders (1978)、Space Invaders Extreme 1 & 2"
   },
   {
    "id": "r1a1a645e09en47",
