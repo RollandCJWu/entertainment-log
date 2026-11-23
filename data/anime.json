@@ -467,13 +467,14 @@
    "id": "n0238",
    "kind": "work",
    "title": "Re:從零開始的異世界生活",
+   "source": "light-novel",
    "links": [
     {
      "text": "Re:從零開始的異世界生活",
      "url": "https://rezero.fandom.com/wiki/Re:Zero_Wiki"
     },
     {
-     "text": "Wiki",
+     "text": "動畫Wiki",
      "url": "https://zh.wikipedia.org/zh-tw/Re:%E5%BE%9E%E9%9B%B6%E9%96%8B%E5%A7%8B%E7%9A%84%E7%95%B0%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB%E5%8A%87%E9%9B%86%E5%88%97%E8%A1%A8"
     }
    ],
@@ -483,27 +484,12 @@
      "type": "anime",
      "segments": [
       {
-       "text": "第一季 ("
-      },
-      {
-       "text": "木棉花",
+       "text": "第一季",
        "url": "https://www.youtube.com/playlist?list=PL12UaAf_xzfrzEb8v_1R2HTbm_QZ5Omjv",
        "mark": "anime"
       },
       {
-       "text": ")"
-      }
-     ],
-     "notes": [
-      "※木棉花為新編輯版"
-     ]
-    },
-    {
-     "id": "e0371",
-     "type": "anime",
-     "segments": [
-      {
-       "text": "劇場版："
+       "text": "、劇場版："
       },
       {
        "text": "Memory Snow",
@@ -517,20 +503,45 @@
        "text": "冰結之絆",
        "url": "https://ani.gamer.com.tw/animeVideo.php?sn=17335",
        "mark": "anime"
+      },
+      {
+       "text": "、"
+      },
+      {
+       "text": "第二季",
+       "url": "https://www.youtube.com/playlist?list=PL12UaAf_xzfoCCl52GkDiMPfrzuAfmsuG",
+       "mark": "anime"
       }
+     ],
+     "notes": [
+      "※第一季為木棉花新編輯版"
      ]
     },
     {
-     "id": "e0372",
-     "type": "anime",
+     "id": "e0371",
+     "type": "music",
      "segments": [
       {
-       "text": "第二季 ("
+       "text": "Original Soundtrack ("
       },
       {
-       "text": "木棉花",
-       "url": "https://www.youtube.com/playlist?list=PL12UaAf_xzfoCCl52GkDiMPfrzuAfmsuG",
-       "mark": "anime"
+       "text": "Wiki",
+       "url": "https://rezero.fandom.com/wiki/Re:Zero_Original_Soundtrack"
+      },
+      {
+       "text": ")、"
+      },
+      {
+       "text": "Original Soundtrack 2",
+       "url": "https://www.youtube.com/playlist?list=PL07b5MtLOCJYe2vKFESMiI-48J9OMp3Ev",
+       "mark": "music"
+      },
+      {
+       "text": " ("
+      },
+      {
+       "text": "Wiki",
+       "url": "https://rezero.fandom.com/wiki/Re:Zero_Original_Soundtrack_2"
       },
       {
        "text": ")"
@@ -538,41 +549,7 @@
      ]
     },
     {
-     "id": "e0373",
-     "type": "music",
-     "segments": [
-      {
-       "text": "Re:Zero Original Soundtrack: "
-      },
-      {
-       "text": "Wiki",
-       "url": "https://rezero.fandom.com/wiki/Re:Zero_Original_Soundtrack"
-      }
-     ]
-    },
-    {
-     "id": "e0374",
-     "type": "music",
-     "segments": [
-      {
-       "text": "Re:Zero Original Soundtrack 2: "
-      },
-      {
-       "text": "Wiki",
-       "url": "https://rezero.fandom.com/wiki/Re:Zero_Original_Soundtrack_2"
-      },
-      {
-       "text": " "
-      },
-      {
-       "text": "vid.",
-       "url": "https://www.youtube.com/playlist?list=PL07b5MtLOCJYe2vKFESMiI-48J9OMp3Ev",
-       "mark": "music"
-      }
-     ]
-    },
-    {
-     "id": "e0375",
+     "id": "e0372",
      "type": "music",
      "segments": [
       {
@@ -582,20 +559,20 @@
       }
      ]
     }
-   ],
-   "source": "light-novel"
+   ]
   },
   {
    "id": "n0239",
    "kind": "work",
    "title": "為美好的世界獻上祝福！",
+   "source": "light-novel",
    "links": [
     {
      "text": "為美好的世界獻上祝福！",
      "url": "https://konosuba.fandom.com/wiki/Kono_Subarashii_Sekai_ni_Shukufuku_wo!_Wiki"
     },
     {
-     "text": "動畫 Wiki",
+     "text": "動畫Wiki",
      "url": "https://konosuba.fandom.com/wiki/Anime"
     }
    ],
@@ -605,29 +582,71 @@
      "type": "anime",
      "segments": [
       {
-       "text": "第一季 ("
-      },
-      {
-       "text": "Anime1",
+       "text": "第一季",
        "url": "https://anime1.me/category/2016%E5%B9%B4%E5%86%AC%E5%AD%A3/%E7%82%BA%E7%BE%8E%E5%A5%BD%E7%9A%84%E4%B8%96%E7%95%8C%E7%8D%BB%E4%B8%8A%E7%A5%9D%E7%A6%8F%EF%BC%81",
        "mark": "anime"
       },
       {
-       "text": ")"
+       "text": "、"
+      },
+      {
+       "text": "第二季",
+       "url": "https://anime1.me/category/2017%E5%B9%B4%E5%86%AC%E5%AD%A3/%E7%82%BA%E7%BE%8E%E5%A5%BD%E7%9A%84%E4%B8%96%E7%95%8C%E7%8D%BB%E4%B8%8A%E7%A5%9D%E7%A6%8F%EF%BC%81-%E7%AC%AC%E4%BA%8C%E5%AD%A3",
+       "mark": "anime"
       }
+     ],
+     "notes": [
+      "※兩季各含1集OVA"
      ]
     },
     {
      "id": "e0377",
-     "type": "anime",
+     "type": "music",
      "segments": [
       {
-       "text": "第二季 ("
+       "text": "OST："
       },
       {
-       "text": "Anime1",
-       "url": "https://anime1.me/category/2017%E5%B9%B4%E5%86%AC%E5%AD%A3/%E7%82%BA%E7%BE%8E%E5%A5%BD%E7%9A%84%E4%B8%96%E7%95%8C%E7%8D%BB%E4%B8%8A%E7%A5%9D%E7%A6%8F%EF%BC%81-%E7%AC%AC%E4%BA%8C%E5%AD%A3",
-       "mark": "anime"
+       "text": "Give Blessings to us on the Road!",
+       "url": "https://www.bilibili.com/video/BV1HW411P7AZ/?spm_id_from=333.337.search-card.all.click",
+       "mark": "music"
+      },
+      {
+       "text": " ("
+      },
+      {
+       "text": "Wiki",
+       "url": "https://konosuba.fandom.com/wiki/Give_Blessings_to_us_on_the_Road!"
+      },
+      {
+       "text": ")、"
+      },
+      {
+       "text": "Lord Have Mercy on Adventurers!",
+       "url": "https://www.bilibili.com/video/BV1SW411w7YT/?spm_id_from=333.999.0.0",
+       "mark": "music"
+      },
+      {
+       "text": " ("
+      },
+      {
+       "text": "Wiki",
+       "url": "https://konosuba.fandom.com/wiki/Lord_Have_Mercy_on_Adventurers!"
+      },
+      {
+       "text": ")、"
+      },
+      {
+       "text": "Gospels for Days of Passion!",
+       "url": "https://www.bilibili.com/video/BV1ns411j7qx/?spm_id_from=333.999.0.0",
+       "mark": "music"
+      },
+      {
+       "text": " ("
+      },
+      {
+       "text": "Wiki",
+       "url": "https://konosuba.fandom.com/wiki/Gospels_for_Days_of_Passion!"
       },
       {
        "text": ")"
@@ -636,15 +655,67 @@
     },
     {
      "id": "e0378",
-     "type": "anime",
+     "type": "music",
      "segments": [
       {
-       "text": "電影：紅傳說 ("
+       "text": "第一季 "
       },
       {
-       "text": "巴哈",
-       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=23649",
-       "mark": "anime"
+       "text": "OP Album",
+       "url": "https://open.spotify.com/album/4i2kq8XuL9MOkQe4JqVN5L",
+       "mark": "music"
+      },
+      {
+       "text": " ("
+      },
+      {
+       "text": "Wiki",
+       "url": "https://konosuba.fandom.com/wiki/Fantastic_dreamer"
+      },
+      {
+       "text": ")、"
+      },
+      {
+       "text": "ED Album",
+       "url": "https://www.bilibili.com/video/BV1Tp411Z7VG/?spm_id_from=333.337.search-card.all.click",
+       "mark": "music"
+      },
+      {
+       "text": " ("
+      },
+      {
+       "text": "Wiki",
+       "url": "https://konosuba.fandom.com/wiki/Chiisana_Boukensha"
+      },
+      {
+       "text": ")；第二季 "
+      },
+      {
+       "text": "OP Album",
+       "url": "https://open.spotify.com/album/0zeX5X6K0DAnzoFSg8u3VA",
+       "mark": "music"
+      },
+      {
+       "text": " ("
+      },
+      {
+       "text": "Wiki",
+       "url": "https://konosuba.fandom.com/wiki/TOMORROW"
+      },
+      {
+       "text": ")、"
+      },
+      {
+       "text": "ED Album",
+       "url": "https://www.bilibili.com/video/BV1mW411N732/?spm_id_from=333.999.0.0",
+       "mark": "music"
+      },
+      {
+       "text": " ("
+      },
+      {
+       "text": "Wiki",
+       "url": "https://konosuba.fandom.com/wiki/Ouchi_ni_Kaeritai"
       },
       {
        "text": ")"
@@ -656,41 +727,63 @@
      "type": "anime",
      "segments": [
       {
-       "text": "Explosion ("
+       "text": "劇場版："
       },
       {
-       "text": "巴哈",
-       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=33253",
+       "text": "紅傳說",
+       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=23649",
        "mark": "anime"
-      },
-      {
-       "text": ")"
       }
      ]
     },
     {
      "id": "e0380",
-     "type": "anime",
+     "type": "music",
      "segments": [
       {
-       "text": "第三季 ("
+       "text": "紅傳說 OST："
       },
       {
-       "text": "巴哈",
-       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=37832",
-       "mark": "anime"
+       "text": "Smoke Signal of Hope for the Clear Blue Sky!",
+       "url": "https://www.bilibili.com/video/BV1DJ411N7t8/?spm_id_from=333.337.search-card.all.click",
+       "mark": "music"
       },
       {
-       "text": ")"
+       "text": " ("
+      },
+      {
+       "text": "Wiki",
+       "url": "https://konosuba.fandom.com/wiki/Sumiwataru_Aozora_ni_Kibou_no_Noroshi_wo!"
+      },
+      {
+       "text": "), "
+      },
+      {
+       "text": "OP Album",
+       "url": "https://www.youtube.com/playlist?list=OLAK5uy_l5pf7hzB-g0TEmeHU6MJj0vUr2tbwaE5g",
+       "mark": "music"
+      },
+      {
+       "text": "、"
+      },
+      {
+       "text": "ED Album",
+       "url": "https://www.bilibili.com/video/BV1KJ411K7qS/?spm_id_from=333.337.search-card.all.click",
+       "mark": "music"
       }
      ]
     },
     {
      "id": "e0386",
-     "type": "other",
+     "type": "anime",
      "segments": [
       {
-       "text": "Movie: Legend of Crimson"
+       "text": "外傳："
+      },
+      {
+       "text": "Explosion",
+       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=33253",
+       "mark": "anime"
       }
      ]
     },
@@ -699,249 +792,64 @@
      "type": "music",
      "segments": [
       {
-       "text": "Smoke Signal of Hope for the Clear Blue Sky!: "
+       "text": "Explosion OST："
       },
       {
-       "text": "Wiki",
-       "url": "https://konosuba.fandom.com/wiki/Sumiwataru_Aozora_ni_Kibou_no_Noroshi_wo!"
-      },
-      {
-       "text": ", "
-      },
-      {
-       "text": "vid.",
-       "url": "https://www.bilibili.com/video/BV1DJ411N7t8/?spm_id_from=333.337.search-card.all.click",
-       "mark": "music"
-      }
-     ]
-    },
-    {
-     "id": "e0388",
-     "type": "music",
-     "segments": [
-      {
-       "text": "OP Album: "
-      },
-      {
-       "text": "vid.",
-       "url": "https://www.youtube.com/playlist?list=OLAK5uy_l5pf7hzB-g0TEmeHU6MJj0vUr2tbwaE5g",
-       "mark": "music"
-      },
-      {
-       "text": "；ED Album: "
-      },
-      {
-       "text": "vid.",
-       "url": "https://www.bilibili.com/video/BV1KJ411K7qS/?spm_id_from=333.337.search-card.all.click",
-       "mark": "music"
-      }
-     ]
-    },
-    {
-     "id": "e0389",
-     "type": "reference",
-     "segments": [
-      {
-       "text": "Kono Subarashii Sekai ni Bakuen wo! OST: "
-      },
-      {
-       "text": "Wiki",
-       "url": "https://konosuba.fandom.com/wiki/Kono_Subarashii_Sekai_ni_Bakuen_wo!_Original_Soundtrack"
-      }
-     ]
-    },
-    {
-     "id": "e0390",
-     "type": "music",
-     "segments": [
-      {
-       "text": "vid.",
+       "text": "Kono Subarashii Sekai ni Bakuen wo! OST",
        "url": "https://www.bilibili.com/video/BV1Jm4y1V78W/?spm_id_from=333.337.search-card.all.click",
        "mark": "music"
       },
       {
-       "text": " "
+       "text": " ("
       },
       {
-       "text": "Disc 2-track 9",
+       "text": "Wiki",
+       "url": "https://konosuba.fandom.com/wiki/Kono_Subarashii_Sekai_ni_Bakuen_wo!_Original_Soundtrack"
+      },
+      {
+       "text": "), "
+      },
+      {
+       "text": "Disc 2 Track 9",
        "url": "https://www.youtube.com/watch?v=vnAZJFsfQwc&list=PLZF5Y3jDFzoPSgOREAmKYJDyZpfB2GqhD&index=45",
        "mark": "music"
       },
       {
-       "text": " (Missed track)"
-      }
-     ]
-    },
-    {
-     "id": "e0391",
-     "type": "music",
-     "segments": [
-      {
-       "text": "OP Album: "
+       "text": " (補缺)；"
       },
       {
-       "text": "vid.",
+       "text": "OP Album",
        "url": "https://www.bilibili.com/video/BV1qs4y1c71K/?spm_id_from=333.337.search-card.all.click",
        "mark": "music"
       },
       {
-       "text": "；ED Album: "
+       "text": "、"
       },
       {
-       "text": "vid.",
+       "text": "ED Album",
        "url": "https://www.bilibili.com/video/BV1qP411U7KJ/?spm_id_from=333.999.0.0",
        "mark": "music"
       }
      ]
     },
     {
-     "id": "e0381",
-     "type": "music",
+     "id": "e0388",
+     "type": "anime",
      "segments": [
       {
-       "text": "Give Blessings to us on the Road!: "
-      },
-      {
-       "text": "Wiki",
-       "url": "https://konosuba.fandom.com/wiki/Give_Blessings_to_us_on_the_Road!"
-      },
-      {
-       "text": ","
-      },
-      {
-       "text": "vid.",
-       "url": "https://www.bilibili.com/video/BV1HW411P7AZ/?spm_id_from=333.337.search-card.all.click",
-       "mark": "music"
-      }
-     ]
-    },
-    {
-     "id": "e0382",
-     "type": "music",
-     "segments": [
-      {
-       "text": "Lord Have Mercy on Adventurers!: "
-      },
-      {
-       "text": "Wiki",
-       "url": "https://konosuba.fandom.com/wiki/Lord_Have_Mercy_on_Adventurers!"
-      },
-      {
-       "text": ","
-      },
-      {
-       "text": " "
-      },
-      {
-       "text": "vid.",
-       "url": "https://www.bilibili.com/video/BV1SW411w7YT/?spm_id_from=333.999.0.0",
-       "mark": "music"
-      }
-     ]
-    },
-    {
-     "id": "e0383",
-     "type": "music",
-     "segments": [
-      {
-       "text": "Gospels for Days of Passion!: "
-      },
-      {
-       "text": "Wiki",
-       "url": "https://konosuba.fandom.com/wiki/Gospels_for_Days_of_Passion!"
-      },
-      {
-       "text": ","
-      },
-      {
-       "text": "vid.",
-       "url": "https://www.bilibili.com/video/BV1ns411j7qx/?spm_id_from=333.999.0.0",
-       "mark": "music"
-      }
-     ]
-    },
-    {
-     "id": "e0384",
-     "type": "music",
-     "segments": [
-      {
-       "text": "Season 1 OP Album: "
-      },
-      {
-       "text": "Wiki",
-       "url": "https://konosuba.fandom.com/wiki/Fantastic_dreamer"
-      },
-      {
-       "text": ", "
-      },
-      {
-       "text": "Spotify",
-       "url": "https://open.spotify.com/album/4i2kq8XuL9MOkQe4JqVN5L",
-       "mark": "music"
-      },
-      {
-       "text": "；ED Album: "
-      },
-      {
-       "text": "Wiki",
-       "url": "https://konosuba.fandom.com/wiki/Chiisana_Boukensha"
-      },
-      {
-       "text": ", "
-      },
-      {
-       "text": "vid.",
-       "url": "https://www.bilibili.com/video/BV1Tp411Z7VG/?spm_id_from=333.337.search-card.all.click",
-       "mark": "music"
-      }
-     ]
-    },
-    {
-     "id": "e0385",
-     "type": "music",
-     "segments": [
-      {
-       "text": "Season 2 OP Album: "
-      },
-      {
-       "text": "Wiki",
-       "url": "https://konosuba.fandom.com/wiki/TOMORROW"
-      },
-      {
-       "text": ", "
-      },
-      {
-       "text": "Spotify",
-       "url": "https://open.spotify.com/album/0zeX5X6K0DAnzoFSg8u3VA",
-       "mark": "music"
-      },
-      {
-       "text": "；ED Album: "
-      },
-      {
-       "text": "Wiki",
-       "url": "https://konosuba.fandom.com/wiki/Ouchi_ni_Kaeritai"
-      },
-      {
-       "text": ", "
-      },
-      {
-       "text": "vid.",
-       "url": "https://www.bilibili.com/video/BV1mW411N732/?spm_id_from=333.999.0.0",
-       "mark": "music"
+       "text": "第三季",
+       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=37832",
+       "mark": "anime"
       }
      ]
     }
-   ],
-   "notes": [
-    "※Anime1兩季各含1集OVA"
-   ],
-   "source": "light-novel"
+   ]
   },
   {
    "id": "n0240",
    "kind": "work",
    "title": "約會大作戰",
+   "source": "light-novel",
    "links": [
     {
      "text": "約會大作戰",
@@ -954,19 +862,76 @@
      "type": "anime",
      "segments": [
       {
-       "text": "第一季 ("
+       "text": "第一季",
+       "url": "https://anime1.me/category/2013%E5%B9%B4%E6%98%A5%E5%AD%A3/%E7%B4%84%E6%9C%83%E5%A4%A7%E4%BD%9C%E6%88%B0",
+       "mark": "anime"
+      },
+      {
+       "text": " ("
       },
       {
        "text": "Wiki",
        "url": "https://date-a-live.fandom.com/wiki/Season_1"
       },
       {
-       "text": ", "
+       "text": ")、"
       },
       {
-       "text": "Anime1",
-       "url": "https://anime1.me/category/2013%E5%B9%B4%E6%98%A5%E5%AD%A3/%E7%B4%84%E6%9C%83%E5%A4%A7%E4%BD%9C%E6%88%B0",
+       "text": "第二季",
+       "url": "https://anime1.me/category/2014%E5%B9%B4%E6%98%A5%E5%AD%A3/%E7%B4%84%E6%9C%83%E5%A4%A7%E4%BD%9C%E6%88%B0-ii-%E7%AC%AC%E4%BA%8C%E5%AD%A3",
        "mark": "anime"
+      },
+      {
+       "text": " ("
+      },
+      {
+       "text": "Wiki",
+       "url": "https://date-a-live.fandom.com/wiki/Season_2"
+      },
+      {
+       "text": ")、"
+      },
+      {
+       "text": "第三季",
+       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=11465",
+       "mark": "anime"
+      },
+      {
+       "text": " ("
+      },
+      {
+       "text": "Wiki",
+       "url": "https://date-a-live.fandom.com/wiki/Season_3"
+      },
+      {
+       "text": ")、"
+      },
+      {
+       "text": "第四季",
+       "url": "https://anime1.me/category/2022%E5%B9%B4%E6%98%A5%E5%AD%A3/%E7%B4%84%E6%9C%83%E5%A4%A7%E4%BD%9C%E6%88%B0-%E7%AC%AC%E5%9B%9B%E5%AD%A3",
+       "mark": "anime"
+      },
+      {
+       "text": " ("
+      },
+      {
+       "text": "Wiki",
+       "url": "https://date-a-live.fandom.com/wiki/Season_4"
+      },
+      {
+       "text": ")、"
+      },
+      {
+       "text": "第五季",
+       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=37834",
+       "mark": "anime"
+      },
+      {
+       "text": " ("
+      },
+      {
+       "text": "Wiki",
+       "url": "https://date-a-live.fandom.com/wiki/Season_5"
       },
       {
        "text": ")"
@@ -978,19 +943,34 @@
      "type": "anime",
      "segments": [
       {
-       "text": "第二季 ("
+       "text": "劇場版："
+      },
+      {
+       "text": "萬由里審判",
+       "url": "https://anime1.me/category/2015%E5%B9%B4%E5%A4%8F%E5%AD%A3/%E7%B4%84%E6%9C%83%E5%A4%A7%E4%BD%9C%E6%88%B0-%E5%8A%87%E5%A0%B4%E7%89%88-%E5%AF%A9%E5%88%A4%E8%90%AC%E7%94%B1%E9%87%8C",
+       "mark": "anime"
+      },
+      {
+       "text": " ("
       },
       {
        "text": "Wiki",
-       "url": "https://date-a-live.fandom.com/wiki/Season_2"
+       "url": "https://date-a-live.fandom.com/wiki/Date_A_Live_Movie:_Mayuri_Judgement"
       },
       {
-       "text": ", "
+       "text": ")、"
       },
       {
-       "text": "Anime1",
-       "url": "https://anime1.me/category/2014%E5%B9%B4%E6%98%A5%E5%AD%A3/%E7%B4%84%E6%9C%83%E5%A4%A7%E4%BD%9C%E6%88%B0-ii-%E7%AC%AC%E4%BA%8C%E5%AD%A3",
+       "text": "外傳OVA",
+       "url": "https://www.bilibili.com/bangumi/play/ss38551?spm_id_from=333.337.0.0",
        "mark": "anime"
+      },
+      {
+       "text": " ("
+      },
+      {
+       "text": "Wiki",
+       "url": "https://zh.wikipedia.org/wiki/%E7%B4%84%E6%9C%83%E5%A4%A7%E4%BD%9C%E6%88%B0_(%E5%8B%95%E7%95%AB)#OVA"
       },
       {
        "text": ")"
@@ -999,304 +979,125 @@
     },
     {
      "id": "e0394",
-     "type": "anime",
-     "segments": [
-      {
-       "text": "劇場版 ("
-      },
-      {
-       "text": "Wiki",
-       "url": "https://date-a-live.fandom.com/wiki/Date_A_Live_Movie:_Mayuri_Judgement"
-      },
-      {
-       "text": ", "
-      },
-      {
-       "text": "Anime1",
-       "url": "https://anime1.me/category/2015%E5%B9%B4%E5%A4%8F%E5%AD%A3/%E7%B4%84%E6%9C%83%E5%A4%A7%E4%BD%9C%E6%88%B0-%E5%8A%87%E5%A0%B4%E7%89%88-%E5%AF%A9%E5%88%A4%E8%90%AC%E7%94%B1%E9%87%8C",
-       "mark": "anime"
-      },
-      {
-       "text": ")"
-      }
-     ]
-    },
-    {
-     "id": "e0395",
-     "type": "anime",
-     "segments": [
-      {
-       "text": "第三季 ("
-      },
-      {
-       "text": "Wiki",
-       "url": "https://date-a-live.fandom.com/wiki/Season_3"
-      },
-      {
-       "text": ", "
-      },
-      {
-       "text": "巴哈",
-       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=11465",
-       "mark": "anime"
-      },
-      {
-       "text": ")"
-      }
-     ]
-    },
-    {
-     "id": "e0396",
-     "type": "anime",
-     "segments": [
-      {
-       "text": "外傳OVA ("
-      },
-      {
-       "text": "Wiki",
-       "url": "https://zh.wikipedia.org/wiki/%E7%B4%84%E6%9C%83%E5%A4%A7%E4%BD%9C%E6%88%B0_(%E5%8B%95%E7%95%AB)#OVA"
-      },
-      {
-       "text": ", "
-      },
-      {
-       "text": "Bilibili",
-       "url": "https://www.bilibili.com/bangumi/play/ss38551?spm_id_from=333.337.0.0",
-       "mark": "anime"
-      },
-      {
-       "text": ")"
-      }
-     ]
-    },
-    {
-     "id": "e0397",
-     "type": "anime",
-     "segments": [
-      {
-       "text": "第四季 ("
-      },
-      {
-       "text": "Wiki",
-       "url": "https://date-a-live.fandom.com/wiki/Season_4"
-      },
-      {
-       "text": ", "
-      },
-      {
-       "text": "Anime1",
-       "url": "https://anime1.me/category/2022%E5%B9%B4%E6%98%A5%E5%AD%A3/%E7%B4%84%E6%9C%83%E5%A4%A7%E4%BD%9C%E6%88%B0-%E7%AC%AC%E5%9B%9B%E5%AD%A3",
-       "mark": "anime"
-      },
-      {
-       "text": ")"
-      }
-     ]
-    },
-    {
-     "id": "e0398",
-     "type": "anime",
-     "segments": [
-      {
-       "text": "第五季 ("
-      },
-      {
-       "text": "Wiki",
-       "url": "https://date-a-live.fandom.com/wiki/Season_5"
-      },
-      {
-       "text": ", "
-      },
-      {
-       "text": "巴哈",
-       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=37834",
-       "mark": "anime"
-      },
-      {
-       "text": ")"
-      }
-     ]
-    },
-    {
-     "id": "e0404",
      "type": "music",
      "segments": [
       {
-       "text": "Date A Music First Half: "
+       "text": "Date A Music："
+      },
+      {
+       "text": "First Half",
+       "url": "https://www.bilibili.com/video/BV1Fs411f775/",
+       "mark": "music"
+      },
+      {
+       "text": " ("
       },
       {
        "text": "Wiki",
        "url": "https://date-a-live.fandom.com/wiki/Date_A_Music_First_Half"
       },
       {
-       "text": ", "
+       "text": ")、"
       },
       {
-       "text": "vid.",
-       "url": "https://www.bilibili.com/video/BV1Fs411f775/?spm_id_from=333.999.0.0https://www.bilibili.com/video/BV1Fs411f775/?spm_id_from=333.999.0.0",
+       "text": "Second Half",
+       "url": "https://www.bilibili.com/video/BV15s411f7hP/?spm_id_from=333.999.0.0",
        "mark": "music"
-      }
-     ]
-    },
-    {
-     "id": "e0405",
-     "type": "anime",
-     "segments": [
+      },
       {
-       "text": "Second Half: "
+       "text": " ("
       },
       {
        "text": "Wiki",
        "url": "https://date-a-live.fandom.com/wiki/Date_A_Music_Second_Half"
       },
       {
-       "text": ", "
+       "text": ")、"
       },
       {
-       "text": "vid.",
-       "url": "https://www.bilibili.com/video/BV15s411f7hP/?spm_id_from=333.999.0.0",
-       "mark": "anime"
-      }
-     ]
-    },
-    {
-     "id": "e0406",
-     "type": "music",
-     "segments": [
-      {
-       "text": "Extension: "
-      },
-      {
-       "text": "Wiki",
+       "text": "Extension",
        "url": "https://date-a-live.fandom.com/wiki/Date_A_Music_Extension",
        "mark": "music"
       },
       {
-       "text": " "
-      },
-      {
-       "text": "(內有音檔)"
+       "text": " (Wiki 內有音檔)"
       }
      ]
     },
     {
-     "id": "e0407",
+     "id": "e0395",
      "type": "music",
      "segments": [
       {
-       "text": "Date A \"Extreme\" ("
+       "text": "Date A "
+      },
+      {
+       "text": "\"Extreme\" Music",
+       "url": "https://open.spotify.com/album/6eti36wCDFzZIjredqqIsp",
+       "mark": "music"
+      },
+      {
+       "text": " ("
       },
       {
        "text": "Wiki",
        "url": "https://date-a-live.fandom.com/wiki/Date_A_%22Extreme%22_Music"
       },
       {
-       "text": ", "
+       "text": ")、"
       },
       {
-       "text": "Spotify",
-       "url": "https://open.spotify.com/album/6eti36wCDFzZIjredqqIsp",
+       "text": "\"Impressive\" Music",
+       "url": "https://open.spotify.com/album/6yRanFrU2dY3dz6a1T5Irr",
        "mark": "music"
       },
       {
-       "text": ") \"Impressive\" ("
+       "text": " ("
       },
       {
        "text": "Wiki",
        "url": "https://date-a-live.fandom.com/wiki/Date_A_%22Impressive%22_Music"
       },
       {
-       "text": ", "
+       "text": ")、"
       },
       {
-       "text": "Spotify",
-       "url": "https://open.spotify.com/album/6yRanFrU2dY3dz6a1T5Irr",
-       "mark": "music"
-      },
-      {
-       "text": ") \"Happy\" ("
-      },
-      {
-       "text": "Wiki",
+       "text": "\"Happy\" Music",
        "url": "https://date-a-live.fandom.com/wiki/Date_A_%22Happy%22_Music",
        "mark": "music"
       },
       {
-       "text": " (內有音檔)) Music"
+       "text": " (Wiki 內有音檔)"
       }
      ]
     },
     {
-     "id": "e0410",
+     "id": "e0396",
      "type": "music",
      "segments": [
       {
-       "text": "Date A Live Mayuri Judgement - OST ("
+       "text": "Date A "
       },
       {
-       "text": "Wiki",
-       "url": "https://date-a-live.fandom.com/wiki/Date_A_Live_The_Movie_Mayuri_Judgement_-_Original_Soundtrack"
-      },
-      {
-       "text": ", "
-      },
-      {
-       "text": "vid.",
-       "url": "https://www.youtube.com/playlist?list=OLAK5uy_ndvItxoTGucod4st3Dj9nyfyIT2X1pkl4",
-       "mark": "music"
-      },
-      {
-       "text": ")"
-      }
-     ],
-     "notes": [
-      "※含主題曲"
-     ]
-    },
-    {
-     "id": "e0411",
-     "type": "music",
-     "segments": [
-      {
-       "text": "Character Song Album ("
-      },
-      {
-       "text": "Wiki",
-       "url": "https://date-a-live.fandom.com/wiki/Date_A_Live_The_Movie:_Mayuri_Judgment_-_Character_Song_Album_%E2%80%9CMusic_Judgement%E2%80%9D",
-       "mark": "music"
-      },
-      {
-       "text": " (內有音檔))"
-      }
-     ]
-    },
-    {
-     "id": "e0412",
-     "type": "music",
-     "segments": [
-      {
-       "text": "Date A \"Unforgettable\" ("
-      },
-      {
-       "text": "Wiki",
+       "text": "\"Unforgettable\" Music",
        "url": "https://date-a-live.fandom.com/wiki/Date_A_%22Unforgettable%22_Music",
        "mark": "music"
       },
       {
-       "text": ") \"World\" ("
+       "text": "、"
       },
       {
-       "text": "Wiki",
+       "text": "\"World\" Music",
        "url": "https://date-a-live.fandom.com/wiki/Date_A_%22World%22_Music",
        "mark": "music"
       },
       {
-       "text": ") Music"
+       "text": " (Wiki)"
       }
      ]
     },
     {
-     "id": "e0414",
+     "id": "e0397",
      "type": "music",
      "segments": [
       {
@@ -1307,21 +1108,53 @@
      ]
     },
     {
-     "id": "e0399",
+     "id": "e0398",
      "type": "music",
      "segments": [
       {
-       "text": "Songs Wiki",
-       "url": "https://zh.wikipedia.org/wiki/%E7%B4%84%E6%9C%83%E5%A4%A7%E4%BD%9C%E6%88%B0_(%E5%8B%95%E7%95%AB)#%E4%B8%BB%E9%A1%8C%E6%9B%B2"
+       "text": "萬由里審判 "
+      },
+      {
+       "text": "OST",
+       "url": "https://www.youtube.com/playlist?list=OLAK5uy_ndvItxoTGucod4st3Dj9nyfyIT2X1pkl4",
+       "mark": "music"
+      },
+      {
+       "text": " ("
+      },
+      {
+       "text": "Wiki",
+       "url": "https://date-a-live.fandom.com/wiki/Date_A_Live_The_Movie_Mayuri_Judgement_-_Original_Soundtrack"
+      },
+      {
+       "text": ")、"
+      },
+      {
+       "text": "Character Song Album",
+       "url": "https://date-a-live.fandom.com/wiki/Date_A_Live_The_Movie:_Mayuri_Judgment_-_Character_Song_Album_%E2%80%9CMusic_Judgement%E2%80%9D",
+       "mark": "music"
+      },
+      {
+       "text": " (Wiki 內有音檔)"
       }
+     ],
+     "notes": [
+      "※OST 含主題曲"
      ]
     },
     {
-     "id": "e0400",
+     "id": "e0404",
      "type": "music",
      "segments": [
       {
-       "text": "Season 1 ("
+       "text": "主題曲 ("
+      },
+      {
+       "text": "Wiki",
+       "url": "https://zh.wikipedia.org/wiki/%E7%B4%84%E6%9C%83%E5%A4%A7%E4%BD%9C%E6%88%B0_(%E5%8B%95%E7%95%AB)#%E4%B8%BB%E9%A1%8C%E6%9B%B2"
+      },
+      {
+       "text": ")：第一季 "
       },
       {
        "text": "OP",
@@ -1329,10 +1162,7 @@
        "mark": "music"
       },
       {
-       "text": ","
-      },
-      {
-       "text": " "
+       "text": "、"
       },
       {
        "text": "ED1~3",
@@ -1340,16 +1170,7 @@
        "mark": "music"
       },
       {
-       "text": ")"
-      }
-     ]
-    },
-    {
-     "id": "e0401",
-     "type": "music",
-     "segments": [
-      {
-       "text": "Season 2 ("
+       "text": "；第二季 "
       },
       {
        "text": "OP",
@@ -1357,7 +1178,7 @@
        "mark": "music"
       },
       {
-       "text": ", "
+       "text": "、"
       },
       {
        "text": "ED",
@@ -1365,16 +1186,7 @@
        "mark": "music"
       },
       {
-       "text": ")"
-      }
-     ]
-    },
-    {
-     "id": "e0402",
-     "type": "music",
-     "segments": [
-      {
-       "text": "Season 3 (OP Album Track "
+       "text": "；第三季 OP Album Track "
       },
       {
        "text": "1",
@@ -1390,7 +1202,7 @@
        "mark": "music"
       },
       {
-       "text": ", "
+       "text": "、"
       },
       {
        "text": "ED Album",
@@ -1398,16 +1210,7 @@
        "mark": "music"
       },
       {
-       "text": ")"
-      }
-     ]
-    },
-    {
-     "id": "e0403",
-     "type": "music",
-     "segments": [
-      {
-       "text": "Season 4 ("
+       "text": "；第四季 "
       },
       {
        "text": "OP Album",
@@ -1415,28 +1218,25 @@
        "mark": "music"
       },
       {
-       "text": ", "
+       "text": "、"
       },
       {
        "text": "ED Album",
        "url": "https://open.spotify.com/album/5EHoQqsyT6u2OjSkuSSOEd",
        "mark": "music"
-      },
-      {
-       "text": ")"
       }
+     ],
+     "notes": [
+      "※第三季 OP Album instrumental ver. missing"
      ]
     }
-   ],
-   "notes": [
-    "※S3 OP album instrumental ver missing"
-   ],
-   "source": "light-novel"
+   ]
   },
   {
    "id": "n0241",
    "kind": "work",
    "title": "惡魔高校D×D",
+   "source": "light-novel",
    "links": [
     {
      "text": "惡魔高校D×D",
@@ -1456,90 +1256,63 @@
        "url": "https://highschooldxd.fandom.com/wiki/High_School_DxD_(Season_1)"
       },
       {
-       "text": ")"
-      }
-     ]
-    },
-    {
-     "id": "e0416",
-     "type": "anime",
-     "segments": [
-      {
-       "text": "第二季 ("
+       "text": "))、第二季 NEW ("
       },
       {
        "text": "Wiki",
        "url": "https://highschooldxd.fandom.com/wiki/High_School_DxD_NEW"
       },
       {
-       "text": ")"
-      }
-     ]
-    },
-    {
-     "id": "e0417",
-     "type": "anime",
-     "segments": [
-      {
-       "text": "第三季 ("
+       "text": ")、第三季 BorN ("
       },
       {
        "text": "Wiki",
        "url": "https://highschooldxd.fandom.com/wiki/High_School_DxD_BorN"
       },
       {
-       "text": ")"
-      }
-     ]
-    },
-    {
-     "id": "e0418",
-     "type": "anime",
-     "segments": [
+       "text": ")、"
+      },
       {
-       "text": "第四季 ("
+       "text": "第四季 HERO",
+       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=9742",
+       "mark": "anime"
+      },
+      {
+       "text": " ("
       },
       {
        "text": "Wiki",
        "url": "https://highschooldxd.fandom.com/wiki/High_School_DxD_HERO"
       },
       {
-       "text": ", "
-      },
-      {
-       "text": "巴哈",
-       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=9742",
-       "mark": "anime"
-      },
-      {
        "text": ")"
       }
+     ],
+     "notes": [
+      "※第一 ~ 三季暫無可靠片源"
      ]
     },
     {
-     "id": "e0419",
+     "id": "e0416",
      "type": "music",
      "segments": [
       {
-       "text": "OST: "
+       "text": "第一季 "
+      },
+      {
+       "text": "OST",
+       "url": "https://www.youtube.com/playlist?list=PLHd7Z5vnbOG_4KSOXOumDgk5POkeCA0HV",
+       "mark": "music"
+      },
+      {
+       "text": " ("
       },
       {
        "text": "Wiki",
        "url": "https://highschooldxd.fandom.com/wiki/High_School_DxD_Original_Soundtrack"
       },
       {
-       "text": ","
-      },
-      {
-       "text": " "
-      },
-      {
-       "text": "vid.",
-       "url": "https://www.youtube.com/playlist?list=PLHd7Z5vnbOG_4KSOXOumDgk5POkeCA0HV",
-       "mark": "music"
-      },
-      {
-       "text": " "
+       "text": "), "
       },
       {
        "text": "Disc2 #26",
@@ -1547,132 +1320,15 @@
        "mark": "music"
       },
       {
-       "text": " "
+       "text": ", "
       },
       {
        "text": "Disc2 #27",
        "url": "https://www.youtube.com/watch?v=CebPvjuvY80",
        "mark": "music"
-      }
-     ]
-    },
-    {
-     "id": "e0420",
-     "type": "music",
-     "segments": [
-      {
-       "text": "NEW OST: "
       },
       {
-       "text": "Wiki",
-       "url": "https://highschooldxd.fandom.com/wiki/High_School_DxD_NEW_Original_Soundtrack"
-      },
-      {
-       "text": ", "
-      },
-      {
-       "text": "vid.",
-       "url": "https://www.youtube.com/playlist?list=PLHd7Z5vnbOG_ay9PXzpZB28zCUneBIz_1",
-       "mark": "music"
-      },
-      {
-       "text": " "
-      },
-      {
-       "text": "#23",
-       "url": "https://www.youtube.com/watch?v=Mon21KAoNCU",
-       "mark": "music"
-      },
-      {
-       "text": " "
-      },
-      {
-       "text": "#24",
-       "url": "https://www.youtube.com/watch?v=M2ssHyFbOtw",
-       "mark": "music"
-      },
-      {
-       "text": " "
-      },
-      {
-       "text": "#25",
-       "url": "https://www.youtube.com/watch?v=9w-B8AYZgGA",
-       "mark": "music"
-      },
-      {
-       "text": " "
-      },
-      {
-       "text": "#26",
-       "url": "https://www.youtube.com/watch?v=wavUN5NaY6A",
-       "mark": "music"
-      }
-     ]
-    },
-    {
-     "id": "e0421",
-     "type": "music",
-     "segments": [
-      {
-       "text": "BorN OST: "
-      },
-      {
-       "text": "Wiki",
-       "url": "https://highschooldxd.fandom.com/wiki/High_School_DxD_BorN_Original_Soundtrack"
-      },
-      {
-       "text": ", "
-      },
-      {
-       "text": "vid.",
-       "url": "https://www.youtube.com/playlist?list=PLHd7Z5vnbOG9M8ukIN7sMM2G7LLMnPVyL",
-       "mark": "music"
-      },
-      {
-       "text": " "
-      },
-      {
-       "text": "#37",
-       "url": "https://www.youtube.com/watch?v=-5feX8g1nM4",
-       "mark": "music"
-      },
-      {
-       "text": " "
-      },
-      {
-       "text": "#38",
-       "url": "https://www.youtube.com/watch?v=vcFhlLuiAvI",
-       "mark": "music"
-      }
-     ]
-    },
-    {
-     "id": "e0422",
-     "type": "music",
-     "segments": [
-      {
-       "text": "HERO OST: "
-      },
-      {
-       "text": "Wiki",
-       "url": "https://highschooldxd.fandom.com/wiki/High_School_DxD_HERO_Original_Soundtrack"
-      },
-      {
-       "text": ", "
-      },
-      {
-       "text": "vid.",
-       "url": "https://www.youtube.com/playlist?list=PLtJVsLIlCwjI2KtOfo3gOdybfvNQ7AqPN",
-       "mark": "music"
-      }
-     ]
-    },
-    {
-     "id": "e0423",
-     "type": "music",
-     "segments": [
-      {
-       "text": "S1 "
+       "text": "；"
       },
       {
        "text": "OP",
@@ -1690,11 +1346,58 @@
      ]
     },
     {
-     "id": "e0424",
+     "id": "e0417",
      "type": "music",
      "segments": [
       {
-       "text": "S2 "
+       "text": "第二季 NEW "
+      },
+      {
+       "text": "OST",
+       "url": "https://www.youtube.com/playlist?list=PLHd7Z5vnbOG_ay9PXzpZB28zCUneBIz_1",
+       "mark": "music"
+      },
+      {
+       "text": " ("
+      },
+      {
+       "text": "Wiki",
+       "url": "https://highschooldxd.fandom.com/wiki/High_School_DxD_NEW_Original_Soundtrack"
+      },
+      {
+       "text": "), "
+      },
+      {
+       "text": "#23",
+       "url": "https://www.youtube.com/watch?v=Mon21KAoNCU",
+       "mark": "music"
+      },
+      {
+       "text": ", "
+      },
+      {
+       "text": "#24",
+       "url": "https://www.youtube.com/watch?v=M2ssHyFbOtw",
+       "mark": "music"
+      },
+      {
+       "text": ", "
+      },
+      {
+       "text": "#25",
+       "url": "https://www.youtube.com/watch?v=9w-B8AYZgGA",
+       "mark": "music"
+      },
+      {
+       "text": ", "
+      },
+      {
+       "text": "#26",
+       "url": "https://www.youtube.com/watch?v=wavUN5NaY6A",
+       "mark": "music"
+      },
+      {
+       "text": "；"
       },
       {
        "text": "OP1",
@@ -1710,7 +1413,7 @@
        "mark": "music"
       },
       {
-       "text": "、 "
+       "text": "、"
       },
       {
        "text": "ED1",
@@ -1718,7 +1421,7 @@
        "mark": "music"
       },
       {
-       "text": "、 "
+       "text": "、"
       },
       {
        "text": "ED2",
@@ -1728,11 +1431,42 @@
      ]
     },
     {
-     "id": "e0425",
+     "id": "e0418",
      "type": "music",
      "segments": [
       {
-       "text": "S3 "
+       "text": "第三季 BorN "
+      },
+      {
+       "text": "OST",
+       "url": "https://www.youtube.com/playlist?list=PLHd7Z5vnbOG9M8ukIN7sMM2G7LLMnPVyL",
+       "mark": "music"
+      },
+      {
+       "text": " ("
+      },
+      {
+       "text": "Wiki",
+       "url": "https://highschooldxd.fandom.com/wiki/High_School_DxD_BorN_Original_Soundtrack"
+      },
+      {
+       "text": "), "
+      },
+      {
+       "text": "#37",
+       "url": "https://www.youtube.com/watch?v=-5feX8g1nM4",
+       "mark": "music"
+      },
+      {
+       "text": ", "
+      },
+      {
+       "text": "#38",
+       "url": "https://www.youtube.com/watch?v=vcFhlLuiAvI",
+       "mark": "music"
+      },
+      {
+       "text": "；"
       },
       {
        "text": "OP",
@@ -1750,11 +1484,26 @@
      ]
     },
     {
-     "id": "e0426",
+     "id": "e0419",
      "type": "music",
      "segments": [
       {
-       "text": "S4 "
+       "text": "第四季 HERO "
+      },
+      {
+       "text": "OST",
+       "url": "https://www.youtube.com/playlist?list=PLtJVsLIlCwjI2KtOfo3gOdybfvNQ7AqPN",
+       "mark": "music"
+      },
+      {
+       "text": " ("
+      },
+      {
+       "text": "Wiki",
+       "url": "https://highschooldxd.fandom.com/wiki/High_School_DxD_HERO_Original_Soundtrack"
+      },
+      {
+       "text": ")；"
       },
       {
        "text": "OP",
@@ -1771,16 +1520,13 @@
       }
      ]
     }
-   ],
-   "notes": [
-    "※第一 ~ 三季暫無可靠片源"
-   ],
-   "source": "light-novel"
+   ]
   },
   {
    "id": "n0242",
    "kind": "work",
    "title": "NO GAME NO LIFE 遊戲人生",
+   "source": "light-novel",
    "links": [
     {
      "text": "NO GAME NO LIFE 遊戲人生",
@@ -1793,22 +1539,19 @@
      "type": "anime",
      "segments": [
       {
-       "text": "第一季 ("
+       "text": "第一季",
+       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=7944",
+       "mark": "anime"
+      },
+      {
+       "text": " ("
       },
       {
        "text": "Wiki",
        "url": "https://no-game-no-life.fandom.com/wiki/No_Game_No_Life_(Anime)"
       },
       {
-       "text": ", "
-      },
-      {
-       "text": "巴哈",
-       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=7944",
-       "mark": "anime"
-      },
-      {
-       "text": ")、"
+       "text": "))、"
       },
       {
        "text": "SP1~6",
@@ -1819,25 +1562,30 @@
     },
     {
      "id": "e0428",
-     "type": "anime",
+     "type": "music",
      "segments": [
       {
-       "text": "遊戲人生 Zero ("
+       "text": "OST ("
       },
       {
        "text": "Wiki",
-       "url": "https://no-game-no-life.fandom.com/wiki/No_Game_No_Life:_Zero"
+       "url": "https://no-game-no-life.fandom.com/wiki/No_Game_No_Life_Original_Soundtrack"
       },
       {
-       "text": ", "
+       "text": ")："
       },
       {
-       "text": "Anime1",
-       "url": "https://anime1.me/category/2017%E5%B9%B4%E5%A4%8F%E5%AD%A3/%E9%81%8A%E6%88%B2%E4%BA%BA%E7%94%9Fzero",
-       "mark": "anime"
+       "text": "Vol. 1, 2",
+       "url": "https://www.youtube.com/watch?v=GoTJh6l2YP0",
+       "mark": "music"
       },
       {
-       "text": ")"
+       "text": "、"
+      },
+      {
+       "text": "Vol. 3",
+       "url": "https://www.youtube.com/playlist?list=PLict2BqN0M8C7jKaeFM884uwEZbEHFqev",
+       "mark": "music"
       }
      ]
     },
@@ -1846,27 +1594,23 @@
      "type": "music",
      "segments": [
       {
-       "text": "No Game No Life OST: "
+       "text": "NO SONG NO LIFE",
+       "url": "https://www.youtube.com/watch?v=z84V5zTznm0",
+       "mark": "music"
+      },
+      {
+       "text": " ("
       },
       {
        "text": "Wiki",
-       "url": "https://no-game-no-life.fandom.com/wiki/No_Game_No_Life_Original_Soundtrack"
+       "url": "https://no-game-no-life.fandom.com/wiki/NO_SONG_NO_LIFE"
       },
       {
-       "text": ", vid. (Vol."
+       "text": ")；Now Loading... ("
       },
       {
-       "text": "1, 2",
-       "url": "https://www.youtube.com/watch?v=GoTJh6l2YP0",
-       "mark": "music"
-      },
-      {
-       "text": ", "
-      },
-      {
-       "text": "3",
-       "url": "https://www.youtube.com/playlist?list=PLict2BqN0M8C7jKaeFM884uwEZbEHFqev",
-       "mark": "music"
+       "text": "Wiki",
+       "url": "https://no-game-no-life.fandom.com/wiki/Now_Loading..."
       },
       {
        "text": ")"
@@ -1875,22 +1619,25 @@
     },
     {
      "id": "e0430",
-     "type": "music",
+     "type": "anime",
      "segments": [
       {
-       "text": "No Game No Life: Zero OST: "
+       "text": "劇場版："
+      },
+      {
+       "text": "遊戲人生 Zero",
+       "url": "https://anime1.me/category/2017%E5%B9%B4%E5%A4%8F%E5%AD%A3/%E9%81%8A%E6%88%B2%E4%BA%BA%E7%94%9Fzero",
+       "mark": "anime"
+      },
+      {
+       "text": " ("
       },
       {
        "text": "Wiki",
-       "url": "https://no-game-no-life.fandom.com/wiki/No_Game_No_Life:_Zero_Original_Soundtrack"
+       "url": "https://no-game-no-life.fandom.com/wiki/No_Game_No_Life:_Zero"
       },
       {
-       "text": ", "
-      },
-      {
-       "text": "vid.",
-       "url": "https://www.youtube.com/watch?v=Z5QmSR1C-Ug",
-       "mark": "music"
+       "text": ")"
       }
      ]
     },
@@ -1899,398 +1646,350 @@
      "type": "music",
      "segments": [
       {
-       "text": "NO SONG NO LIFE: "
+       "text": "Zero "
       },
       {
-       "text": "Wiki",
-       "url": "https://no-game-no-life.fandom.com/wiki/NO_SONG_NO_LIFE"
-      },
-      {
-       "text": ", "
-      },
-      {
-       "text": "vid.",
-       "url": "https://www.youtube.com/watch?v=z84V5zTznm0",
+       "text": "OST",
+       "url": "https://www.youtube.com/watch?v=Z5QmSR1C-Ug",
        "mark": "music"
       },
       {
-       "text": " Now Loading...: "
+       "text": " ("
       },
       {
        "text": "Wiki",
-       "url": "https://no-game-no-life.fandom.com/wiki/Now_Loading..."
+       "url": "https://no-game-no-life.fandom.com/wiki/No_Game_No_Life:_Zero_Original_Soundtrack"
+      },
+      {
+       "text": ")"
       }
      ]
     }
-   ],
-   "source": "light-novel"
+   ]
   },
   {
    "id": "n0243",
    "kind": "work",
    "title": "在地下城尋求邂逅是否搞錯了什麼",
+   "source": "light-novel",
    "links": [
     {
      "text": "在地下城尋求邂逅是否搞錯了什麼",
      "url": "https://danmachi.fandom.com/wiki/DanMachi_Wiki"
+    },
+    {
+     "text": "動畫Wiki",
+     "url": "https://danmachi.fandom.com/wiki/Anime"
     }
    ],
-   "children": [
+   "entries": [
     {
-     "id": "n0244",
-     "kind": "group",
-     "title": "動畫",
-     "links": [
+     "id": "e0433",
+     "type": "anime",
+     "segments": [
       {
-       "text": "動畫 Wiki",
-       "url": "https://danmachi.fandom.com/wiki/Anime"
-      }
-     ],
-     "entries": [
-      {
-       "id": "e0433",
-       "type": "anime",
-       "segments": [
-        {
-         "text": "第一季",
-         "url": "https://ani.gamer.com.tw/animeVideo.php?sn=7624",
-         "mark": "anime"
-        }
-       ]
+       "text": "第一季",
+       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=7624",
+       "mark": "anime"
       },
       {
-       "id": "e0434",
-       "type": "anime",
-       "segments": [
-        {
-         "text": "外傳《劍姬神聖譚》",
-         "url": "https://ani.gamer.com.tw/animeVideo.php?sn=7610",
-         "mark": "anime"
-        }
-       ]
+       "text": "、"
       },
       {
-       "id": "e0435",
-       "type": "anime",
-       "segments": [
-        {
-         "text": "電影：─ 獵戶座之箭 ─",
-         "url": "https://ani.gamer.com.tw/animeVideo.php?sn=34831",
-         "mark": "anime"
-        }
-       ]
+       "text": "第二季",
+       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=12678",
+       "mark": "anime"
       },
       {
-       "id": "e0436",
-       "type": "anime",
-       "segments": [
-        {
-         "text": "第二季",
-         "url": "https://ani.gamer.com.tw/animeVideo.php?sn=12678",
-         "mark": "anime"
-        }
-       ]
+       "text": "、"
       },
       {
-       "id": "e0437",
-       "type": "anime",
-       "segments": [
-        {
-         "text": "第三季",
-         "url": "https://ani.gamer.com.tw/animeVideo.php?sn=18430",
-         "mark": "anime"
-        }
-       ]
+       "text": "第三季",
+       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=18430",
+       "mark": "anime"
       },
       {
-       "id": "e0438",
-       "type": "anime",
-       "segments": [
-        {
-         "text": "第四季",
-         "url": "https://ani.gamer.com.tw/animeVideo.php?sn=30488",
-         "mark": "anime"
-        }
-       ]
+       "text": "、"
+      },
+      {
+       "text": "第四季",
+       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=30488",
+       "mark": "anime"
       }
      ],
      "notes": [
-      "※以上含所有OVA，第四季含總集篇"
+      "※含所有OVA，第四季含總集篇"
      ]
     },
     {
-     "id": "n0245",
-     "kind": "group",
-     "title": "Anime Season 1~4",
-     "entries": [
+     "id": "e0434",
+     "type": "music",
+     "segments": [
       {
-       "id": "e0439",
-       "type": "music",
-       "segments": [
-        {
-         "text": "OST "
-        },
-        {
-         "text": "Season 1~3",
-         "url": "https://www.youtube.com/playlist?list=PL0Vt6dOfPz3QyXXmbjWGqnAB37xJrfUJ0",
-         "mark": "music"
-        },
-        {
-         "text": ", "
-        },
-        {
-         "text": "4",
-         "url": "https://www.youtube.com/playlist?list=PLkc62-jv4V_JFhZixODp2TUnX-IwPrCsy",
-         "mark": "music"
-        },
-        {
-         "text": "；"
-        },
-        {
-         "text": "Season 1 Disc 1 Track1",
-         "url": "https://www.youtube.com/watch?v=TL1nOOFhvNQ",
-         "mark": "music"
-        },
-        {
-         "text": "(補缺)"
-        }
-       ]
+       "text": "第一 ~ 四季 OST："
       },
       {
-       "id": "e0440",
-       "type": "music",
-       "segments": [
-        {
-         "text": "OP & ED",
-         "url": "https://www.bilibili.com/video/BV1pM41167zy/?spm_id_from=333.337.search-card.all.click",
-         "mark": "music"
-        },
-        {
-         "text": " ("
-        },
-        {
-         "text": "Wiki",
-         "url": "https://zh.wikipedia.org/zh-tw/%E5%9C%A8%E5%9C%B0%E4%B8%8B%E5%9F%8E%E5%B0%8B%E6%B1%82%E9%82%82%E9%80%85%E6%98%AF%E5%90%A6%E6%90%9E%E9%8C%AF%E4%BA%86%E4%BB%80%E9%BA%BC_(%E5%8B%95%E7%95%AB)#%E4%B8%BB%E9%A1%8C%E6%9B%B2"
-        },
-        {
-         "text": ")"
-        }
-       ]
+       "text": "Season 1~3",
+       "url": "https://www.youtube.com/playlist?list=PL0Vt6dOfPz3QyXXmbjWGqnAB37xJrfUJ0",
+       "mark": "music"
+      },
+      {
+       "text": ", "
+      },
+      {
+       "text": "Season 4",
+       "url": "https://www.youtube.com/playlist?list=PLkc62-jv4V_JFhZixODp2TUnX-IwPrCsy",
+       "mark": "music"
+      },
+      {
+       "text": "；"
+      },
+      {
+       "text": "Season 1 Disc 1 Track 1",
+       "url": "https://www.youtube.com/watch?v=TL1nOOFhvNQ",
+       "mark": "music"
+      },
+      {
+       "text": " (補缺)"
       }
      ]
     },
     {
-     "id": "n0246",
-     "kind": "group",
-     "title": "Sword Oratoria Anime",
-     "entries": [
+     "id": "e0435",
+     "type": "music",
+     "segments": [
       {
-       "id": "e0441",
-       "type": "music",
-       "segments": [
-        {
-         "text": "OST",
-         "url": "https://www.youtube.com/playlist?list=PL0V1RP49t953PiTKKjog1Hou-WXjG6ffF",
-         "mark": "music"
-        }
-       ]
+       "text": "第一 ~ 四季 "
       },
       {
-       "id": "e0442",
-       "type": "music",
-       "segments": [
-        {
-         "text": "OP",
-         "url": "https://www.youtube.com/watch?v=BzXJlY2pjxI",
-         "mark": "music"
-        },
-        {
-         "text": "、"
-        },
-        {
-         "text": "ED",
-         "url": "https://www.youtube.com/watch?v=v4RFQbycRt8",
-         "mark": "music"
-        }
-       ]
+       "text": "OP & ED",
+       "url": "https://www.bilibili.com/video/BV1pM41167zy/?spm_id_from=333.337.search-card.all.click",
+       "mark": "music"
       },
       {
-       "id": "e0443",
-       "type": "music",
-       "segments": [
-        {
-         "text": "Character Songs Vol 1."
-        },
-        {
-         "text": " "
-        },
-        {
-         "text": "1",
-         "url": "https://www.youtube.com/watch?v=IQeMI9br6ng",
-         "mark": "music"
-        },
-        {
-         "text": ", "
-        },
-        {
-         "text": "2",
-         "url": "https://www.youtube.com/watch?v=rIgLdLUVpag",
-         "mark": "music"
-        }
-       ],
-       "notes": [
-        "※Vol. 2 missing."
-       ]
+       "text": " ("
+      },
+      {
+       "text": "Wiki",
+       "url": "https://zh.wikipedia.org/zh-tw/%E5%9C%A8%E5%9C%B0%E4%B8%8B%E5%9F%8E%E5%B0%8B%E6%B1%82%E9%82%82%E9%80%85%E6%98%AF%E5%90%A6%E6%90%9E%E9%8C%AF%E4%BA%86%E4%BB%80%E9%BA%BC_(%E5%8B%95%E7%95%AB)#%E4%B8%BB%E9%A1%8C%E6%9B%B2"
+      },
+      {
+       "text": ")"
       }
      ]
     },
     {
-     "id": "n0247",
-     "kind": "group",
-     "title": "Movie: Arrow of the Orion",
-     "entries": [
+     "id": "e0436",
+     "type": "anime",
+     "segments": [
       {
-       "id": "e0444",
-       "type": "music",
-       "segments": [
-        {
-         "text": "OST",
-         "url": "https://www.youtube.com/playlist?list=PLUznSJJ3n3Afv-sLxIU8S-ueg8uGG9oFc",
-         "mark": "music"
-        }
-       ]
+       "text": "外傳："
       },
       {
-       "id": "e0445",
-       "type": "music",
-       "segments": [
-        {
-         "text": "Theme Song",
-         "url": "https://www.youtube.com/watch?v=ZguMEtRnFnI",
-         "mark": "music"
-        }
-       ]
+       "text": "劍姬神聖譚",
+       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=7610",
+       "mark": "anime"
+      }
+     ]
+    },
+    {
+     "id": "e0437",
+     "type": "music",
+     "segments": [
+      {
+       "text": "劍姬神聖譚 "
+      },
+      {
+       "text": "OST",
+       "url": "https://www.youtube.com/playlist?list=PL0V1RP49t953PiTKKjog1Hou-WXjG6ffF",
+       "mark": "music"
+      },
+      {
+       "text": "；"
+      },
+      {
+       "text": "OP",
+       "url": "https://www.youtube.com/watch?v=BzXJlY2pjxI",
+       "mark": "music"
+      },
+      {
+       "text": "、"
+      },
+      {
+       "text": "ED",
+       "url": "https://www.youtube.com/watch?v=v4RFQbycRt8",
+       "mark": "music"
+      },
+      {
+       "text": "；Character Songs Vol. 1 "
+      },
+      {
+       "text": "1",
+       "url": "https://www.youtube.com/watch?v=IQeMI9br6ng",
+       "mark": "music"
+      },
+      {
+       "text": ", "
+      },
+      {
+       "text": "2",
+       "url": "https://www.youtube.com/watch?v=rIgLdLUVpag",
+       "mark": "music"
       }
      ],
-     "children": [
+     "notes": [
+      "※Character Songs Vol. 2 missing."
+     ]
+    },
+    {
+     "id": "e0438",
+     "type": "anime",
+     "segments": [
       {
-       "id": "n0248",
-       "kind": "group",
-       "title": "Character & Insert Songs",
-       "links": [
-        {
-         "text": "Wiki",
-         "url": "https://danmachi.fandom.com/wiki/Category:Character_Songs"
-        }
-       ],
-       "entries": [
-        {
-         "id": "e0446",
-         "type": "music",
-         "segments": [
-          {
-           "text": "Bell",
-           "url": "https://www.youtube.com/watch?v=gr1klyDzf2k",
-           "mark": "music"
-          },
-          {
-           "text": ", "
-          },
-          {
-           "text": "Hestia",
-           "url": "https://www.youtube.com/watch?v=Y5w8NNW_gHc",
-           "mark": "music"
-          },
-          {
-           "text": ", "
-          },
-          {
-           "text": "Ais",
-           "url": "https://www.bilibili.com/video/BV1bs411S7be?p=30",
-           "mark": "music"
-          },
-          {
-           "text": ", "
-          },
-          {
-           "text": "Liliruca",
-           "url": "https://www.youtube.com/watch?v=qtnYsVb1VGs",
-           "mark": "music"
-          },
-          {
-           "text": ", "
-          },
-          {
-           "text": "Bell & Hestia",
-           "url": "https://www.youtube.com/watch?v=YyBIptvPy1Y",
-           "mark": "music"
-          },
-          {
-           "text": ", "
-          },
-          {
-           "text": "Bell & Ais",
-           "url": "https://www.youtube.com/watch?v=Zh5IimUlfIc",
-           "mark": "music"
-          },
-          {
-           "text": " "
-          },
-          {
-           "text": "Hestia (OVA)",
-           "url": "https://www.youtube.com/watch?v=A_HFVK7K1gQ",
-           "mark": "music"
-          },
-          {
-           "text": ", "
-          },
-          {
-           "text": "Ais (OVA)",
-           "url": "https://www.youtube.com/watch?v=gyQiKs5IKmE",
-           "mark": "music"
-          },
-          {
-           "text": ", "
-          },
-          {
-           "text": "Hestia & Ais",
-           "url": "https://www.youtube.com/watch?v=9jexqxalkPo",
-           "mark": "music"
-          },
-          {
-           "text": ", "
-          },
-          {
-           "text": "繭色",
-           "url": "https://www.youtube.com/watch?v=HcC1Zaq8-C4",
-           "mark": "music"
-          }
-         ]
-        }
-       ],
-       "notes": [
-        "※Haruhime’s song (満月の調べ) and Season 4 Episode 20’s insert song (Not meet doubt) are included in OST."
-       ]
+       "text": "劇場版："
+      },
+      {
+       "text": "獵戶座之箭",
+       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=34831",
+       "mark": "anime"
+      }
+     ]
+    },
+    {
+     "id": "e0439",
+     "type": "music",
+     "segments": [
+      {
+       "text": "獵戶座之箭 "
+      },
+      {
+       "text": "OST",
+       "url": "https://www.youtube.com/playlist?list=PLUznSJJ3n3Afv-sLxIU8S-ueg8uGG9oFc",
+       "mark": "music"
+      },
+      {
+       "text": "、"
+      },
+      {
+       "text": "Theme Song",
+       "url": "https://www.youtube.com/watch?v=ZguMEtRnFnI",
+       "mark": "music"
       }
      ],
      "notes": [
       "※Insert Song (月鏡) is included in OST."
      ]
+    },
+    {
+     "id": "e0440",
+     "type": "music",
+     "segments": [
+      {
+       "text": "Character & Insert Songs ("
+      },
+      {
+       "text": "Wiki",
+       "url": "https://danmachi.fandom.com/wiki/Category:Character_Songs"
+      },
+      {
+       "text": ")："
+      },
+      {
+       "text": "Bell",
+       "url": "https://www.youtube.com/watch?v=gr1klyDzf2k",
+       "mark": "music"
+      },
+      {
+       "text": ", "
+      },
+      {
+       "text": "Hestia",
+       "url": "https://www.youtube.com/watch?v=Y5w8NNW_gHc",
+       "mark": "music"
+      },
+      {
+       "text": ", "
+      },
+      {
+       "text": "Ais",
+       "url": "https://www.bilibili.com/video/BV1bs411S7be?p=30",
+       "mark": "music"
+      },
+      {
+       "text": ", "
+      },
+      {
+       "text": "Liliruca",
+       "url": "https://www.youtube.com/watch?v=qtnYsVb1VGs",
+       "mark": "music"
+      },
+      {
+       "text": ", "
+      },
+      {
+       "text": "Bell & Hestia",
+       "url": "https://www.youtube.com/watch?v=YyBIptvPy1Y",
+       "mark": "music"
+      },
+      {
+       "text": ", "
+      },
+      {
+       "text": "Bell & Ais",
+       "url": "https://www.youtube.com/watch?v=Zh5IimUlfIc",
+       "mark": "music"
+      },
+      {
+       "text": ", "
+      },
+      {
+       "text": "Hestia (OVA)",
+       "url": "https://www.youtube.com/watch?v=A_HFVK7K1gQ",
+       "mark": "music"
+      },
+      {
+       "text": ", "
+      },
+      {
+       "text": "Ais (OVA)",
+       "url": "https://www.youtube.com/watch?v=gyQiKs5IKmE",
+       "mark": "music"
+      },
+      {
+       "text": ", "
+      },
+      {
+       "text": "Hestia & Ais",
+       "url": "https://www.youtube.com/watch?v=9jexqxalkPo",
+       "mark": "music"
+      },
+      {
+       "text": ", "
+      },
+      {
+       "text": "繭色",
+       "url": "https://www.youtube.com/watch?v=HcC1Zaq8-C4",
+       "mark": "music"
+      }
+     ],
+     "notes": [
+      "※Haruhime’s song (満月の調べ) and Season 4 Episode 20’s insert song (Not meet doubt) are included in OST."
+     ]
     }
-   ],
-   "source": "light-novel"
+   ]
   },
   {
    "id": "n0249",
    "kind": "work",
    "title": "魔法科高中的劣等生",
+   "source": "light-novel",
    "links": [
     {
      "text": "魔法科高中的劣等生",
      "url": "https://mahouka-koukou-no-rettousei.fandom.com/wiki/Main_Page"
     },
     {
-     "text": "動畫 Wiki",
+     "text": "動畫Wiki",
      "url": "https://mahouka-koukou-no-rettousei.fandom.com/wiki/Anime#The_Honour_Student_at_Magic_High_School_Spin-off_Anime"
     },
     {
@@ -2317,7 +2016,37 @@
        "mark": "anime"
       },
       {
-       "text": ", OP "
+       "text": "、"
+      },
+      {
+       "text": "第二季",
+       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=18437",
+       "mark": "anime"
+      },
+      {
+       "text": "、"
+      },
+      {
+       "text": "追憶篇",
+       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=27347",
+       "mark": "anime"
+      },
+      {
+       "text": "、"
+      },
+      {
+       "text": "第三季",
+       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=37863",
+       "mark": "anime"
+      }
+     ]
+    },
+    {
+     "id": "e0450",
+     "type": "music",
+     "segments": [
+      {
+       "text": "第一季 OP "
       },
       {
        "text": "1",
@@ -2333,7 +2062,7 @@
        "mark": "music"
       },
       {
-       "text": " ED "
+       "text": "；ED "
       },
       {
        "text": "1",
@@ -2349,7 +2078,7 @@
        "mark": "music"
       },
       {
-       "text": " OST "
+       "text": "；OST "
       },
       {
        "text": "1",
@@ -2367,23 +2096,15 @@
      ]
     },
     {
-     "id": "e0450",
-     "type": "anime",
-     "segments": [
-      {
-       "text": "劇場版 呼喚繁星的少女",
-       "url": "https://anime1.me/category/2017%E5%B9%B4%E6%98%A5%E5%AD%A3/%E9%AD%94%E6%B3%95%E9%AB%98%E6%A0%A1%E7%9A%84%E5%8A%A3%E7%AD%89%E7%94%9F%E5%8A%87%E5%A0%B4%E7%89%88-%E5%91%BC%E5%96%9A%E7%B9%81%E6%98%9F%E7%9A%84%E5%B0%91%E5%A5%B3",
-       "mark": "anime"
-      }
-     ]
-    },
-    {
      "id": "e0451",
      "type": "anime",
      "segments": [
       {
-       "text": "第二季",
-       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=18437",
+       "text": "劇場版："
+      },
+      {
+       "text": "呼喚繁星的少女",
+       "url": "https://anime1.me/category/2017%E5%B9%B4%E6%98%A5%E5%AD%A3/%E9%AD%94%E6%B3%95%E9%AB%98%E6%A0%A1%E7%9A%84%E5%8A%A3%E7%AD%89%E7%94%9F%E5%8A%87%E5%A0%B4%E7%89%88-%E5%91%BC%E5%96%9A%E7%B9%81%E6%98%9F%E7%9A%84%E5%B0%91%E5%A5%B3",
        "mark": "anime"
       }
      ]
@@ -2393,41 +2114,22 @@
      "type": "anime",
      "segments": [
       {
-       "text": "衍生動畫 (優等生)",
+       "text": "衍生動畫："
+      },
+      {
+       "text": "優等生",
        "url": "https://ani.gamer.com.tw/animeVideo.php?sn=23362",
        "mark": "anime"
       }
      ]
-    },
-    {
-     "id": "e0453",
-     "type": "anime",
-     "segments": [
-      {
-       "text": "追憶篇",
-       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=27347",
-       "mark": "anime"
-      }
-     ]
-    },
-    {
-     "id": "e0454",
-     "type": "anime",
-     "segments": [
-      {
-       "text": "第三季",
-       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=37863",
-       "mark": "anime"
-      }
-     ]
     }
-   ],
-   "source": "light-novel"
+   ]
   },
   {
    "id": "n0250",
    "kind": "work",
    "title": "歡迎來到實力至上主義的教室",
+   "source": "light-novel",
    "links": [
     {
      "text": "歡迎來到實力至上主義的教室",
@@ -2440,7 +2142,7 @@
      "type": "reading",
      "segments": [
       {
-       "text": "小說講解 ("
+       "text": "小說講解："
       },
       {
        "text": "一年級篇",
@@ -2456,19 +2158,16 @@
        "url": "https://space.bilibili.com/6345879/lists/6150?type=season",
        "mark": "anime",
        "playlist": true
-      },
-      {
-       "text": ")"
       }
      ]
     }
-   ],
-   "source": "light-novel"
+   ]
   },
   {
    "id": "n0251",
    "kind": "work",
    "title": "進擊的巨人",
+   "source": "manga",
    "links": [
     {
      "text": "進擊的巨人",
@@ -2481,100 +2180,64 @@
      "type": "anime",
      "segments": [
       {
-       "text": "第一季 ("
+       "text": "第一季",
+       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=3499",
+       "mark": "anime"
+      },
+      {
+       "text": " ("
       },
       {
        "text": "Wiki",
        "url": "https://attackontitan.fandom.com/wiki/List_of_Attack_on_Titan_episodes"
       },
       {
-       "text": ", "
+       "text": ")、"
       },
       {
-       "text": "巴哈",
-       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=3499",
+       "text": "第二季",
+       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=7583",
        "mark": "anime"
       },
       {
-       "text": ")"
-      }
-     ],
-     "notes": [
-      "※巴哈不含第13.5集總集篇"
-     ]
-    },
-    {
-     "id": "e0457",
-     "type": "anime",
-     "segments": [
-      {
-       "text": "第二季 ("
+       "text": " ("
       },
       {
        "text": "Wiki",
        "url": "https://attackontitan.fandom.com/wiki/List_of_Attack_on_Titan_episodes/Season_2"
       },
       {
-       "text": ", "
+       "text": ")、"
       },
       {
-       "text": "巴哈",
-       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=7583",
+       "text": "第三季",
+       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=10484",
        "mark": "anime"
       },
       {
-       "text": ")"
-      }
-     ],
-     "notes": [
-      "※巴哈含5集特別訪談節目"
-     ]
-    },
-    {
-     "id": "e0458",
-     "type": "anime",
-     "segments": [
-      {
-       "text": "第三季 ("
+       "text": " ("
       },
       {
        "text": "Wiki",
        "url": "https://attackontitan.fandom.com/wiki/List_of_Attack_on_Titan_episodes/Season_3"
       },
       {
-       "text": ", "
+       "text": ")、"
       },
       {
-       "text": "巴哈",
-       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=10484",
+       "text": "The Final Season",
+       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=19849",
        "mark": "anime"
       },
       {
-       "text": ")"
-      }
-     ]
-    },
-    {
-     "id": "e0459",
-     "type": "anime",
-     "segments": [
-      {
-       "text": "The Final Season "
+       "text": " ("
       },
       {
        "text": "Wiki",
        "url": "https://attackontitan.fandom.com/wiki/List_of_Attack_on_Titan_episodes/The_Final_Season"
       },
       {
-       "text": " ("
-      },
-      {
-       "text": "巴哈",
-       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=19849",
-       "mark": "anime"
-      },
-      {
-       "text": "、"
+       "text": ")、"
       },
       {
        "text": "完結篇前篇",
@@ -2588,90 +2251,89 @@
        "text": "完結篇後篇",
        "url": "https://ani.gamer.com.tw/animeVideo.php?sn=35985",
        "mark": "anime"
-      },
-      {
-       "text": ")"
       }
+     ],
+     "notes": [
+      "※第一季不含第13.5集總集篇；第二季含5集特別訪談節目",
+      "※巴哈含1集特別篇(1、2季解說篇)",
+      "※巴哈含1集特別篇(總解說篇)"
      ]
     },
     {
-     "id": "e0461",
+     "id": "e0457",
      "type": "anime",
      "segments": [
       {
-       "text": "短篇：飛翔吧！訓練兵團 ("
+       "text": "短篇："
+      },
+      {
+       "text": "飛翔吧！訓練兵團",
+       "url": "https://www.bilibili.com/video/BV14x411i7MW/?spm_id_from=333.337.search-card.all.click",
+       "mark": "anime"
+      },
+      {
+       "text": " ("
       },
       {
        "text": "Wiki",
        "url": "https://attackontitan.fandom.com/wiki/Chibi_Theater:_Fly,_Cadets,_Fly!"
       },
       {
-       "text": ", "
+       "text": "), "
       },
       {
-       "text": "Bilibili",
-       "url": "https://www.bilibili.com/video/BV14x411i7MW/?spm_id_from=333.337.search-card.all.click",
+       "text": "OVA 1~8",
+       "url": "https://www.youtube.com/watch?v=7f_HNM-YZic",
        "mark": "anime"
       },
       {
-       "text": ")"
-      }
-     ]
-    },
-    {
-     "id": "e0462",
-     "type": "anime",
-     "segments": [
-      {
-       "text": "OVA 1~8 ("
+       "text": " ("
       },
       {
        "text": "Wiki",
        "url": "https://attackontitan.fandom.com/wiki/List_of_Attack_on_Titan_episodes/OVA"
       },
       {
-       "text": ", "
-      },
-      {
-       "text": "木棉花",
-       "url": "https://www.youtube.com/watch?v=7f_HNM-YZic",
-       "mark": "anime"
-      },
-      {
        "text": ")"
       }
      ]
     },
     {
-     "id": "e0464",
+     "id": "e0458",
      "type": "music",
      "segments": [
       {
-       "text": "Season 2 OST: "
+       "text": "第一季 "
+      },
+      {
+       "text": "OST",
+       "url": "https://www.youtube.com/playlist?list=OLAK5uy_l2cAkJV4swcqBugi3sOAbIHGeFL3PZZzU",
+       "mark": "music"
+      },
+      {
+       "text": " ("
       },
       {
        "text": "Wiki",
-       "url": "https://attackontitan.fandom.com/wiki/%22Attack_on_Titan%22_Season_2_Original_Soundtrack"
+       "url": "https://attackontitan.fandom.com/wiki/%22Attack_on_Titan%22_Original_Soundtrack"
       },
       {
-       "text": ", "
+       "text": ")、"
       },
       {
-       "text": "vid.",
-       "url": "https://www.youtube.com/playlist?list=PLk3aKka1GYSx7DJf9AnXUDEnCfmjaXZJo",
+       "text": "OST II",
+       "url": "https://www.youtube.com/playlist?list=PLgBAXaMeVtyrBSgTFYXZsjE0SuNgy5NHx",
        "mark": "music"
-      }
-     ]
-    },
-    {
-     "id": "e0465",
-     "type": "music",
-     "segments": [
-      {
-       "text": "Season 1"
       },
       {
-       "text": " "
+       "text": " ("
+      },
+      {
+       "text": "Wiki",
+       "url": "https://attackontitan.fandom.com/wiki/%22Attack_on_Titan%22_Original_Soundtrack_II"
+      },
+      {
+       "text": ") (Track 17-27)；"
       },
       {
        "text": "OP1",
@@ -2705,11 +2367,26 @@
      ]
     },
     {
-     "id": "e0466",
+     "id": "e0459",
      "type": "music",
      "segments": [
       {
-       "text": "Season 2 "
+       "text": "第二季 "
+      },
+      {
+       "text": "OST",
+       "url": "https://www.youtube.com/playlist?list=PLk3aKka1GYSx7DJf9AnXUDEnCfmjaXZJo",
+       "mark": "music"
+      },
+      {
+       "text": " ("
+      },
+      {
+       "text": "Wiki",
+       "url": "https://attackontitan.fandom.com/wiki/%22Attack_on_Titan%22_Season_2_Original_Soundtrack"
+      },
+      {
+       "text": ")；"
       },
       {
        "text": "OP",
@@ -2727,32 +2404,26 @@
      ]
     },
     {
-     "id": "e0467",
+     "id": "e0461",
      "type": "music",
      "segments": [
       {
-       "text": "Season 3 OST: "
+       "text": "第三季 "
+      },
+      {
+       "text": "OST",
+       "url": "https://www.youtube.com/playlist?list=OLAK5uy_lw93YTR0xALVrxvdUSdEKtS_HfGNwOTlQ",
+       "mark": "music"
+      },
+      {
+       "text": " ("
       },
       {
        "text": "Wiki",
        "url": "https://attackontitan.fandom.com/wiki/%22Attack_on_Titan%22_Season_3_Original_Soundtrack"
       },
       {
-       "text": ", "
-      },
-      {
-       "text": "vid.",
-       "url": "https://www.youtube.com/playlist?list=OLAK5uy_lw93YTR0xALVrxvdUSdEKtS_HfGNwOTlQ",
-       "mark": "music"
-      }
-     ]
-    },
-    {
-     "id": "e0468",
-     "type": "music",
-     "segments": [
-      {
-       "text": "Season 3 "
+       "text": ")；"
       },
       {
        "text": "OP1",
@@ -2786,38 +2457,11 @@
      ]
     },
     {
-     "id": "e0469",
+     "id": "e0462",
      "type": "music",
      "segments": [
       {
-       "text": "AoT The Final Season OST: Wiki "
-      },
-      {
-       "text": "1",
-       "url": "https://attackontitan.fandom.com/wiki/%22Attack_on_Titan%22_The_Final_Season_Original_Soundtrack",
-       "mark": "music"
-      },
-      {
-       "text": ", "
-      },
-      {
-       "text": "2",
-       "url": "https://attackontitan.fandom.com/wiki/%22Attack_on_Titan%22_The_Final_Season_Original_Soundtrack_02",
-       "mark": "music"
-      },
-      {
-       "text": ","
-      },
-      {
-       "text": " "
-      },
-      {
-       "text": "3",
-       "url": "https://attackontitan.fandom.com/wiki/%22Attack_on_Titan%22_The_Final_Season_Original_Soundtrack_03",
-       "mark": "music"
-      },
-      {
-       "text": " vid. "
+       "text": "The Final Season OST "
       },
       {
        "text": "1",
@@ -2833,24 +2477,39 @@
        "mark": "music"
       },
       {
-       "text": ","
-      },
-      {
-       "text": " "
+       "text": ", "
       },
       {
        "text": "3",
        "url": "https://www.youtube.com/playlist?list=OLAK5uy_lbGWFKHW3DdqEoHtOAhoD6iB1MI3dcurA",
        "mark": "music"
-      }
-     ]
-    },
-    {
-     "id": "e0470",
-     "type": "music",
-     "segments": [
+      },
       {
-       "text": "The Final Season "
+       "text": " (Wiki "
+      },
+      {
+       "text": "1",
+       "url": "https://attackontitan.fandom.com/wiki/%22Attack_on_Titan%22_The_Final_Season_Original_Soundtrack",
+       "mark": "music"
+      },
+      {
+       "text": ", "
+      },
+      {
+       "text": "2",
+       "url": "https://attackontitan.fandom.com/wiki/%22Attack_on_Titan%22_The_Final_Season_Original_Soundtrack_02",
+       "mark": "music"
+      },
+      {
+       "text": ", "
+      },
+      {
+       "text": "3",
+       "url": "https://attackontitan.fandom.com/wiki/%22Attack_on_Titan%22_The_Final_Season_Original_Soundtrack_03",
+       "mark": "music"
+      },
+      {
+       "text": ")；"
       },
       {
        "text": "OP1",
@@ -2914,57 +2573,14 @@
        "mark": "music"
       }
      ]
-    },
-    {
-     "id": "e0463",
-     "type": "music",
-     "segments": [
-      {
-       "text": "OST: "
-      },
-      {
-       "text": "Wiki",
-       "url": "https://attackontitan.fandom.com/wiki/%22Attack_on_Titan%22_Original_Soundtrack"
-      },
-      {
-       "text": ", "
-      },
-      {
-       "text": "vid.",
-       "url": "https://www.youtube.com/playlist?list=OLAK5uy_l2cAkJV4swcqBugi3sOAbIHGeFL3PZZzU",
-       "mark": "music"
-      },
-      {
-       "text": "，II "
-      },
-      {
-       "text": "Wiki",
-       "url": "https://attackontitan.fandom.com/wiki/%22Attack_on_Titan%22_Original_Soundtrack_II"
-      },
-      {
-       "text": ", "
-      },
-      {
-       "text": "vid.",
-       "url": "https://www.youtube.com/playlist?list=PLgBAXaMeVtyrBSgTFYXZsjE0SuNgy5NHx",
-       "mark": "music"
-      },
-      {
-       "text": " (Track 17-27)"
-      }
-     ]
     }
-   ],
-   "notes": [
-    "※巴哈含1集特別篇(1、2季解說篇)",
-    "※巴哈含1集特別篇(總解說篇)"
-   ],
-   "source": "manga"
+   ]
   },
   {
    "id": "n0252",
    "kind": "work",
    "title": "影子籃球員",
+   "source": "manga",
    "links": [
     {
      "text": "影子籃球員",
@@ -2977,23 +2593,53 @@
      "type": "anime",
      "segments": [
       {
-       "text": "第一季 ("
+       "text": "第一季",
+       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=3896",
+       "mark": "anime"
+      },
+      {
+       "text": " ("
       },
       {
        "text": "Wiki",
        "url": "https://kurokonobasuke.fandom.com/wiki/Episodes#Season_One"
       },
       {
-       "text": ", "
+       "text": ")、"
       },
       {
-       "text": "巴哈",
-       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=3896",
+       "text": "第二季",
+       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=5928",
        "mark": "anime"
+      },
+      {
+       "text": " ("
+      },
+      {
+       "text": "Wiki",
+       "url": "https://kurokonobasuke.fandom.com/wiki/Episodes#Season_Two"
+      },
+      {
+       "text": ")、"
+      },
+      {
+       "text": "第三季",
+       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=5936",
+       "mark": "anime"
+      },
+      {
+       "text": " ("
+      },
+      {
+       "text": "Wiki",
+       "url": "https://kurokonobasuke.fandom.com/wiki/Episodes#Season_Three"
       },
       {
        "text": ")"
       }
+     ],
+     "notes": [
+      "※第一季含第22.5集、第二季含第41.5集、第三季含第75.5集"
      ]
     },
     {
@@ -3001,55 +2647,7 @@
      "type": "anime",
      "segments": [
       {
-       "text": "第二季 ("
-      },
-      {
-       "text": "Wiki",
-       "url": "https://kurokonobasuke.fandom.com/wiki/Episodes#Season_Two"
-      },
-      {
-       "text": ", "
-      },
-      {
-       "text": "巴哈",
-       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=5928",
-       "mark": "anime"
-      },
-      {
-       "text": ")"
-      }
-     ]
-    },
-    {
-     "id": "e0473",
-     "type": "anime",
-     "segments": [
-      {
-       "text": "第三季 ("
-      },
-      {
-       "text": "Wiki",
-       "url": "https://kurokonobasuke.fandom.com/wiki/Episodes#Season_Three"
-      },
-      {
-       "text": ", "
-      },
-      {
-       "text": "巴哈",
-       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=5936",
-       "mark": "anime"
-      },
-      {
-       "text": ")"
-      }
-     ]
-    },
-    {
-     "id": "e0474",
-     "type": "anime",
-     "segments": [
-      {
-       "text": "Fan Disc ("
+       "text": "Fan Disc "
       },
       {
        "text": "#1",
@@ -3073,25 +2671,22 @@
        "mark": "anime"
       },
       {
-       "text": ")、 "
+       "text": "、"
       },
       {
-       "text": "OVA",
+       "text": "OVA：笨蛋是贏不了的",
        "url": "https://myself-bbs.com/thread-43975-1-1.html",
        "mark": "anime"
-      },
-      {
-       "text": " "
-      },
-      {
-       "text": "(笨蛋是贏不了的)"
       }
      ]
     },
     {
-     "id": "e0475",
+     "id": "e0473",
      "type": "anime",
      "segments": [
+      {
+       "text": "劇場版："
+      },
       {
        "text": "Last Game",
        "url": "https://myself-bbs.com/thread-43977-1-1.html",
@@ -3099,23 +2694,20 @@
       }
      ]
     }
-   ],
-   "notes": [
-    "※巴哈第一季含第22.5集、第二季含第41.5集、第三季含第75.5集"
-   ],
-   "source": "manga"
+   ]
   },
   {
    "id": "n0253",
    "kind": "work",
    "title": "暗殺教室",
+   "source": "manga",
    "links": [
     {
      "text": "暗殺教室",
      "url": "https://ansatsukyoshitsu.fandom.com/wiki/Assassination_Classroom_Wiki"
     },
     {
-     "text": "Wiki",
+     "text": "動畫Wiki",
      "url": "https://ansatsukyoshitsu.fandom.com/wiki/List_of_Episodes"
     }
    ],
@@ -3125,29 +2717,35 @@
      "type": "anime",
      "segments": [
       {
-       "text": "第一季 ("
-      },
-      {
-       "text": "巴哈",
+       "text": "第一季",
        "url": "https://ani.gamer.com.tw/animeVideo.php?sn=3441",
        "mark": "anime"
       },
       {
-       "text": ")"
+       "text": "、"
+      },
+      {
+       "text": "第二季",
+       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=4480",
+       "mark": "anime"
       }
      ]
     },
     {
      "id": "e0477",
-     "type": "anime",
+     "type": "music",
      "segments": [
       {
-       "text": "第二季 ("
+       "text": "OST",
+       "url": "https://www.youtube.com/playlist?list=PLlWbcFGZEw6dPF86X7dNDdHiOhPlXFfz_",
+       "mark": "music"
       },
       {
-       "text": "巴哈",
-       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=4480",
-       "mark": "anime"
+       "text": " ("
+      },
+      {
+       "text": "Wiki",
+       "url": "https://ansatsukyoshitsu.fandom.com/wiki/Original_Soundtrack"
       },
       {
        "text": ")"
@@ -3156,115 +2754,47 @@
     },
     {
      "id": "e0478",
-     "type": "anime",
-     "segments": [
-      {
-       "text": "課外授業篇",
-       "url": "https://www.youtube.com/playlist?list=PLZkkam9sCPcHzcFB2SzRNRf9h3XWYX8A0",
-       "mark": "anime"
-      },
-      {
-       "text": "、"
-      },
-      {
-       "text": "Meeting Time",
-       "url": "https://www.youtube.com/watch?v=11AoHc8IYq0",
-       "mark": "anime"
-      }
-     ]
-    },
-    {
-     "id": "e0479",
-     "type": "anime",
-     "segments": [
-      {
-       "text": "殺老師Q！",
-       "url": "https://www.youtube.com/playlist?list=PL6tj0SI-3ueV0JuGoPABlQoUah_aiSPyb",
-       "mark": "anime"
-      }
-     ]
-    },
-    {
-     "id": "e0480",
-     "type": "anime",
-     "segments": [
-      {
-       "text": "365日倒數計時",
-       "url": "https://www.youtube.com/watch?v=ejb0dAfVtLk",
-       "mark": "anime"
-      }
-     ]
-    },
-    {
-     "id": "e0481",
      "type": "music",
      "segments": [
       {
-       "text": "OST: "
+       "text": "第一季 "
       },
       {
-       "text": "Wiki",
-       "url": "https://ansatsukyoshitsu.fandom.com/wiki/Original_Soundtrack"
-      },
-      {
-       "text": ", "
-      },
-      {
-       "text": "vid.",
-       "url": "https://www.youtube.com/playlist?list=PLlWbcFGZEw6dPF86X7dNDdHiOhPlXFfz_",
+       "text": "OP1 Album",
+       "url": "https://www.bilibili.com/video/BV1hx411A7iQ/?spm_id_from=333.337.search-card.all.click",
        "mark": "music"
-      }
-     ]
-    },
-    {
-     "id": "e0482",
-     "type": "music",
-     "segments": [
+      },
       {
-       "text": "Season 1 OP1 Album: "
+       "text": " ("
       },
       {
        "text": "Wiki",
        "url": "https://ansatsukyoshitsu.fandom.com/wiki/Seishun_Satsubatsuron"
       },
       {
-       "text": ", "
+       "text": ")、"
       },
       {
-       "text": "vid.",
-       "url": "https://www.bilibili.com/video/BV1hx411A7iQ/?spm_id_from=333.337.search-card.all.click",
-       "mark": "music"
-      }
-     ]
-    },
-    {
-     "id": "e0483",
-     "type": "music",
-     "segments": [
-      {
-       "text": "ED Album: "
-      },
-      {
-       "text": "vgmdb",
-       "url": "https://vgmdb.net/album/50071"
-      },
-      {
-       "text": ", "
-      },
-      {
-       "text": "vid.",
+       "text": "ED Album",
        "url": "https://www.bilibili.com/video/BV11x411A7cZ/?spm_id_from=333.337.search-card.all.click",
        "mark": "music"
       },
       {
-       "text": "；OP2 Album: "
+       "text": " ("
       },
       {
-       "text": "vgmdb",
+       "text": "VGMdb",
+       "url": "https://vgmdb.net/album/50071"
+      },
+      {
+       "text": ")、OP2 Album ("
+      },
+      {
+       "text": "VGMdb",
        "url": "https://vgmdb.net/album/51498"
       },
       {
-       "text": ", "
+       "text": ")："
       },
       {
        "text": "1",
@@ -3279,106 +2809,144 @@
        "url": "https://www.bilibili.com/video/BV1YS4y1q7tA/?spm_id_from=333.337.search-card.all.click",
        "mark": "music"
       }
+     ],
+     "notes": [
+      "※OP2 Album Instrumental ver. Missing"
      ]
     },
     {
-     "id": "e0484",
+     "id": "e0479",
      "type": "music",
      "segments": [
       {
-       "text": "Season 2 OP1 Album: "
+       "text": "第二季 "
+      },
+      {
+       "text": "OP1 Album",
+       "url": "https://www.bilibili.com/video/BV1is411Q755/",
+       "mark": "music"
+      },
+      {
+       "text": " ("
       },
       {
        "text": "Wiki",
        "url": "https://ansatsukyoshitsu.fandom.com/wiki/QUESTION"
       },
       {
-       "text": ", "
+       "text": ")、"
       },
       {
-       "text": "vid.",
-       "url": "https://www.bilibili.com/video/BV1is411Q755/",
+       "text": "ED",
+       "url": "https://www.youtube.com/watch?v=OJnF2SgXKVo",
        "mark": "music"
       },
       {
-       "text": "；ED: "
+       "text": " ("
       },
       {
        "text": "Wiki",
        "url": "https://ansatsukyoshitsu.fandom.com/wiki/Kaketa_Tsuki"
       },
       {
-       "text": ", "
+       "text": ")、"
       },
       {
-       "text": "vid.",
-       "url": "https://www.youtube.com/watch?v=OJnF2SgXKVo",
+       "text": "Insert Song",
+       "url": "https://www.youtube.com/watch?v=GgqHcKt2r4s",
        "mark": "music"
       },
       {
-       "text": "；Insert Song: "
+       "text": " ("
       },
       {
        "text": "Wiki",
        "url": "https://ansatsukyoshitsu.fandom.com/wiki/Tabidachi_no_Uta"
       },
       {
-       "text": ", "
+       "text": ")、"
       },
       {
-       "text": "vid.",
-       "url": "https://www.youtube.com/watch?v=GgqHcKt2r4s",
+       "text": "OP2 Album",
+       "url": "https://www.bilibili.com/video/BV1rs411B7m6/?spm_id_from=333.999.0.0",
        "mark": "music"
       },
       {
-       "text": "；OP2 Album: "
+       "text": " ("
       },
       {
        "text": "Wiki",
        "url": "https://ansatsukyoshitsu.fandom.com/wiki/Bye_Bye_YESTERDAY"
       },
       {
-       "text": ", "
+       "text": ")、"
       },
       {
-       "text": "vid.",
-       "url": "https://www.bilibili.com/video/BV1rs411B7m6/?spm_id_from=333.999.0.0",
+       "text": "ED2",
+       "url": "https://www.youtube.com/watch?v=Zv_mbG2IedY",
        "mark": "music"
       },
       {
-       "text": "；ED2: "
+       "text": " ("
       },
       {
        "text": "Wiki",
        "url": "https://ansatsukyoshitsu.fandom.com/wiki/Mata_Kimi_ni_Aeru_Hi"
       },
       {
-       "text": ", "
+       "text": ")"
+      }
+     ]
+    },
+    {
+     "id": "e0480",
+     "type": "anime",
+     "segments": [
+      {
+       "text": "課外授業篇",
+       "url": "https://www.youtube.com/playlist?list=PLZkkam9sCPcHzcFB2SzRNRf9h3XWYX8A0",
+       "mark": "anime"
       },
       {
-       "text": "vid.",
-       "url": "https://www.youtube.com/watch?v=Zv_mbG2IedY",
-       "mark": "music"
+       "text": "、"
+      },
+      {
+       "text": "Meeting Time",
+       "url": "https://www.youtube.com/watch?v=11AoHc8IYq0",
+       "mark": "anime"
+      },
+      {
+       "text": "、"
+      },
+      {
+       "text": "殺老師Q！",
+       "url": "https://www.youtube.com/playlist?list=PL6tj0SI-3ueV0JuGoPABlQoUah_aiSPyb",
+       "mark": "anime"
+      },
+      {
+       "text": "、"
+      },
+      {
+       "text": "365日倒數計時",
+       "url": "https://www.youtube.com/watch?v=ejb0dAfVtLk",
+       "mark": "anime"
       }
      ]
     }
-   ],
-   "notes": [
-    "※OP2 Album Instrumental ver. Missing"
-   ],
-   "source": "manga"
+   ]
   },
   {
    "id": "n0254",
    "kind": "work",
    "title": "食戟之靈",
+   "source": "manga",
    "links": [
     {
      "text": "食戟之靈",
      "url": "https://shokugekinosoma.fandom.com/wiki/Shokugeki_no_Soma_Wiki"
     },
     {
-     "text": "Wiki",
+     "text": "動畫Wiki",
      "url": "https://shokugekinosoma.fandom.com/wiki/Episodes"
     }
    ],
@@ -3391,68 +2959,50 @@
        "text": "第一季",
        "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JiQ5eGN9KP8g6v8fEG7k6Ab",
        "mark": "anime"
-      }
-     ]
-    },
-    {
-     "id": "e0486",
-     "type": "anime",
-     "segments": [
+      },
+      {
+       "text": "、"
+      },
       {
        "text": "第二季",
        "url": "https://ani.gamer.com.tw/animeVideo.php?sn=5794",
        "mark": "anime"
-      }
-     ]
-    },
-    {
-     "id": "e0487",
-     "type": "anime",
-     "segments": [
+      },
+      {
+       "text": "、"
+      },
       {
        "text": "第三季(上)",
        "url": "https://ani.gamer.com.tw/animeVideo.php?sn=13318",
        "mark": "anime"
-      }
-     ]
-    },
-    {
-     "id": "e0488",
-     "type": "anime",
-     "segments": [
+      },
+      {
+       "text": "、"
+      },
       {
        "text": "第三季(下)",
        "url": "https://ani.gamer.com.tw/animeVideo.php?sn=13396",
        "mark": "anime"
-      }
-     ]
-    },
-    {
-     "id": "e0489",
-     "type": "anime",
-     "segments": [
+      },
+      {
+       "text": "、"
+      },
       {
        "text": "第四季",
        "url": "https://ani.gamer.com.tw/animeVideo.php?sn=13842",
        "mark": "anime"
-      }
-     ]
-    },
-    {
-     "id": "e0490",
-     "type": "anime",
-     "segments": [
+      },
+      {
+       "text": "、"
+      },
       {
        "text": "第五季",
        "url": "https://ani.gamer.com.tw/animeVideo.php?sn=15285",
        "mark": "anime"
-      }
-     ]
-    },
-    {
-     "id": "e0491",
-     "type": "anime",
-     "segments": [
+      },
+      {
+       "text": "、"
+      },
       {
        "text": "OVA",
        "url": "https://myself-bbs.com/thread-43991-1-1.html",
@@ -3461,45 +3011,11 @@
      ]
     },
     {
-     "id": "e0492",
+     "id": "e0486",
      "type": "music",
      "segments": [
       {
-       "text": "Season 1~5 All OP & ED ("
-      },
-      {
-       "text": "vid.",
-       "url": "https://www.youtube.com/watch?v=pXrIE7clAVA",
-       "mark": "music"
-      },
-      {
-       "text": ")"
-      }
-     ]
-    },
-    {
-     "id": "e0493",
-     "type": "music",
-     "segments": [
-      {
-       "text": "Character Songs 1~6 ("
-      },
-      {
-       "text": "vid.",
-       "url": "https://www.youtube.com/playlist?list=PL_GKmOT-iRQYSY6pFT16eXT3f9fZ_o2PQ",
-       "mark": "music"
-      },
-      {
-       "text": ")"
-      }
-     ]
-    },
-    {
-     "id": "e0494",
-     "type": "music",
-     "segments": [
-      {
-       "text": "OST: Season "
+       "text": "OST：Season "
       },
       {
        "text": "1",
@@ -3539,7 +3055,7 @@
        "mark": "music"
       },
       {
-       "text": "、 "
+       "text": "、"
       },
       {
        "text": "5",
@@ -3547,25 +3063,47 @@
        "mark": "music"
       }
      ]
+    },
+    {
+     "id": "e0487",
+     "type": "music",
+     "segments": [
+      {
+       "text": "Season 1~5 All OP & ED",
+       "url": "https://www.youtube.com/watch?v=pXrIE7clAVA",
+       "mark": "music"
+      }
+     ]
+    },
+    {
+     "id": "e0488",
+     "type": "music",
+     "segments": [
+      {
+       "text": "Character Songs 1~6",
+       "url": "https://www.youtube.com/playlist?list=PL_GKmOT-iRQYSY6pFT16eXT3f9fZ_o2PQ",
+       "mark": "music"
+      }
+     ]
     }
-   ],
-   "source": "manga"
+   ]
   },
   {
    "id": "n0255",
    "kind": "work",
    "title": "工作細胞",
+   "source": "manga",
    "links": [
     {
      "text": "工作細胞",
      "url": "https://cellsatwork.fandom.com/wiki/Cells_at_Work!_Wiki"
     },
     {
-     "text": "本作Wiki",
+     "text": "動畫Wiki",
      "url": "https://zh.wikipedia.org/zh-tw/%E5%B7%A5%E4%BD%9C%E7%B4%B0%E8%83%9E#%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB"
     },
     {
-     "text": "Black Wiki",
+     "text": "BLACK 動畫Wiki",
      "url": "https://zh.wikipedia.org/wiki/%E5%B7%A5%E4%BD%9C%E7%B4%B0%E8%83%9EBLACK#%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB"
     }
    ],
@@ -3578,24 +3116,18 @@
        "text": "第一季",
        "url": "https://ani.gamer.com.tw/animeVideo.php?sn=10210",
        "mark": "anime"
-      }
-     ]
-    },
-    {
-     "id": "e0496",
-     "type": "anime",
-     "segments": [
+      },
+      {
+       "text": "、"
+      },
       {
        "text": "第二季",
        "url": "https://ani.gamer.com.tw/animeVideo.php?sn=20608",
        "mark": "anime"
-      }
-     ]
-    },
-    {
-     "id": "e0497",
-     "type": "anime",
-     "segments": [
+      },
+      {
+       "text": "、"
+      },
       {
        "text": "劇場版",
        "url": "https://ani.gamer.com.tw/animeVideo.php?sn=23295",
@@ -3604,18 +3136,20 @@
      ]
     },
     {
-     "id": "e0498",
+     "id": "e0496",
      "type": "anime",
      "segments": [
       {
-       "text": "Black",
+       "text": "外傳："
+      },
+      {
+       "text": "BLACK",
        "url": "https://ani.gamer.com.tw/animeVideo.php?sn=20610",
        "mark": "anime"
       }
      ]
     }
-   ],
-   "source": "manga"
+   ]
   },
   {
    "id": "n0256",
@@ -3633,6 +3167,7 @@
    "id": "n0258",
    "kind": "work",
    "title": "斬！赤紅之瞳",
+   "source": "manga",
    "links": [
     {
      "text": "斬！赤紅之瞳",
@@ -3645,22 +3180,19 @@
      "type": "anime",
      "segments": [
       {
-       "text": "動畫("
+       "text": "動畫",
+       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=7870",
+       "mark": "anime"
+      },
+      {
+       "text": " ("
       },
       {
        "text": "Wiki",
        "url": "https://akamegakill.fandom.com/wiki/Akame_ga_Kill!_(Anime)"
       },
       {
-       "text": ", "
-      },
-      {
-       "text": "巴哈",
-       "url": "https://ani.gamer.com.tw/animeVideo.php?sn=7870",
-       "mark": "anime"
-      },
-      {
-       "text": ")"
+       "text": "))"
       }
      ]
     },
@@ -3669,34 +3201,34 @@
      "type": "music",
      "segments": [
       {
-       "text": "Akame ga Kill! OST 1: "
+       "text": "OST 1",
+       "url": "https://www.youtube.com/playlist?list=PL0nLkDCjXjPmoRFf4UvebEXJG8iokx6p8",
+       "mark": "music"
+      },
+      {
+       "text": " ("
       },
       {
        "text": "Wiki",
        "url": "https://akamegakill.fandom.com/wiki/Akame_ga_Kill!_Original_Soundtrack_1"
       },
       {
-       "text": ", "
+       "text": ")、"
       },
       {
-       "text": "vid.",
-       "url": "https://www.youtube.com/playlist?list=PL0nLkDCjXjPmoRFf4UvebEXJG8iokx6p8",
+       "text": "OST 2",
+       "url": "https://www.youtube.com/playlist?list=PLJIVaVKpShkn-iQArFD5IIlIRTOczgMO3",
        "mark": "music"
       },
       {
-       "text": " 2: "
+       "text": " ("
       },
       {
        "text": "Wiki",
        "url": "https://akamegakill.fandom.com/wiki/Akame_ga_Kill!_Original_Soundtrack_2"
       },
       {
-       "text": ", "
-      },
-      {
-       "text": "vid.",
-       "url": "https://www.youtube.com/playlist?list=PLJIVaVKpShkn-iQArFD5IIlIRTOczgMO3",
-       "mark": "music"
+       "text": ")"
       }
      ]
     },
@@ -3711,20 +3243,20 @@
       }
      ]
     }
-   ],
-   "source": "manga"
+   ]
   },
   {
    "id": "n0259",
    "kind": "work",
    "title": "刀劍亂舞",
+   "source": "game",
    "links": [
     {
      "text": "刀劍亂舞",
      "url": "https://touken-ranbu.fandom.com/wiki/Touken_Ranbu_Wiki"
     },
     {
-     "text": "Wiki",
+     "text": "動畫Wiki",
      "url": "https://zh.wikipedia.org/zh-tw/%E5%88%80%E5%8A%8D%E4%BA%82%E8%88%9E#%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB"
     }
    ],
@@ -3734,16 +3266,16 @@
      "type": "anime",
      "segments": [
       {
-       "text": "花丸第一季 (暫無可靠片源)、第二季 ("
+       "text": "花丸：第一季、"
       },
       {
-       "text": "Bilibili",
+       "text": "第二季",
        "url": "https://www.bilibili.com/bangumi/media/md12572/",
        "mark": "anime"
-      },
-      {
-       "text": ")"
       }
+     ],
+     "notes": [
+      "※花丸第一季暫無可靠片源"
      ]
     },
     {
@@ -3751,25 +3283,19 @@
      "type": "anime",
      "segments": [
       {
-       "text": "活擊 ("
-      },
-      {
-       "text": "Bilibili",
+       "text": "活擊",
        "url": "https://www.bilibili.com/bangumi/media/md6302/",
        "mark": "anime"
-      },
-      {
-       "text": ")"
       }
      ]
     }
-   ],
-   "source": "game"
+   ]
   },
   {
    "id": "n0260",
    "kind": "work",
    "title": "DARLING in the FRANXX",
+   "source": "original",
    "links": [
     {
      "text": "DARLING in the FRANXX",
@@ -3782,20 +3308,23 @@
      "type": "anime",
      "segments": [
       {
+       "text": "動畫",
+       "url": "https://www.bilibili.com/bangumi/media/md9192",
+       "mark": "anime"
+      },
+      {
+       "text": " ("
+      },
+      {
        "text": "Wiki",
        "url": "https://darling-in-the-franxx.fandom.com/wiki/Episodes"
       },
       {
-       "text": ", "
-      },
-      {
-       "text": "Bilibili",
-       "url": "https://www.bilibili.com/bangumi/media/md9192",
-       "mark": "anime"
+       "text": ")"
       }
      ],
      "notes": [
-      "※Bilibili含2集Special"
+      "※含2集Special"
      ]
     },
     {
@@ -3803,38 +3332,35 @@
      "type": "music",
      "segments": [
       {
-       "text": "OST: "
+       "text": "OST ("
       },
       {
        "text": "Wiki",
        "url": "https://darling-in-the-franxx.fandom.com/wiki/Soundtrack"
       },
       {
-       "text": ", vid. (Vol."
+       "text": ")："
       },
       {
-       "text": "1",
+       "text": "Vol. 1",
        "url": "https://www.bilibili.com/s/video/BV1fp411f7a6",
        "mark": "music"
       },
       {
-       "text": ", "
+       "text": "、"
       },
       {
-       "text": "2",
+       "text": "Vol. 2",
        "url": "https://www.bilibili.com/video/BV1Ys411M7CA/",
        "mark": "music"
       },
       {
-       "text": ", "
+       "text": "、"
       },
       {
-       "text": "3",
+       "text": "Vol. 3",
        "url": "https://www.bilibili.com/video/BV1hW411Z7Gd/",
        "mark": "music"
-      },
-      {
-       "text": ")"
       }
      ]
     },
@@ -3848,10 +3374,10 @@
        "mark": "music"
       },
       {
-       "text": "、ED Collection vol."
+       "text": "、ED Collection "
       },
       {
-       "text": "1",
+       "text": "Vol. 1",
        "url": "https://www.bilibili.com/video/BV1AK4y197yi/?spm_id_from=333.337.search-card.all.click",
        "mark": "music"
       },
@@ -3859,19 +3385,19 @@
        "text": "、"
       },
       {
-       "text": "2",
+       "text": "Vol. 2",
        "url": "https://www.bilibili.com/video/BV1dq4y157HC/?spm_id_from=333.788.video.desc.click",
        "mark": "music"
       }
      ]
     }
-   ],
-   "source": "original"
+   ]
   },
   {
    "id": "n0261",
    "kind": "work",
    "title": "Princess Principal",
+   "source": "original",
    "links": [
     {
      "text": "Princess Principal",
@@ -3884,27 +3410,23 @@
      "type": "anime",
      "segments": [
       {
-       "text": "第一季 ("
+       "text": "第一季",
+       "url": "https://anime1.me/category/2017%E5%B9%B4%E5%A4%8F%E5%AD%A3/princess-principal",
+       "mark": "anime"
+      },
+      {
+       "text": " ("
       },
       {
        "text": "Wiki",
        "url": "https://princess-principal.fandom.com/wiki/Season_1"
       },
       {
-       "text": ", "
-      },
-      {
-       "text": "Anime1",
-       "url": "https://anime1.me/category/2017%E5%B9%B4%E5%A4%8F%E5%AD%A3/princess-principal",
-       "mark": "anime"
-      },
-      {
        "text": ")"
       }
      ],
      "notes": [
-      "※Anime1含6集Special",
-      "˙OST: Sound of Foggy London:"
+      "※含6集Special"
      ]
     },
     {
@@ -3912,32 +3434,35 @@
      "type": "music",
      "segments": [
       {
+       "text": "OST："
+      },
+      {
+       "text": "Sound of Foggy London",
+       "url": "https://www.bilibili.com/video/BV11x411G7xZ/",
+       "mark": "music"
+      },
+      {
+       "text": " ("
+      },
+      {
        "text": "Wiki",
        "url": "https://princess-principal.fandom.com/wiki/Season_1_Soundtrack"
+      },
+      {
+       "text": "), "
+      },
+      {
+       "text": "Disc1 #12",
+       "url": "https://youtu.be/jGizki3u5bU?t=1535",
+       "mark": "music"
       },
       {
        "text": ", "
       },
       {
-       "text": "vid.",
-       "url": "https://www.bilibili.com/video/BV11x411G7xZ/",
-       "mark": "anime"
-      },
-      {
-       "text": " "
-      },
-      {
-       "text": "Disc1 #12",
-       "url": "https://youtu.be/jGizki3u5bU?t=1535",
-       "mark": "anime"
-      },
-      {
-       "text": " "
-      },
-      {
        "text": "Disc2 #3",
        "url": "https://youtu.be/jGizki3u5bU?t=0",
-       "mark": "anime"
+       "mark": "music"
       }
      ]
     },
@@ -3948,7 +3473,7 @@
       {
        "text": "OP",
        "url": "https://www.youtube.com/watch?v=4m0_FpkfmVY",
-       "mark": "anime"
+       "mark": "music"
       },
       {
        "text": "、"
@@ -3956,12 +3481,11 @@
       {
        "text": "ED",
        "url": "https://www.youtube.com/watch?v=cIABA6cHyp4",
-       "mark": "anime"
+       "mark": "music"
       }
      ]
     }
-   ],
-   "source": "original"
+   ]
   }
  ]
 }
