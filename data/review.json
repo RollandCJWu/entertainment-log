@@ -1,35 +1,4 @@
 {
  "version": 1,
- "items": [
-  {
-   "id": "r1a1a6303625gdc",
-   "node": "n1a1a6303585wsn",
-   "issue": "「花蟲」「命運石之門」原本被放在冰火姊弟底下，它們是另外的遊戲，已移到 2000-2010"
-  },
-  {
-   "id": "r1a1a6303627l3d",
-   "node": "n0219",
-   "issue": "「(Database, vid.)」那筆音樂判斷是 The Tale of a Cruel World（原本寫在備註），請確認；Otherworld 是另一款遊戲的 OST"
-  },
-  {
-   "id": "r1a1a645e0a9n3c",
-   "node": "n0208",
-   "issue": "2000-2010：以下 8 款的影片連結原本只寫遊戲名稱，暫時標成「影片」，請告訴我實際內容（Full Walkthrough、實況…）：The Forest Temple、The Light Temple、The Ice Temple、The Crystal Temple、Elements、Fairy Tales、Angry Birds Go、Cave Story"
-  },
-  {
-   "id": "r1a1a645e0abl4p",
-   "node": "n0212",
-   "issue": "2011-2015：以下 10 款的影片連結原本只寫遊戲名稱，暫時標成「影片」，請告訴我實際內容（Full Walkthrough、實況…）：Contrast、Dumb Ways to Die、Don’t Starve、Into the Dead、Into the Dead 2、Puppeteer、Reus、Terraria、The Bridge、To the Moon"
-  },
-  {
-   "id": "r1a1a645e0ad0s9",
-   "node": "n0223",
-   "issue": "2016-2020：以下 4 款的影片連結原本只寫遊戲名稱，暫時標成「影片」，請告訴我實際內容（Full Walkthrough、實況…）：A Hat in Time、The Sinking City、Castle Story、Darkest Dungeon"
-  },
-  {
-   "id": "r1a1a645e0afleb",
-   "node": "n0236",
-   "issue": "2021-2025：以下 1 款的影片連結原本只寫遊戲名稱，暫時標成「影片」，請告訴我實際內容（Full Walkthrough、實況…）：Aurum Blade"
-  }
- ]
+ "items": []
 }
