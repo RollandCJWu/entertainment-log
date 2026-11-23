@@ -2,16 +2,6 @@
  "version": 1,
  "items": [
   {
-   "id": "r1a1a6303621o7x",
-   "node": "n1a1a6303429py2",
-   "issue": "原本有「空中花園 遊戲」和「空中花園」兩支舞秋風影片（不同連結），先合在同一款；如果是兩款不同的遊戲請告訴我"
-  },
-  {
-   "id": "r1a1a6303623beq",
-   "node": "n1a1a630355ac0c",
-   "issue": "原本被放在 Civilization 底下，它是另一款遊戲，已移到 1990s"
-  },
-  {
    "id": "r1a1a6303625gdc",
    "node": "n1a1a6303585wsn",
    "issue": "「花蟲」「命運石之門」原本被放在冰火姊弟底下，它們是另外的遊戲，已移到 2000-2010"
@@ -20,26 +10,6 @@
    "id": "r1a1a6303627l3d",
    "node": "n0219",
    "issue": "「(Database, vid.)」那筆音樂判斷是 The Tale of a Cruel World（原本寫在備註），請確認；Otherworld 是另一款遊戲的 OST"
-  },
-  {
-   "id": "r1a1a645e0a0wy7",
-   "node": "n0174",
-   "issue": "RPG Maker 遊戲：以下 4 款的影片連結原本只寫遊戲名稱，暫時標成「影片」，請告訴我實際內容（Full Walkthrough、實況…）：夢日記 ゆめにっき、勇者物語：世界樹之心、Ib、Omori"
-  },
-  {
-   "id": "r1a1a645e0a2c8r",
-   "node": "n0175",
-   "issue": "Early Games (維基百科)：以下 8 款的影片連結原本只寫遊戲名稱，暫時標成「影片」，請告訴我實際內容（Full Walkthrough、實況…）：陰極射線管娛樂裝置、Bertie the Brain、Nimrod、Tennis for Two、Spacewar!、The Sumerian Game、Hamurabi、Lunar Lander (1969)"
-  },
-  {
-   "id": "r1a1a645e0a4hp0",
-   "node": "n0176",
-   "issue": "1970s, 1980s：以下 22 款的影片連結原本只寫遊戲名稱，暫時標成「影片」，請告訴我實際內容（Full Walkthrough、實況…）：Breakout (1976)、Super Breakout、Breakout 2000、Computer Space、Death Race、Dragon Ball、Galaxy Game、Gran Trak 10、Gauntlet (2014)、Haunted House (1982)、Jetpac、Knight Lore、Lunar Lander (1979)、Pong、Prince of Persia (1989)、R-Type (1987)、Sea Wolf、Star Trek (1971)、Wizardry: Proving Grounds of the Mad Overlord、Zork I、Zork II、Zork III"
-  },
-  {
-   "id": "r1a1a645e0a7vjj",
-   "node": "n0203",
-   "issue": "1990s：以下 1 款的影片連結原本只寫遊戲名稱，暫時標成「影片」，請告訴我實際內容（Full Walkthrough、實況…）：Langrisser I"
   },
   {
    "id": "r1a1a645e0a9n3c",

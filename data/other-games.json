@@ -220,14 +220,6 @@
          "text": "舞秋風實況",
          "url": "https://www.youtube.com/watch?v=5j6tq3uWvDI",
          "channel": "舞秋風"
-        },
-        {
-         "text": "、"
-        },
-        {
-         "text": "舞秋風實況",
-         "url": "https://www.youtube.com/watch?v=5j6tq3uWvDI",
-         "channel": "舞秋風"
         }
        ]
       }
@@ -504,8 +496,7 @@
         },
         {
          "text": "All Kills",
-         "url": "https://www.youtube.com/watch?v=7VqeFnfNPGU",
-         "channel": "舞秋風"
+         "url": "https://www.youtube.com/watch?v=7VqeFnfNPGU"
         }
        ]
       }
@@ -736,8 +727,7 @@
         },
         {
          "text": "Walkthrough",
-         "url": "https://www.youtube.com/watch?v=ZOjAtMrCwmo",
-         "channel": "舞秋風"
+         "url": "https://www.youtube.com/watch?v=ZOjAtMrCwmo"
         }
        ]
       }
@@ -833,7 +823,7 @@
        "type": "video",
        "segments": [
         {
-         "text": "舞秋風實況",
+         "text": "舞秋風全實況流程",
          "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjvuuOjHwE2o7sYy9TRIRwcf",
          "playlist": true,
          "channel": "舞秋風"
@@ -852,7 +842,7 @@
        "type": "video",
        "segments": [
         {
-         "text": "舞秋風實況",
+         "text": "舞秋風全實況流程",
          "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjssMAvp0yu6sV7wVqYZvsXz",
          "playlist": true,
          "channel": "舞秋風"
@@ -871,7 +861,7 @@
        "type": "video",
        "segments": [
         {
-         "text": "舞秋風實況",
+         "text": "舞秋風全實況流程",
          "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjtl6PuNFSqeMcGUN1bWMR_z",
          "playlist": true,
          "channel": "舞秋風"
@@ -890,9 +880,10 @@
        "type": "video",
        "segments": [
         {
-         "text": "影片",
+         "text": "舞秋風全實況流程",
          "url": "https://www.youtube.com/playlist?list=PLBtVUsNOhEjsFIcsuIfR_cfnGfrvbjCna",
-         "playlist": true
+         "playlist": true,
+         "channel": "舞秋風"
         }
        ]
       }
@@ -908,7 +899,7 @@
        "type": "video",
        "segments": [
         {
-         "text": "影片",
+         "text": "全流程",
          "url": "https://www.youtube.com/playlist?list=PLPFp8-MgoPa9gFSDBck9VdEmlU1ovocoB",
          "playlist": true
         }
@@ -926,7 +917,7 @@
        "type": "video",
        "segments": [
         {
-         "text": "影片",
+         "text": "全流程",
          "url": "https://www.bilibili.com/video/BV1iY4y1P7aa/?spm_id_from=333.337.search-card.all.click",
          "playlist": true
         }
@@ -944,14 +935,14 @@
        "type": "video",
        "segments": [
         {
-         "text": "影片",
+         "text": "遊戲流程解說",
          "url": "https://www.bilibili.com/video/BV18c411b7AU/?spm_id_from=333.337.search-card.all.click"
         },
         {
          "text": "、"
         },
         {
-         "text": "Steam 全成就",
+         "text": "Steam 全成就收集",
          "url": "https://www.bilibili.com/video/BV1iW4y1n7nW/?spm_id_from=333.337.search-card.all.click",
          "playlist": true
         }
@@ -1004,7 +995,7 @@
        "type": "video",
        "segments": [
         {
-         "text": "影片",
+         "text": "遊戲介紹",
          "url": "https://www.youtube.com/watch?v=k_WUb-1C010"
         }
        ]
@@ -1038,7 +1029,7 @@
        "type": "video",
        "segments": [
         {
-         "text": "影片",
+         "text": "遊戲介紹",
          "url": "https://www.youtube.com/watch?v=0zljMpx__Z8"
         }
        ]
@@ -1106,7 +1097,7 @@
        "type": "video",
        "segments": [
         {
-         "text": "影片",
+         "text": "遊戲展示",
          "url": "https://www.youtube.com/watch?v=6PG2mdU_i8k"
         }
        ]
@@ -1123,7 +1114,7 @@
        "type": "video",
        "segments": [
         {
-         "text": "影片",
+         "text": "遊戲展示",
          "url": "https://www.youtube.com/watch?v=Rmvb4Hktv7U"
         }
        ]
@@ -1157,7 +1148,7 @@
        "type": "video",
        "segments": [
         {
-         "text": "影片",
+         "text": "遊戲介紹",
          "url": "https://www.youtube.com/watch?v=-uOrc-IhkR4"
         }
        ]
@@ -1174,7 +1165,7 @@
        "type": "video",
        "segments": [
         {
-         "text": "影片",
+         "text": "遊戲介紹",
          "url": "https://www.youtube.com/watch?v=XbUxIvWRabA"
         }
        ]
@@ -1208,7 +1199,7 @@
        "type": "video",
        "segments": [
         {
-         "text": "影片",
+         "text": "遊戲展示",
          "url": "https://www.youtube.com/watch?v=2TkFCo4F0_U"
         }
        ]
@@ -1238,7 +1229,8 @@
         }
        ]
       }
-     ]
+     ],
+     "status": "played"
     },
     {
      "id": "n0178",
@@ -1256,7 +1248,7 @@
          "type": "video",
          "segments": [
           {
-           "text": "影片",
+           "text": "Gameplay",
            "url": "https://www.youtube.com/watch?v=AMUv8KvVt08"
           }
          ]
@@ -1273,7 +1265,7 @@
          "type": "video",
          "segments": [
           {
-           "text": "影片",
+           "text": "Gameplay",
            "url": "https://www.youtube.com/watch?v=p_Xf9vMike8"
           }
          ]
@@ -1290,7 +1282,7 @@
          "type": "video",
          "segments": [
           {
-           "text": "影片",
+           "text": "Gameplay",
            "url": "https://www.youtube.com/watch?v=jKuLdnwjU9w"
           }
          ]
@@ -1328,7 +1320,7 @@
        "type": "video",
        "segments": [
         {
-         "text": "影片",
+         "text": "遊戲展示",
          "url": "https://www.youtube.com/watch?v=b3BQsCCwo8w"
         }
        ]
@@ -1346,7 +1338,7 @@
        "type": "video",
        "segments": [
         {
-         "text": "影片",
+         "text": "遊戲展示",
          "url": "https://www.youtube.com/watch?v=aBBtt72aJLA"
         }
        ]
@@ -1360,24 +1352,20 @@
      "origin": "ppt:49",
      "entries": [
       {
-       "id": "e1a1a630351d6gr",
-       "type": "reference",
-       "segments": [
-        {
-         "text": "遊戲列表 Wiki",
-         "url": "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_video_games"
-        }
-       ]
-      },
-      {
        "id": "e1a1a630351fsrm",
-       "type": "video",
+       "type": "evolution",
        "segments": [
         {
-         "text": "影片",
+         "text": "Evolution 1986~2024",
          "url": "https://www.youtube.com/watch?v=o0_P7akjNAQ"
         }
        ]
+      }
+     ],
+     "links": [
+      {
+       "text": "遊戲列表 Wiki",
+       "url": "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_video_games"
       }
      ]
     },
@@ -1392,7 +1380,7 @@
        "type": "video",
        "segments": [
         {
-         "text": "影片",
+         "text": "遊戲展示",
          "url": "https://www.youtube.com/watch?v=rVprIIDDLYY"
         }
        ]
@@ -1410,7 +1398,7 @@
        "type": "video",
        "segments": [
         {
-         "text": "影片",
+         "text": "遊戲展示",
          "url": "https://www.youtube.com/watch?v=drQSjojxW_Q"
         }
        ]
@@ -1445,7 +1433,7 @@
          "type": "video",
          "segments": [
           {
-           "text": "影片",
+           "text": "Slayer Edition Walkthrough",
            "url": "https://www.youtube.com/watch?v=8nvsL-VsTSM",
            "mark": "video"
           }
@@ -1466,7 +1454,7 @@
        "type": "video",
        "segments": [
         {
-         "text": "影片",
+         "text": "遊戲展示 (尊)",
          "url": "https://www.youtube.com/watch?v=E-NCOJRvTh8"
         }
        ]
@@ -1484,7 +1472,7 @@
        "type": "video",
        "segments": [
         {
-         "text": "影片",
+         "text": "Gameplay",
          "url": "https://www.youtube.com/watch?v=9Hy29KoBnGY"
         }
        ]
@@ -1502,7 +1490,7 @@
        "type": "video",
        "segments": [
         {
-         "text": "影片",
+         "text": "Gameplay",
          "url": "https://www.youtube.com/watch?v=fytkxfzsCFc",
          "mark": "video"
         }
@@ -1521,7 +1509,7 @@
        "type": "video",
        "segments": [
         {
-         "text": "影片",
+         "text": "Gameplay",
          "url": "https://www.youtube.com/watch?v=UdheQXhZzWU"
         }
        ]
@@ -1539,7 +1527,7 @@
        "type": "video",
        "segments": [
         {
-         "text": "影片",
+         "text": "Gameplay",
          "url": "https://www.youtube.com/watch?v=fiShX2pTz9A"
         }
        ]
@@ -1563,7 +1551,7 @@
          "type": "video",
          "segments": [
           {
-           "text": "影片",
+           "text": "Walkthrough",
            "url": "https://www.youtube.com/watch?v=FGQmtlxllWY"
           }
          ]
@@ -1589,7 +1577,7 @@
          "type": "video",
          "segments": [
           {
-           "text": "影片",
+           "text": "Gameplay",
            "url": "https://www.youtube.com/watch?v=9qXHicrtLJU",
            "mark": "video"
           }
@@ -1610,7 +1598,7 @@
        "type": "video",
        "segments": [
         {
-         "text": "影片",
+         "text": "Gameplay",
          "url": "https://www.youtube.com/watch?v=fySeh8tHNTE"
         }
        ]
@@ -1625,10 +1613,10 @@
      "entries": [
       {
        "id": "e1a1a630353ebc3",
-       "type": "lore",
+       "type": "video",
        "segments": [
         {
-         "text": "史上最弱礦工",
+         "text": "舞秋風試玩",
          "url": "https://www.youtube.com/watch?v=XZr-vLwb2wo",
          "channel": "舞秋風"
         }
@@ -1657,7 +1645,7 @@
        "type": "video",
        "segments": [
         {
-         "text": "影片",
+         "text": "遊戲展示",
          "url": "https://www.youtube.com/watch?v=XDB6gpjqins"
         }
        ]
@@ -1669,7 +1657,10 @@
      "kind": "work",
      "title": "Tetris",
      "origin": "ppt:49",
-     "status": "played"
+     "status": "played",
+     "notes": [
+      "玩過 Google 搜尋網頁版本"
+     ]
     },
     {
      "id": "n0200",
@@ -1699,7 +1690,7 @@
          "type": "video",
          "segments": [
           {
-           "text": "影片",
+           "text": "老皮實況精華 (重製版)",
            "url": "https://www.youtube.com/watch?v=UWQK-Q5sLKg"
           }
          ]
@@ -1724,7 +1715,7 @@
          "type": "video",
          "segments": [
           {
-           "text": "影片",
+           "text": "Walkthrough",
            "url": "https://www.youtube.com/watch?v=mWNgQdybISA"
           }
          ]
@@ -1741,7 +1732,7 @@
          "type": "video",
          "segments": [
           {
-           "text": "影片",
+           "text": "Walkthrough",
            "url": "https://www.youtube.com/watch?v=9NSzlFmshj8"
           }
          ]
@@ -1758,7 +1749,7 @@
          "type": "video",
          "segments": [
           {
-           "text": "影片",
+           "text": "Walkthrough",
            "url": "https://www.youtube.com/watch?v=k-y4v4S8uG4"
           }
          ]
@@ -1791,7 +1782,7 @@
          "type": "lore",
          "segments": [
           {
-           "text": "解說",
+           "text": "遊戲解說",
            "url": "https://www.bilibili.com/video/BV1shoCBgEUi/?spm_id_from=333.337.search-card.all.click"
           }
          ]
@@ -1810,7 +1801,7 @@
        "type": "lore",
        "segments": [
         {
-         "text": "解說",
+         "text": "遊戲解說",
          "url": "https://www.bilibili.com/video/BV1K54y1B7Dc/?spm_id_from=333.337.search-card.all.click"
         }
        ]
@@ -1836,7 +1827,7 @@
          "type": "video",
          "segments": [
           {
-           "text": "影片",
+           "text": "全流程",
            "url": "https://www.bilibili.com/video/BV1FJ411R7Vv/?spm_id_from=333.1387.list.card_archive.click",
            "playlist": true
           }
