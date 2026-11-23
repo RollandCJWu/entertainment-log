@@ -1,6 +1,6 @@
 # 娛樂紀錄
 
-我的電子娛樂紀錄：遊戲、動漫、YouTube／B站頻道。從原本的 Google Slides（`Entertainment.pptx`）轉換而來。
+我的電子娛樂紀錄：遊戲、動漫、YouTube／B站頻道。最初從 Google Slides（`Entertainment.pptx`）轉換而來，現在這個網站就是唯一的資料來源。
 
 網站：<https://rollandcjwu.github.io/entertainment-log/>（密碼 `2a921804`）
 

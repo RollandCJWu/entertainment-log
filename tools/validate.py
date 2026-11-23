@@ -20,7 +20,7 @@ STATUS = {'played', 'playing', 'dropped'}
 SOURCES = {'light-novel', 'manga', 'game', 'original'}
 MARKS = {'video', 'music', 'anime', 'played', 'playing', 'dropped'}
 TYPES = {'video', 'lore', 'music', 'anime', 'reading', 'evolution', 'trivia', 'reference', 'other'}
-NODE_KEYS = {'id', 'kind', 'title', 'status', 'source', 'release', 'tags', 'links', 'notes', 'extra', 'entries', 'children', 'origin'}
+NODE_KEYS = {'id', 'kind', 'title', 'status', 'source', 'release', 'tags', 'links', 'notes', 'extra', 'entries', 'children'}
 ENTRY_KEYS = {'id', 'type', 'segments', 'notes', 'extra'}
 SEG_KEYS = {'text', 'url', 'mark', 'playlist', 'channel'}
 

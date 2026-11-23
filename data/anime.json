@@ -461,8 +461,7 @@
      ]
     }
    ],
-   "source": "light-novel",
-   "origin": "ppt:58"
+   "source": "light-novel"
   },
   {
    "id": "n0238",
@@ -584,8 +583,7 @@
      ]
     }
    ],
-   "source": "light-novel",
-   "origin": "ppt:59"
+   "source": "light-novel"
   },
   {
    "id": "n0239",
@@ -938,8 +936,7 @@
    "notes": [
     "※Anime1兩季各含1集OVA"
    ],
-   "source": "light-novel",
-   "origin": "ppt:60"
+   "source": "light-novel"
   },
   {
    "id": "n0240",
@@ -1434,8 +1431,7 @@
    "notes": [
     "※S3 OP album instrumental ver missing"
    ],
-   "source": "light-novel",
-   "origin": "ppt:61"
+   "source": "light-novel"
   },
   {
    "id": "n0241",
@@ -1779,8 +1775,7 @@
    "notes": [
     "※第一 ~ 三季暫無可靠片源"
    ],
-   "source": "light-novel",
-   "origin": "ppt:62"
+   "source": "light-novel"
   },
   {
    "id": "n0242",
@@ -1928,8 +1923,7 @@
      ]
     }
    ],
-   "source": "light-novel",
-   "origin": "ppt:62"
+   "source": "light-novel"
   },
   {
    "id": "n0243",
@@ -2022,8 +2016,7 @@
      ],
      "notes": [
       "※以上含所有OVA，第四季含總集篇"
-     ],
-     "origin": "ppt:63"
+     ]
     },
     {
      "id": "n0245",
@@ -2084,8 +2077,7 @@
         }
        ]
       }
-     ],
-     "origin": "ppt:63"
+     ]
     },
     {
      "id": "n0246",
@@ -2150,8 +2142,7 @@
         "※Vol. 2 missing."
        ]
       }
-     ],
-     "origin": "ppt:63"
+     ]
     },
     {
      "id": "n0247",
@@ -2279,18 +2270,15 @@
        ],
        "notes": [
         "※Haruhime’s song (満月の調べ) and Season 4 Episode 20’s insert song (Not meet doubt) are included in OST."
-       ],
-       "origin": "ppt:63"
+       ]
       }
      ],
      "notes": [
       "※Insert Song (月鏡) is included in OST."
-     ],
-     "origin": "ppt:63"
+     ]
     }
    ],
-   "source": "light-novel",
-   "origin": "ppt:63"
+   "source": "light-novel"
   },
   {
    "id": "n0249",
@@ -2434,8 +2422,7 @@
      ]
     }
    ],
-   "source": "light-novel",
-   "origin": "ppt:64"
+   "source": "light-novel"
   },
   {
    "id": "n0250",
@@ -2476,8 +2463,7 @@
      ]
     }
    ],
-   "source": "light-novel",
-   "origin": "ppt:64"
+   "source": "light-novel"
   },
   {
    "id": "n0251",
@@ -2973,8 +2959,7 @@
     "※巴哈含1集特別篇(1、2季解說篇)",
     "※巴哈含1集特別篇(總解說篇)"
    ],
-   "source": "manga",
-   "origin": "ppt:65"
+   "source": "manga"
   },
   {
    "id": "n0252",
@@ -3118,8 +3103,7 @@
    "notes": [
     "※巴哈第一季含第22.5集、第二季含第41.5集、第三季含第75.5集"
    ],
-   "source": "manga",
-   "origin": "ppt:66"
+   "source": "manga"
   },
   {
    "id": "n0253",
@@ -3382,8 +3366,7 @@
    "notes": [
     "※OP2 Album Instrumental ver. Missing"
    ],
-   "source": "manga",
-   "origin": "ppt:66"
+   "source": "manga"
   },
   {
    "id": "n0254",
@@ -3566,8 +3549,7 @@
      ]
     }
    ],
-   "source": "manga",
-   "origin": "ppt:67"
+   "source": "manga"
   },
   {
    "id": "n0255",
@@ -3633,22 +3615,19 @@
      ]
     }
    ],
-   "source": "manga",
-   "origin": "ppt:67"
+   "source": "manga"
   },
   {
    "id": "n0256",
    "kind": "work",
    "title": "哆啦A夢",
-   "source": "manga",
-   "origin": "ppt:68"
+   "source": "manga"
   },
   {
    "id": "n0257",
    "kind": "work",
    "title": "名偵探柯南",
-   "source": "manga",
-   "origin": "ppt:69"
+   "source": "manga"
   },
   {
    "id": "n0258",
@@ -3733,8 +3712,7 @@
      ]
     }
    ],
-   "source": "manga",
-   "origin": "ppt:70"
+   "source": "manga"
   },
   {
    "id": "n0259",
@@ -3786,8 +3764,7 @@
      ]
     }
    ],
-   "source": "game",
-   "origin": "ppt:71"
+   "source": "game"
   },
   {
    "id": "n0260",
@@ -3889,8 +3866,7 @@
      ]
     }
    ],
-   "source": "original",
-   "origin": "ppt:72"
+   "source": "original"
   },
   {
    "id": "n0261",
@@ -3985,8 +3961,7 @@
      ]
     }
    ],
-   "source": "original",
-   "origin": "ppt:72"
+   "source": "original"
   }
  ]
 }

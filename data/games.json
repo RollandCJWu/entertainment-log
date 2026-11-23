@@ -22,7 +22,6 @@
          "id": "n0038",
          "kind": "work",
          "title": "Halo: Combat Evolved",
-         "origin": "ppt:3",
          "entries": [
           {
            "id": "emw1sas8juws",
@@ -71,11 +70,9 @@
           }
          ]
         }
-       ],
-       "origin": "ppt:3"
+       ]
       }
-     ],
-     "origin": "ppt:1"
+     ]
     },
     {
      "id": "n0003",
@@ -86,7 +83,6 @@
        "id": "n0039",
        "kind": "series",
        "title": "Warcraft",
-       "origin": "ppt:4",
        "children": [
         {
          "id": "n1a1a61c3f1eyhe",
@@ -110,7 +106,7 @@
            "type": "lore",
            "segments": [
             {
-             "text": "解說",
+             "text": "劇情解說",
              "url": "https://www.bilibili.com/video/BV1Xk4y1W7Sk/?spm_id_from=333.337.search-card.all.click",
              "mark": "video"
             }
@@ -131,8 +127,7 @@
         }
        ]
       }
-     ],
-     "origin": "ppt:1"
+     ]
     },
     {
      "id": "n0004",
@@ -143,7 +138,6 @@
        "id": "n0040",
        "kind": "series",
        "title": "The Elder Scrolls",
-       "origin": "ppt:5",
        "children": [
         {
          "id": "nmw1slpurw6f",
@@ -198,8 +192,7 @@
         }
        ]
       }
-     ],
-     "origin": "ppt:1"
+     ]
     },
     {
      "id": "n0005",
@@ -215,7 +208,6 @@
          "id": "n0044",
          "kind": "series",
          "title": "Medal of Honor",
-         "origin": "ppt:6",
          "children": [
           {
            "id": "nmw1sqzo4uc2",
@@ -249,8 +241,7 @@
           }
          ]
         }
-       ],
-       "origin": "ppt:6"
+       ]
       },
       {
        "id": "n0042",
@@ -274,7 +265,6 @@
            ]
           }
          ],
-         "origin": "ppt:6",
          "children": [
           {
            "id": "nmw1ssd1n9h4",
@@ -309,14 +299,12 @@
           }
          ]
         }
-       ],
-       "origin": "ppt:6"
+       ]
       },
       {
        "id": "n0043",
        "kind": "studio",
        "title": "Westwood Studios",
-       "origin": "ppt:6",
        "children": [
         {
          "id": "nmw1t3mffrzn",
@@ -353,7 +341,6 @@
        "id": "n0046",
        "kind": "group",
        "title": "Others",
-       "origin": "ppt:6",
        "children": [
         {
          "id": "nmw1t12wrsja",
@@ -377,8 +364,7 @@
         }
        ]
       }
-     ],
-     "origin": "ppt:1"
+     ]
     },
     {
      "id": "n0006",
@@ -389,7 +375,6 @@
        "id": "n0047",
        "kind": "series",
        "title": "Doom",
-       "origin": "ppt:7",
        "children": [
         {
          "id": "n1a1a61c3f20owx",
@@ -539,7 +524,6 @@
        "id": "n0048",
        "kind": "series",
        "title": "Wolfenstein",
-       "origin": "ppt:7",
        "children": [
         {
          "id": "n1a1a61c3f35ge6",
@@ -608,8 +592,7 @@
         }
        ]
       }
-     ],
-     "origin": "ppt:1"
+     ]
     },
     {
      "id": "n0007",
@@ -638,7 +621,6 @@
        "id": "n0050",
        "kind": "series",
        "title": "Middle Earth",
-       "origin": "ppt:7",
        "children": [
         {
          "id": "n1a1a61c3f427t7",
@@ -666,8 +648,7 @@
         }
        ]
       }
-     ],
-     "origin": "ppt:1"
+     ]
     },
     {
      "id": "n0008",
@@ -678,7 +659,6 @@
        "id": "n0051",
        "kind": "series",
        "title": "The Last of Us",
-       "origin": "ppt:8",
        "children": [
         {
          "id": "n1a1a61c3f47f1j",
@@ -717,7 +697,6 @@
        "id": "n0052",
        "kind": "series",
        "title": "Uncharted",
-       "origin": "ppt:8",
        "children": [
         {
          "id": "n1a1a61c3f49zrs",
@@ -794,8 +773,7 @@
         }
        ]
       }
-     ],
-     "origin": "ppt:1"
+     ]
     },
     {
      "id": "n0009",
@@ -807,7 +785,6 @@
        "kind": "work",
        "title": "Insaniquarium",
        "status": "played",
-       "origin": "ppt:9",
        "entries": [
         {
          "id": "emw1tvnobu6t",
@@ -834,7 +811,6 @@
        "id": "n0054",
        "kind": "series",
        "title": "Bookworm",
-       "origin": "ppt:9",
        "children": [
         {
          "id": "n1a1a61c3f542vv",
@@ -891,8 +867,7 @@
        "id": "n0055",
        "kind": "work",
        "title": "Feeding Frenzy 2",
-       "status": "played",
-       "origin": "ppt:9"
+       "status": "played"
       },
       {
        "id": "n0056",
@@ -931,15 +906,13 @@
           }
          ]
         }
-       ],
-       "origin": "ppt:9"
+       ]
       },
       {
        "id": "n0058",
        "kind": "work",
        "title": "Rocket Mania Deluxe",
        "status": "played",
-       "origin": "ppt:9",
        "entries": [
         {
          "id": "e1a1a61c3f50ja9",
@@ -965,7 +938,6 @@
          "kind": "work",
          "title": "Zuma’s Revenge",
          "status": "played",
-         "origin": "ppt:9",
          "entries": [
           {
            "id": "e1a1a61c3f520cl",
@@ -980,8 +952,7 @@
           }
          ]
         }
-       ],
-       "origin": "ppt:9"
+       ]
       },
       {
        "id": "nmw1tq2j8z9l",
@@ -1003,14 +974,12 @@
         }
        ]
       }
-     ],
-     "origin": "ppt:1"
+     ]
     },
     {
      "id": "n0010",
      "kind": "company",
      "title": "Supergiant Games",
-     "origin": "ppt:1",
      "children": [
       {
        "id": "n1a1a61c3f5ahny",
@@ -1038,7 +1007,6 @@
      "id": "n0011",
      "kind": "company",
      "title": "Valve",
-     "origin": "ppt:1",
      "children": [
       {
        "id": "nmw1tzff88r6",
@@ -1083,8 +1051,7 @@
       }
      ]
     }
-   ],
-   "origin": "ppt:1"
+   ]
   },
   {
    "id": "n0012",
@@ -1100,7 +1067,6 @@
        "id": "n0061",
        "kind": "series",
        "title": "女神轉生",
-       "origin": "ppt:11",
        "entries": [
         {
          "id": "e1a1a62e0f47xx3",
@@ -1119,7 +1085,6 @@
          "id": "n0062",
          "kind": "subseries",
          "title": "舊約系列",
-         "origin": "ppt:11",
          "entries": [
           {
            "id": "e1a1a62e0f49fe1",
@@ -1179,7 +1144,6 @@
          "id": "n0063",
          "kind": "subseries",
          "title": "真女神轉生",
-         "origin": "ppt:11",
          "children": [
           {
            "id": "n1a1a62e0f52n6d",
@@ -1466,7 +1430,6 @@
          "id": "n0064",
          "kind": "subseries",
          "title": "惡魔召喚師",
-         "origin": "ppt:11",
          "children": [
           {
            "id": "n1a1a62e0f8bv0l",
@@ -1528,7 +1491,6 @@
          "id": "n0065",
          "kind": "subseries",
          "title": "最後的聖經",
-         "origin": "ppt:11",
          "entries": [
           {
            "id": "e1a1a62e0f95te3",
@@ -1561,7 +1523,6 @@
          "id": "n0066",
          "kind": "subseries",
          "title": "數位惡魔傳說",
-         "origin": "ppt:11",
          "entries": [
           {
            "id": "e1a1a62e0f98qb5",
@@ -1580,7 +1541,6 @@
          "id": "n0067",
          "kind": "subseries",
          "title": "惡魔倖存者",
-         "origin": "ppt:11",
          "children": [
           {
            "id": "n1a1a62e0f9cdh4",
@@ -1642,7 +1602,6 @@
          "id": "n0068",
          "kind": "subseries",
          "title": "女神異聞錄",
-         "origin": "ppt:11",
          "entries": [
           {
            "id": "e1a1a62e0fcam5e",
@@ -1697,7 +1656,6 @@
            "id": "n0069",
            "kind": "work",
            "title": "Persona 3",
-           "origin": "ppt:12",
            "entries": [
             {
              "id": "e1a1a62e0fabdum",
@@ -1768,7 +1726,6 @@
            "id": "n0070",
            "kind": "work",
            "title": "Persona 4",
-           "origin": "ppt:12",
            "entries": [
             {
              "id": "e1a1a62e0fb2mj9",
@@ -1940,7 +1897,7 @@
          "type": "lore",
          "segments": [
           {
-           "text": "解說",
+           "text": "劇情解析",
            "url": "https://www.bilibili.com/video/BV1hTyUYBEtP?spm_id_from=333.788.videopod.sections",
            "mark": "video"
           }
@@ -1948,8 +1905,7 @@
         }
        ]
       }
-     ],
-     "origin": "ppt:1"
+     ]
     },
     {
      "id": "n0014",
@@ -1960,7 +1916,6 @@
        "id": "n0071",
        "kind": "series",
        "title": "194X",
-       "origin": "ppt:13",
        "children": [
         {
          "id": "n1a1a62e1005k6f",
@@ -1986,7 +1941,6 @@
        "id": "n0072",
        "kind": "work",
        "title": "Ghosts 'n Goblins",
-       "origin": "ppt:13",
        "entries": [
         {
          "id": "e1a1a62e100718g",
@@ -2005,7 +1959,6 @@
        "id": "n0073",
        "kind": "series",
        "title": "Ace Attorney",
-       "origin": "ppt:13",
        "entries": [
         {
          "id": "e1a1a62e0fed0qw",
@@ -2223,7 +2176,6 @@
        "id": "n0075",
        "kind": "series",
        "title": "Mega Man",
-       "origin": "ppt:14",
        "children": [
         {
          "id": "n1a1a62e100cf60",
@@ -2321,7 +2273,6 @@
        "id": "n0077",
        "kind": "series",
        "title": "Okami",
-       "origin": "ppt:15",
        "children": [
         {
          "id": "n1a1a62e0ff4q8v",
@@ -2445,7 +2396,6 @@
        "id": "n0076",
        "kind": "series",
        "title": "Monster Hunter",
-       "origin": "ppt:14",
        "children": [
         {
          "id": "n1a1a62e0ffeoom",
@@ -2478,7 +2428,6 @@
        "id": "n0079",
        "kind": "series",
        "title": "Resident Evil",
-       "origin": "ppt:15",
        "children": [
         {
          "id": "n1a1a62e10212fu",
@@ -2519,8 +2468,7 @@
         }
        ]
       }
-     ],
-     "origin": "ppt:1"
+     ]
     },
     {
      "id": "n0015",
@@ -2531,7 +2479,6 @@
        "id": "n0080",
        "kind": "series",
        "title": "Dragon Slayer",
-       "origin": "ppt:16",
        "children": [
         {
          "id": "n1a1a62e1034028",
@@ -2768,11 +2715,9 @@
       {
        "id": "n0081",
        "kind": "series",
-       "title": "Ys",
-       "origin": "ppt:16"
+       "title": "Ys"
       }
-     ],
-     "origin": "ppt:1"
+     ]
     },
     {
      "id": "n0016",
@@ -2783,7 +2728,6 @@
        "id": "n0083",
        "kind": "series",
        "title": "Dark Souls",
-       "origin": "ppt:17",
        "children": [
         {
          "id": "nmw0m3etx4ju",
@@ -2806,8 +2750,7 @@
         }
        ]
       }
-     ],
-     "origin": "ppt:1"
+     ]
     },
     {
      "id": "n1a1a645bb610f7",
@@ -2818,7 +2761,6 @@
        "id": "n0096",
        "kind": "series",
        "title": "Adventure Island",
-       "origin": "ppt:22",
        "entries": [
         {
          "id": "e1a1a62e109f5l3",
@@ -2889,7 +2831,6 @@
        "id": "n0082",
        "kind": "work",
        "title": "Shadow of the Colossus",
-       "origin": "ppt:17",
        "entries": [
         {
          "id": "e1a1a62e105d2cd",
@@ -2915,8 +2856,7 @@
         }
        ]
       }
-     ],
-     "origin": "ppt:1"
+     ]
     },
     {
      "id": "n0018",
@@ -2927,7 +2867,6 @@
        "id": "n0084",
        "kind": "series",
        "title": "Fatal Frame",
-       "origin": "ppt:18",
        "children": [
         {
          "id": "n1a1a62e106dgsb",
@@ -2972,7 +2911,6 @@
        "id": "n0085",
        "kind": "work",
        "title": "Ninja Gaiden",
-       "origin": "ppt:18",
        "entries": [
         {
          "id": "e1a1a62e106f1ei",
@@ -2999,7 +2937,6 @@
        "id": "n0086",
        "kind": "series",
        "title": "仁王",
-       "origin": "ppt:19",
        "children": [
         {
          "id": "n1a1a62e1073dvg",
@@ -3061,8 +2998,7 @@
         }
        ]
       }
-     ],
-     "origin": "ppt:1"
+     ]
     },
     {
      "id": "n0019",
@@ -3073,7 +3009,6 @@
        "id": "n0087",
        "kind": "series",
        "title": "Castlevania",
-       "origin": "ppt:20",
        "children": [
         {
          "id": "n1a1a62e107cqjw",
@@ -3099,7 +3034,6 @@
        "id": "n0088",
        "kind": "series",
        "title": "Gradius",
-       "origin": "ppt:20",
        "children": [
         {
          "id": "n1a1a62e1080wf3",
@@ -3125,14 +3059,12 @@
        "id": "n0089",
        "kind": "work",
        "title": "Jackal",
-       "origin": "ppt:20",
        "status": "played"
       },
       {
        "id": "n0090",
        "kind": "series",
        "title": "Metal Gear",
-       "origin": "ppt:20",
        "children": [
         {
          "id": "n1a1a62e1085eut",
@@ -3179,8 +3111,7 @@
         }
        ]
       }
-     ],
-     "origin": "ppt:1"
+     ]
     },
     {
      "id": "n0020",
@@ -3196,7 +3127,6 @@
          "id": "n0092",
          "kind": "series",
          "title": "Galaxian",
-         "origin": "ppt:21",
          "children": [
           {
            "id": "n1a1a62e108fdz1",
@@ -3240,7 +3170,6 @@
          "id": "n0093",
          "kind": "work",
          "title": "Pac-Man",
-         "origin": "ppt:21",
          "links": [
           {
            "text": "Pac-Man",
@@ -3249,8 +3178,7 @@
          ],
          "status": "played"
         }
-       ],
-       "origin": "ppt:21"
+       ]
       },
       {
        "id": "n0094",
@@ -3261,7 +3189,6 @@
          "id": "n0095",
          "kind": "series",
          "title": "Tekken",
-         "origin": "ppt:21",
          "children": [
           {
            "id": "n1a1a62e1098sbb",
@@ -3283,11 +3210,9 @@
           }
          ]
         }
-       ],
-       "origin": "ppt:21"
+       ]
       }
-     ],
-     "origin": "ppt:1"
+     ]
     },
     {
      "id": "n0021",
@@ -3298,7 +3223,6 @@
        "id": "n0097",
        "kind": "work",
        "title": "Duck Hunt",
-       "origin": "ppt:22",
        "entries": [
         {
          "id": "e1a1a62e10a1h7i",
@@ -3316,14 +3240,12 @@
       {
        "id": "n0098",
        "kind": "series",
-       "title": "Fire Emblem",
-       "origin": "ppt:22"
+       "title": "Fire Emblem"
       },
       {
        "id": "n0099",
        "kind": "series",
        "title": "Kirby",
-       "origin": "ppt:22",
        "children": [
         {
          "id": "n1a1a62e10a5uxv",
@@ -3385,7 +3307,6 @@
        "id": "n0100",
        "kind": "series",
        "title": "Mario",
-       "origin": "ppt:23",
        "entries": [
         {
          "id": "e1a1a62e1133fmm",
@@ -3404,7 +3325,6 @@
          "id": "n0101",
          "kind": "group",
          "title": "Others",
-         "origin": "ppt:23",
          "children": [
           {
            "id": "n1a1a62e10b26il",
@@ -3430,7 +3350,6 @@
          "id": "n0102",
          "kind": "group",
          "title": "Old 2D Platform",
-         "origin": "ppt:23",
          "children": [
           {
            "id": "nmwkrzbzb1pe",
@@ -3643,7 +3562,6 @@
          "id": "n0103",
          "kind": "group",
          "title": "Land",
-         "origin": "ppt:23",
          "children": [
           {
            "id": "n1a1a62e10ddwb1",
@@ -3709,7 +3627,6 @@
          "id": "n0104",
          "kind": "group",
          "title": "New 2D Platform",
-         "origin": "ppt:23",
          "children": [
           {
            "id": "nmwkrtxl3n7j",
@@ -3784,7 +3701,6 @@
          "id": "n0105",
          "kind": "group",
          "title": "RPG",
-         "origin": "ppt:23",
          "children": [
           {
            "id": "n1a1a62e10f7rua",
@@ -3796,7 +3712,7 @@
              "type": "video",
              "segments": [
               {
-               "text": "影片",
+               "text": "Full Game",
                "url": "https://www.youtube.com/watch?v=cRDC3hgtGuI",
                "mark": "video"
               }
@@ -3831,7 +3747,6 @@
          "id": "n0106",
          "kind": "group",
          "title": "3D",
-         "origin": "ppt:23",
          "children": [
           {
            "id": "n1a1a62e10fd06z",
@@ -3951,7 +3866,6 @@
          "id": "n0107",
          "kind": "subseries",
          "title": "Luigi's Mansion",
-         "origin": "ppt:23",
          "children": [
           {
            "id": "n1a1a62e1110rhn",
@@ -3963,7 +3877,7 @@
              "type": "video",
              "segments": [
               {
-               "text": "影片",
+               "text": "100% Walkthrough",
                "url": "https://www.youtube.com/watch?v=9bWePif7psc",
                "mark": "video"
               },
@@ -4006,7 +3920,6 @@
          "id": "n0108",
          "kind": "subseries",
          "title": "Donkey Kong",
-         "origin": "ppt:24",
          "entries": [
           {
            "id": "e1a1a62e111fjgg",
@@ -4025,7 +3938,6 @@
            "id": "n0112",
            "kind": "group",
            "title": "Arcade",
-           "origin": "ppt:24",
            "children": [
             {
              "id": "n1a1a62e1119hg6",
@@ -4071,7 +3983,6 @@
          "id": "n0109",
          "kind": "subseries",
          "title": "Mario Kart",
-         "origin": "ppt:24",
          "children": [
           {
            "id": "n1a1a62e1124cx0",
@@ -4097,7 +4008,6 @@
          "id": "n0110",
          "kind": "subseries",
          "title": "Wario",
-         "origin": "ppt:24",
          "children": [
           {
            "id": "n1a1a62e112a1a9",
@@ -4134,7 +4044,6 @@
          "id": "n0111",
          "kind": "subseries",
          "title": "Yoshi",
-         "origin": "ppt:24",
          "children": [
           {
            "id": "n1a1a62e1130hfi",
@@ -4173,13 +4082,11 @@
        "id": "n0113",
        "kind": "series",
        "title": "Metroid",
-       "origin": "ppt:26",
        "children": [
         {
          "id": "n0114",
          "kind": "group",
          "title": "Main Series 2D",
-         "origin": "ppt:26",
          "entries": [
           {
            "id": "e1a1a62e1146yyw",
@@ -4308,7 +4215,6 @@
        "id": "n0115",
        "kind": "series",
        "title": "Pokemon",
-       "origin": "ppt:27",
        "links": [
         {
          "text": "Pokemon",
@@ -4490,7 +4396,6 @@
        "id": "n0116",
        "kind": "series",
        "title": "Xenoblade Chronicles",
-       "origin": "ppt:28",
        "children": [
         {
          "id": "n1a1a62e11861wl",
@@ -4550,7 +4455,6 @@
        "id": "n0117",
        "kind": "series",
        "title": "Zelda",
-       "origin": "ppt:29",
        "entries": [
         {
          "id": "e1a1a62e117d8o6",
@@ -4569,7 +4473,6 @@
          "id": "n0118",
          "kind": "group",
          "title": "Main Series",
-         "origin": "ppt:29",
          "children": [
           {
            "id": "n1a1a62e1167dsm",
@@ -4659,7 +4562,7 @@
              "type": "video",
              "segments": [
               {
-               "text": "Walkthorugh",
+               "text": "Walkthrough",
                "url": "https://www.youtube.com/playlist?list=PL8NxvmyK0mT4ojRhCP-OnC6zBO9jFx6lq",
                "mark": "video",
                "playlist": true
@@ -4709,8 +4612,7 @@
         }
        ]
       }
-     ],
-     "origin": "ppt:1"
+     ]
     },
     {
      "id": "n0022",
@@ -4721,7 +4623,6 @@
        "id": "n0119",
        "kind": "work",
        "title": "After Burner",
-       "origin": "ppt:30",
        "entries": [
         {
          "id": "e1a1a62e11a4bjy",
@@ -4739,7 +4640,6 @@
        "id": "n0120",
        "kind": "work",
        "title": "Out Run",
-       "origin": "ppt:30",
        "entries": [
         {
          "id": "e1a1a62e11a6vyc",
@@ -4757,7 +4657,6 @@
        "id": "n0121",
        "kind": "series",
        "title": "Phantasy Star",
-       "origin": "ppt:30",
        "entries": [
         {
          "id": "e1a1a62e11a8an1",
@@ -4777,7 +4676,6 @@
        "id": "n0122",
        "kind": "series",
        "title": "Sonic the Hedgehog",
-       "origin": "ppt:30",
        "children": [
         {
          "id": "n1a1a62e118a451",
@@ -4909,13 +4807,11 @@
        "id": "n0123",
        "kind": "studio",
        "title": "Relic Entertainment",
-       "origin": "ppt:31",
        "children": [
         {
          "id": "n0124",
          "kind": "work",
          "title": "Homeworld Remastered Collection",
-         "origin": "ppt:31",
          "status": "dropped",
          "entries": [
           {
@@ -4940,14 +4836,12 @@
         "2024 年 3 月起脫離 Sega 獨立"
        ]
       }
-     ],
-     "origin": "ppt:1"
+     ]
     },
     {
      "id": "n0024",
      "kind": "company",
      "title": "SNK",
-     "origin": "ppt:1",
      "children": [
       {
        "id": "n1a1a62e1291at3",
@@ -5014,7 +4908,6 @@
        "id": "n0125",
        "kind": "series",
        "title": "Chrono",
-       "origin": "ppt:32",
        "children": [
         {
          "id": "n1a1a62e11aehc2",
@@ -5072,7 +4965,6 @@
        "id": "n0126",
        "kind": "series",
        "title": "Dragon Quest",
-       "origin": "ppt:32",
        "entries": [
         {
          "id": "e1a1a62e11d0v5t",
@@ -5273,7 +5165,6 @@
        "id": "n0128",
        "kind": "series",
        "title": "Drakengard",
-       "origin": "ppt:33",
        "entries": [
         {
          "id": "e1a1a62e11e4t60",
@@ -5292,7 +5183,6 @@
          "id": "n0131",
          "kind": "subseries",
          "title": "Nier",
-         "origin": "ppt:33",
          "entries": [
           {
            "id": "e1a1a62e11e2jp7",
@@ -5414,7 +5304,6 @@
        "id": "n0133",
        "kind": "series",
        "title": "Final Fantasy",
-       "origin": "ppt:34",
        "entries": [
         {
          "id": "e1a1a62e12684pw",
@@ -5437,7 +5326,6 @@
          "id": "n0135",
          "kind": "work",
          "title": "Final Fantasy",
-         "origin": "ppt:34",
          "entries": [
           {
            "id": "e1a1a62e11e6sf4",
@@ -5530,7 +5418,6 @@
          "id": "n0136",
          "kind": "work",
          "title": "Final Fantasy III",
-         "origin": "ppt:34",
          "entries": [
           {
            "id": "e1a1a62e11f3og4",
@@ -5592,7 +5479,6 @@
          "id": "n0137",
          "kind": "work",
          "title": "Final Fantasy IV",
-         "origin": "ppt:34",
          "entries": [
           {
            "id": "e1a1a62e11fc3fs",
@@ -5701,7 +5587,6 @@
          "id": "n0138",
          "kind": "work",
          "title": "Final Fantasy V",
-         "origin": "ppt:34",
          "entries": [
           {
            "id": "e1a1a62e120963b",
@@ -5777,7 +5662,6 @@
          "id": "n0139",
          "kind": "work",
          "title": "Final Fantasy VI",
-         "origin": "ppt:34",
          "entries": [
           {
            "id": "e1a1a62e12162yb",
@@ -5842,7 +5726,6 @@
          "id": "n0140",
          "kind": "work",
          "title": "Final Fantasy VII",
-         "origin": "ppt:35",
          "entries": [
           {
            "id": "e1a1a62e121fygz",
@@ -5892,7 +5775,6 @@
          "id": "n0141",
          "kind": "work",
          "title": "Final Fantasy VIII",
-         "origin": "ppt:35",
          "entries": [
           {
            "id": "e1a1a62e1225rg6",
@@ -5965,7 +5847,6 @@
          "id": "n0142",
          "kind": "work",
          "title": "Final Fantasy IX",
-         "origin": "ppt:35",
          "entries": [
           {
            "id": "e1a1a62e122egfa",
@@ -6015,7 +5896,6 @@
          "id": "n0143",
          "kind": "work",
          "title": "Final Fantasy X",
-         "origin": "ppt:35",
          "entries": [
           {
            "id": "e1a1a62e1234jey",
@@ -6147,7 +6027,6 @@
          "id": "n0144",
          "kind": "subseries",
          "title": "SaGa",
-         "origin": "ppt:36",
          "entries": [
           {
            "id": "e1a1a62e125dqvr",
@@ -6276,7 +6155,6 @@
          "id": "n0145",
          "kind": "subseries",
          "title": "Mana",
-         "origin": "ppt:36",
          "children": [
           {
            "id": "n1a1a62e1262nrr",
@@ -6325,13 +6203,11 @@
        "id": "n0146",
        "kind": "series",
        "title": "Tomb Raider",
-       "origin": "ppt:37",
        "children": [
         {
          "id": "n0147",
          "kind": "group",
          "title": "1st Series",
-         "origin": "ppt:37",
          "children": [
           {
            "id": "n1a1a62e126dhfu",
@@ -6446,14 +6322,12 @@
         {
          "id": "n0148",
          "kind": "subseries",
-         "title": "2nd Series",
-         "origin": "ppt:37"
+         "title": "2nd Series"
         },
         {
          "id": "n0149",
          "kind": "subseries",
          "title": "3rd Series",
-         "origin": "ppt:37",
          "children": [
           {
            "id": "n1a1a62e1284a9v",
@@ -6475,8 +6349,7 @@
         }
        ]
       }
-     ],
-     "origin": "ppt:1"
+     ]
     },
     {
      "id": "n0025",
@@ -6487,7 +6360,6 @@
        "id": "n0150",
        "kind": "series",
        "title": "Arkanoid",
-       "origin": "ppt:39",
        "children": [
         {
          "id": "n1a1a62e12a4mvp",
@@ -6549,7 +6421,6 @@
        "id": "n0153",
        "kind": "work",
        "title": "Bubble Bobble",
-       "origin": "ppt:39",
        "entries": [
         {
          "id": "e1a1a62e12afuri",
@@ -6568,7 +6439,6 @@
        "id": "n0154",
        "kind": "work",
        "title": "Operation Wolf",
-       "origin": "ppt:39",
        "entries": [
         {
          "id": "e1a1a62e129c5c9",
@@ -6587,7 +6457,6 @@
        "id": "n0156",
        "kind": "series",
        "title": "Space Invaders",
-       "origin": "ppt:39",
        "children": [
         {
          "id": "n1a1a62e12b3c7y",
@@ -6627,8 +6496,7 @@
         }
        ]
       }
-     ],
-     "origin": "ppt:1"
+     ]
     },
     {
      "id": "n1a1a645bb65tbf",
@@ -6657,7 +6525,6 @@
        "id": "n0155",
        "kind": "series",
        "title": "River City",
-       "origin": "ppt:39",
        "entries": [
         {
          "id": "e1a1a62e12a0ift",
@@ -6674,8 +6541,7 @@
       }
      ]
     }
-   ],
-   "origin": "ppt:1"
+   ]
   },
   {
    "id": "n0026",
@@ -6686,7 +6552,6 @@
      "id": "n0027",
      "kind": "company",
      "title": "Gaijin Entertainment",
-     "origin": "ppt:1",
      "children": [
       {
        "id": "n1a1a62ebc16uad",
@@ -6706,7 +6571,6 @@
      "id": "n0028",
      "kind": "company",
      "title": "IO Interactive",
-     "origin": "ppt:1",
      "children": [
       {
        "id": "n1a1a62ebc1ddbp",
@@ -6796,8 +6660,7 @@
             }
            ]
           }
-         ],
-         "origin": "ppt:40"
+         ]
         },
         {
          "id": "n0161",
@@ -6924,8 +6787,7 @@
             }
            ]
           }
-         ],
-         "origin": "ppt:40"
+         ]
         },
         {
          "id": "n0160",
@@ -6977,8 +6839,7 @@
             }
            ]
           }
-         ],
-         "origin": "ppt:40"
+         ]
         },
         {
          "id": "nmwnea38oecl",
@@ -6997,7 +6858,6 @@
          ]
         }
        ],
-       "origin": "ppt:40",
        "links": [
         {
          "text": "個人 Minecraft 記錄檔",
@@ -7005,8 +6865,7 @@
         }
        ]
       }
-     ],
-     "origin": "ppt:1"
+     ]
     },
     {
      "id": "n0030",
@@ -7017,7 +6876,6 @@
        "id": "n0162",
        "kind": "series",
        "title": "Assassin’s Creed",
-       "origin": "ppt:42",
        "children": [
         {
          "id": "n1a1a62ebc2562o",
@@ -7043,7 +6901,6 @@
        "id": "n0163",
        "kind": "series",
        "title": "Rayman",
-       "origin": "ppt:42",
        "children": [
         {
          "id": "n1a1a62ebc2a3sz",
@@ -7112,11 +6969,9 @@
         }
        ]
       }
-     ],
-     "origin": "ppt:1"
+     ]
     }
-   ],
-   "origin": "ppt:1"
+   ]
   },
   {
    "id": "n0031",
@@ -7152,8 +7007,7 @@
           }
          ]
         }
-       ],
-       "origin": "ppt:43"
+       ]
       },
       {
        "id": "n0165",
@@ -7191,8 +7045,7 @@
           }
          ]
         }
-       ],
-       "origin": "ppt:43"
+       ]
       },
       {
        "id": "n0166",
@@ -7227,11 +7080,9 @@
           }
          ]
         }
-       ],
-       "origin": "ppt:43"
+       ]
       }
-     ],
-     "origin": "ppt:1"
+     ]
     },
     {
      "id": "n0033",
@@ -7640,11 +7491,9 @@
              "text": "Wiki",
              "url": "https://prts.wiki/w/%E8%A1%8D%E7%94%9F%E4%BD%9C%E5%93%81/%E9%9F%B3%E4%B9%90"
             }
-           ],
-           "origin": "ppt:44"
+           ]
           }
          ],
-         "origin": "ppt:43",
          "links": [
           {
            "text": "明日方舟",
@@ -7656,7 +7505,6 @@
          "id": "n0169",
          "kind": "work",
          "title": "終末地",
-         "origin": "ppt:44",
          "status": "playing",
          "entries": [
           {
@@ -7673,8 +7521,7 @@
         }
        ]
       }
-     ],
-     "origin": "ppt:1"
+     ]
     },
     {
      "id": "n0034",
@@ -7738,14 +7585,11 @@
           }
          ]
         }
-       ],
-       "origin": "ppt:44"
+       ]
       }
-     ],
-     "origin": "ppt:1"
+     ]
     }
-   ],
-   "origin": "ppt:1"
+   ]
   },
   {
    "id": "n0035",
@@ -7761,7 +7605,6 @@
        "id": "n0171",
        "kind": "series",
        "title": "仙劍奇俠傳",
-       "origin": "ppt:45",
        "children": [
         {
          "id": "n1a1a62ebc377i0",
@@ -7841,7 +7684,6 @@
        "id": "n0172",
        "kind": "work",
        "title": "阿貓阿狗",
-       "origin": "ppt:45",
        "entries": [
         {
          "id": "e1a1a62ebc3fmxs",
@@ -7858,11 +7700,9 @@
         }
        ]
       }
-     ],
-     "origin": "ppt:1"
+     ]
     }
-   ],
-   "origin": "ppt:1"
+   ]
   }
  ]
 }

@@ -9,7 +9,7 @@
 | `data/anime.json` | 動漫作品 |
 | `data/misc.json` | 書、音樂、節目等雜項 |
 | `data/channels.json` | 頻道（常看但未訂閱的頻道，以及舞秋風） |
-| `data/review.json` | 待確認清單（從 PPT 轉換時判斷不確定的地方） |
+| `data/review.json` | 待確認清單（需要再確認的地方） |
 | `data/link-report.json` | 失效連結報告，由 GitHub Actions 自動產生，不要手動編輯 |
 
 格式慣例：UTF-8、`json.dump(obj, ensure_ascii=False, indent=1)`，檔尾要有換行。執行 `python3 tools/validate.py` 會檢查格式。
@@ -38,7 +38,6 @@
 | `extra` | | `{ "欄位名": "字串" }`，自訂欄位，之後想記錄新類型資訊時使用 |
 | `entries` | | Entry 陣列，這個項目的紀錄（為空時省略此欄位） |
 | `children` | | 子項目（為空時省略此欄位） |
-| `origin` | | 原 PPT 頁碼，例如 `"ppt:23"`。只是參考用 |
 
 ### 什麼時候開節點（作品規則）
 
@@ -109,7 +108,7 @@ Doom 1993 ([Full](https://youtu.be/...){影片}, [Final Boss](https://youtu.be/.
 ## review.json
 
 ```json
-{ "version": 1, "items": [ { "id": "r0001", "slide": 12, "node": "n0042", "issue": "說明", "text": "原文" } ] }
+{ "version": 1, "items": [ { "id": "r0001", "node": "n0042", "issue": "說明", "text": "原文" } ] }
 ```
 
 處理完的項目直接刪除。

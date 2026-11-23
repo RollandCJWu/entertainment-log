@@ -346,7 +346,6 @@ function viewNode(id) {
     n.source ? `<span class="tag">${esc(SOURCE_LABEL[n.source] || n.source)}</span>` : '',
     n.release && n.release.date ? `<span class="tag" title="發行／上映日期">📅 ${releaseText(n.release)}</span>` : '',
     ...(n.tags || []).map((t) => `<span class="tag">#${esc(t)}</span>`),
-    n.origin ? `<span class="tag" title="原 PPT 頁碼">${esc(n.origin.replace('ppt:', 'PPT 第 '))} 頁</span>` : '',
   ].join('');
   const extra = n.extra && Object.keys(n.extra).length
     ? `<div class="block"><table class="tbl card">${Object.entries(n.extra).map(([k, v]) => `<tr><th>${esc(k)}</th><td>${esc(v)}</td></tr>`).join('')}</table></div>` : '';
@@ -504,11 +503,11 @@ function viewChannels() {
 function viewReview() {
   const items = state.review.items;
   return `<h1 class="title">待確認清單</h1>
-    <p class="help">從 PPT 自動轉換時，判斷不確定的地方列在這裡。檢查過、或修正後，可在編輯模式按「已處理」移除。</p>
-    ${items.length ? `<div class="card tbl-wrap"><table class="tbl"><tr><th>PPT 頁</th><th>問題</th><th>項目</th>${state.editing ? '<th></th>' : ''}</tr>
+    <p class="help">需要再確認的地方列在這裡。檢查過、或修正後，可在編輯模式按「已處理」移除。</p>
+    ${items.length ? `<div class="card tbl-wrap"><table class="tbl"><tr><th>問題</th><th>項目</th>${state.editing ? '<th></th>' : ''}</tr>
     ${items.map((r) => {
       const rec = r.node && state.idx.get(r.node);
-      return `<tr><td>${r.slide ?? ''}</td><td>${esc(r.issue)}${r.text ? `<br><small style="color:var(--ink-3)">${esc(r.text)}</small>` : ''}</td>
+      return `<tr><td>${esc(r.issue)}${r.text ? `<br><small style="color:var(--ink-3)">${esc(r.text)}</small>` : ''}</td>
         <td>${rec ? `<a href="#/n/${r.node}">${esc(rec.node.title)}</a>` : ''}</td>${state.editing ? `<td>${reviewButtons(r)}</td>` : ''}</tr>`;
     }).join('')}</table></div>` : '<p class="empty">全部處理完了 🎉</p>'}
     ${linkReportHtml()}`;
