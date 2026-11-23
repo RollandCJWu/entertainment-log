@@ -1,5 +1,5 @@
 import { state, $, esc, toast, rerender, segsHtml, githubConfig, store, sectionFile, sectionList,
-  TYPE_LABEL, KIND_LABEL, STATUS_LABEL, SOURCE_LABEL } from './app.js';
+  KIND_LABEL, STATUS_LABEL, SOURCE_LABEL } from './app.js';
 import { segsToMarkup, markupToSegs } from './markup.js';
 import { commitFiles } from './github.js';
 
@@ -124,9 +124,8 @@ function commitDialog() {
 }
 
 // ------------------------------------------------------------------ node editor
-function entryRow(e = { id: newId('e'), type: 'video', segments: [] }) {
+function entryRow(e = { id: newId('e'), segments: [] }) {
   return `<div class="e-edit" data-eid="${esc(e.id)}">
-    ${select('type', TYPE_LABEL, e.type || '', '遊玩（依標記）')}
     <div class="e-text">
       <textarea name="markup" rows="2" aria-label="內容">${esc(segsToMarkup(e.segments))}</textarea>
       <textarea name="notes" rows="1" aria-label="備註" placeholder="備註（每行一則，可留空）">${esc((e.notes || []).join('\n'))}</textarea>
@@ -213,7 +212,7 @@ export function bindNodeEditor(id) {
     if (!act) return;
     if (act === 'add-entry') {
       const last = n.entries && n.entries.length ? n.entries[n.entries.length - 1] : null;
-      $('#entry-rows').insertAdjacentHTML('beforeend', entryRow({ id: newId('e'), type: last ? last.type : 'video', segments: [] }));
+      $('#entry-rows').insertAdjacentHTML('beforeend', entryRow({ id: newId('e'), segments: [] }));
       $('#entry-rows').lastElementChild.querySelector('textarea').focus();
     }
     if (act === 'add-kv') $('#kv-rows').insertAdjacentHTML('beforeend', kvRow());
@@ -264,10 +263,9 @@ export function bindNodeEditor(id) {
       if (!md) return;
       const old = (n.entries || []).find((x) => x.id === row.dataset.eid) || {};
       const notes = row.querySelector('[name=notes]').value.split('\n').map((x) => x.trim()).filter(Boolean);
-      const type = row.querySelector('[name=type]').value;
-      const ent = { ...old, id: row.dataset.eid, type, segments: segs };
+      const ent = { ...old, id: row.dataset.eid, segments: segs };
       delete ent.section;
-      if (!type) delete ent.type;
+      delete ent.type;
       if (notes.length) ent.notes = notes; else delete ent.notes;
       entries.push(ent);
     });

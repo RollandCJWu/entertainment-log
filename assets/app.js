@@ -12,23 +12,11 @@ const SECTIONS = [
 ];
 const FILES = { channels: 'data/channels.json', review: 'data/review.json' };
 
-export const TYPE_LABEL = {
-  video: '影片', lore: '劇情解說', music: '音樂', anime: '動畫', reading: '小說/漫畫',
-  evolution: '系列演進', trivia: '雜談', reference: '資料', other: '其他',
-};
 export const KIND_LABEL = {
   region: '地區', company: '公司', studio: '子公司/團隊', category: '分類', series: '系列', subseries: '子系列', group: '分組', work: '作品',
 };
 export const STATUS_LABEL = { played: '已玩過', playing: '遊玩中', dropped: '退坑' };
 export const SOURCE_LABEL = { 'light-novel': '輕小說原作', manga: '漫畫原作', game: '遊戲原作', original: '原創' };
-// 沒有 type 的紀錄是遊玩紀錄：類型欄顯示文字上的遊玩標記
-const PLAY_MARKS = ['playing', 'played', 'dropped'];
-export function entryLabel(e) {
-  if (e.type) return TYPE_LABEL[e.type] || e.type;
-  const marks = new Set(e.segments.map((s) => s.mark));
-  const m = PLAY_MARKS.find((k) => marks.has(k));
-  return m ? STATUS_LABEL[m] : '';
-}
 const MARK_COLOR = {
   video: 'var(--m-video)', music: 'var(--m-music)', anime: 'var(--m-anime)',
   played: 'var(--m-played)', playing: 'var(--m-playing)', dropped: 'var(--m-dropped)',
@@ -318,10 +306,10 @@ function workRowsHtml(list) {
     const dot = w.status ? `<span class="dot" style="display:inline-block;background:${MARK_COLOR[w.status]}" title="${STATUS_LABEL[w.status]}"></span> ` : '';
     const links = (w.links || []).filter((x) => x.url).map((x) => segsHtml([{ ...x, text: x.text.trim() }])).join(' ');
     const wnotes = (w.notes || []).map((t) => `<span class="enote">${esc(t)}</span>`).join('');
-    const line = (label, body) => `<div class="we"><span class="etype">${esc(label)}</span><div class="etext">${body}</div></div>`;
+    const line = (body) => `<div class="we"><div class="etext">${body}</div></div>`;
     const lines = es.length
-      ? es.map((e, i) => line(entryLabel(e), segsHtml(e.segments) + (e.notes || []).map((t) => `<span class="enote">${esc(t)}</span>`).join('') + (i === es.length - 1 ? wnotes : ''))).join('')
-      : line(w.status ? STATUS_LABEL[w.status] : '', wnotes);
+      ? es.map((e, i) => line(segsHtml(e.segments) + (e.notes || []).map((t) => `<span class="enote">${esc(t)}</span>`).join('') + (i === es.length - 1 ? wnotes : ''))).join('')
+      : line((w.status ? `<span class="etype">${STATUS_LABEL[w.status]}</span>` : '') + wnotes);
     return `<li class="entry work-row">
       <div class="wtitle">${dot}<a href="#/n/${w.id}">${esc(w.title)}</a>${links ? ` <span class="wlinks">${links}</span>` : ''}</div>
       <div class="wentries">${lines}</div>
@@ -331,7 +319,6 @@ function workRowsHtml(list) {
 
 function entriesHtml(list) {
   return `<ul class="entries">${list.map((e) => `<li class="entry">
-      <span class="etype">${esc(entryLabel(e))}</span>
       <div class="etext">${segsHtml(e.segments)}${(e.notes || []).map((t) => `<span class="enote">${esc(t)}</span>`).join('')}</div>
     </li>`).join('')}</ul>`;
 }
@@ -381,7 +368,7 @@ const FILTERS = [
 function parseQuery() {
   const qs = (location.hash.split('?')[1] || '');
   const p = new URLSearchParams(qs);
-  return { q: p.get('q') || '', m: p.get('m') || '', t: p.get('t') || '', s: p.get('s') || '' };
+  return { q: p.get('q') || '', m: p.get('m') || '', s: p.get('s') || '' };
 }
 function queryHash(o) {
   const p = new URLSearchParams();
@@ -409,12 +396,11 @@ function viewSearch() {
     const nodeHit = terms.length && hit(nodeText) && hit(`${node.title} ${(node.notes || []).join(' ')} ${plain(node.links)}`);
     const nodeMarkHit = f.m && ['played', 'playing', 'dropped'].includes(f.m) && node.status === f.m;
     const es = (node.entries || []).filter((e) => {
-      if (f.t && e.type !== f.t) return false;
       if (f.m && !e.segments.some((s) => segMatch(s, f.m))) return false;
-      if (!terms.length) return !!(f.m || f.t);
+      if (!terms.length) return !!f.m;
       return hit(`${pathText} ${plain(e.segments)} ${(e.notes || []).join(' ')}`);
     });
-    const showNode = (nodeHit && !f.t && (!f.m || nodeMarkHit)) || (!terms.length && nodeMarkHit && !f.t);
+    const showNode = (nodeHit && (!f.m || nodeMarkHit)) || (!terms.length && nodeMarkHit);
     if (!es.length && !showNode) continue;
     results.push({ node, path, section, es });
     count += es.length || 1;
@@ -424,18 +410,16 @@ function viewSearch() {
     const on = f[key] === val;
     return `<button class="chip" aria-pressed="${on}" data-q='${esc(JSON.stringify({ ...f, [key]: on ? '' : val }))}'>${label}</button>`;
   };
-  const typeChips = Object.entries(TYPE_LABEL).map(([k, v]) => chip('t', k, v)).join('');
   const secChips = SECTIONS.map((s) => chip('s', s.id, state.sections[s.id].title)).join('');
   const body = results.length ? results.map((r) => `<div class="card result-group">
       <div class="result-head"><a href="#/n/${r.node.id}">${highlight(esc(r.node.title), f.q)}</a>
         <span class="path">・${esc(state.sections[r.section].title)}${r.path.length > 1 ? ' › ' + r.path.slice(0, -1).map((x) => esc(x.title)).join(' › ') : ''}</span>
         ${r.node.status ? ` <span class="tag st-${r.node.status}">${STATUS_LABEL[r.node.status]}</span>` : ''}</div>
-      ${r.es.length ? `<ul class="entries">${r.es.map((e) => `<li class="entry"><span class="etype">${esc(entryLabel(e))}</span><div class="etext">${segsHtml(e.segments, f.q)}</div></li>`).join('')}</ul>` : '<div style="height:10px"></div>'}
+      ${r.es.length ? `<ul class="entries">${r.es.map((e) => `<li class="entry"><div class="etext">${segsHtml(e.segments, f.q)}</div></li>`).join('')}</ul>` : '<div style="height:10px"></div>'}
     </div>`).join('') : '<p class="empty">沒有符合的結果。</p>';
   return `<h1 class="title">${f.q ? `搜尋「${esc(f.q)}」` : '篩選'}</h1>
     <div class="meta-row">${results.length} 個項目・${count} 筆</div>
     <div class="filters">${FILTERS.map((x) => chip(x.key, x.val, x.label)).join('')}</div>
-    <div class="filters">${typeChips}</div>
     <div class="filters">${secChips}</div>
     ${body}`;
 }
@@ -443,7 +427,7 @@ function viewSearch() {
 // ---- stats
 function viewStats() {
   const c = { nodes: 0, entries: 0, links: 0, played: 0, playing: 0, dropped: 0, video: 0, music: 0, anime: 0, mai: 0, unmarked: 0 };
-  const bySite = {}; const byType = {}; const bySource = {}; const byDecade = {}; const bySection = {};
+  const bySite = {}; const bySource = {}; const byDecade = {}; const bySection = {};
   const statusNodes = { played: [], playing: [], dropped: [] };
   for (const { node, section } of state.idx.values()) {
     c.nodes += 1;
@@ -455,7 +439,7 @@ function viewStats() {
       if (y) { const d = `${Math.floor(y / 10) * 10}s`; byDecade[d] = (byDecade[d] || 0) + 1; }
     }
     const segs = [...(node.links || []), ...(node.entries || []).flatMap((e) => e.segments)];
-    for (const e of node.entries || []) { c.entries += 1; const t = e.type || 'play'; byType[t] = (byType[t] || 0) + 1; }
+    c.entries += (node.entries || []).length;
     for (const s of segs) {
       if (s.url) { c.links += 1; const st = siteOf(s.url); bySite[st] = (bySite[st] || 0) + 1; }
       if (s.mark) c[s.mark] += 1;
@@ -478,7 +462,6 @@ function viewStats() {
       ${tile(c.mai, '舞秋風影片', queryHash({ m: 'mai' }))}${tile(c.unmarked, '未標記的影片連結', queryHash({ m: 'unmarked' }))}
     </div>
     <div class="stat-grid">
-      <div class="block"><h2>紀錄類型</h2>${bars(byType, { ...TYPE_LABEL, play: '遊玩' }, (k) => (k === 'play' ? null : queryHash({ t: k })))}</div>
       <div class="block"><h2>連結來源網站</h2>${bars(bySite)}</div>
       <div class="block"><h2>各區項目數</h2>${bars(bySection, secLabels, (k) => `#/s/${k}`)}</div>
       <div class="block"><h2>動漫原作媒介</h2>${bars(bySource, SOURCE_LABEL)}</div>

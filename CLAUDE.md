@@ -15,7 +15,6 @@ data/*.json               所有紀錄（唯一的資料來源）
 docs/schema.md            資料格式 ← 修改資料前先讀
 tools/validate.py         驗證資料格式；--new-id 產生新 ID
 tools/check_links.py      檢查失效連結 → data/link-report.json（GitHub Actions 每月執行）
-tools/convert_pptx.py     當初從 PPT 轉換用的腳本，僅供參考，不要再執行（會覆蓋網頁上的修改）
 ```
 
 ## 修改資料的流程
@@ -32,16 +31,16 @@ tools/convert_pptx.py     當初從 PPT 轉換用的腳本，僅供參考，不�
 
 | 使用者說 | 怎麼記 |
 |---|---|
-| 「我玩過／通關了 X」 | X 的作品節點 `status: "played"`；系列裡的某一代也是開一個 `work` 節點（見 `docs/schema.md` 的作品規則），不要再用 `type: "play"` |
+| 「我玩過／通關了 X」 | X 的作品節點 `status: "played"`；系列裡的某一代也是開一個 `work` 節點（見 `docs/schema.md` 的作品規則） |
 | 「正在玩 X」「X 退坑了」 | `status: "playing"` / `"dropped"` |
-| 「看了 X 的實況／全流程」 | entry `type: "video"`，連結加 `mark: "video"`；是播放清單就加 `playlist: true` |
+| 「看了 X 的實況／全流程」 | 新增一筆 entry，連結文字寫清楚內容（`Full Walkthrough`、`舞秋風實況`…），加 `mark: "video"`；是播放清單就加 `playlist: true` |
 | 「舞秋風的 X 實況」 | 同上，再加 `channel: "舞秋風"` |
-| 「看了 X 的劇情解說」 | `type: "lore"`，連結 `mark: "video"` |
-| 「聽了 X 的 OST」 | `type: "music"`（加在項目紀錄的後面），連結 `mark: "music"`，Wiki／VGMdb 不加 mark |
-| 「看完 X 動畫第 N 季」 | 動漫節點的 entry `type: "anime"`，看的那個連結 `mark: "anime"`；備註寫在 `notes` |
+| 「看了 X 的劇情解說」 | 連結文字寫 `劇情解說`，`mark: "video"` |
+| 「聽了 X 的 OST」 | 加在項目紀錄的後面，寫成 `[OST](…){音樂} ([Wiki](…))`：聽的連結 `mark: "music"`，Wiki／VGMdb 不加 mark |
+| 「看完 X 動畫第 N 季」 | 照 `docs/schema.md` 的「動漫的寫法」：季名連結 `mark: "anime"`，併入同段正篇那筆；備註寫在該筆 `notes` |
 | 「先記下 X 的影片，還沒看」 | 連結不加 `mark` |
 | 「X 的 Wiki」 | 作品本身的 Wiki 放節點 `links`，文字用作品標題（會掛在標題上）；某一季／某張專輯的 Wiki 放在那筆紀錄裡 |
-| 「系列演進／版本比較影片」 | `type: "evolution"`（兩者是同一類，不再分開） |
+| 「系列演進／版本比較影片」 | 放在系列節點，連結文字寫 `Evolution 年份–年份` 或說明比較內容 |
 | 「X 的發行日」 | `release`，一定要附 `source` 網址；查不到就不要填 |
 | 新的作品 | 遊戲放 `data/games.json` 對應的公司底下（找不到公司就在對應地區新增 `company`；隸屬於某集團的子公司或開發團隊用 `studio`，放在母公司底下）；不屬於任何公司的放 `data/other-games.json`；動漫放 `data/anime.json` 的最上層，`kind: "work"` |
 

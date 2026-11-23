@@ -24,7 +24,6 @@
    "entries": [
     {
      "id": "e0344",
-     "type": "anime",
      "segments": [
       {
        "text": "第一季",
@@ -77,7 +76,6 @@
     },
     {
      "id": "e0358",
-     "type": "music",
      "segments": [
       {
        "text": "OST Wiki: "
@@ -119,7 +117,6 @@
     },
     {
      "id": "e0362",
-     "type": "music",
      "segments": [
       {
        "text": "Niji no Oto: "
@@ -133,7 +130,6 @@
     },
     {
      "id": "e0360",
-     "type": "music",
      "segments": [
       {
        "text": "Song Collection: "
@@ -265,7 +261,6 @@
     },
     {
      "id": "e0351",
-     "type": "anime",
      "segments": [
       {
        "text": "Alicization",
@@ -295,7 +290,6 @@
     },
     {
      "id": "e0348",
-     "type": "anime",
      "segments": [
       {
        "text": "劇場版："
@@ -325,7 +319,6 @@
     },
     {
      "id": "e0366",
-     "type": "music",
      "segments": [
       {
        "text": "序列爭戰 "
@@ -347,7 +340,6 @@
     },
     {
      "id": "e0349",
-     "type": "anime",
      "segments": [
       {
        "text": "SAO 外傳: Gun Gale Online ("
@@ -364,7 +356,6 @@
     },
     {
      "id": "e0368",
-     "type": "music",
      "segments": [
       {
        "text": "GGO "
@@ -394,7 +385,6 @@
     },
     {
      "id": "e0357",
-     "type": "video",
      "segments": [
       {
        "text": "十周年紀念特別錄製",
@@ -405,7 +395,6 @@
     },
     {
      "id": "e0369",
-     "type": "music",
      "segments": [
       {
        "text": "Character Songs & OSTs: "
@@ -481,7 +470,6 @@
    "entries": [
     {
      "id": "e0370",
-     "type": "anime",
      "segments": [
       {
        "text": "第一季",
@@ -519,28 +507,24 @@
     },
     {
      "id": "e0371",
-     "type": "music",
      "segments": [
       {
-       "text": "Original Soundtrack ("
-      },
-      {
-       "text": "Wiki",
-       "url": "https://rezero.fandom.com/wiki/Re:Zero_Original_Soundtrack"
-      },
-      {
-       "text": ")、"
-      },
-      {
-       "text": "Original Soundtrack 2",
+       "text": "Original Soundtrack 1 & 2",
        "url": "https://www.youtube.com/playlist?list=PL07b5MtLOCJYe2vKFESMiI-48J9OMp3Ev",
        "mark": "music"
       },
       {
-       "text": " ("
+       "text": " (Wiki "
       },
       {
-       "text": "Wiki",
+       "text": "1",
+       "url": "https://rezero.fandom.com/wiki/Re:Zero_Original_Soundtrack"
+      },
+      {
+       "text": ", "
+      },
+      {
+       "text": "2",
        "url": "https://rezero.fandom.com/wiki/Re:Zero_Original_Soundtrack_2"
       },
       {
@@ -550,7 +534,6 @@
     },
     {
      "id": "e0372",
-     "type": "music",
      "segments": [
       {
        "text": "Songs from S1、S2 and 2 movies",
@@ -579,7 +562,6 @@
    "entries": [
     {
      "id": "e0376",
-     "type": "anime",
      "segments": [
       {
        "text": "第一季",
@@ -601,7 +583,6 @@
     },
     {
      "id": "e0377",
-     "type": "music",
      "segments": [
       {
        "text": "OST："
@@ -655,7 +636,6 @@
     },
     {
      "id": "e0378",
-     "type": "music",
      "segments": [
       {
        "text": "第一季 "
@@ -724,7 +704,6 @@
     },
     {
      "id": "e0379",
-     "type": "anime",
      "segments": [
       {
        "text": "劇場版："
@@ -738,7 +717,6 @@
     },
     {
      "id": "e0380",
-     "type": "music",
      "segments": [
       {
        "text": "紅傳說 OST："
@@ -775,7 +753,6 @@
     },
     {
      "id": "e0386",
-     "type": "anime",
      "segments": [
       {
        "text": "外傳："
@@ -789,7 +766,6 @@
     },
     {
      "id": "e0387",
-     "type": "music",
      "segments": [
       {
        "text": "Explosion OST："
@@ -834,7 +810,6 @@
     },
     {
      "id": "e0388",
-     "type": "anime",
      "segments": [
       {
        "text": "第三季",
@@ -859,7 +834,6 @@
    "entries": [
     {
      "id": "e0392",
-     "type": "anime",
      "segments": [
       {
        "text": "第一季",
@@ -940,7 +914,6 @@
     },
     {
      "id": "e0393",
-     "type": "anime",
      "segments": [
       {
        "text": "劇場版："
@@ -979,7 +952,6 @@
     },
     {
      "id": "e0394",
-     "type": "music",
      "segments": [
       {
        "text": "Date A Music："
@@ -1026,7 +998,6 @@
     },
     {
      "id": "e0395",
-     "type": "music",
      "segments": [
       {
        "text": "Date A "
@@ -1073,7 +1044,6 @@
     },
     {
      "id": "e0396",
-     "type": "music",
      "segments": [
       {
        "text": "Date A "
@@ -1098,7 +1068,6 @@
     },
     {
      "id": "e0397",
-     "type": "music",
      "segments": [
       {
        "text": "Date A Live IV Original Soundtrack",
@@ -1109,7 +1078,6 @@
     },
     {
      "id": "e0398",
-     "type": "music",
      "segments": [
       {
        "text": "萬由里審判 "
@@ -1144,7 +1112,6 @@
     },
     {
      "id": "e0404",
-     "type": "music",
      "segments": [
       {
        "text": "主題曲 ("
@@ -1246,7 +1213,6 @@
    "entries": [
     {
      "id": "e0415",
-     "type": "anime",
      "segments": [
       {
        "text": "第一季 ("
@@ -1294,7 +1260,6 @@
     },
     {
      "id": "e0416",
-     "type": "music",
      "segments": [
       {
        "text": "第一季 "
@@ -1347,7 +1312,6 @@
     },
     {
      "id": "e0417",
-     "type": "music",
      "segments": [
       {
        "text": "第二季 NEW "
@@ -1432,7 +1396,6 @@
     },
     {
      "id": "e0418",
-     "type": "music",
      "segments": [
       {
        "text": "第三季 BorN "
@@ -1485,7 +1448,6 @@
     },
     {
      "id": "e0419",
-     "type": "music",
      "segments": [
       {
        "text": "第四季 HERO "
@@ -1536,7 +1498,6 @@
    "entries": [
     {
      "id": "e0427",
-     "type": "anime",
      "segments": [
       {
        "text": "第一季",
@@ -1562,7 +1523,6 @@
     },
     {
      "id": "e0428",
-     "type": "music",
      "segments": [
       {
        "text": "OST ("
@@ -1591,7 +1551,6 @@
     },
     {
      "id": "e0429",
-     "type": "music",
      "segments": [
       {
        "text": "NO SONG NO LIFE",
@@ -1619,7 +1578,6 @@
     },
     {
      "id": "e0430",
-     "type": "anime",
      "segments": [
       {
        "text": "劇場版："
@@ -1643,7 +1601,6 @@
     },
     {
      "id": "e0431",
-     "type": "music",
      "segments": [
       {
        "text": "Zero "
@@ -1685,7 +1642,6 @@
    "entries": [
     {
      "id": "e0433",
-     "type": "anime",
      "segments": [
       {
        "text": "第一季",
@@ -1723,7 +1679,6 @@
     },
     {
      "id": "e0434",
-     "type": "music",
      "segments": [
       {
        "text": "第一 ~ 四季 OST："
@@ -1756,7 +1711,6 @@
     },
     {
      "id": "e0435",
-     "type": "music",
      "segments": [
       {
        "text": "第一 ~ 四季 "
@@ -1780,7 +1734,6 @@
     },
     {
      "id": "e0436",
-     "type": "anime",
      "segments": [
       {
        "text": "外傳："
@@ -1794,7 +1747,6 @@
     },
     {
      "id": "e0437",
-     "type": "music",
      "segments": [
       {
        "text": "劍姬神聖譚 "
@@ -1843,7 +1795,6 @@
     },
     {
      "id": "e0438",
-     "type": "anime",
      "segments": [
       {
        "text": "劇場版："
@@ -1857,7 +1808,6 @@
     },
     {
      "id": "e0439",
-     "type": "music",
      "segments": [
       {
        "text": "獵戶座之箭 "
@@ -1882,7 +1832,6 @@
     },
     {
      "id": "e0440",
-     "type": "music",
      "segments": [
       {
        "text": "Character & Insert Songs ("
@@ -2000,7 +1949,6 @@
    "entries": [
     {
      "id": "e0449",
-     "type": "anime",
      "segments": [
       {
        "text": "第一季",
@@ -2043,7 +1991,6 @@
     },
     {
      "id": "e0450",
-     "type": "music",
      "segments": [
       {
        "text": "第一季 OP "
@@ -2066,7 +2013,7 @@
       },
       {
        "text": "1",
-       "url": "http://millenario",
+       "url": "https://www.youtube.com/watch?v=MNlaZt5i8jU&list=RDMNlaZt5i8jU&start_radio=1&pp=ygUP44Of44Os44OK44Oq44KqoAcB",
        "mark": "music"
       },
       {
@@ -2097,7 +2044,6 @@
     },
     {
      "id": "e0451",
-     "type": "anime",
      "segments": [
       {
        "text": "劇場版："
@@ -2111,7 +2057,6 @@
     },
     {
      "id": "e0452",
-     "type": "anime",
      "segments": [
       {
        "text": "衍生動畫："
@@ -2139,7 +2084,6 @@
    "entries": [
     {
      "id": "e0455",
-     "type": "reading",
      "segments": [
       {
        "text": "小說講解："
@@ -2177,7 +2121,6 @@
    "entries": [
     {
      "id": "e0456",
-     "type": "anime",
      "segments": [
       {
        "text": "第一季",
@@ -2261,7 +2204,6 @@
     },
     {
      "id": "e0457",
-     "type": "anime",
      "segments": [
       {
        "text": "短篇："
@@ -2300,7 +2242,6 @@
     },
     {
      "id": "e0458",
-     "type": "music",
      "segments": [
       {
        "text": "第一季 "
@@ -2368,7 +2309,6 @@
     },
     {
      "id": "e0459",
-     "type": "music",
      "segments": [
       {
        "text": "第二季 "
@@ -2405,7 +2345,6 @@
     },
     {
      "id": "e0461",
-     "type": "music",
      "segments": [
       {
        "text": "第三季 "
@@ -2458,7 +2397,6 @@
     },
     {
      "id": "e0462",
-     "type": "music",
      "segments": [
       {
        "text": "The Final Season OST "
@@ -2489,24 +2427,21 @@
       },
       {
        "text": "1",
-       "url": "https://attackontitan.fandom.com/wiki/%22Attack_on_Titan%22_The_Final_Season_Original_Soundtrack",
-       "mark": "music"
+       "url": "https://attackontitan.fandom.com/wiki/%22Attack_on_Titan%22_The_Final_Season_Original_Soundtrack"
       },
       {
        "text": ", "
       },
       {
        "text": "2",
-       "url": "https://attackontitan.fandom.com/wiki/%22Attack_on_Titan%22_The_Final_Season_Original_Soundtrack_02",
-       "mark": "music"
+       "url": "https://attackontitan.fandom.com/wiki/%22Attack_on_Titan%22_The_Final_Season_Original_Soundtrack_02"
       },
       {
        "text": ", "
       },
       {
        "text": "3",
-       "url": "https://attackontitan.fandom.com/wiki/%22Attack_on_Titan%22_The_Final_Season_Original_Soundtrack_03",
-       "mark": "music"
+       "url": "https://attackontitan.fandom.com/wiki/%22Attack_on_Titan%22_The_Final_Season_Original_Soundtrack_03"
       },
       {
        "text": ")；"
@@ -2590,7 +2525,6 @@
    "entries": [
     {
      "id": "e0471",
-     "type": "anime",
      "segments": [
       {
        "text": "第一季",
@@ -2644,7 +2578,6 @@
     },
     {
      "id": "e0472",
-     "type": "anime",
      "segments": [
       {
        "text": "Fan Disc "
@@ -2682,7 +2615,6 @@
     },
     {
      "id": "e0473",
-     "type": "anime",
      "segments": [
       {
        "text": "劇場版："
@@ -2714,7 +2646,6 @@
    "entries": [
     {
      "id": "e0476",
-     "type": "anime",
      "segments": [
       {
        "text": "第一季",
@@ -2733,7 +2664,6 @@
     },
     {
      "id": "e0477",
-     "type": "music",
      "segments": [
       {
        "text": "OST",
@@ -2754,7 +2684,6 @@
     },
     {
      "id": "e0478",
-     "type": "music",
      "segments": [
       {
        "text": "第一季 "
@@ -2816,7 +2745,6 @@
     },
     {
      "id": "e0479",
-     "type": "music",
      "segments": [
       {
        "text": "第二季 "
@@ -2900,7 +2828,6 @@
     },
     {
      "id": "e0480",
-     "type": "anime",
      "segments": [
       {
        "text": "課外授業篇",
@@ -2953,7 +2880,6 @@
    "entries": [
     {
      "id": "e0485",
-     "type": "anime",
      "segments": [
       {
        "text": "第一季",
@@ -3012,7 +2938,6 @@
     },
     {
      "id": "e0486",
-     "type": "music",
      "segments": [
       {
        "text": "OST：Season "
@@ -3066,7 +2991,6 @@
     },
     {
      "id": "e0487",
-     "type": "music",
      "segments": [
       {
        "text": "Season 1~5 All OP & ED",
@@ -3077,7 +3001,6 @@
     },
     {
      "id": "e0488",
-     "type": "music",
      "segments": [
       {
        "text": "Character Songs 1~6",
@@ -3110,7 +3033,6 @@
    "entries": [
     {
      "id": "e0495",
-     "type": "anime",
      "segments": [
       {
        "text": "第一季",
@@ -3137,7 +3059,6 @@
     },
     {
      "id": "e0496",
-     "type": "anime",
      "segments": [
       {
        "text": "外傳："
@@ -3177,7 +3098,6 @@
    "entries": [
     {
      "id": "e0499",
-     "type": "anime",
      "segments": [
       {
        "text": "動畫",
@@ -3198,7 +3118,6 @@
     },
     {
      "id": "e0500",
-     "type": "music",
      "segments": [
       {
        "text": "OST 1",
@@ -3234,7 +3153,6 @@
     },
     {
      "id": "e0501",
-     "type": "music",
      "segments": [
       {
        "text": "OP1、OP2、ED1、ED2",
@@ -3263,7 +3181,6 @@
    "entries": [
     {
      "id": "e0502",
-     "type": "anime",
      "segments": [
       {
        "text": "花丸：第一季、"
@@ -3280,7 +3197,6 @@
     },
     {
      "id": "e0503",
-     "type": "anime",
      "segments": [
       {
        "text": "活擊",
@@ -3305,7 +3221,6 @@
    "entries": [
     {
      "id": "e0504",
-     "type": "anime",
      "segments": [
       {
        "text": "動畫",
@@ -3329,7 +3244,6 @@
     },
     {
      "id": "e0505",
-     "type": "music",
      "segments": [
       {
        "text": "OST ("
@@ -3366,7 +3280,6 @@
     },
     {
      "id": "e0506",
-     "type": "music",
      "segments": [
       {
        "text": "OP",
@@ -3407,7 +3320,6 @@
    "entries": [
     {
      "id": "e0507",
-     "type": "anime",
      "segments": [
       {
        "text": "第一季",
@@ -3431,7 +3343,6 @@
     },
     {
      "id": "e0508",
-     "type": "music",
      "segments": [
       {
        "text": "OST："
@@ -3468,7 +3379,6 @@
     },
     {
      "id": "e0509",
-     "type": "music",
      "segments": [
       {
        "text": "OP",

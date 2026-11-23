@@ -25,7 +25,6 @@
          "entries": [
           {
            "id": "emw1sas8juws",
-           "type": "video",
            "segments": [
             {
              "text": "Walkthrough",
@@ -43,7 +42,6 @@
          "entries": [
           {
            "id": "emw1s4cxnfpt",
-           "type": "music",
            "segments": [
             {
              "text": "OST",
@@ -91,7 +89,6 @@
          "entries": [
           {
            "id": "e0002",
-           "type": "video",
            "segments": [
             {
              "text": "Full Game",
@@ -103,7 +100,6 @@
           },
           {
            "id": "e1a1a61c3f1ckbd",
-           "type": "lore",
            "segments": [
             {
              "text": "劇情解說",
@@ -114,7 +110,6 @@
           },
           {
            "id": "e0003",
-           "type": "music",
            "segments": [
             {
              "text": "OST",
@@ -146,7 +141,6 @@
          "entries": [
           {
            "id": "emw1smjrfbyg",
-           "type": "lore",
            "segments": [
             {
              "text": "解說（"
@@ -179,7 +173,6 @@
           },
           {
            "id": "emw1smtyrlyt",
-           "type": "music",
            "segments": [
             {
              "text": "OST",
@@ -216,7 +209,6 @@
            "entries": [
             {
              "id": "emw1sra4b0up",
-             "type": "video",
              "segments": [
               {
                "text": "Walkthrough",
@@ -227,7 +219,6 @@
             },
             {
              "id": "emw1srgkbw7x",
-             "type": "music",
              "segments": [
               {
                "text": "OST",
@@ -255,7 +246,6 @@
          "entries": [
           {
            "id": "emw1surtwqvv",
-           "type": "evolution",
            "segments": [
             {
              "text": "Evolution 1989–2014",
@@ -273,7 +263,6 @@
            "entries": [
             {
              "id": "emw1svkozjql",
-             "type": "video",
              "segments": [
               {
                "text": "舞秋風實況",
@@ -286,7 +275,6 @@
             },
             {
              "id": "emw1swd2jp57",
-             "type": "music",
              "segments": [
               {
                "text": "OST",
@@ -313,7 +301,6 @@
          "entries": [
           {
            "id": "emw1t3tdf04u",
-           "type": "video",
            "segments": [
             {
              "text": "Walkthrough",
@@ -324,7 +311,6 @@
           },
           {
            "id": "emw1t4ccrmmw",
-           "type": "trivia",
            "segments": [
             {
              "text": "早期沙丘遊戲史",
@@ -349,7 +335,6 @@
          "entries": [
           {
            "id": "emw1t1cx7s42",
-           "type": "video",
            "segments": [
             {
              "text": "Walkthrough",
@@ -383,7 +368,6 @@
          "entries": [
           {
            "id": "e0011",
-           "type": "video",
            "segments": [
             {
              "text": "Remastered Gameplay ("
@@ -415,7 +399,6 @@
          "entries": [
           {
            "id": "e1a1a61c3f22i3c",
-           "type": "video",
            "segments": [
             {
              "text": "Full Walkthrough",
@@ -433,7 +416,6 @@
          "entries": [
           {
            "id": "e1a1a61c3f27b3n",
-           "type": "video",
            "segments": [
             {
              "text": "Full Walkthrough",
@@ -451,7 +433,6 @@
          "entries": [
           {
            "id": "e1a1a61c3f2b203",
-           "type": "video",
            "segments": [
             {
              "text": "Full Walkthrough",
@@ -469,7 +450,6 @@
          "entries": [
           {
            "id": "e0012",
-           "type": "music",
            "segments": [
             {
              "text": "OST",
@@ -497,7 +477,6 @@
          "entries": [
           {
            "id": "e1a1a61c3f31kpt",
-           "type": "music",
            "segments": [
             {
              "text": "OST",
@@ -532,7 +511,6 @@
          "entries": [
           {
            "id": "e0014",
-           "type": "video",
            "segments": [
             {
              "text": "Walkthrough",
@@ -550,7 +528,6 @@
          "entries": [
           {
            "id": "e1a1a61c3f38cpa",
-           "type": "video",
            "segments": [
             {
              "text": "Walkthrough",
@@ -568,7 +545,6 @@
          "entries": [
           {
            "id": "e1a1a61c3f3c0vl",
-           "type": "video",
            "segments": [
             {
              "text": "Walkthrough",
@@ -606,7 +582,6 @@
        "entries": [
         {
          "id": "emw1tduismex",
-         "type": "lore",
          "segments": [
           {
            "text": "遊戲解說",
@@ -630,7 +605,6 @@
          "entries": [
           {
            "id": "e0016",
-           "type": "music",
            "segments": [
             {
              "text": "OST",
@@ -667,7 +641,6 @@
          "entries": [
           {
            "id": "emw1tgrubstn",
-           "type": "video",
            "segments": [
             {
              "text": "舞秋風實況",
@@ -680,7 +653,6 @@
           },
           {
            "id": "e0018",
-           "type": "music",
            "segments": [
             {
              "text": "OST",
@@ -705,7 +677,6 @@
          "entries": [
           {
            "id": "e0019",
-           "type": "video",
            "segments": [
             {
              "text": "舞秋風實況",
@@ -750,7 +721,6 @@
           },
           {
            "id": "e0020",
-           "type": "music",
            "segments": [
             {
              "text": "OST",
@@ -788,7 +758,6 @@
        "entries": [
         {
          "id": "emw1tvnobu6t",
-         "type": "music",
          "segments": [
           {
            "text": "OST",
@@ -819,7 +788,6 @@
          "entries": [
           {
            "id": "e0021",
-           "type": "video",
            "segments": [
             {
              "text": "Showcase",
@@ -842,7 +810,6 @@
            "entries": [
             {
              "id": "emw1tnwvv53j",
-             "type": "video",
              "segments": [
               {
                "text": "Full Walkthrough",
@@ -882,7 +849,6 @@
          "entries": [
           {
            "id": "emw1ttntnkd6",
-           "type": "video",
            "segments": [
             {
              "text": "恐怖版 (同人衍生作)",
@@ -894,7 +860,6 @@
           },
           {
            "id": "e1a1a61c3f4evp6",
-           "type": "music",
            "segments": [
             {
              "text": "OST",
@@ -916,7 +881,6 @@
        "entries": [
         {
          "id": "e1a1a61c3f50ja9",
-         "type": "music",
          "segments": [
           {
            "text": "OST",
@@ -941,7 +905,6 @@
          "entries": [
           {
            "id": "e1a1a61c3f520cl",
-           "type": "music",
            "segments": [
             {
              "text": "OST",
@@ -962,7 +925,6 @@
        "entries": [
         {
          "id": "e1a1a61c3f4c9h5",
-         "type": "music",
          "segments": [
           {
            "text": "Deluxe OST",
@@ -988,7 +950,6 @@
        "entries": [
         {
          "id": "e0025",
-         "type": "video",
          "segments": [
           {
            "text": "舞秋風實況",
@@ -1015,7 +976,6 @@
        "entries": [
         {
          "id": "emw1tzq1wi5b",
-         "type": "video",
          "segments": [
           {
            "text": "Left 4 Dead 1、2 全流程",
@@ -1034,7 +994,6 @@
          "entries": [
           {
            "id": "e1a1a61c3f5degk",
-           "type": "video",
            "segments": [
             {
              "text": "舞秋風實況",
@@ -1070,7 +1029,6 @@
        "entries": [
         {
          "id": "e1a1a62e0f47xx3",
-         "type": "trivia",
          "segments": [
           {
            "text": "系列世界觀解析",
@@ -1088,7 +1046,6 @@
          "entries": [
           {
            "id": "e1a1a62e0f49fe1",
-           "type": "lore",
            "segments": [
             {
              "text": "數位惡魔物語 女神轉生 小說介紹（"
@@ -1121,7 +1078,6 @@
           },
           {
            "id": "e1a1a62e0f4c1pk",
-           "type": "lore",
            "segments": [
             {
              "text": "遊戲解說",
@@ -1152,7 +1108,6 @@
            "entries": [
             {
              "id": "e1a1a62e0f4ep2i",
-             "type": "lore",
              "segments": [
               {
                "text": "系列解說",
@@ -1163,7 +1118,6 @@
             },
             {
              "id": "e1a1a62e0f50l9a",
-             "type": "music",
              "segments": [
               {
                "text": "OST",
@@ -1182,7 +1136,6 @@
            "entries": [
             {
              "id": "e1a1a62e0f55o29",
-             "type": "lore",
              "segments": [
               {
                "text": "系列解說",
@@ -1193,7 +1146,6 @@
             },
             {
              "id": "e1a1a62e0f570ll",
-             "type": "music",
              "segments": [
               {
                "text": "OST",
@@ -1212,7 +1164,6 @@
            "entries": [
             {
              "id": "e1a1a62e0f5bdcz",
-             "type": "lore",
              "segments": [
               {
                "text": "系列解說",
@@ -1223,7 +1174,6 @@
             },
             {
              "id": "e1a1a62e0f5d07s",
-             "type": "music",
              "segments": [
               {
                "text": "OST",
@@ -1242,7 +1192,6 @@
            "entries": [
             {
              "id": "e1a1a62e0f62evw",
-             "type": "lore",
              "segments": [
               {
                "text": "系列解說",
@@ -1253,7 +1202,6 @@
             },
             {
              "id": "e1a1a62e0f64vh7",
-             "type": "music",
              "segments": [
               {
                "text": "OST",
@@ -1272,7 +1220,6 @@
            "entries": [
             {
              "id": "e1a1a62e0f687x5",
-             "type": "music",
              "segments": [
               {
                "text": "OST",
@@ -1291,7 +1238,6 @@
            "entries": [
             {
              "id": "e1a1a62e0f6czfb",
-             "type": "lore",
              "segments": [
               {
                "text": "系列解說",
@@ -1309,7 +1255,6 @@
            "entries": [
             {
              "id": "e1a1a62e0f71c1o",
-             "type": "lore",
              "segments": [
               {
                "text": "系列解說",
@@ -1320,7 +1265,6 @@
             },
             {
              "id": "e1a1a62e0f73v37",
-             "type": "music",
              "segments": [
               {
                "text": "OST",
@@ -1339,7 +1283,6 @@
            "entries": [
             {
              "id": "e1a1a62e0f77oxg",
-             "type": "lore",
              "segments": [
               {
                "text": "系列解說（"
@@ -1364,7 +1307,6 @@
             },
             {
              "id": "e1a1a62e0f79fe6",
-             "type": "music",
              "segments": [
               {
                "text": "OST",
@@ -1383,7 +1325,6 @@
            "entries": [
             {
              "id": "emw27g2x94wo",
-             "type": "lore",
              "segments": [
               {
                "text": "系列解說：III、V",
@@ -1394,7 +1335,6 @@
             },
             {
              "id": "e1a1a62e0f7e0cb",
-             "type": "music",
              "segments": [
               {
                "text": "OST",
@@ -1413,7 +1353,6 @@
            "entries": [
             {
              "id": "e1a1a62e0f8203q",
-             "type": "lore",
              "segments": [
               {
                "text": "系列解說",
@@ -1438,7 +1377,6 @@
            "entries": [
             {
              "id": "e1a1a62e0f88pyg",
-             "type": "lore",
              "segments": [
               {
                "text": "系列解說",
@@ -1456,7 +1394,6 @@
            "entries": [
             {
              "id": "e1a1a62e0f8d3zz",
-             "type": "lore",
              "segments": [
               {
                "text": "系列解說",
@@ -1474,7 +1411,6 @@
            "entries": [
             {
              "id": "e1a1a62e0f91k42",
-             "type": "lore",
              "segments": [
               {
                "text": "系列解說",
@@ -1494,7 +1430,6 @@
          "entries": [
           {
            "id": "e1a1a62e0f95te3",
-           "type": "lore",
            "segments": [
             {
              "text": "系列解說（"
@@ -1526,7 +1461,6 @@
          "entries": [
           {
            "id": "e1a1a62e0f98qb5",
-           "type": "lore",
            "segments": [
             {
              "text": "系列解說",
@@ -1549,7 +1483,6 @@
            "entries": [
             {
              "id": "e1a1a62e0f9a6g6",
-             "type": "lore",
              "segments": [
               {
                "text": "系列解說",
@@ -1567,7 +1500,6 @@
            "entries": [
             {
              "id": "e1a1a62e0f9e7lo",
-             "type": "lore",
              "segments": [
               {
                "text": "系列解說",
@@ -1587,7 +1519,6 @@
          "entries": [
           {
            "id": "e1a1a62e0fa2zyn",
-           "type": "lore",
            "segments": [
             {
              "text": "系列解說",
@@ -1605,7 +1536,6 @@
          "entries": [
           {
            "id": "e1a1a62e0fcam5e",
-           "type": "lore",
            "segments": [
             {
              "text": "系列解說",
@@ -1623,7 +1553,6 @@
            "entries": [
             {
              "id": "e1a1a62e0fc1t2u",
-             "type": "lore",
              "segments": [
               {
                "text": "系列解說",
@@ -1641,7 +1570,6 @@
            "entries": [
             {
              "id": "e1a1a62e0fc5402",
-             "type": "lore",
              "segments": [
               {
                "text": "系列解說",
@@ -1659,7 +1587,6 @@
            "entries": [
             {
              "id": "e1a1a62e0fabdum",
-             "type": "music",
              "segments": [
               {
                "text": "OST Disc 1、2",
@@ -1680,7 +1607,6 @@
             },
             {
              "id": "e1a1a62e0fadk3w",
-             "type": "music",
              "segments": [
               {
                "text": "FES OST",
@@ -1701,7 +1627,6 @@
             },
             {
              "id": "e1a1a62e0fafdaa",
-             "type": "music",
              "segments": [
               {
                "text": "Portable OST",
@@ -1729,7 +1654,6 @@
            "entries": [
             {
              "id": "e1a1a62e0fb2mj9",
-             "type": "lore",
              "segments": [
               {
                "text": "系列解說（"
@@ -1762,7 +1686,6 @@
             },
             {
              "id": "e1a1a62e0fb4tx2",
-             "type": "music",
              "segments": [
               {
                "text": "OST Disc 1、2",
@@ -1783,7 +1706,6 @@
             },
             {
              "id": "e1a1a62e0fb66rn",
-             "type": "music",
              "segments": [
               {
                "text": "Golden OST",
@@ -1811,7 +1733,6 @@
            "entries": [
             {
              "id": "e1a1a62e0fb8y4r",
-             "type": "music",
              "segments": [
               {
                "text": "OST Disc 1、2、3",
@@ -1839,7 +1760,6 @@
            "entries": [
             {
              "id": "e1a1a62e0fbdkz4",
-             "type": "music",
              "segments": [
               {
                "text": "OST Disc 1、2",
@@ -1872,7 +1792,6 @@
            "entries": [
             {
              "id": "emw27ne0jxxp",
-             "type": "lore",
              "segments": [
               {
                "text": "系列解說：I、II",
@@ -1894,7 +1813,6 @@
        "entries": [
         {
          "id": "e1a1a62e0fa70op",
-         "type": "lore",
          "segments": [
           {
            "text": "劇情解析",
@@ -1924,7 +1842,6 @@
          "entries": [
           {
            "id": "e1a1a62e10039vu",
-           "type": "video",
            "segments": [
             {
              "text": "Playthrough",
@@ -1944,7 +1861,6 @@
        "entries": [
         {
          "id": "e1a1a62e100718g",
-         "type": "video",
          "segments": [
           {
            "text": "Walkthrough",
@@ -1962,7 +1878,6 @@
        "entries": [
         {
          "id": "e1a1a62e0fed0qw",
-         "type": "video",
          "segments": [
           {
            "text": "Ace Attorney 1~3 Walkthrough",
@@ -1981,7 +1896,6 @@
          "entries": [
           {
            "id": "e1a1a62e0fceqwb",
-           "type": "music",
            "segments": [
             {
              "text": "OST",
@@ -2009,7 +1923,6 @@
          "entries": [
           {
            "id": "e1a1a62e0fd2cbc",
-           "type": "music",
            "segments": [
             {
              "text": "OST",
@@ -2037,7 +1950,6 @@
          "entries": [
           {
            "id": "e1a1a62e0fd7whl",
-           "type": "music",
            "segments": [
             {
              "text": "OST",
@@ -2065,7 +1977,6 @@
          "entries": [
           {
            "id": "e1a1a62e0fdbp6a",
-           "type": "music",
            "segments": [
             {
              "text": "OST",
@@ -2093,7 +2004,6 @@
          "entries": [
           {
            "id": "e1a1a62e0fe03cz",
-           "type": "music",
            "segments": [
             {
              "text": "OST",
@@ -2121,7 +2031,6 @@
          "entries": [
           {
            "id": "e1a1a62e0fe4dv8",
-           "type": "music",
            "segments": [
             {
              "text": "OST",
@@ -2149,7 +2058,6 @@
          "entries": [
           {
            "id": "e1a1a62e0fe8xcl",
-           "type": "music",
            "segments": [
             {
              "text": "OST",
@@ -2184,7 +2092,6 @@
          "entries": [
           {
            "id": "e1a1a62e1009wdb",
-           "type": "video",
            "segments": [
             {
              "text": "Playthrough",
@@ -2202,7 +2109,6 @@
          "entries": [
           {
            "id": "e1a1a62e100eav7",
-           "type": "video",
            "segments": [
             {
              "text": "Playthrough",
@@ -2220,7 +2126,6 @@
          "entries": [
           {
            "id": "e1a1a62e10125hr",
-           "type": "video",
            "segments": [
             {
              "text": "Playthrough",
@@ -2238,7 +2143,6 @@
          "entries": [
           {
            "id": "e1a1a62e10163yz",
-           "type": "video",
            "segments": [
             {
              "text": "Playthrough",
@@ -2256,7 +2160,6 @@
          "entries": [
           {
            "id": "e1a1a62e101asto",
-           "type": "video",
            "segments": [
             {
              "text": "Playthrough",
@@ -2281,7 +2184,6 @@
          "entries": [
           {
            "id": "e1a1a62e0fefeub",
-           "type": "video",
            "segments": [
             {
              "text": "舞秋風實況",
@@ -2294,7 +2196,6 @@
           },
           {
            "id": "e1a1a62e0ff1hle",
-           "type": "music",
            "segments": [
             {
              "text": "OST："
@@ -2357,7 +2258,6 @@
          "entries": [
           {
            "id": "e1a1a62e0ff67i7",
-           "type": "video",
            "segments": [
             {
              "text": "全流程",
@@ -2369,7 +2269,6 @@
           },
           {
            "id": "e1a1a62e0ff8e6d",
-           "type": "music",
            "segments": [
             {
              "text": "OST",
@@ -2404,7 +2303,6 @@
          "entries": [
           {
            "id": "e1a1a62e0ffc9e5",
-           "type": "video",
            "segments": [
             {
              "text": "Walkthrough (G版)",
@@ -2436,7 +2334,6 @@
          "entries": [
           {
            "id": "e1a1a62e101frxo",
-           "type": "video",
            "segments": [
             {
              "text": "全流程 (HD Remaster)",
@@ -2457,7 +2354,6 @@
        "entries": [
         {
          "id": "e1a1a62e1023m2x",
-         "type": "evolution",
          "segments": [
           {
            "text": "Evolution 1987–2023",
@@ -2487,7 +2383,6 @@
          "entries": [
           {
            "id": "e1a1a62e1032lb9",
-           "type": "video",
            "segments": [
             {
              "text": "Playthrough",
@@ -2505,7 +2400,6 @@
          "entries": [
           {
            "id": "e1a1a62e1036yto",
-           "type": "video",
            "segments": [
             {
              "text": "Full Game Speedrun",
@@ -2528,7 +2422,6 @@
            "entries": [
             {
              "id": "e1a1a62e103ab95",
-             "type": "video",
              "segments": [
               {
                "text": "Walkthrough",
@@ -2546,7 +2439,6 @@
            "entries": [
             {
              "id": "e1a1a62e103f6ns",
-             "type": "video",
              "segments": [
               {
                "text": "Walkthrough",
@@ -2565,7 +2457,6 @@
            "entries": [
             {
              "id": "e1a1a62e1043cyi",
-             "type": "video",
              "segments": [
               {
                "text": "全流程",
@@ -2586,7 +2477,6 @@
          "entries": [
           {
            "id": "e1a1a62e104a7xx",
-           "type": "video",
            "segments": [
             {
              "text": "Full Game Speedrun",
@@ -2604,7 +2494,6 @@
          "entries": [
           {
            "id": "e1a1a62e104e7v4",
-           "type": "video",
            "segments": [
             {
              "text": "Playthrough",
@@ -2622,7 +2511,6 @@
          "entries": [
           {
            "id": "e1a1a62e1052ovi",
-           "type": "trivia",
            "segments": [
             {
              "text": "遊戲介紹",
@@ -2640,7 +2528,6 @@
          "entries": [
           {
            "id": "e1a1a62e10576go",
-           "type": "video",
            "segments": [
             {
              "text": "Playthrough",
@@ -2659,7 +2546,6 @@
          "entries": [
           {
            "id": "e1a1a62e102dglq",
-           "type": "music",
            "segments": [
             {
              "text": "OST",
@@ -2677,7 +2563,6 @@
            "entries": [
             {
              "id": "e1a1a62e1025ka1",
-             "type": "video",
              "segments": [
               {
                "text": "Walkthrough (Youtube 頻道內關鍵字查詢)",
@@ -2696,7 +2581,6 @@
            "entries": [
             {
              "id": "e1a1a62e1029yti",
-             "type": "video",
              "segments": [
               {
                "text": "Walkthrough",
@@ -2737,7 +2621,6 @@
          "entries": [
           {
            "id": "e1a1a62e105bzdg",
-           "type": "lore",
            "segments": [
             {
              "text": "遊戲解說",
@@ -2764,7 +2647,6 @@
        "entries": [
         {
          "id": "e1a1a62e109f5l3",
-         "type": "evolution",
          "segments": [
           {
            "text": "Evolution 1986–2009",
@@ -2782,7 +2664,6 @@
          "entries": [
           {
            "id": "e1a1a62e109a405",
-           "type": "trivia",
            "segments": [
             {
              "text": "遊戲解說",
@@ -2809,7 +2690,6 @@
        "entries": [
         {
          "id": "e1a1a62e1075lh9",
-         "type": "video",
          "segments": [
           {
            "text": "Walkthrough",
@@ -2834,7 +2714,6 @@
        "entries": [
         {
          "id": "e1a1a62e105d2cd",
-         "type": "video",
          "segments": [
           {
            "text": "Walkthrough",
@@ -2845,7 +2724,6 @@
         },
         {
          "id": "e1a1a62e105f5hr",
-         "type": "music",
          "segments": [
           {
            "text": "OST",
@@ -2875,7 +2753,6 @@
          "entries": [
           {
            "id": "e1a1a62e106873o",
-           "type": "video",
            "segments": [
             {
              "text": "Walkthrough",
@@ -2894,7 +2771,6 @@
           },
           {
            "id": "e1a1a62e106ax0b",
-           "type": "lore",
            "segments": [
             {
              "text": "劇情解說",
@@ -2914,7 +2790,6 @@
        "entries": [
         {
          "id": "e1a1a62e106f1ei",
-         "type": "video",
          "segments": [
           {
            "text": "Arcade Playthrough",
@@ -2946,7 +2821,6 @@
          "entries": [
           {
            "id": "e1a1a62e1071k8a",
-           "type": "music",
            "segments": [
             {
              "text": "OST",
@@ -2966,7 +2840,6 @@
        "entries": [
         {
          "id": "emwkqwmlk8r9",
-         "type": "video",
          "segments": [
           {
            "text": "Full Walkthrough",
@@ -2977,7 +2850,6 @@
         },
         {
          "id": "e1a1a62e1062srg",
-         "type": "music",
          "segments": [
           {
            "text": "OST",
@@ -2988,7 +2860,6 @@
         },
         {
          "id": "e1a1a62e1064i9e",
-         "type": "other",
          "segments": [
           {
            "text": "Steam Achievements",
@@ -3017,7 +2888,6 @@
          "entries": [
           {
            "id": "e1a1a62e107apzp",
-           "type": "video",
            "segments": [
             {
              "text": "Walkthrough",
@@ -3042,7 +2912,6 @@
          "entries": [
           {
            "id": "e1a1a62e107e19f",
-           "type": "video",
            "segments": [
             {
              "text": "Walkthrough",
@@ -3073,7 +2942,6 @@
          "entries": [
           {
            "id": "e1a1a62e1082ers",
-           "type": "video",
            "segments": [
             {
              "text": "Walkthrough",
@@ -3098,7 +2966,6 @@
          "entries": [
           {
            "id": "e1a1a62e1087fi0",
-           "type": "video",
            "segments": [
             {
              "text": "Walkthrough",
@@ -3135,7 +3002,6 @@
            "entries": [
             {
              "id": "e1a1a62e108dl1s",
-             "type": "video",
              "segments": [
               {
                "text": "Walkthrough",
@@ -3153,7 +3019,6 @@
            "entries": [
             {
              "id": "e1a1a62e10922fo",
-             "type": "video",
              "segments": [
               {
                "text": "Walkthrough",
@@ -3170,13 +3035,18 @@
          "id": "n0093",
          "kind": "work",
          "title": "Pac-Man",
-         "links": [
+         "status": "played",
+         "entries": [
           {
-           "text": "Pac-Man",
-           "url": "https://www.google.com/search?q=pac+man&sca_esv=875ab3efbf6e41f3&hl=zh-Hant-TW&sxsrf=AKL5yDiMbUTs96fRRAO9LT0EVIB-OzFYhw%3A1794923665912&ei=kVz8aummN8jj2roPotDSiAk&biw=1193&bih=676&ved=2ahUKEwips4Xck4-YAxXIsVYBHSKoFJEQ4dUDegQIBhAM&uact=5&oq=pac+man&gs_lp=Egxnd3Mtd2l6LXNlcnAiB3BhYyBtYW4yBRAuGIAEMgoQABiABBiKBRhDMgUQABiABDIFEAAYgAQyBRAuGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyFBAuGIAEGJcFGNwEGN4EGOAE2AEBSK4WUOcKWO8TcAF4AJABAJgBM6ABsAKqAQE3uAEDyAEA-AEBmAIHoALLAqgCAMICERAuGIAEGLEDGIMBGMcBGNEDwgILEAAYgAQYsQMYgwHCAiAQLhiABBixAxiDARjHARjRAxiXBRjcBBjeBBjgBNgBAcICChAuGIAEGIoFGEPCAg4QLhiABBixAxjHARjRA8ICCBAAGIAEGLEDwgIQEC4YgAQYigUYQxixAxiDAcICGRAuGIAEGIoFGEMYlwUY3AQY3gQY4ATYAQHCAgsQLhiABBixAxiDAcICCBAAGIAEGLQHwgIaEC4YgAQYsQMYgwEYlwUY3AQY3gQY4ATYAQGYAwHxBf_wBHvztukVugYGCAEQARgUkgcBN6AHvDGyBwE3uAfLAsIHBTAuNS4yyAcTgAgB&sclient=gws-wiz-serp"
+           "id": "e1a208841856xd6",
+           "segments": [
+            {
+             "text": "線上遊玩",
+             "url": "https://www.google.com/search?q=pac+man"
+            }
+           ]
           }
-         ],
-         "status": "played"
+         ]
         }
        ]
       },
@@ -3197,7 +3067,6 @@
            "entries": [
             {
              "id": "e1a1a62e1096s4a",
-             "type": "video",
              "segments": [
               {
                "text": "Walkthrough",
@@ -3226,7 +3095,6 @@
        "entries": [
         {
          "id": "e1a1a62e10a1h7i",
-         "type": "trivia",
          "segments": [
           {
            "text": "遊戲介紹",
@@ -3254,7 +3122,6 @@
          "entries": [
           {
            "id": "e1a1a62e10a3myh",
-           "type": "video",
            "segments": [
             {
              "text": "Walkthrough",
@@ -3272,7 +3139,6 @@
          "entries": [
           {
            "id": "e1a1a62e10a7evr",
-           "type": "video",
            "segments": [
             {
              "text": "Walkthrough",
@@ -3290,7 +3156,6 @@
          "entries": [
           {
            "id": "e1a1a62e10abcz1",
-           "type": "video",
            "segments": [
             {
              "text": "Walkthrough",
@@ -3310,7 +3175,6 @@
        "entries": [
         {
          "id": "e1a1a62e1133fmm",
-         "type": "trivia",
          "segments": [
           {
            "text": "2D 馬莉歐雜談",
@@ -3333,7 +3197,6 @@
            "entries": [
             {
              "id": "e1a1a62e10b0cu8",
-             "type": "video",
              "segments": [
               {
                "text": "Gameplay",
@@ -3363,7 +3226,6 @@
              "entries": [
               {
                "id": "e1a1a62e10b4tea",
-               "type": "video",
                "segments": [
                 {
                  "text": "Walkthrough",
@@ -3374,7 +3236,6 @@
               },
               {
                "id": "e1a1a62e10b6rqo",
-               "type": "music",
                "segments": [
                 {
                  "text": "OST",
@@ -3392,7 +3253,6 @@
              "entries": [
               {
                "id": "e1a1a62e10bariw",
-               "type": "video",
                "segments": [
                 {
                  "text": "Walkthrough",
@@ -3418,7 +3278,6 @@
              "entries": [
               {
                "id": "e1a1a62e10bf1k0",
-               "type": "video",
                "segments": [
                 {
                  "text": "Walkthrough",
@@ -3429,7 +3288,6 @@
               },
               {
                "id": "e1a1a62e10c1zq0",
-               "type": "music",
                "segments": [
                 {
                  "text": "OST",
@@ -3447,7 +3305,6 @@
              "entries": [
               {
                "id": "e1a1a62e10c5v6v",
-               "type": "video",
                "segments": [
                 {
                  "text": "Walkthrough",
@@ -3458,7 +3315,6 @@
               },
               {
                "id": "e1a1a62e10c7wrg",
-               "type": "music",
                "segments": [
                 {
                  "text": "OST",
@@ -3483,7 +3339,6 @@
              "entries": [
               {
                "id": "e1a1a62e10cbw0n",
-               "type": "video",
                "segments": [
                 {
                  "text": "Walkthrough",
@@ -3494,7 +3349,6 @@
               },
               {
                "id": "e1a1a62e10cesf6",
-               "type": "music",
                "segments": [
                 {
                  "text": "OST",
@@ -3512,7 +3366,6 @@
              "entries": [
               {
                "id": "e1a1a62e10d2eux",
-               "type": "video",
                "segments": [
                 {
                  "text": "舞秋風實況",
@@ -3533,7 +3386,6 @@
               },
               {
                "id": "e1a1a62e10d4jah",
-               "type": "music",
                "segments": [
                 {
                  "text": "OST",
@@ -3570,7 +3422,6 @@
            "entries": [
             {
              "id": "e1a1a62e10d8kan",
-             "type": "video",
              "segments": [
               {
                "text": "Walkthrough",
@@ -3581,7 +3432,6 @@
             },
             {
              "id": "e1a1a62e10daldm",
-             "type": "music",
              "segments": [
               {
                "text": "OST",
@@ -3599,7 +3449,6 @@
            "entries": [
             {
              "id": "e1a1a62e10dfifr",
-             "type": "video",
              "segments": [
               {
                "text": "Walkthrough",
@@ -3610,7 +3459,6 @@
             },
             {
              "id": "e1a1a62e10e1hnk",
-             "type": "music",
              "segments": [
               {
                "text": "OST",
@@ -3641,7 +3489,6 @@
              "entries": [
               {
                "id": "e1a1a62e10e5mgt",
-               "type": "video",
                "segments": [
                 {
                  "text": "Speedrun",
@@ -3652,7 +3499,6 @@
               },
               {
                "id": "e1a1a62e10e7xtv",
-               "type": "music",
                "segments": [
                 {
                  "text": "OST",
@@ -3671,7 +3517,6 @@
              "entries": [
               {
                "id": "e1a1a62e10ecpaj",
-               "type": "video",
                "segments": [
                 {
                  "text": "4 Players Walkthrough",
@@ -3682,7 +3527,6 @@
               },
               {
                "id": "e1a1a62e10eef72",
-               "type": "music",
                "segments": [
                 {
                  "text": "OST",
@@ -3709,7 +3553,6 @@
            "entries": [
             {
              "id": "e1a1a62e10f2kol",
-             "type": "video",
              "segments": [
               {
                "text": "Full Game",
@@ -3720,7 +3563,6 @@
             },
             {
              "id": "e1a1a62e10f4ngf",
-             "type": "music",
              "segments": [
               {
                "text": "OST",
@@ -3755,7 +3597,6 @@
            "entries": [
             {
              "id": "e1a1a62e10f9nku",
-             "type": "video",
              "segments": [
               {
                "text": "Full Walkthrough",
@@ -3766,7 +3607,6 @@
             },
             {
              "id": "e1a1a62e10fb74c",
-             "type": "music",
              "segments": [
               {
                "text": "OST",
@@ -3794,7 +3634,6 @@
            "entries": [
             {
              "id": "e1a1a62e10ff0re",
-             "type": "video",
              "segments": [
               {
                "text": "全流程收集",
@@ -3806,7 +3645,6 @@
             },
             {
              "id": "e1a1a62e1101fif",
-             "type": "music",
              "segments": [
               {
                "text": "OST",
@@ -3840,7 +3678,6 @@
              "entries": [
               {
                "id": "e1a1a62e11085fj",
-               "type": "music",
                "segments": [
                 {
                  "text": "OST",
@@ -3874,7 +3711,6 @@
            "entries": [
             {
              "id": "e1a1a62e110c9nh",
-             "type": "video",
              "segments": [
               {
                "text": "100% Walkthrough",
@@ -3893,7 +3729,6 @@
             },
             {
              "id": "e1a1a62e110eohw",
-             "type": "music",
              "segments": [
               {
                "text": "OST",
@@ -3923,7 +3758,6 @@
          "entries": [
           {
            "id": "e1a1a62e111fjgg",
-           "type": "evolution",
            "segments": [
             {
              "text": "Evolution",
@@ -3946,7 +3780,6 @@
              "entries": [
               {
                "id": "e1a1a62e1117tlw",
-               "type": "video",
                "segments": [
                 {
                  "text": "Gameplay",
@@ -3964,7 +3797,6 @@
              "entries": [
               {
                "id": "e1a1a62e111bpiz",
-               "type": "video",
                "segments": [
                 {
                  "text": "Gameplay",
@@ -3991,7 +3823,6 @@
            "entries": [
             {
              "id": "e1a1a62e1121tap",
-             "type": "video",
              "segments": [
               {
                "text": "Full Gameplay",
@@ -4016,7 +3847,6 @@
            "entries": [
             {
              "id": "e1a1a62e1126c7a",
-             "type": "video",
              "segments": [
               {
                "text": "Walkthrough",
@@ -4027,7 +3857,6 @@
             },
             {
              "id": "e1a1a62e112873z",
-             "type": "music",
              "segments": [
               {
                "text": "OST",
@@ -4052,7 +3881,6 @@
            "entries": [
             {
              "id": "e1a1a62e112c9cd",
-             "type": "video",
              "segments": [
               {
                "text": "Playthrough",
@@ -4063,7 +3891,6 @@
             },
             {
              "id": "e1a1a62e112enhd",
-             "type": "music",
              "segments": [
               {
                "text": "OST",
@@ -4090,7 +3917,6 @@
          "entries": [
           {
            "id": "e1a1a62e1146yyw",
-           "type": "music",
            "segments": [
             {
              "text": "Metroid OST",
@@ -4117,7 +3943,6 @@
            "entries": [
             {
              "id": "e1a1a62e113584f",
-             "type": "video",
              "segments": [
               {
                "text": "Walkthrough",
@@ -4128,7 +3953,6 @@
             },
             {
              "id": "emwmxaz8elq6",
-             "type": "music",
              "segments": [
               {
                "text": "OST",
@@ -4149,7 +3973,6 @@
            "entries": [
             {
              "id": "e1a1a62e1139mbn",
-             "type": "video",
              "segments": [
               {
                "text": "Walkthrough",
@@ -4160,7 +3983,6 @@
             },
             {
              "id": "emwmxbtja3ip",
-             "type": "music",
              "segments": [
               {
                "text": "OST",
@@ -4178,7 +4000,6 @@
            "entries": [
             {
              "id": "e1a1a62e113eyi9",
-             "type": "video",
              "segments": [
               {
                "text": "Walkthrough",
@@ -4196,7 +4017,6 @@
            "entries": [
             {
              "id": "e1a1a62e1142lth",
-             "type": "video",
              "segments": [
               {
                "text": "Walkthrough",
@@ -4228,7 +4048,6 @@
        "entries": [
         {
          "id": "e1a1a62e1160svh",
-         "type": "trivia",
          "segments": [
           {
            "text": "動畫系列順序",
@@ -4249,7 +4068,6 @@
          "entries": [
           {
            "id": "e1a1a62e1148qgn",
-           "type": "video",
            "segments": [
             {
              "text": "Fire Red Walkthrough",
@@ -4260,7 +4078,6 @@
           },
           {
            "id": "e1a1a62e114a9p2",
-           "type": "music",
            "segments": [
             {
              "text": "OST",
@@ -4293,7 +4110,6 @@
          "entries": [
           {
            "id": "e1a1a62e114fjsg",
-           "type": "music",
            "segments": [
             {
              "text": "OST",
@@ -4324,7 +4140,6 @@
          "entries": [
           {
            "id": "e1a1a62e11539pr",
-           "type": "video",
            "segments": [
             {
              "text": "綠寶石全流程",
@@ -4348,7 +4163,6 @@
          "entries": [
           {
            "id": "e1a1a62e1158o46",
-           "type": "music",
            "segments": [
             {
              "text": "Diamond & Pearl Music Collection",
@@ -4369,7 +4183,6 @@
          "entries": [
           {
            "id": "e1a1a62e115cqus",
-           "type": "music",
            "segments": [
             {
              "text": "OST",
@@ -4404,7 +4217,6 @@
          "entries": [
           {
            "id": "e1a1a62e117fj23",
-           "type": "video",
            "segments": [
             {
              "text": "全流程",
@@ -4416,7 +4228,6 @@
           },
           {
            "id": "e1a1a62e1181nu7",
-           "type": "lore",
            "segments": [
             {
              "text": "劇情解析",
@@ -4427,7 +4238,6 @@
           },
           {
            "id": "e1a1a62e11833og",
-           "type": "music",
            "segments": [
             {
              "text": "OST",
@@ -4458,7 +4268,6 @@
        "entries": [
         {
          "id": "e1a1a62e117d8o6",
-         "type": "lore",
          "segments": [
           {
            "text": "系列世界觀解說",
@@ -4481,7 +4290,6 @@
            "entries": [
             {
              "id": "e1a1a62e1162w02",
-             "type": "video",
              "segments": [
               {
                "text": "Walkthrough",
@@ -4492,7 +4300,6 @@
             },
             {
              "id": "e1a1a62e1164dk7",
-             "type": "music",
              "segments": [
               {
                "text": "OST",
@@ -4520,7 +4327,6 @@
            "entries": [
             {
              "id": "e1a1a62e1169pn8",
-             "type": "video",
              "segments": [
               {
                "text": "Walkthrough",
@@ -4531,7 +4337,6 @@
             },
             {
              "id": "e1a1a62e116bftc",
-             "type": "music",
              "segments": [
               {
                "text": "OST",
@@ -4559,7 +4364,6 @@
            "entries": [
             {
              "id": "e1a1a62e1170vyj",
-             "type": "video",
              "segments": [
               {
                "text": "Walkthrough",
@@ -4578,7 +4382,6 @@
            "entries": [
             {
              "id": "e1a1a62e1174iqr",
-             "type": "video",
              "segments": [
               {
                "text": "2019 Remake Version Walkthrough",
@@ -4596,7 +4399,6 @@
            "entries": [
             {
              "id": "e1a1a62e11789a5",
-             "type": "video",
              "segments": [
               {
                "text": "3DS 重製版 全流程",
@@ -4626,7 +4428,6 @@
        "entries": [
         {
          "id": "e1a1a62e11a4bjy",
-         "type": "evolution",
          "segments": [
           {
            "text": "Evolution",
@@ -4643,7 +4444,6 @@
        "entries": [
         {
          "id": "e1a1a62e11a6vyc",
-         "type": "evolution",
          "segments": [
           {
            "text": "Evolution",
@@ -4660,7 +4460,6 @@
        "entries": [
         {
          "id": "e1a1a62e11a8an1",
-         "type": "lore",
          "segments": [
           {
            "text": "I–IV 代解說",
@@ -4685,7 +4484,6 @@
          "entries": [
           {
            "id": "e1a1a62e1188s0f",
-           "type": "music",
            "segments": [
             {
              "text": "OST",
@@ -4703,7 +4501,6 @@
          "entries": [
           {
            "id": "e1a1a62e118c46d",
-           "type": "video",
            "segments": [
             {
              "text": "Walkthrough",
@@ -4714,7 +4511,6 @@
           },
           {
            "id": "e1a1a62e118elsl",
-           "type": "music",
            "segments": [
             {
              "text": "OST",
@@ -4732,7 +4528,6 @@
          "entries": [
           {
            "id": "e1a1a62e11929po",
-           "type": "video",
            "segments": [
             {
              "text": "Walkthrough",
@@ -4743,7 +4538,6 @@
           },
           {
            "id": "e1a1a62e1195nkh",
-           "type": "music",
            "segments": [
             {
              "text": "OST",
@@ -4761,7 +4555,6 @@
          "entries": [
           {
            "id": "e1a1a62e1199mjr",
-           "type": "video",
            "segments": [
             {
              "text": "Walkthrough",
@@ -4772,7 +4565,6 @@
           },
           {
            "id": "e1a1a62e119bpz3",
-           "type": "music",
            "segments": [
             {
              "text": "OST",
@@ -4790,7 +4582,6 @@
          "entries": [
           {
            "id": "e1a1a62e119f0lg",
-           "type": "video",
            "segments": [
             {
              "text": "Walkthrough",
@@ -4816,7 +4607,6 @@
          "entries": [
           {
            "id": "e1a1a62e11aaqmt",
-           "type": "video",
            "segments": [
             {
              "text": "Full Campaign",
@@ -4850,7 +4640,6 @@
        "entries": [
         {
          "id": "e1a1a62e128fxhk",
-         "type": "evolution",
          "segments": [
           {
            "text": "Evolution 1991–2025",
@@ -4868,7 +4657,6 @@
        "entries": [
         {
          "id": "e1a1a62e1293ttb",
-         "type": "video",
          "segments": [
           {
            "text": "Walkthrough",
@@ -4886,7 +4674,6 @@
        "entries": [
         {
          "id": "e1a1a62e1298ioj",
-         "type": "evolution",
          "segments": [
           {
            "text": "Evolution 1994–2022",
@@ -4916,7 +4703,6 @@
          "entries": [
           {
            "id": "e1a1a62e11acd5l",
-           "type": "lore",
            "segments": [
             {
              "text": "遊戲解說",
@@ -4934,7 +4720,6 @@
          "entries": [
           {
            "id": "e1a1a62e11b0xrl",
-           "type": "lore",
            "segments": [
             {
              "text": "遊戲解說（"
@@ -4968,7 +4753,6 @@
        "entries": [
         {
          "id": "e1a1a62e11d0v5t",
-         "type": "lore",
          "segments": [
           {
            "text": "系列劇情解說",
@@ -4990,7 +4774,6 @@
          "entries": [
           {
            "id": "e1a1a62e11b4tiq",
-           "type": "video",
            "segments": [
             {
              "text": "3DS版 全流程",
@@ -5002,7 +4785,6 @@
           },
           {
            "id": "e1a1a62e11b7rrr",
-           "type": "music",
            "segments": [
             {
              "text": "OST",
@@ -5030,7 +4812,6 @@
          "entries": [
           {
            "id": "e1a1a62e11bbttm",
-           "type": "video",
            "segments": [
             {
              "text": "3DS版 全流程",
@@ -5042,7 +4823,6 @@
           },
           {
            "id": "e1a1a62e11bdhon",
-           "type": "music",
            "segments": [
             {
              "text": "OST",
@@ -5070,7 +4850,6 @@
          "entries": [
           {
            "id": "e1a1a62e11c1mli",
-           "type": "video",
            "segments": [
             {
              "text": "3DS版 全流程",
@@ -5082,7 +4861,6 @@
           },
           {
            "id": "e1a1a62e11c3bed",
-           "type": "music",
            "segments": [
             {
              "text": "OST",
@@ -5110,7 +4888,6 @@
          "entries": [
           {
            "id": "e1a1a62e11c8yqp",
-           "type": "music",
            "segments": [
             {
              "text": "OST",
@@ -5138,7 +4915,6 @@
          "entries": [
           {
            "id": "e1a1a62e11ccfxx",
-           "type": "music",
            "segments": [
             {
              "text": "OST",
@@ -5168,7 +4944,6 @@
        "entries": [
         {
          "id": "e1a1a62e11e4t60",
-         "type": "trivia",
          "segments": [
           {
            "text": "系列世界觀解讀",
@@ -5186,7 +4961,6 @@
          "entries": [
           {
            "id": "e1a1a62e11e2jp7",
-           "type": "lore",
            "segments": [
             {
              "text": "尼爾編年史",
@@ -5207,7 +4981,6 @@
            "entries": [
             {
              "id": "e1a1a62e11d9o90",
-             "type": "video",
              "segments": [
               {
                "text": "全流程",
@@ -5226,7 +4999,6 @@
            "entries": [
             {
              "id": "e1a1a62e11dda96",
-             "type": "music",
              "segments": [
               {
                "text": "OST Disc 1~3",
@@ -5257,7 +5029,6 @@
          "entries": [
           {
            "id": "emwn8lq3zfev",
-           "type": "video",
            "segments": [
             {
              "text": "全流程",
@@ -5277,7 +5048,6 @@
           },
           {
            "id": "emwn8mliuipx",
-           "type": "music",
            "segments": [
             {
              "text": "OST",
@@ -5307,7 +5077,6 @@
        "entries": [
         {
          "id": "e1a1a62e12684pw",
-         "type": "lore",
          "segments": [
           {
            "text": "單機劇情解說",
@@ -5329,7 +5098,6 @@
          "entries": [
           {
            "id": "e1a1a62e11e6sf4",
-           "type": "video",
            "segments": [
             {
              "text": "20th Anniversary Walkthrough",
@@ -5341,7 +5109,6 @@
           },
           {
            "id": "e1a1a62e11ea80x",
-           "type": "music",
            "segments": [
             {
              "text": "All Sounds of Final Fantasy I & II",
@@ -5393,7 +5160,6 @@
          "entries": [
           {
            "id": "e1a1a62e11ef213",
-           "type": "video",
            "segments": [
             {
              "text": "PSP Ver. Walkthrough",
@@ -5421,7 +5187,6 @@
          "entries": [
           {
            "id": "e1a1a62e11f3og4",
-           "type": "video",
            "segments": [
             {
              "text": "PC Ver. Walkthrough",
@@ -5433,7 +5198,6 @@
           },
           {
            "id": "e1a1a62e11f88wv",
-           "type": "music",
            "segments": [
             {
              "text": "Original Sound Version",
@@ -5482,7 +5246,6 @@
          "entries": [
           {
            "id": "e1a1a62e11fc3fs",
-           "type": "video",
            "segments": [
             {
              "text": "本篇全流程",
@@ -5511,7 +5274,6 @@
           },
           {
            "id": "e1a1a62e1200798",
-           "type": "music",
            "segments": [
             {
              "text": "Original Sound Version",
@@ -5590,7 +5352,6 @@
          "entries": [
           {
            "id": "e1a1a62e120963b",
-           "type": "video",
            "segments": [
             {
              "text": "Pixel Remaster Ver. Walkthrough",
@@ -5601,7 +5362,6 @@
           },
           {
            "id": "e1a1a62e120dq99",
-           "type": "music",
            "segments": [
             {
              "text": "Original Sound Version",
@@ -5665,7 +5425,6 @@
          "entries": [
           {
            "id": "e1a1a62e12162yb",
-           "type": "music",
            "segments": [
             {
              "text": "Original Sound Version",
@@ -5729,7 +5488,6 @@
          "entries": [
           {
            "id": "e1a1a62e121fygz",
-           "type": "music",
            "segments": [
             {
              "text": "OST",
@@ -5778,7 +5536,6 @@
          "entries": [
           {
            "id": "e1a1a62e1225rg6",
-           "type": "music",
            "segments": [
             {
              "text": "OST",
@@ -5850,7 +5607,6 @@
          "entries": [
           {
            "id": "e1a1a62e122egfa",
-           "type": "music",
            "segments": [
             {
              "text": "OST",
@@ -5899,7 +5655,6 @@
          "entries": [
           {
            "id": "e1a1a62e1234jey",
-           "type": "music",
            "segments": [
             {
              "text": "OST",
@@ -5951,7 +5706,6 @@
           },
           {
            "id": "emwn99skmw75",
-           "type": "music",
            "segments": [
             {
              "text": "X-2 OST（"
@@ -6011,7 +5765,6 @@
          "entries": [
           {
            "id": "e1a1a62e123fkko",
-           "type": "video",
            "segments": [
             {
              "text": "Full Walkthrough",
@@ -6030,7 +5783,6 @@
          "entries": [
           {
            "id": "e1a1a62e125dqvr",
-           "type": "trivia",
            "segments": [
             {
              "text": "Final Fantasy Legend I–III 遊戲解說",
@@ -6048,7 +5800,6 @@
            "entries": [
             {
              "id": "e1a1a62e1243a23",
-             "type": "music",
              "segments": [
               {
                "text": "OST",
@@ -6066,7 +5817,6 @@
            "entries": [
             {
              "id": "e1a1a62e12488le",
-             "type": "music",
              "segments": [
               {
                "text": "OST",
@@ -6084,7 +5834,6 @@
            "entries": [
             {
              "id": "e1a1a62e124cqpb",
-             "type": "music",
              "segments": [
               {
                "text": "OST",
@@ -6102,7 +5851,6 @@
            "entries": [
             {
              "id": "e1a1a62e1250uz5",
-             "type": "lore",
              "segments": [
               {
                "text": "遊戲解說",
@@ -6120,7 +5868,6 @@
            "entries": [
             {
              "id": "e1a1a62e1254e9u",
-             "type": "lore",
              "segments": [
               {
                "text": "遊戲解說",
@@ -6138,7 +5885,6 @@
            "entries": [
             {
              "id": "e1a1a62e1259q2c",
-             "type": "lore",
              "segments": [
               {
                "text": "遊戲解說",
@@ -6166,7 +5912,6 @@
            "entries": [
             {
              "id": "e1a1a62e125f2bp",
-             "type": "lore",
              "segments": [
               {
                "text": "遊戲解說",
@@ -6184,7 +5929,6 @@
            "entries": [
             {
              "id": "e1a1a62e1264xsw",
-             "type": "lore",
              "segments": [
               {
                "text": "遊戲解說",
@@ -6216,7 +5960,6 @@
            "entries": [
             {
              "id": "e1a1a62e126af2q",
-             "type": "video",
              "segments": [
               {
                "text": "Walkthrough",
@@ -6234,7 +5977,6 @@
            "entries": [
             {
              "id": "e1a1a62e126flw5",
-             "type": "video",
              "segments": [
               {
                "text": "Walkthrough",
@@ -6252,7 +5994,6 @@
            "entries": [
             {
              "id": "e1a1a62e1273ani",
-             "type": "video",
              "segments": [
               {
                "text": "Walkthrough",
@@ -6270,7 +6011,6 @@
            "entries": [
             {
              "id": "e1a1a62e12779hm",
-             "type": "video",
              "segments": [
               {
                "text": "Walkthrough",
@@ -6288,7 +6028,6 @@
            "entries": [
             {
              "id": "e1a1a62e127ctmm",
-             "type": "video",
              "segments": [
               {
                "text": "Walkthrough",
@@ -6306,7 +6045,6 @@
            "entries": [
             {
              "id": "e1a1a62e1280fve",
-             "type": "video",
              "segments": [
               {
                "text": "Walkthrough",
@@ -6368,7 +6106,6 @@
          "entries": [
           {
            "id": "e1a1a62e12a2o9f",
-           "type": "video",
            "segments": [
             {
              "text": "Gameplay",
@@ -6386,7 +6123,6 @@
          "entries": [
           {
            "id": "e1a1a62e12a7n4y",
-           "type": "video",
            "segments": [
             {
              "text": "Gameplay",
@@ -6404,7 +6140,6 @@
          "entries": [
           {
            "id": "e1a1a62e12ab8ah",
-           "type": "video",
            "segments": [
             {
              "text": "All Bosses",
@@ -6424,7 +6159,6 @@
        "entries": [
         {
          "id": "e1a1a62e12afuri",
-         "type": "evolution",
          "segments": [
           {
            "text": "Evolution",
@@ -6442,7 +6176,6 @@
        "entries": [
         {
          "id": "e1a1a62e129c5c9",
-         "type": "video",
          "segments": [
           {
            "text": "Evolution",
@@ -6465,7 +6198,6 @@
          "entries": [
           {
            "id": "e1a1a62e12b1zol",
-           "type": "video",
            "segments": [
             {
              "text": "Gameplay",
@@ -6483,7 +6215,6 @@
          "entries": [
           {
            "id": "e1a1a62e12b6f8h",
-           "type": "video",
            "segments": [
             {
              "text": "Gameplay",
@@ -6510,7 +6241,6 @@
        "entries": [
         {
          "id": "e1a1a62e128b99b",
-         "type": "evolution",
          "segments": [
           {
            "text": "Evolution 1987–2023",
@@ -6528,7 +6258,6 @@
        "entries": [
         {
          "id": "e1a1a62e12a0ift",
-         "type": "evolution",
          "segments": [
           {
            "text": "Evolution 1986~2024",
@@ -6579,7 +6308,6 @@
        "entries": [
         {
          "id": "e1a1a62ebc1bk0f",
-         "type": "video",
          "segments": [
           {
            "text": "舞秋風實況",
@@ -6611,7 +6339,6 @@
          "entries": [
           {
            "id": "e0180",
-           "type": "video",
            "segments": [
             {
              "text": "the sunken island",
@@ -6796,7 +6523,6 @@
          "entries": [
           {
            "id": "emwne246fcxm",
-           "type": "video",
            "segments": [
             {
              "text": "minecraft t3c Parkour",
@@ -6808,7 +6534,6 @@
           },
           {
            "id": "e0185",
-           "type": "video",
            "segments": [
             {
              "text": "Ragecraft I - The Corrupted Path (1.6.2) "
@@ -6848,7 +6573,6 @@
          "entries": [
           {
            "id": "emwnea6efotx",
-           "type": "other",
            "segments": [
             {
              "text": "舞秋風 Eldaria Islands 記錄檔 (1.2.5), 舞秋風北極深淵記錄檔 (1.3.2), 舞秋風亞特蘭提斯紀錄檔 (1.5.2)"
@@ -6884,7 +6608,6 @@
          "entries": [
           {
            "id": "e1a1a62ebc23sud",
-           "type": "video",
            "segments": [
             {
              "text": "全流程",
@@ -6909,7 +6632,6 @@
          "entries": [
           {
            "id": "e1a1a62ebc27ccj",
-           "type": "video",
            "segments": [
             {
              "text": "Walkthrough",
@@ -6927,7 +6649,6 @@
          "entries": [
           {
            "id": "e1a1a62ebc2cc4n",
-           "type": "video",
            "segments": [
             {
              "text": "舞秋風實況",
@@ -6954,7 +6675,6 @@
          "entries": [
           {
            "id": "e1a1a62ebc1fj1z",
-           "type": "video",
            "segments": [
             {
              "text": "舞秋風實況",
@@ -6991,7 +6711,6 @@
        "entries": [
         {
          "id": "e0199",
-         "type": "other",
          "segments": [
           {
            "text": "P.S.活動補完 2020/11、1.3主活動"
@@ -7000,7 +6719,6 @@
         },
         {
          "id": "e0200",
-         "type": "other",
          "segments": [
           {
            "text": "派蒙的工作笔记、派蒙的素材笔记本、原神賽事"
@@ -7017,7 +6735,6 @@
        "entries": [
         {
          "id": "e0201",
-         "type": "video",
          "segments": [
           {
            "text": "帕姆的收藏夹",
@@ -7030,7 +6747,6 @@
         },
         {
          "id": "e0202",
-         "type": "lore",
          "segments": [
           {
            "text": "崩壞IP時間線整理",
@@ -7055,7 +6771,6 @@
        "entries": [
         {
          "id": "e0203",
-         "type": "video",
          "segments": [
           {
            "text": "邦布帮",
@@ -7101,7 +6816,6 @@
          "entries": [
           {
            "id": "e0204",
-           "type": "lore",
            "segments": [
             {
              "text": "主線",
@@ -7139,7 +6853,6 @@
           },
           {
            "id": "e0205",
-           "type": "video",
            "segments": [
             {
              "text": "物資籌備("
@@ -7203,7 +6916,6 @@
           },
           {
            "id": "e0206",
-           "type": "lore",
            "segments": [
             {
              "text": "活動",
@@ -7264,7 +6976,6 @@
           },
           {
            "id": "e0207",
-           "type": "lore",
            "segments": [
             {
              "text": "故事集(戰地祕聞(劇情"
@@ -7302,7 +7013,6 @@
           },
           {
            "id": "e0208",
-           "type": "lore",
            "segments": [
             {
              "text": "洪爐示歲("
@@ -7355,7 +7065,6 @@
           },
           {
            "id": "e0209",
-           "type": "video",
            "segments": [
             {
              "text": "官方頻道影片",
@@ -7429,7 +7138,6 @@
           },
           {
            "id": "e0210",
-           "type": "video",
            "segments": [
             {
              "text": "17",
@@ -7442,7 +7150,6 @@
           },
           {
            "id": "e0211",
-           "type": "video",
            "segments": [
             {
              "text": "危機合約",
@@ -7509,7 +7216,6 @@
          "entries": [
           {
            "id": "e1a1a62ebc301y2",
-           "type": "music",
            "segments": [
             {
              "text": "鐵痕電台",
@@ -7536,7 +7242,6 @@
        "entries": [
         {
          "id": "e0212",
-         "type": "lore",
          "segments": [
           {
            "text": "全劇情",
@@ -7550,7 +7255,6 @@
         },
         {
          "id": "e0213",
-         "type": "video",
          "segments": [
           {
            "text": "武林錄全收集("
@@ -7567,7 +7271,6 @@
         },
         {
          "id": "e0214",
-         "type": "video",
          "segments": [
           {
            "text": "更新日誌",
@@ -7616,7 +7319,6 @@
          "entries": [
           {
            "id": "e1a1a62ebc34tp7",
-           "type": "video",
            "segments": [
             {
              "text": "舞秋風實況",
@@ -7636,7 +7338,6 @@
          "entries": [
           {
            "id": "e1a1a62ebc39mxa",
-           "type": "video",
            "segments": [
             {
              "text": "仙五前傳 舞秋風實況",
@@ -7657,7 +7358,6 @@
           },
           {
            "id": "e1a1a62ebc3bfdw",
-           "type": "music",
            "segments": [
             {
              "text": "OST",
@@ -7687,7 +7387,6 @@
        "entries": [
         {
          "id": "e1a1a62ebc3fmxs",
-         "type": "video",
          "segments": [
           {
            "text": "舞秋風實況",
