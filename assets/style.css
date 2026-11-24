@@ -82,6 +82,16 @@ button, input, select, textarea { font: inherit; color: inherit; }
 .pill-btn.small { padding: 2px 9px; font-size: 13px; }
 .pending-bar { position: sticky; top: 53px; z-index: 19; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; padding: 8px 16px; background: var(--m-played-bg); border-bottom: 1px solid var(--line); }
 .pending-bar span { margin-right: auto; }
+.local-bar { background: var(--m-video-bg); }
+.local-bar.warn { background: var(--m-dropped-bg); }
+.local-bar .btn-row-inline { margin-right: 0; display: flex; gap: 8px; flex-wrap: wrap; }
+.local-card { max-width: 560px; margin: 40px auto; padding: 24px; background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow); }
+.help-list { font-size: 13.5px; color: var(--ink-2); padding-left: 20px; }
+.sync-table { width: 100%; border-collapse: collapse; font-size: 13.5px; margin: 6px 0 4px; }
+.sync-table td { padding: 6px 4px; border-top: 1px solid var(--line); vertical-align: middle; }
+.sync-table td:last-child { text-align: right; white-space: nowrap; }
+.sync-table .st-local { color: var(--m-video); }
+.sync-table .st-remote, .sync-table .st-conflict { color: var(--danger); font-weight: 600; }
 
 /* layout */
 .layout { flex: 1; display: grid; grid-template-columns: 290px minmax(0, 1fr); }

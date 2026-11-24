@@ -32,6 +32,7 @@
       <a href="#/channels">頻道</a>
       <a href="#/review">待確認<span id="review-count" class="count"></span></a>
     </nav>
+    <button id="local-toggle" class="pill-btn" aria-pressed="false" hidden>本機資料夾</button>
     <button id="edit-toggle" class="pill-btn" aria-pressed="false">編輯</button>
   </header>
   <div id="pending-bar" class="pending-bar" hidden>
@@ -39,6 +40,10 @@
     <button id="pending-commit" class="pill-btn primary">提交到 GitHub</button>
     <button id="pending-download" class="pill-btn">下載 JSON</button>
     <button id="pending-discard" class="pill-btn danger">放棄變更</button>
+  </div>
+  <div id="local-bar" class="pending-bar local-bar" hidden>
+    <span id="local-text"></span>
+    <span id="local-btns" class="btn-row-inline"></span>
   </div>
   <div class="layout">
     <aside id="sidebar" class="sidebar">

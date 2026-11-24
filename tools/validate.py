@@ -133,9 +133,13 @@ def main():
     if len(sys.argv) > 2 and sys.argv[1] == '--new-id':
         print(new_id(sys.argv[2]))
         return 0
+    # --dir 路徑：驗證本機資料夾（檔案直接放在該資料夾裡），預設是 repo 的 data/
+    data_dir = os.path.join(ROOT, 'data')
+    if len(sys.argv) > 2 and sys.argv[1] == '--dir':
+        data_dir = sys.argv[2]
     ids, eids = set(), set()
     for sec in SECTIONS:
-        p = os.path.join(ROOT, 'data', f'{sec}.json')
+        p = os.path.join(data_dir, f'{sec}.json')
         with open(p, encoding='utf-8') as f:
             text = f.read()
         try:
@@ -148,7 +152,7 @@ def main():
             err(p, f'section 應為 {sec}')
         for n in d.get('nodes', []):
             check_node(n, sec, ids, eids)
-    p = os.path.join(ROOT, 'data', 'channels.json')
+    p = os.path.join(data_dir, 'channels.json')
     with open(p, encoding='utf-8') as f:
         text = f.read()
     ch = json.loads(text)
@@ -162,7 +166,7 @@ def main():
             err('channels', f'{c.get("id")} 缺少 name')
         if c.get('url') and not re.match(r'^https?://', c['url']):
             err('channels', f'{c.get("name")} url 格式錯誤')
-    p = os.path.join(ROOT, 'data', 'review.json')
+    p = os.path.join(data_dir, 'review.json')
     with open(p, encoding='utf-8') as f:
         text = f.read()
     rv = json.loads(text)

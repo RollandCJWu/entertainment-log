@@ -9,15 +9,26 @@
 index.html, assets/       網站（純 HTML/CSS/ES modules，沒有 build 步驟）
   app.js                  載入資料、瀏覽、搜尋、統計、頻道、待確認
   editor.js               網頁編輯器（表單、移動、刪除、提交到 GitHub）
+  local.js                本機資料夾模式（File System Access API）與 GitHub 同步、衝突處理
   markup.js               編輯器的連結語法 ⇄ segments
   github.js               GitHub REST：讀檔、多檔一次 commit
-data/*.json               所有紀錄（唯一的資料來源）
+data/*.json               所有紀錄在 GitHub 上的備份（主要版本在使用者電腦的本機資料夾）
 docs/schema.md            資料格式 ← 修改資料前先讀
 tools/validate.py         驗證資料格式；--new-id 產生新 ID
 tools/check_links.py      檢查失效連結 → data/link-report.json（GitHub Actions 每月執行）
 ```
 
-## 修改資料的流程
+## 資料的主要版本在使用者電腦上
+
+使用者用網頁的「本機資料夾」功能把資料存在電腦上（個人電腦、實驗室電腦），GitHub 上的 `data/*.json` 只是偶爾上傳的備份，**可能比本機舊**。
+本機資料夾裡是同樣 6 個 JSON（直接放在資料夾裡，沒有 `data/` 這層），另外有 `_sync.json`（同步狀態，不要改）和 `_backups/`。
+
+使用者請你改資料時：
+
+- **這個對話能存取使用者電腦上的那個資料夾**（Claude 桌面版連結了該資料夾）→ 直接改那裡的檔案，用 `python3 tools/validate.py --dir 資料夾路徑` 驗證。不要動 `_sync.json`；網頁會把它顯示成「還沒上傳到 GitHub」，由使用者自己上傳。
+- **否則** → 照下面的流程改 repo 並推上去，然後提醒使用者在電腦上打開網站，按提示列的「從 GitHub 更新」。如果他本機也有還沒上傳的修改，同一個檔案會變成衝突，所以改之前先問他本機有沒有還沒上傳的東西。
+
+## 修改 repo 資料的流程
 
 1. 先讀 `docs/schema.md`，再用 Python 讀寫 JSON（不要用 sed 或手動拼字串）。
    寫回時一律 `json.dump(obj, f, ensure_ascii=False, indent=1)`，最後寫一個 `\n`。

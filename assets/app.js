@@ -1,5 +1,6 @@
 import { MARK_LABEL } from './markup.js';
 import { readFile } from './github.js';
+import { local, isLocal, localBoot, askReconnect, initLocalUi, localText, restoreFromGitHub } from './local.js';
 import { initEditor, nodeEditorHtml, bindNodeEditor, sectionAddHtml, bindSectionAdd, channelEditorHtml, bindChannelEditor, reviewButtons, bindReview } from './editor.js';
 
 // ------------------------------------------------------------------ config
@@ -54,6 +55,8 @@ export function sectionFile(id) {
   return s ? s.file : FILES[id];
 }
 export function sectionList() { return SECTIONS; }
+/** 會存在本機資料夾、需要和 GitHub 同步的資料檔 */
+export function dataPaths() { return [...SECTIONS.map((s) => s.file), FILES.channels, FILES.review]; }
 
 // ------------------------------------------------------------------ auth
 function unlocked() {
@@ -101,9 +104,9 @@ async function loadText(path) {
   return res.text();
 }
 
-async function loadAll() {
-  const paths = [...SECTIONS.map((s) => s.file), FILES.channels, FILES.review];
-  const texts = await Promise.all(paths.map(loadText));
+async function loadAll(getText = loadText) {
+  const paths = dataPaths();
+  const texts = await Promise.all(paths.map(getText));
   paths.forEach((p, i) => { state.original[p] = texts[i]; });
   SECTIONS.forEach((s, i) => { state.sections[s.id] = JSON.parse(texts[i]); });
   state.channels = JSON.parse(texts[SECTIONS.length]);
@@ -592,14 +595,26 @@ function bindChrome() {
 (async function boot() {
   await setupLock();
   $('#app').hidden = false;
+  let mode = await localBoot().catch((e) => { console.warn(e); return 'none'; });
+  if (mode === 'prompt') mode = await askReconnect();
   $('#main').innerHTML = '<p class="empty">載入中…</p>';
+  const getText = isLocal() ? localText : loadText;
   try {
-    await loadAll();
+    await loadAll(getText);
   } catch (e) {
-    $('#main').innerHTML = `<h1 class="title">載入失敗</h1><p>${esc(e.message)}</p>`;
+    $('#main').innerHTML = `<h1 class="title">載入失敗</h1><p>${esc(e.message)}</p>${e.localPath ? `<p class="help">可以把這個檔案換成 GitHub 上的版本；本機壞掉的檔案會先備份到資料夾裡的 <code>_backups/</code>。</p>
+      <div class="btn-row"><button class="pill-btn primary" id="restore-go">用 GitHub 版本還原</button></div>` : ''}`;
+    const b = $('#restore-go');
+    if (b) {
+      b.addEventListener('click', async () => {
+        b.disabled = true;
+        try { await restoreFromGitHub(e.localPath); location.reload(); } catch (ex) { toast(`還原失敗：${ex.message}`, 5000); b.disabled = false; }
+      });
+    }
     return;
   }
   bindChrome();
   initEditor();
+  initLocalUi(async () => { await loadAll(getText); rerender(); });
   render();
 })();

@@ -32,6 +32,16 @@ export async function readFile(cfg, path) {
   return res.text();
 }
 
+/** List a directory (name, path, git blob sha) — one request for all data files. */
+export async function listDir(cfg, path) {
+  const res = await fetch(`${API}/repos/${cfg.owner}/${cfg.repo}/contents/${path}?ref=${encodeURIComponent(cfg.branch)}&t=${Date.now()}`, {
+    headers: headers(cfg.token),
+    cache: 'no-store',
+  });
+  if (!res.ok) throw new Error(`GitHub 回應 ${res.status}${res.status === 403 ? '（可能是查詢次數超過上限，貼上 token 後會放寬）' : ''}`);
+  return res.json();
+}
+
 /**
  * Commit files atomically. `expected` maps path -> text we started from; if the
  * remote file differs we stop rather than overwrite someone else's change.

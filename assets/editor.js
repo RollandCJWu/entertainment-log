@@ -2,11 +2,12 @@ import { state, $, esc, toast, rerender, segsHtml, githubConfig, store, sectionF
   KIND_LABEL, STATUS_LABEL, SOURCE_LABEL } from './app.js';
 import { segsToMarkup, markupToSegs } from './markup.js';
 import { commitFiles } from './github.js';
+import { local, isLocal, saveLocal } from './local.js';
 
 // ------------------------------------------------------------------ basics
 const newId = (p) => `${p}${Date.now().toString(36)}${Math.random().toString(36).slice(2, 5)}`;
 
-function serialize(path) {
+export function serialize(path) {
   if (path === 'data/channels.json') return `${JSON.stringify(state.channels, null, 1)}\n`;
   if (path === 'data/review.json') return `${JSON.stringify(state.review, null, 1)}\n`;
   const sec = sectionList().find((s) => s.file === path);
@@ -14,6 +15,7 @@ function serialize(path) {
 }
 
 export function markDirty(path) {
+  if (isLocal()) { saveLocal(path, serialize(path)); return; }
   state.dirty.add(path);
   updatePending();
 }
@@ -29,7 +31,7 @@ function select(name, map, value, empty = null) {
   return `<select name="${name}">${empty !== null ? `<option value="">${esc(empty)}</option>` : ''}${opts}</select>`;
 }
 
-function openDialog(html, bind) {
+export function openDialog(html, bind) {
   const d = $('#dialog');
   d.innerHTML = html;
   d.showModal();
@@ -38,7 +40,7 @@ function openDialog(html, bind) {
   return d;
 }
 
-function confirmDialog(title, body, okLabel, onOk, danger = true) {
+export function confirmDialog(title, body, okLabel, onOk, danger = true) {
   openDialog(`<h3>${esc(title)}</h3><p>${body}</p><div class="btn-row">
     <button class="pill-btn ${danger ? 'danger' : 'primary'}" id="dlg-ok">${esc(okLabel)}</button>
     <button class="pill-btn" data-close>取消</button></div>`, (d) => {
@@ -55,7 +57,13 @@ export function initEditor() {
     btn.textContent = on ? '結束編輯' : '編輯';
     store.set('el-editing', on);
   };
-  setMode(store.get('el-editing', false));
+  if (local.mode === 'readonly') {
+    // 有設定本機資料夾但這次只看 GitHub：不允許編輯，避免改到舊版本
+    btn.hidden = true;
+    setMode(false);
+  } else {
+    setMode(store.get('el-editing', false));
+  }
   btn.addEventListener('click', () => { setMode(!state.editing); rerender(); });
   $('#pending-commit').addEventListener('click', commitDialog);
   $('#pending-download').addEventListener('click', downloadDirty);
@@ -301,7 +309,7 @@ export function bindNodeEditor(id) {
     setOpt('entries', entries.length ? entries : null);
     markDirty(file);
     rerender();
-    toast('已套用（記得提交到 GitHub）');
+    toast(isLocal() ? '已套用並存到本機' : '已套用（記得提交到 GitHub）');
   });
 }
 
@@ -413,7 +421,7 @@ export function bindChannelEditor() {
     }).filter((c) => c.name);
     markDirty('data/channels.json');
     rerender();
-    toast('已套用（記得提交到 GitHub）');
+    toast(isLocal() ? '已套用並存到本機' : '已套用（記得提交到 GitHub）');
   });
 }
 
